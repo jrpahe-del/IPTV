@@ -3362,6 +3362,337 @@ http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 
 
 
+
+
+#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145"  tvg-rec="5" timeshift="5" group-title="Deporte",Q Arena
+#EXTGRP:Спорт
+http://de.online24.pm/play/1842/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274"  tvg-rec="5" timeshift="5" group-title="Deporte",Q Sport League
+#EXTGRP:Спорт
+http://de.online24.pm/play/1843/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369"  tvg-rec="5" timeshift="5" group-title="Deporte",Sport+ Qazaqstan
+#EXTGRP:Спорт
+http://de.online24.pm/play/1844/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX_SPORT_LIVE_1_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" group-title="Deporte",BOX_SPORT_LIVE_1_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51013/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX_SPORT_LIVE_2_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" group-title="Deporte",BOX_SPORT_LIVE_2_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51014/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX_SPORT_LIVE_3_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" group-title="Deporte",BOX_SPORT_LIVE_3_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51015/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX_SPORT_LIVE_4_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" group-title="Deporte",BOX_SPORT_LIVE_4_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51016/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX_SPORT_LIVE_5_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" group-title="Deporte",BOX_SPORT_LIVE_5_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51017/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX_SPORT_LIVE_6_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" group-title="Deporte",BOX_SPORT_LIVE_6_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51018/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX_SPORT_LIVE_7_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" group-title="Deporte",BOX_SPORT_LIVE_7_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51019/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX_SPORT_LIVE_8_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live8.png" group-title="Deporte",BOX_SPORT_LIVE_8_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51020/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX_SPORT_LIVE_9_HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" group-title="Deporte",BOX_SPORT_LIVE_9_HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51021/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="BOX_SPORT_LIVE_4K", BOX_SPORT_LIVE_4K
+#EXTGRP:Спорт
+http://de.online24.pm/play/51022/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-1" tvg-name="BeIN Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-1.png" group-title="Deporte",BeIN Sport 1 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/1101/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-2" tvg-name="BeIN Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-2.png" group-title="Deporte",BeIN Sport 2 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/1102/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-3" tvg-name="BeIN Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-3.png" group-title="Deporte",BeIN Sport 3 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/1103/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbein-sport-4" tvg-name="BeIN Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/bein-sport-4.png" group-title="Deporte",BeIN Sport 4 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/1104/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="BeIN EXTRAS" tvg-logo="https://ip-tv.dev/images/epg/1686.png?v1743766086" , BeIN EXTRAS
+#EXTGRP:Спорт
+http://de.online24.pm/play/1686/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport1" tvg-name="TNT Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport1.png" group-title="Deporte",TNT Sport 1 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/922/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport2" tvg-name="TNT Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" group-title="Deporte",TNT Sport 2 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/923/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbt-sport3" tvg-name="TNT Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/bt-sport3.png" group-title="Deporte",TNT Sport 3 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/934/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="DAZN 1 DE" tvg-logo="https://ip-tv.dev/images/epg/803.png?v1743766104" group-title="Deporte",DAZN 1 DE
+#EXTGRP:Спорт
+http://de.online24.pm/play/803/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="DAZN 2 DE" tvg-logo="https://ip-tv.dev/images/epg/809.png?v1743766115" group-title="Deporte",DAZN 2 DE
+#EXTGRP:Спорт
+http://de.online24.pm/play/809/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xno_epg_sport" tvg-name="Movistar Formula 1" tvg-logo="https://ip-tv.dev/images/epg/1121.png?v1743767066" group-title="Deporte",Movistar Formula 1
+#EXTGRP:Спорт
+http://de.online24.pm/play/1121/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" group-title="Deporte",Sky Sport Bundesliga HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/836/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 1" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte" group-title="Deporte",Football Live 1
+#EXTGRP:Спорт
+http://de.online24.pm/play/1704/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 2" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/1705/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 3" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/1706/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 4" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 4
+#EXTGRP:Спорт
+http://de.online24.pm/play/1707/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 5" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 5
+#EXTGRP:Спорт
+http://de.online24.pm/play/1708/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 6" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 6
+#EXTGRP:Спорт
+http://de.online24.pm/play/1709/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 7" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 7
+#EXTGRP:Спорт
+http://de.online24.pm/play/1710/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 8" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 8
+#EXTGRP:Спорт
+http://de.online24.pm/play/1711/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 9" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 9
+#EXTGRP:Спорт
+http://de.online24.pm/play/1712/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 10" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 10
+#EXTGRP:Спорт
+http://de.online24.pm/play/1713/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 11" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 11
+#EXTGRP:Спорт
+http://de.online24.pm/play/1714/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 12" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 12
+#EXTGRP:Спорт
+http://de.online24.pm/play/1715/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Football Live 13" tvg-logo="https://ip-tv.dev/images/epg/1704.png?v1743766960" group-title="Deporte",Football Live 13
+#EXTGRP:Спорт
+http://de.online24.pm/play/1716/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 1" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 1
+#EXTGRP:Спорт
+http://de.online24.pm/play/5009/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 2" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/5010/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 3" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/5011/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 4" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 4
+#EXTGRP:Спорт
+http://de.online24.pm/play/5012/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 5" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 5
+#EXTGRP:Спорт
+http://de.online24.pm/play/5013/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 7" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 7
+#EXTGRP:Спорт
+http://de.online24.pm/play/5014/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 6" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 6
+#EXTGRP:Спорт
+http://de.online24.pm/play/5015/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 8" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 8
+#EXTGRP:Спорт
+http://de.online24.pm/play/5016/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 9" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 9
+#EXTGRP:Спорт
+http://de.online24.pm/play/5017/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 10" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 10
+#EXTGRP:Спорт
+http://de.online24.pm/play/5018/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 11" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 11
+#EXTGRP:Спорт
+http://de.online24.pm/play/5019/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 12" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 12
+#EXTGRP:Спорт
+http://de.online24.pm/play/5020/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="VIP Sport 13" tvg-logo="https://ip-tv.dev/images/epg/5009.png?v1743766814" group-title="Deporte",VIP Sport 13
+#EXTGRP:Спорт
+http://de.online24.pm/play/5021/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 1" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" group-title="Deporte",Vital Sport 1
+#EXTGRP:Спорт
+http://de.online24.pm/play/5022/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 2" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" group-title="Deporte",Vital Sport 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/5023/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 3" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" group-title="Deporte",Vital Sport 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/5024/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 4" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" group-title="Deporte",Vital Sport 4
+#EXTGRP:Спорт
+http://de.online24.pm/play/5025/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 5" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" group-title="Deporte",Vital Sport 5
+#EXTGRP:Спорт
+http://de.online24.pm/play/5026/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Vital Sport 6" tvg-logo="https://ip-tv.dev/images/epg/5022.png?v1743766603" group-title="Deporte",Vital Sport 6
+#EXTGRP:Спорт
+http://de.online24.pm/play/5027/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="FintGa 1" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761"group-title="Deporte", FintGa 1
+#EXTGRP:Спорт
+http://de.online24.pm/play/5028/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="FintGa 2" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" group-title="Deporte",FintGa 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/5029/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="FintGa 3" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" group-title="Deporte",FintGa 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/5030/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="FintGa 4" tvg-logo="https://ip-tv.dev/images/epg/5028.png?v1743766761" group-title="Deporte",FintGa 4
+#EXTGRP:Спорт
+http://de.online24.pm/play/5031/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Pimple 1" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" group-title="Deporte",Pimple 1
+#EXTGRP:Спорт
+http://de.online24.pm/play/5032/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Pimple 2" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" group-title="Deporte",Pimple 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/5033/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Pimple 3" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" group-title="Deporte",Pimple 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/5034/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Pimple 4" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" group-title="Deporte",Pimple 4
+#EXTGRP:Спорт
+http://de.online24.pm/play/5035/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Pimple 5" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" group-title="Deporte",Pimple 5
+#EXTGRP:Спорт
+http://de.online24.pm/play/5036/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Pimple 6" tvg-logo="https://ip-tv.dev/images/epg/5032.png?v1743766689" group-title="Deporte",Pimple 6
+#EXTGRP:Спорт
+http://de.online24.pm/play/5037/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge" tvg-name="BOX Be ON Edge HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge.png" group-title="Deporte",BOX Be ON Edge HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4215/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge1live" tvg-name="BOX Be ON Edge 1 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge1live.png" group-title="Deporte",BOX Be ON Edge 1 Live HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4213/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-beonedge2live" tvg-name="BOX Be ON Edge 2 Live HD" tvg-logo="https://ip-tv.dev/images/ico/box-beonedge2live.png" group-title="Deporte",BOX Be ON Edge 2 Live HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4214/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live1" tvg-name="BOX SportCast Live 1 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live1.png" group-title="Deporte",BOX SportCast Live 1 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4224/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live2" tvg-name="BOX SportCast Live 2 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live2.png" group-title="Deporte",BOX SportCast Live 2 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4225/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live3" tvg-name="BOX SportCast Live 3 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live3.png" group-title="Deporte",BOX SportCast Live 3 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4226/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX SportCast Live 4 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" group-title="Deporte",BOX SportCast Live 4 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4227/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX SportCast Live 5 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" group-title="Deporte",BOX SportCast Live 5 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4228/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX SportCast Live 6 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" group-title="Deporte",BOX SportCast Live 6 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4232/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX SportCast Live 7 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" group-title="Deporte",BOX SportCast Live 7 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4233/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX SportCast Live 8 HD" tvg-logo="https://ip-tv.dev/images/epg/4234.png?v1743766406" group-title="Deporte",BOX SportCast Live 8 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4234/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX SportCast Live 9 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" group-title="Deporte",BOX SportCast Live 9 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/4235/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="MMA Junkie" tvg-logo="https://ip-tv.dev/images/ico/MMAJunkie.png" group-title="Deporte",MMA Junkie
+#EXTGRP:Спорт
+http://de.online24.pm/play/5718/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 2" tvg-logo="https://ip-tv.dev/images/ico/dubaisports2.png" group-title="Deporte",Dubai Sports 2
+#EXTGRP:Спорт
+http://de.online24.pm/play/5406/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-name="Dubai Sports 3" tvg-logo="https://ip-tv.dev/images/ico/dubaisports3.png" group-title="Deporte",Dubai Sports 3
+#EXTGRP:Спорт
+http://de.online24.pm/play/5407/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-1.png" group-title="Deporte",Diema Sport HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51002/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" group-title="Deporte",Diema Sport 2 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51003/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-3.png" group-title="Deporte",Diema Sport 3 HD
+#EXTGRP:Спорт
+http://de.online24.pm/play/51004/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" group-title="Deporte",Diema Sport 2 4K
+#EXTGRP:Спорт
+http://de.online24.pm/play/51001/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 4K" tvg-logo="https://ip-tv.dev/images/epg/51000.jpg?v1743766303" group-title="Deporte",Diema Sport 3 4K
+#EXTGRP:Спорт
+http://de.online24.pm/play/51000/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xclarity4k-edinoborstva" tvg-name="Clarity4K Единоборства" tvg-logo="https://ip-tv.dev/images/ico/clarity4k-edinoborstva.png" group-title="Deporte",Clarity4K Единоборства
+#EXTGRP:Спорт
+http://de.online24.pm/play/4611/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdiscovery-channel" tvg-name="Discovery Channel" tvg-logo="https://ip-tv.dev/epg/icon/discovery-channel.png"  tvg-rec="5" timeshift="5"group-title="Deporte",Discovery Channel HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/147/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xid-xtra-ru" tvg-name="ID Xtra HD" tvg-logo="https://ip-tv.dev/epg/icon/idxtra.png"  tvg-rec="5" timeshift="5" group-title="Deporte",ID Xtra HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/392/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xnational-geographic-cee" tvg-name="National Geographic HD" tvg-logo="https://ip-tv.dev/epg/icon/national-geographic-hd.png"  tvg-rec="5" timeshift="5" group-title="Deporte",National Geographic HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/143/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xnational-geographic" tvg-name="National Geographic" tvg-logo="https://ip-tv.dev/epg/icon/national-geographic-hd.png"  tvg-rec="5" timeshift="5" group-title="Deporte",National Geographic
+#EXTGRP:Познавательные
+http://de.online24.pm/play/31/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xnat-geo-wild" tvg-name="Nat Geo Wild HD" tvg-logo="https://ip-tv.dev/epg/icon/nat-geo-wild-hd.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Nat Geo Wild HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/162/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xanimal-planet-eu" tvg-name="Animal Planet HD" tvg-logo="https://ip-tv.dev/epg/icon/animal-planet.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Animal Planet HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/175/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xdocubox-hd" tvg-name="DocuBox HD" tvg-logo="https://ip-tv.dev/images/ico/docubox-hd.png"  tvg-rec="5" timeshift="5" group-title="Deporte",DocuBox HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/9898/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xhgtv" tvg-name="HGTV HD" tvg-logo="https://ip-tv.dev/images/epg/1832.png?v1744536323"  tvg-rec="5" timeshift="5" group-title="Deporte",HGTV HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/1832/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xhd-life" tvg-name="HD Life" tvg-logo="https://ip-tv.dev/images/ico/hdl.png"  tvg-rec="5" timeshift="5" group-title="Deporte",HD Life
+#EXTGRP:Познавательные
+http://de.online24.pm/play/142/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-nature-cee" tvg-name="Viasat Nature" tvg-logo="https://ip-tv.dev/images/ico/viasat-nature-cee.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Viasat Nature
+#EXTGRP:Познавательные
+http://de.online24.pm/play/8851/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-explore-cee" tvg-name="Viasat Explore" tvg-logo="https://ip-tv.dev/images/ico/viasat-explore-cee.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Viasat Explore
+#EXTGRP:Познавательные
+http://de.online24.pm/play/8852/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-history" tvg-name="Viasat History HD" tvg-logo="https://ip-tv.dev/epg/icon/viasat-history.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Viasat History HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/491/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-explore" tvg-name="Viju Explore HD" tvg-logo="https://ip-tv.dev/images/ico/viju-explore.png"  tvg-rec="5" timeshift="5 "group-title="Deporte",Viju Explore HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/79/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-history" tvg-name="Viju History HD" tvg-logo="https://ip-tv.dev/images/ico/viju-history.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Viju History HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/78/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-nature" tvg-name="Viju Nature HD" tvg-logo="https://ip-tv.dev/images/ico/viju-nature.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Viju Nature HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/119/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xviasat-nature-history-hd" tvg-name="Viju+ Planet HD" tvg-logo="https://ip-tv.dev/images/ico/viasat-nature-history-hd.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Viju+ Planet HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/91/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xtlc" tvg-name="TLC HD" tvg-logo="https://ip-tv.dev/epg/icon/tlc.png"  tvg-rec="5" timeshift="5" group-title="Deporte",TLC HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/189/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xbig-planet" tvg-name="Big Planet HD" tvg-logo="https://ip-tv.dev/images/ico/big-planet.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Big Planet HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/529/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xtravel-channel" tvg-name="Travel Channel HD" tvg-logo="https://ip-tv.dev/epg/icon/travel-channel.png"  tvg-rec="5" timeshift="5" group-title="Deporte",Travel Channel HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/190/BC28182177585B5/video.m3u8
+#EXTINF:0 tvg-id="Xrtg-hd" tvg-name="RTG HD" tvg-logo="https://ip-tv.dev/_front/channel/300109.gif"  tvg-rec="5" timeshift="5" group-title="Deporte",RTG HD
+#EXTGRP:Познавательные
+http://de.online24.pm/play/186/BC28182177585B5/video.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_FOOT.png" group-title="SPORT VIP 1",FR: CANAL+ FOOT
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/369
 #EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/france/canal_plus/CANAL_SPORT_360.png" group-title="SPORT VIP 1",FR: CANAL+ SPORT 360
@@ -3575,65 +3906,4 @@ http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135716
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135717
 #EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 22
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135718
-
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (HD) DAZN F1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/56469
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (HD REPUESTO) DAZN F1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/97147
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (FHD) DAZN F1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/251
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_F1.png" group-title="DEPORTES",ES: (FHD REPUESTO) DAZN F1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/97194
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DEPORTES",ES: (FHD) DAZN 1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/247
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_1.png" group-title="DEPORTES",ES: (HD) DAZN 1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128935
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_2.png" group-title="DEPORTES",ES: DAZN 2
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/248
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_3.png" group-title="DEPORTES",ES: DAZN 3
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/249
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_4.png" group-title="DEPORTES",ES: DAZN 4
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/250
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="DEPORTES",ES: (FHD) M+ DEPORTES
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/286
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes.png" group-title="DEPORTES",ES: (HD) M+ DEPORTES
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128951
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_2.png" group-title="DEPORTES",ES: M+ DEPORTES 2
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/288
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_3.png" group-title="DEPORTES",ES: M+ DEPORTES 3
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/289
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_4.png" group-title="DEPORTES",ES: M+ DEPORTES 4
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/290
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_5.png" group-title="DEPORTES",ES: M+ DEPORTES 5
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/291
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_6.png" group-title="DEPORTES",ES: M+ DEPORTES 6
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/292
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Deportes_7.png" group-title="DEPORTES",ES: M+ DEPORTES 7
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/293
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_1.png" group-title="DEPORTES",ES: EUROSPORT 1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/281
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Eurosport_2.png" group-title="DEPORTES",ES: EUROSPORT 2
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/282
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Vamos.png" group-title="DEPORTES",ES: (FHD) M+ VAMOS
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/632
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESPN_DEPORTES.png" group-title="DEPORTES",ES: ESPN DEPORTES
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/280
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/barca-tv-es.png" group-title="DEPORTES",ES: BARCA TV
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/721
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Real_Madrid_TV.png" group-title="DEPORTES",ES: REAL MADRID TV
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/724
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/BETISTV.png" group-title="DEPORTES",ES: BETIS TV
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/83026
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Ellas_V.png" group-title="DEPORTES",ES: M+ ELLAS V
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/723
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/Teledeporte.png" group-title="DEPORTES",ES: TELEDEPORTE
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/726
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/GOL_PLAY.png" group-title="DEPORTES",ES: GOL PLAY
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/633
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf.png" group-title="DEPORTES",ES: M+ GOLF
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/285
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/M_Golf_2.png" group-title="DEPORTES",ES: M+ GOLF 2
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/58727
-#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/RallyTv.png" group-title="DEPORTES",ES: RALLY TV
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128955
 
