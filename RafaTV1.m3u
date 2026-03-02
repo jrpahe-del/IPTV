@@ -70,11 +70,11 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_trans7.png" group-title="Indonesia",Trans7
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://i.imgur.com/fAbGImS.png" group-title="Indonesia",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/trans7/smil:trans7/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://images.indihometv.com/images/channels/image_ch_transtv.png" group-title="Indonesia",Trans TV
+#EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://www.transtv.co.id/themes/v25.7/src/assets/logo/transtv-white.png" group-title="Indonesia",Trans TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv/index.m3u8
 
