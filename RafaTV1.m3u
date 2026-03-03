@@ -847,15 +847,15 @@ https://op-group1-swiftservehd-1.dens.tv/h/h77/index2.m3u8?app_type=web&userid=l
 
 #EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="835" tvg-name="Just for Laughs Gags" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="Comedy",Just for Laughs Gags
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://aka-live1050.delivery.roku.com/fac576ef-0c1d-4675-91cc-47b2badfae40/t2-origin/out/v1/live.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/gag.m3u8
 
 #EXTINF:-1 channel-id="e3cd976116d5578ab9be32baa738ade2" tvg-id="e3cd976116d5578ab9be32baa738ade2" tvg-chno="338" tvg-name="The Carol Burnett Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3cd976116d5578ab9be32baa738ade2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653087138529_TCBS_260x147_centered.png" group-title="Comedy",The Carol Burnett Show
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://aka-live1050.delivery.roku.com/ed662aa6-bed0-451f-aeb3-4b234eda30aa/t2-origin/out/v1/live.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/burnett.m3u8
 
 #EXTINF:-1 channel-id="86c08261fc015a58866210bea63eb8f4" tvg-id="86c08261fc015a58866210bea63eb8f4" tvg-chno="815" tvg-name="Always Funny Videos" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/86c08261fc015a58866210bea63eb8f4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1723058240057_AF_Logo_EFEFEF_Centered_260x147.png" group-title="Comedy",Always Funny Videos
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://aka-live1050.delivery.roku.com/b1beefe1-d4e3-43c6-b15c-7c24f0044827/t2-origin/out/v1/live.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Always.m3u8
 
 #============================================================= KIDS ==================================================================================================>
 
