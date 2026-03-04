@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="EVENT 019/FEBRUARI/2026" tvg-logo="https://shorter.me/sS209", 14:45 WIB Macarthur vs Bangkok United
+#EXTINF:-1 group-title="EVENT 019 LIVE SPORTS/2026" tvg-logo="https://shorter.me/sS209", 14:45 WIB Macarthur vs Bangkok United
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -10,64 +10,62 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Sportstars 4"  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://shorter.me/sS209" group-title="EVENT 019/FEBRUARI/2026", 02:00 WIB EVENT BOLA+ 2026
+#EXTINF:-1 tvg-id="Sportstars 4"  tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://shorter.me/sS209" group-title="EVENT 019 LIVE SPORTS/2026", 02:00 WIB EVENT BOLA+ 2026
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://shorter.me/sS209" group-title="EVENT 019/FEBRUARI/2026",14:00 WIB EVENT POLI+ 2026
+#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://shorter.me/sS209" group-title="EVENT 019 LIVE SPORTS/2026",14:00 WIB EVENT POLI+ 2026
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-https://fta3-cdn-flr.visionplus.id/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://shorter.me/3gy7g" group-title="EVENT 020/FEBRUARI/2026",17:00 WIB MOTOGP+
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://shorter.me/3gy7g" group-title="EVENT 020 LIVE SPORTS/2026",17:00 WIB MOTOGP+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/3gy7g", 02:00 WIB MOTOGP+
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/3gy7g", 02:00 WIB MOTOGP+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB PAOK vs Celta de Vigo
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB PAOK vs Celta de Vigo
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Fenerbahçe vs Nottingham Forest
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Fenerbahçe vs Nottingham Forest
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Brann vs Bologna
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/Pflov", 00:45 WIB Brann vs Bologna
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Celtic vs Stuttgart
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Celtic vs Stuttgart
 #EXTVLCOPT:http-referrer=https://rohan116.ultronx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Ludogorets vs Ferencváros
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Ludogorets vs Ferencváros
 #EXTVLCOPT:http-referrer=https://arwen1.panaka1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Panathinaikos vs Viktoria Plzeň
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/Pflov", 03:00 WIB Panathinaikos vs Viktoria Plzeň
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB Zrinjski vs Crystal Palace
+#EXTINF:-1 group-title="EVENT 019 LIVE SPORTS/2026" tvg-logo="https://shorter.me/NzYuB", 00:45 WIB Zrinjski vs Crystal Palace
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -75,7 +73,7 @@ https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
-#EXTINF:-1 group-title="EVENT 020/FEBRUARI/2026" tvg-logo="https://shorter.me/NzYuB", 03:00 WIB Jagiellonia Białystok vs Fiorentina
+#EXTINF:-1 group-title="EVENT 020 LIVE SPORTS/2026" tvg-logo="https://shorter.me/NzYuB", 03:00 WIB Jagiellonia Białystok vs Fiorentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://kudos111.terranovax1.cfd/000/
 https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
