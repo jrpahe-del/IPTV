@@ -89,6 +89,9 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 
 <============================================================== Indonesia Channels ==================================================>
+
+
+
 #EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ninjaw.png", American Ninja Warrior
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
@@ -836,7 +839,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 
 
-#<========================================================================== Malaysia ============================================================================>
+#<================== Malaysia ============================================================================>
 
 
 
@@ -846,21 +849,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="TV1" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Logo_of_TV1_%28Malaysia%29.svg/1200px-Logo_of_TV1_%28Malaysia%29.svg.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  group-title="Malaysia",TV 1
 https://d25tgymtnqzu8s.cloudfront.net/main/A0jyR3/dl_1080p.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/71/TV2_%28Malaysia%29_logo.svg/1200px-TV2_%28Malaysia%29_logo.svg.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia",TV 2
-https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b2596000_slENG.m3u8?id=2
-
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV3" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/f/f5/TV3_%28Malaysia%29.svg/1200px-TV3_%28Malaysia%29.svg.png" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml" group-title="Malaysia",TV 3
-https://tzh911.qzz.io/play-smt.php?id=TV3
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1026,7 +1014,7 @@ https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/
 
 
 
-<===================================================================== Brunei =======================================================================================>
+<=================== Brunei =======================================================================================>
 
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
@@ -1056,7 +1044,7 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 
 
 
-#================================================================================ Premium Movies ============================================================================================>
+#================= Premium Movies ============================================================================================>
 
 
 
@@ -1227,10 +1215,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 
 
 
-#<========================================================================= Korean Channels ===============================================================================>
-
-
-
+#<================== Korean Channels ===============================================================================>
 
 
 
@@ -1351,7 +1336,7 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
 
 
-#======================= KOREAN ===================#
+#=================== KOREAN ===================#
 
 
 
@@ -1389,7 +1374,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 
-<================================================== Documentary ===================================================================================================================>
+<================= Documentary ===================================================================================================================>
+
+
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1455,7 +1442,7 @@ https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#====================================================================== Entertainemnt & Lifestyle =====================================================================================================================================>
+#================ Entertainemnt & Lifestyle =====================================================================================================================================>
 
 
 
@@ -1531,7 +1518,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TV5Monde/mediampd/TV5Monde.mpd
 #EXTINF:-1 group-title="Entertainment" tvg-id="FashionTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://i.pinimg.com/564x/26/0d/97/260d9789cdda7b9e85099e80f5ca0a2f.jpg",Fashion TV 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 
-<==================================================================== COMEDY ==============================================================================>
+<============ COMEDY ==============================================================================>
 
 
 #EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="835" tvg-name="Just for Laughs Gags" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="Comedy",Just for Laughs Gags
@@ -1546,7 +1533,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/burnett.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Always.m3u8
 
-#============================================================= KIDS ==================================================================================================>
+#========================= KIDS ==================================================================================================>
 
 
 
@@ -1661,7 +1648,7 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 
 
 
-#================================================================================ Music ===================================================================================>
+#===================== Music ===================================================================================>
 
 
 
@@ -1727,7 +1714,7 @@ https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-o
 
 
 
-#<======================================================================= News =========================================================================================================================>
+#<================= News =========================================================================================================================>
 
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -1818,7 +1805,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/in
 
 
 
-#<========================================================= Mediacorp Singapore ================================================>
+#<=============== Mediacorp Singapore ================================================>
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1853,7 +1840,7 @@ https://tglmp03.akamaized.net/out/v1/be732843b7d24bada23e13810282e55f/manifest.m
 
 
 
-#<======================================================================= China ============================================================================================>
+#<=========== China ============================================================================================>
 
 
 
@@ -2002,7 +1989,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9688c51b534d4165bf4b0b328e53b980/in
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/980cfe26ff00479c97eb8057a1129c7f/index.mpd
 
 
-#====================== CHINA =======================#
+#============== CHINA =======================#
 
 
 #KODIPROP:inputstream=inputstream.adaptive
@@ -2147,7 +2134,7 @@ https://ssai-streaming.thairath.co.th/bamm-csai/playlist.m3u8
 
 
 
-#<===================================  TV SD ===================================>
+#<============  TV SD ===================================>
 
 
 
@@ -2397,7 +2384,7 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cinemax/default/index.m
 
 
 
-#<==============================================================INDO Sports =================================================================================================>
+#<=============INDO Sports =================================================================================================>
 
 
 
