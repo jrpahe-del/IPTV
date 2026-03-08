@@ -2520,10 +2520,46 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 
 
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="SPORTS HD",ASTRO BADMINTON 1
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+http://208.87.242.55/livehttpplay?channel_id=13304
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="SPORTS HD",ASTRO BADMINTON 2
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+http://208.87.242.55/livehttpplay?channel_id=13305
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS HD",ASTRO PREMIER LEAGUE
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+http://208.87.242.55/livehttpplay?channel_id=13302
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS HD",ASTRO PREMIER LEAGUE 2
+##KODIPROP:inputstream.adaptive.license_type=clearkey
+http://208.87.242.55/livehttpplay?channel_id=13303
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS HD",ASTRO FOOTBALL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://208.87.242.55/livehttpplay?channel_id=13300
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="SPORTS HD",ASTRO SPORTSPLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://208.87.242.55/livehttpplay?channel_id=13306
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS HD",ASTRO GRANDSTAND
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://208.87.242.55/livehttpplay?channel_id=13301
+
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" group-title="SPORTS HD", SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
+
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" group-title="SPORTS HD", TNT 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
@@ -2547,35 +2583,6 @@ https://hls.iill.top/api/TNT-Sports-4/index.m3u8
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" group-title="SPORTS HD",TNT 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://hls.iill.top/api/TNT-Sports-5/index.m3u8
-
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD", Astro Badminton HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13304
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD",Premier League2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13303
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD", Astro Football HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13300
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD", Premier League HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13302
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD",Astro Sports Plus HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13306
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD", Astro Badminton 2 HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13305
-
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" group-title="SPORTS HD", Astro Grandstand HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
-http://208.87.242.55/livehttpplay?channel_id=13301
 
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://ip-tv.dev/images/epg/822.png?v1743758461" group-title="SPORTS HD", Eurosport 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
@@ -2613,12 +2620,68 @@ https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdb
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 
-#EXTVLCOPT:http-referrer=https://www.myrepublic.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/W_Series_logo.png" group-title="SPORTS HD", W-SPORT
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://bin.staticlocal.ch/localplace-logo/0c/0cf9826b0cb0abbbf3a75acd6931544582a456ea/Image1.png" group-title="SPORTS HD", W-SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/chunklist.m3u8?id=1
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iconape.com/wp-content/files/ty/285018/png/285018.png" group-title="SPORTS HD", Sportv 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iconape.com/wp-content/files/ty/285018/png/285018.png" group-title="SPORTS HD", Sportv 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://iconape.com/wp-content/files/ty/285018/png/285018.png" group-title="SPORTS HD", Sportv 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://7pal.short.gy/tsn1ca
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN_ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN_ 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN-4
+https://7pal.short.gy/tsn4ca
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN 5
+https://7pal.short.gy/tsn5ca
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/tsn5-canada.png" group-title="SPORTS HD", TSN OCHO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mediamanager.ws/images/200x0xmedia/pages/s/sportnet.sme.sk/2020/09/logo.png" group-title="SPORTS HD", Sportsnet one
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://7pal.short.gy/sptsnet1
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mediamanager.ws/images/200x0xmedia/pages/s/sportnet.sme.sk/2020/09/logo.png" group-title="SPORTS HD", sportnet 360
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://208.87.242.55/livehttpplay?channel_id=28000
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://mediamanager.ws/images/200x0xmedia/pages/s/sportnet.sme.sk/2020/09/logo.png" group-title="SPORTS HD", sportnet Ontario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+http://208.87.242.55/livehttpplay?channel_id=40133
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG.png" group-title="SPORTS HD", TENNIS CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://images.pluto.tv/channels/681109b688b9d85d0938c6ba/colorLogoPNG.png" group-title="SPORTS HD",TENNIS +
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+
 
 
 ###########.  SPORTS.    #########
