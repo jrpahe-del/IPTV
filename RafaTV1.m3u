@@ -2453,43 +2453,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/fe4d00f07e2f43b789102b84b4d243a9/ind
 #================SPORTS HD ==================#
 
 
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="SPORTS HD",ASTRO BADMINTON 1
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-http://208.87.242.55/livehttpplay?channel_id=13304
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/540_144.png" group-title="SPORTS HD",ASTRO BADMINTON 2
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-http://208.87.242.55/livehttpplay?channel_id=13305
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/536_144.png" group-title="SPORTS HD",ASTRO PREMIER LEAGUE
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-http://208.87.242.55/livehttpplay?channel_id=13302
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/537_144.png" group-title="SPORTS HD",ASTRO PREMIER LEAGUE 2
-##KODIPROP:inputstream.adaptive.license_type=clearkey
-http://208.87.242.55/livehttpplay?channel_id=13303
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/539_144.png" group-title="SPORTS HD",ASTRO FOOTBALL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://208.87.242.55/livehttpplay?channel_id=13300
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-96,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" group-title="SPORTS HD",ASTRO SPORTSPLUS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://208.87.242.55/livehttpplay?channel_id=13306
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/543_144.png" group-title="SPORTS HD",ASTRO GRANDSTAND
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-http://208.87.242.55/livehttpplay?channel_id=13301
-
-
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://ip-tv.dev/images/ico/bt-sport2.png" group-title="SPORTS HD", SPORT TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -2994,30 +2957,9 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 #https://a151aivottlinear-a.akamaihd.net/OTTB/sin-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
-#EXTINF:-1 channel-id="65ea8b928145cb0008509426" tvg-id="65ea8b928145cb0008509426" tvg-chno="2831" tvg-name="UEFA Champions League" tvg-logo="https://cdn.prod.website-files.com/64fed8314c34da2363cb6a48/65958b66829398b655f43338_CJCircleLogo.png" group-title="Sports",UEFA Champions League
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65ea8b928145cb0008509426/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d53797c-eca6-11ee-8a17-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=061773cb-2831-49ad-930f-b677f16e3147&userId=&serverSideAds=true
 #EXTINF:-1 channel-id="64805922536e0c0008a1a1e6" tvg-id="64805922536e0c0008a1a1e6" tvg-chno="231" tvg-name="DAZN TV" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sports",DAZN TV
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 #EXTINF:-1 channel-id="64df7a9a44fe100009b6ac5a-ar" tvg-id="64df7a9a44fe100009b6ac5a" tvg-chno="860" tvg-name="DAZN Combat" tvg-logo="https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png" group-title="Sports",DAZN Combat
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542034-eca6-11ee-9d19-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df4d6d7e-74-4bdb-abec-6cc978f0a945&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="64b67f0424ade50008a3be17-de" tvg-id="64b67f0424ade50008a3be17" tvg-chno="50" tvg-name="DAZN Darts x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64b67f0424ade50008a3be17/colorLogoPNG.png" group-title="Sports",DAZN Darts x Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b67f0424ade50008a3be17/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542034-eca6-11ee-9d19-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df4d6d7e-74-4bdb-abec-6cc978f0a945&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="6683f7fe36a2f9000804940c-de" tvg-id="6683f7fe36a2f9000804940c" tvg-chno="54" tvg-name="DAZN Handball x Pluto TV" tvg-logo="https://images.pluto.tv/channels/6683f7fe36a2f9000804940c/colorLogoPNG.png" group-title="Sports",DAZN Handball x Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6683f7fe36a2f9000804940c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542034-eca6-11ee-9d19-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df4d6d7e-74-4bdb-abec-6cc978f0a945&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="64afe50c5dc16600087f3227-de" tvg-id="64afe50c5dc16600087f3227" tvg-chno="58" tvg-name="DAZN Heldinnen x Pluto TV" tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png" group-title="Sports",DAZN Heldinnen x Pluto TV
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64afe50c5dc16600087f3227/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542034-eca6-11ee-9d19-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df4d6d7e-74-4bdb-abec-6cc978f0a945&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="649b6898f2ec0000081a9460-us" tvg-id="649b6898f2ec0000081a9460" tvg-chno="2864" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/649b6898f2ec0000081a9460/colorLogoPNG.png" group-title="Sports",DAZN Ringside
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/649b6898f2ec0000081a9460/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542034-eca6-11ee-9d19-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df4d6d7e-74-4bdb-abec-6cc978f0a945&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="65b14aae0cb1a100087a216e-gb" tvg-id="65b14aae0cb1a100087a216e" tvg-chno="856" tvg-name="DAZN Ringside" tvg-logo="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/colorLogoPNG.png" group-title="Sports",DAZN Ringside
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65b14aae0cb1a100087a216e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d542034-eca6-11ee-9d19-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=df4d6d7e-74-4bdb-abec-6cc978f0a945&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="660bfcd07bcd860008796ae8" tvg-id="660bfcd07bcd860008796ae8" tvg-chno="124" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfcd07bcd860008796ae8/colorLogoPNG_1750064568643.png" group-title="Sports",FIFA+
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/660bfcd07bcd860008796ae8livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-966-40b7-9d49-abbceb00f273&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="65f9b2dc0d45610008505eac" tvg-id="65f9b2dc0d45610008505eac" tvg-chno="84" tvg-name="Realmadrid TV" tvg-logo="https://images.pluto.tv/channels/65f9b2dc0d45610008505eac/colorLogoPNG.png" group-title="Sports",Realmadrid SP
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-916-40b7-9d49-abbceb00f273&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="5e7cb84a172a0f0007da69e4" tvg-id="5e7cb84a172a0f0007da69e4" tvg-chno="53" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" group-title="Sports",Red Bull TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e7cb84a172a0f0007da69e4livestitch/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=3d5385d4-eca6-11ee-8078-aca72e323d0f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8d191eb-616-40b7-9d49-abbceb00f273&userId=&serverSideAds=true
-#EXTINF:-1 channel-id="c5e8a74546771de365652cd053f73351" tvg-id="c5e8a74546771de365652cd053f73351" tvg-chno="209" tvg-name="Red Bull TV" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c5e8a74546771de365652cd053f73351/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061731258_260x147_hud_rbtv_logo.png" group-title="Sports",Red Bull TV
-https://aka-live1050.delivery.roku.com/0ad626c0-5e48-4779-a204-0263cdfef356/t2-origin/out/v1/live.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png", RED BULL
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/yuppfast/content/common/channel/logos/imwzux.png", CHRONO
@@ -4162,49 +4104,4 @@ http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128994
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128995
 #EXTINF:-1 group-title="SPORT VIP 2",NL: ZIGGO SPORT 6
 http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/128996
-
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 3
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135699
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 1
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135697
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 2
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135698
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 4
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135700
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 5
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135701
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 6
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135702
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 7
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135703
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 8
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135704
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 9
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135705
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 10
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135706
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 11
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135707
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 12
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135708
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 13
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135709
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 14
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135710
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 15
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135711
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 16
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135712
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 17
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135713
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 18
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135714
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 19
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135715
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 20
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135716
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 21
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135717
-#EXTINF:-1 group-title="DAZN EVENTS",NL: DAZN | EVENT 22
-http://vipnorseman.top:8080/VIP0171172364679510/81750162830398/135718
 
