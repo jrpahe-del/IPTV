@@ -95,6 +95,10 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
+#EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1360f1ba-3ea1-4cc1-9ab9-6e99776c1a89/MrBeanLiveAction_Logo_Light_1500x1000_-_Harry_Marshall.png", Mr Bean Live
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6054a9f4bc8a5f000771504c/colorLogoPNG.png" group-title="Actions",Takeshi's Castle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
