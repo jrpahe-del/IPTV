@@ -92,7 +92,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo.png" group-title="SPORTS" ,SINPO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo.png" group-title="GENERAL" ,SINPO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
