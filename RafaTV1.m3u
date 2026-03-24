@@ -636,7 +636,7 @@ http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/chunklist
 EXTINF:-1 tvg-id="BRTV.id@SD" tvg-logo="https://images.glints.com/unsafe/192x0/glints-dashboard.oss-ap-southeast-1.aliyuncs.com/company-logo/7e61eb4d3ceb91f55794bed70e8b7f2d.png" group-title="INDO TV LACAL",BRTv
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BRTVvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png" group-title="INDO TV LACAL",BRTV
+#EXTINF:-1 tvg-id="BRTV" tvg-logo="https://brtv.co.id/wp-content/uploads/2022/12/LOGO-BRTV-ORIGINAL-1024x316.png" group-title="INDO TV LACAL",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://i.imgur.com/fdygcVx.png" group-title="INDO TV LACAL",BTV
