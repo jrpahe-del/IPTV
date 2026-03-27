@@ -84,6 +84,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/idx/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRI_Sports.m3u8
 
+#EXTINF:-1 tvg-id="CelebesTV.id" tvg-logo="https://www.celebesmedia.id/assets/images/logo-celebes-media-white.png" group-title="SPORTS",Celebes TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
+
 #EXTINF:-1 tvg-id="DAAI TV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dai.png" group-title="GENERAL",DAAI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
@@ -509,10 +513,6 @@ https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="JAWA BARAT" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml"  tvg-logo="https://carubantv.id/img/logo.png",CarubanTV
 https://stream.carubantv.id/hls/0/stream.m3u8
-
-#EXTINF:-1 tvg-id="CelebesTV.id" tvg-logo="https://www.celebesmedia.id/assets/images/logo-celebes-media-white.png" group-title="SPORTS",Celebes TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="SUMATERA" "" tvg-url="mmm"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB6nHoGP73U1RWcxRpx3PQd1C9stqPVZMg0evN1SJ66Q&s=10",DavikaTV Lampung
