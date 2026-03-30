@@ -2776,7 +2776,6 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 
 #EXTINF:-1 channel-id="64805922536e0c0008a1a1e6" tvg-id="64805922536e0c0008a1a1e6" tvg-chno="231" tvg-name="DAZN TV" tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png" group-title="Sports",DAZN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-
 https://jmp2.uk/plu-647f07e74cfc2c0008a2e557.m3u8
 
 #EXTINF:-1 group-title="Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png", RED BULL
@@ -2787,21 +2786,21 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d375ebca-9cd0-475e-ad4d-0cde6634de9c/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-logo="https://i.imgur.com/zAtt7oq.png" group-title="Fishing",Wired2Fish
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wfn.png" group-title="Fishing",WFN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=wfn&channel_id=newid_rt041&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=e49776b9-7d404385-4fc01964-6f28bd4a&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+
+#EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wiredfish.png" group-title="Fishing",Wired2Fish
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8?ads.plex_token=4u8WsYo2xC9PKwn9LT5d&ads.plex_id=608a2c722957c9002c6a617b&ads.device_id=62274240-07e7-5d94-8dc8-ef68cf19e175&ads.dnt=0&ads.us_privacy=1---
 
-#EXTINF:-1 tvg-id="FLS_672a69a5873afb52c5fc1497" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/4f11d7b4-99e6-447e-b517-10dbb827a67c" group-title="Fishing",Sports Fishing
+#EXTINF:-1 tvg-id="FLS_672a69a5873afb52c5fc1497" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotrsfish.png" group-title="Fishing",Sports Fishing
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/playlist.m3u8?channel_name=SPORTS%20FISHING&content_genre=Fishing%2CSport&ic=IAB17%2CIAB17-13%2CIAB17-32&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 
 #EXTINF:-1 channel-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-id="9210a8fbeab66e9d1ce20c187804ee7d" tvg-chno="206" tvg-name="Bassmaster" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/9210a8fbeab66e9d1ce20c187804ee7d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749678868866_BassmasterChannel_InfoHUDChannelIdentifier_260x147.png" group-title="Fishing",Bassmaster
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://aka-live1050.delivery.roku.com/af838053-2a5b-4f25-92cd-4fae73ee7b64/t2-origin/out/v1/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://lg-epg-broadcast.muxip.com/channels/images/410/logo.png" group-title="Fishing",WFN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=wfn&channel_id=newid_rt041&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=e49776b9-7d404385-4fc01964-6f28bd4a&live_type=retransmission&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="Sports", FUBO SPORTS 1
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/Fubo_Sports.png/revision/latest?cb=20250117221217" group-title="Sports", FUBO SPORTS 2
