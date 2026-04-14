@@ -1,4 +1,3 @@
-
 #EXTM3U
 #EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/RSL.png" group-title="EVENT LIVE SPORTS1/2026",0300 WIB EVENT BOLA+ 2026
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1561,7 +1560,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
 #EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://cdn.mos.cms.futurecdn.net/q9g5vSSA9BrsZXjGv9K259.jpg" group-title="JAPAN",MTV Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 tvg-id="MusicJapanTV.jp@SD" tvg-logo="https://www.shutterstock.com/image-vector/initial-j-monogram-alphabet-musical-260nw-2032298198.jpg" group-title="JAPAN",Music Japan TV (544p)
+#EXTINF:-1 tvg-id="MusicJapanTV.jp@SD" tvg-logo="https://i.ytimg.com/vi/CvSsK1BmpN4/maxresdefault.jpg" group-title="JAPAN",Music Japan TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
 #EXTINF:-1 tvg-id="NationalGeographic.jp@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="JAPAN",National Geographic Japan (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
@@ -1646,7 +1645,6 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
-
 
 #EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="THAILAND",Thairath TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
