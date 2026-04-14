@@ -1238,7 +1238,7 @@ https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs1-20181732222723.logowik.com.webp group-title="KOREA",EBS 1
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs1-20181732222723.logowik.com.webp" group-title="KOREA",EBS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
@@ -1601,7 +1601,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
 #EXTINF:-1 tvg-id="JOMXDTV.jp@SD" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="JAPAN",Tokyo MX1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 tvg-id="JOBHDTV.jp@SD" tvg-logo="https://i.imgur.com/rUmrruq.png" group-title="JAPAN",TV Osaka (544p)
+#EXTINF:-1 tvg-id="JOBHDTV.jp@SD" tvg-logo="https://cdn.tv-osaka.co.jp/cdn/v20260407.104829/takoruworld/img/title.png" group-title="JAPAN",TV Osaka (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 tvg-id="JOTXDTV.jp@SD" tvg-logo="https://i.ytimg.com/vi/RaBSX7LAB_I/maxresdefault.jpg" group-title="JAPAN",TV Tokyo (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
