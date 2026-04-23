@@ -688,7 +688,7 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
-#EXTINF:-1  tvg-id="" tvg-url="mmm"  tvg-logo="https://cdn.aptoide.com/imgs/8/7/0/87037bda7d431e4291ed29465d7bafe7_feature_graphic.png" group-title="LOCAL TV",Suara Surabaya FM
+#EXTINF:-1  tvg-id="" tvg-url="mmm"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ssfm.png" group-title="LOCAL TV",Suara Surabaya FM
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://ssfm.siar.us/ssfm/live/playlist.m3u8
 
