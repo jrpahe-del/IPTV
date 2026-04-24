@@ -756,6 +756,19 @@ https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
+#EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ggstv.png",GGSTV
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bioskopindo.png" group-title="Indo Movies", Bioskop Indonesia
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7fc74162f12d430fad0513d9d5c1bdd5:b195817a10d9b592eb002543cdcdeaf6
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.m3u8
+
 
 #<=============INDO Sports =================================================================================================>
 
