@@ -1138,7 +1138,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/abn-logo-b-n-design-600w-2083611871.jpg" group-title="KOREA",ABN TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abntv.png" group-title="KOREA",ABNTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
