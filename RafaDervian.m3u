@@ -276,12 +276,9 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/metrotv5.png" group-title="Indonesia",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTINF:-1 tvg-id="Berita Satu" group-title="Indonesia" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/berita15.png",Berita Satu
-https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -1137,11 +1134,11 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/in
 #EXTINF:-1 group-title="KOREA" tvg-id="ONE" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/one.png",ONE (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="mmm" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kplus5.png",K-Plus
+#EXTINF:-1 tvg-id="K-Plus" tvg-url="mmm" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png",K-Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://abntv.ng/wp-content/uploads/2019/12/Untitled-1.png" group-title="KOREA",ABN TV
+#EXTINF:-1 tvg-logo="https://www.shutterstock.com/image-vector/abn-logo-b-n-design-600w-2083611871.jpg" group-title="KOREA",ABN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
@@ -1166,12 +1163,12 @@ https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/pl
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.seoulfn.com/news/photo/202112/440949_210951_4743.jpg" group-title="KOREA",CJ OnStyle
+#EXTINF:-1 tvg-logo="https://www.kedglobal.com/data/ked/image/2024/08/23/ked202408230015.700x.0.jpg" group-title="KOREA",CJ OnStyle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.seoulfn.com/news/photo/202112/440949_210951_4743.jpg" group-title="KOREA",CJ OnStyle Plus
+#EXTINF:-1 tvg-logo="https://www.kedglobal.com/data/ked/image/2024/08/23/ked202408230015.700x.0.jpg" group-title="KOREA",CJ OnStyle Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
@@ -1181,7 +1178,7 @@ https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dimg.donga.com/wps/NEWS/IMAGE/2022/01/21/111356749.2.png" group-title="KOREA",shinsegae shopping tv
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/d/2/7/d27a7bf805c3c29de542581f1e05b3ac_icon.png" group-title="KOREA",shinsegae shopping tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://liveout.catenoid.net/live-02-shinsegaetvshopping/shinsegaetvshopping_720p/chunklist.m3u8
@@ -1194,7 +1191,7 @@ http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=web_play&s=tving&i=C01143&q=SD&apikey=5MY50EII66
 
-#EXTINF:-1 tvg-logo="https://gw.cgntv.net/upload/img/logo/cgn/IMG_COMP_LOGIN_LOGO_B_cgn.png?2a73a87ea77f11edb62b00155d64d032" group-title="KOREA",CGNTV SOUTH KOREA
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/1164.HK_BIG.D-097822d0.png?t=1720244490" group-title="KOREA",CGNTV SOUTH KOREA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://tv.garden/
 https://du35ivadp6cxj.cloudfront.net/out/v1/81781d23cbbf490990b2aa9181d4ce19/CGNWebLiveKR.m3u8
@@ -1216,7 +1213,7 @@ https://atemeshield1-voe.sysln.id/live/eds/TvNMoviesHD/mpd/TvNMoviesHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kplus5.png" group-title="KOREA",K+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="KOREA",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
 
@@ -1251,19 +1248,19 @@ https://livejj.hyundaihmall.com:8443/live/ngrp:hmall.stream_pc/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://dtvstreaming.hyundaihmall.com/newcjp3/_definst_/newcjpstream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JiSfEBv.png" group-title="KOREA",CJ ONSTYLE
+#EXTINF:-1 tvg-logo="https://www.kedglobal.com/data/ked/image/2024/08/23/ked202408230015.700x.0.jpg" group-title="KOREA",CJ ONSTYLE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OYmOL20.png" group-title="KOREA",CJ ONSTYLE+
+#EXTINF:-1 tvg-logo="https://www.kedglobal.com/data/ked/image/2024/08/23/ked202408230015.700x.0.jpg" group-title="KOREA",CJ ONSTYLE+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://kehulum.com/nws_asset/iNo_213/lm_p/kehulumcom174419170273d603c732.webp" group-title="KOREA",EBS EN
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs-english1732222797.logowik.com.webp" group-title="KOREA",EBS EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs-kids1732222838.logowik.com.webp" group-title="KOREA",EBS KIDS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/69/EBS_KIDS_2000.svg/revision/latest/scale-to-width-down/300?cb=20210510075025" group-title="KOREA",EBS KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
@@ -1271,7 +1268,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyHdbsh.png" group-title="KOREA",EBS 2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs2-20181732222751.logowik.com.webp" group-title="KOREA",EBS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
@@ -1279,7 +1276,7 @@ https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YyHdbsh.png" group-title="KOREA",EBS+2
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs2-20181732222751.logowik.com.webp" group-title="KOREA",EBS+2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
@@ -1295,7 +1292,7 @@ http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_1300k.stream/playlist.m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://etv.publichs.com/live5.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.goodtv.tv/_nuxt/img/colored.711584b.png" group-title="KOREA",GOOD TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/goodtv.png" group-title="KOREA",GOOD TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 
@@ -1315,7 +1312,7 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sOoS7RQ.png" group-title="KOREA",BTN TV
+#EXTINF:-1 tvg-logo="https://btnrwanda.com/img/btn.png" group-title="KOREA",BTN TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 
@@ -3302,12 +3299,12 @@ https://video.detik.com/transtv/smil:transtv/index.m3u8
 #EXTINF:-1 tvg-id="SCTV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDsctv.png" group-title="DENSTV",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDsiar.png" group-title="DENSTV", Indosiar
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmetro.png" group-title="DENSTV", Metro TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3321,7 +3318,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDbsatu.png" group-title="DENSTV",Berita Satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h209/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 
 #EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkompas.png" group-title="DENSTV", Kompas TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3396,7 +3393,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTINF:-1 tvg-id="ROCK Entertainment.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrockent.png" group-title="DENSTV", ROCK Entertainment HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+#http://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
 
 #EXTINF:-1 tvg-id="Rock Action.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrockactn.png" group-title="DENSTV", ROCK Action
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3500,7 +3497,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="Motorvision+" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmotorv.png" group-title="DENSTV", Motorvision+
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h09/index.m3u8
 
 #EXTINF:-1 tvg-id="MotoRRacing TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmotorac.png" group-title="DENSTV", MotoRRacing TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3520,7 +3517,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDcna.png" group-title="DENSTV", CNA
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h29/01.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
 
 #EXTINF:-1 tvg-id="nhk world Japan.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDnhkworld.png" group-title="DENSTV", NHK WORLD-JAPAN
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3589,7 +3586,7 @@ http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrt.png" group-title="DENSTV",RT Channel (360p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h226/02.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
 #EXTINF:-1 tvg-id="Qur'an TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDquran.png" group-title="DENSTV", Quran TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
