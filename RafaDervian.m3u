@@ -736,11 +736,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxreels.png",Max Reels
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
 #EXTINF:-1 tvg-url="mmm" group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/flik5.png",Flik
@@ -774,6 +769,38 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvn.png" group-title="Indo Movies",TVN
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e8cbd6f664b4ace966d3edfad94c18e:cff33777777f7e61078ae2ae41ed0636
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6dc5412d26ea4e65961c825d866f2a34/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvnmovies.png" group-title="Indo Movies",TVN Movies
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
+https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dramaworld.png" group-title="Indo Movies",Drama World
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=204
+https://ayo.maling.pl/Vision/index.mpd?id=204
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/muslimtv.png" group-title="Indo Movies",Muslim TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=137
+https://ayo.maling.pl/Vision/index.mpd?id=137
+
 
 #<=============INDO Sports =================================================================================================>
 
@@ -794,88 +821,94 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd4
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
+#EXTINF:-1 tvg-id="Soccer Channel" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/soccer.png" group-title="Indo Sports",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 tvg-id="Soccer Channel" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/soccer.png" group-title="Indo Sports",Soccer Channel
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
+#EXTINF:-1 tvg-id="Sportstars" tvg-url="mmml" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportsars.png" group-title="Indo Sports",Sportstarsᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Sportstars" tvg-url="mmml" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportsars.png" group-title="Indo Sports",Sportstarsᴴᴰ
 https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
 
+#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportstars2.png" group-title="Indo Sports",Sportstars 2ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Sportstars 2" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportsars.png" group-title="Indo Sports",Sportstars 2ᴴᴰ
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:-1 tvg-id="Sportstars 4"  tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportstars4.png" group-title="Indo Sports", Sportstars 4 ᴴᴰ
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Sportstars 4"  tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportsars.png" group-title="Indo Sports", Sportstars 4 ᴴᴰ
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
 
+#EXTINF:-1 tvg-id="SPOTV" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotv.png" group-title="Indo Sports",SpoTV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3197f7f5086c4315af2b7a94bc9201cb:17462a74739ae0d9855705ffc2c0e1b5
-#EXTINF:-1 tvg-id="SPOTV" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotv.png" group-title="Indo Sports",SpoTV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/b4814ae93ca84dd3bb5b0aff76ca263f/index.mpd
 
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotv2.png" group-title="Indo Sports",SpoTV 2 (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotv2.png" group-title="Indo Sports",SpoTV 2 (V+)
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
+#EXTINF:-1 tvg-id="SPOTVNOW.mana2" tvg-logo="https://activate.unifi.com.my/authsv/images/logo/spotv.png" group-title="Indo Sports",Spotv Now
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://slive.mana2.my/SpotvNow/index.mpd
+
+#EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 1 Indonesia" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Indo Sports", beIN Sports 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ae6a430c1b8420ea280e317143d8d3a:142473ee925db0db0083c74a178c8298
-#EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 1 Indonesia" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Indo Sports", beIN Sports 1
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/3b0660e05eed4d769521eb0275aab3ab/index.mpd
 
+#EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 2 Indonesia" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports2.png" group-title="Indo Sports", beIN Sports 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d756d566ca94e6499518ffb1474d5d0:dbe4ad6803e74739b8f954d23cc58e7b
-#EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 2 Indonesia" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports2.png" group-title="Indo Sports", beIN Sports 2
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/cfca527d0f16403396a71b2d3d54c32f/index.mpd
 
+#EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 3 Indonesia" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports3.png" group-title="Indo Sports",beIN Sports 3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=344d320ca45641a88cf002db351ed9a4:246cc6ee7ab235cb824ed3b904b7040b
-#EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 3 Indonesia" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports3.png" group-title="Indo Sports",beIN Sports 3
 https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/index.mpd
 
+#EXTINF:-1 tvg-id="Okey" tvg-url="mmm" group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey5.png",Okey Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Okey" tvg-url="mmm" group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey5.png",Okey Sports
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
 
+#EXTINF:-1 tvg-id="TV1" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan5.png" group-title="Indo Sports",SUKAN Sports
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV1" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan5.png" group-title="Indo Sports",SUKAN Sports
 https://mifntechnology.github.io/siaranMy/channels/SukanRTM/index.m3u8
 
+#EXTINF:-1 tvg-id="Motorvision" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorv.png" group-title="Indo Sports", MOTORVISION+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Motorvision" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorv.png" group-title="Indo Sports", MOTORVISION+
 https://raw.githubusercontent.com/Bluestraveller13/super-duper-spork/refs/heads/main/MotorVision.m3u8
 
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nba5.png", NBA TV
@@ -890,16 +923,27 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
 https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-#EXTINF:-1 tvg-id="SPOTVNOW.mana2" tvg-logo="https://activate.unifi.com.my/authsv/images/logo/spotv.png" group-title="Indo Sports",Spotv Now
-https://slive.mana2.my/SpotvNow/index.mpd
-
+#EXTINF:-1 tvg-id="557763" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fifaplus-white.png" group-title="Indo Sports",FIFA+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; AndroidTV Build/V3.2025; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/136.0.7103.61 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="557763" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fifaplus-white.png" group-title="Indo Sports",FIFA+
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/realmadrid.png",Real Madrid TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/barca.png",BARCA TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abc.png",ABC TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=165
+https://ayo.maling.pl/Vision/index.mpd?id=165
 
 
 #<================== Malaysia ============================================================================>
@@ -2043,6 +2087,7 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 #==============AUSTRALIA==================#
 
+
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://yt3.googleusercontent.com/O9giq9YaGKr56yBo3TuUuN6ZGPLSBcrXBwVV05xGJad0z52b-GFAlHd718WfpKCFW6kaEqyhflU=s900-c-k-c0x00ffffff-no-rj", C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
@@ -2054,18 +2099,6 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://play-lh.googleusercontent.com/YzqcZ5VI_mX6A47XZWUNffcxuMCViRm5iwplbJxyVP3CNxYDIKcyHP38AKs9kTOkjmw5zzWYBEjFs-LUPe5zkQ", 2GB Sydney
-https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://www.6pr.com.au/wp-content/uploads/sites/13/2023/03/6PR-Thumbnail-Image-3x2-2.jpg", 6PR Perth
-https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctbperth.net.au/wp-content/uploads/logo-ctb.jpg",CTB Perth
-https://live.ctbperth.net.au/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctbperth.net.au/wp-content/uploads/logo-ctb.jpg", CTB Perth News
-https://news.ctbperth.net.au/hls/stream.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ewsat.com/img/EXPO_CHANNEL.png",Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
@@ -2102,6 +2135,18 @@ https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://play-lh.googleusercontent.com/YzqcZ5VI_mX6A47XZWUNffcxuMCViRm5iwplbJxyVP3CNxYDIKcyHP38AKs9kTOkjmw5zzWYBEjFs-LUPe5zkQ", 2GB Sydney
+https://2gblive.akamaized.net/hls/live/2033805/2GB/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://www.6pr.com.au/wp-content/uploads/sites/13/2023/03/6PR-Thumbnail-Image-3x2-2.jpg", 6PR Perth
+https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctbperth.net.au/wp-content/uploads/logo-ctb.jpg",CTB Perth
+https://live.ctbperth.net.au/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctbperth.net.au/wp-content/uploads/logo-ctb.jpg", CTB Perth News
+https://news.ctbperth.net.au/hls/stream.m3u8
 
 
 #============CAMBODJA====================#
@@ -3287,6 +3332,21 @@ https://video.detik.com/trans7/smil:trans7/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://video.detik.com/transtv/smil:transtv/index.m3u8
 
+#EXTINF:-1 tvg-id="Classica Spotlight" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ddjowo.png" group-title="DENSTV",JOWO Channel
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8
+
+#EXTINF:-1 tvg-id="Classica Spotlight" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ddmoji.png" group-title="DENSTV", Moji TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-id="Classica Spotlight" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ddbnch.png" group-title="DENSTV", BN Channel
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h39/index.m3u8
+
 #EXTINF:-1 tvg-id="SCTV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDsctv.png" group-title="DENSTV",SCTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3316,17 +3376,22 @@ http://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8
 
+#EXTINF:-1 tvg-id="Classica Spotlight" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ddntv.png" group-title="DENSTV",Nusantara TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h37/index.m3u8
+
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDbtv.png" group-title="DENSTV", BTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
 
-#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDantv.png" group-title="DENSTV", antv
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDantv.png" group-title="DENSTV", ANTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmd.png" group-title="DENSTV", NET
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmd.png" group-title="DENSTV", MDTV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
@@ -3356,6 +3421,11 @@ https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8
 
+#EXTINF:-1 tvg-id="Aljazeera.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDjazeera.png" group-title="DENSTV", Al Jazeera English
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8
+
 #EXTINF:-1 tvg-id="Jak tv" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDjak.png" group-title="DENSTV", Jak tv
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3371,49 +3441,49 @@ http://op-group1-swiftservesd-1.dens.tv/s/s14/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s182/index2.m3u8
 
-#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDaniplus.png" group-title="DENSTV", ANIPLUS HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
-
-#EXTINF:-1 tvg-id="My Kidz.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmykids.png" group-title="DENSTV", My Kidz HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
-
-#EXTINF:-1 tvg-id="ROCK Entertainment.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrockent.png" group-title="DENSTV", ROCK Entertainment HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+#EXTINF:-1 tvg-id="Kplus.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkplus.png" group-title="DENSTV", K-PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-id="Rock Action.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrockactn.png" group-title="DENSTV", ROCK Action
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action
 
-#EXTINF:-1 tvg-id="Kix.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkix.png" group-title="DENSTV", KIX HD
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
-
-#EXTINF:-1 tvg-id="KBS Korea (Free Trial)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkbskorea.png" group-title="DENSTV", KBS Korea (Free Trial)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-
-
-#EXTINF:-1 tvg-id="KBS World.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkbsworld.png" group-title="DENSTV", KBS World (Free Trial)
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-#http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8
-
-#EXTINF:-1 tvg-id="Kplus.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkplus.png" group-title="DENSTV", K-PLUS HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
-
 #EXTINF:-1 tvg-id="tvN HD - [Channel 446].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDtvn.png" group-title="DENSTV", tvN HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h20/index.m3u8
+
+#EXTINF:-1 tvg-id="Classica Spotlight" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dddragon.png" group-title="DENSTV",Dragon TV
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s29/index.m3u8
+
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDcna.png" group-title="DENSTV", CNA
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
+
+#EXTINF:-1 tvg-id="nhk world Japan.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDnhkworld.png" group-title="DENSTV", NHK WORLD-JAPAN
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
+
+#EXTINF:-1 tvg-id="TRT World" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDtrtworld.png" group-title="DENSTV", TRT World
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
+
+#EXTINF:-1 tvg-id="WION" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDwion.png" group-title="DENSTV", WION
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
+
+#EXTINF:-1 tvg-id="FREEDOM" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDfreedom.png" group-title="DENSTV", FREEDOM
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
 
 #EXTINF:-1 tvg-id="tvN Movies HD - [Channel 415].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDtvnmov.png" group-title="DENSTV", tvN Movies HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3478,7 +3548,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h172/index.m3u8
 #EXTINF:-1 tvg-id="Dance TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDdance.png" group-title="DENSTV", Dance TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s21/index.m3u8
 
 #EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDfight.png" group-title="DENSTV", FIGHT SPORTS HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3505,40 +3575,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h127/live.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 
-#EXTINF:-1 tvg-id="CNA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDcna.png" group-title="DENSTV", CNA
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h29/index.m3u8
-
-#EXTINF:-1 tvg-id="nhk world Japan.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDnhkworld.png" group-title="DENSTV", NHK WORLD-JAPAN
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
-
-#EXTINF:-1 tvg-id="Aljazeera.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDjazeera.png" group-title="DENSTV", Al Jazeera English
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h143/index2.m3u8
-
-#EXTINF:-1 tvg-id="TRT World" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDtrtworld.png" group-title="DENSTV", TRT World
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h156/index2.m3u8
-
-#EXTINF:-1 tvg-id="WION" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDwion.png" group-title="DENSTV", WION
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
-
-#EXTINF:-1 tvg-id="FREEDOM" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDfreedom.png" group-title="DENSTV", FREEDOM
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8
-
 #EXTINF:-1 tvg-id="Aljazeera.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDjazeera.png" group-title="DENSTV", Al Jazeera Arabic
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrt.png" group-title="DENSTV",RT Channel (360p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDcctv4.png" group-title="DENSTV", CCTV-4
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -3575,10 +3619,6 @@ http://op-group1-swiftservehd-1.dens.tv/s/s39/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s20/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrt.png" group-title="DENSTV",RT Channel (360p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
-
 #EXTINF:-1 tvg-id="Qur'an TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDquran.png" group-title="DENSTV", Quran TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3588,6 +3628,36 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
+
+#EXTINF:-1 tvg-id="ANIPLUS HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDaniplus.png" group-title="DENSTV", ANIPLUS HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ANIPLUS_HD
+
+#EXTINF:-1 tvg-id="My Kidz.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDmykids.png" group-title="DENSTV", My Kidz HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
+
+#EXTINF:-1 tvg-id="ROCK Entertainment.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrockent.png" group-title="DENSTV", ROCK Entertainment HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h16/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Entertainment_HD
+
+#EXTINF:-1 tvg-id="Kix.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkix.png" group-title="DENSTV", KIX HD
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD
+
+#EXTINF:-1 tvg-id="KBS Korea (Free Trial)" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkbskorea.png" group-title="DENSTV", KBS Korea (Free Trial)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-
+
+#EXTINF:-1 tvg-id="KBS World.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDkbsworld.png" group-title="DENSTV", KBS World (Free Trial)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8
 
 
 #=============TVRI=================#

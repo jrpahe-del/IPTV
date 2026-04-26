@@ -1324,7 +1324,7 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 #KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
-#EXTINF:-1 tvg-id="Outdoor Channel" tvg-url="hmmm" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="Documentary",Outdoor Channel (V+)
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-url="hmmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/outdoor.png" group-title="Documentary",Outdoor Channel (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2015,6 +2015,15 @@ https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e7c10b448444c53904de46d1a30f427:d638c2cb75ff93d38b5ec8b6f5098dea
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foxnews.png",FOX News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=132
+https://ayo.maling.pl/Vision/index.mpd?id=132
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
