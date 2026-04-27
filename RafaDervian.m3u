@@ -2091,14 +2091,12 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #==============AUSTRALIA==================#
 
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abc.png",ABC TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=165
-https://ayo.maling.pl/Vision/index.mpd?id=165
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC Australia (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://yt3.googleusercontent.com/O9giq9YaGKr56yBo3TuUuN6ZGPLSBcrXBwVV05xGJad0z52b-GFAlHd718WfpKCFW6kaEqyhflU=s900-c-k-c0x00ffffff-no-rj", C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
@@ -2116,36 +2114,58 @@ https://bloomberg.com/media-manifest/streams/aus.m3u8
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-sa.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Brisbane
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-qld.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Canberra
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-act.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Darwin
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-nt.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Hobart
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-tas.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Melbourne
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-vic.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Perth
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-wa.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Sydney
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-nsw.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC Family
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-tv-plus.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC Entertains
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://c.mjh.nz/abc-me.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC News
+#EXTVLCOPT:http-referrer=https://abc.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://play-lh.googleusercontent.com/YzqcZ5VI_mX6A47XZWUNffcxuMCViRm5iwplbJxyVP3CNxYDIKcyHP38AKs9kTOkjmw5zzWYBEjFs-LUPe5zkQ", 2GB Sydney
