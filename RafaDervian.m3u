@@ -2556,7 +2556,7 @@ https://tv.thbl.vn/live/tv/tv.m3u8
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 
-<================= Documentary ===================================================================================================================>
+#<================= Documentary ===========================================================>#
 
 
 #EXTINF:-1 tvg-id="BBC Earth" tvg-url="hmmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcearth.png" group-title="Documentary",BBC Earth (V+)
@@ -2960,6 +2960,11 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5b920ae354ac4729e07880ab/1565810632183/e0612c9989dba69138bb8026d23dbec1.jpg?tx=w_350" group-title="Premium Movies",MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
 
 #================ Entertainemnt=====================================================================================================================================>
 
@@ -3020,7 +3025,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h244/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
-
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3040,8 +3044,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxreels.png" group-title="Entertainment",Max Reels
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-<============ COMEDY ==============================================================================>
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxeats.png",Max Eats
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstreak.png",Max Streak
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+
+#============ COMEDY ==============================================================================>#
 
 
 #EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="835" tvg-name="Just for Laughs Gags" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="Comedy",Just for Laughs Gags
@@ -3064,9 +3080,34 @@ https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
 #========== KIDS ==================================================================================================>
 
 
-#EXTINF:-1 tvg-id="Mentari TV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mentaritv.png" group-title="Kids",Mentari TV
+#EXTINF:-1 tvg-id="Animax" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/animax.png" group-title="Kids",Animax (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://175.158.57.130:8888/stream/channelid/641828885
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTINF:-1 tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nick.png" group-title="Kids" tvg-id="Nickelodeon", Nickelodeon (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
+https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nickjr.png" group-title="Kids", Nickelodeon Junior (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/matematika.png" group-title="Kids" , Matematika TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch80.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/engstudy.png" group-title="Kids" , English Study
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
+https://flv.intechmedia.net/live/ch83.m3u8
 
 #EXTINF:-1 group-title="Kids" tvg-id="Aniplus" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aniplus.png",Aniplus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3074,18 +3115,18 @@ http://175.158.57.130:8888/stream/channelid/641828885
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
-#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://assets.stacktv.ca/wp-content/uploads/2023/09/disney-channel.png" group-title="Kids",Disney Channel
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
 
 #EXTINF:-1 tvg-id="TRANS7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/vtv.png" group-title="Kids",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/yayaw.png" group-title="Kids",UPIN & IPIN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/yayaw.png" group-title="Kids",FLY YAYA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdnvod.panda-os.com/livehls/68ef86320630444b1f796875/master.m3u8
 
@@ -3093,7 +3134,7 @@ https://cdnvod.panda-os.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/funplanet5.png",FunPlanet
+#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/funplanet5.png",Max Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
@@ -3105,68 +3146,47 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd
 
+#EXTINF:-1 tvg-id="Horee!" tvg-url="mm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/horee.png",Horee! 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
-#EXTINF:-1 tvg-id="Horee!" tvg-url="mm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/horee.png",Horee! 
+#KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268! 
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mediampd/HoreeHD.mpd
 
+#EXTINF:-1 tvg-id="ZooMoo" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zoomoo.png" group-title="Kids",ZooMoo (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=780f283e8dd84dc195d93899ea9fcabe:59103ac45e9c5e411651e3fa26a2e6d9
-#EXTINF:-1 tvg-id="ZooMoo" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zoomoo2.png" group-title="Kids",ZooMoo (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/8554b3cb938e44038093df2d65080932/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
-#EXTINF:-1 tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/niklo.png" group-title="Kids" tvg-id="Nickelodeon", Nickelodeon (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1d5f77cd96049f78b6b253540b31722:ba8d0801fe81187d35633e1d3b3855d5
-#EXTINF:-1 tvg-id="Nick Jr." tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/niklo.png" group-title="Kids", Nickelodeon Junior (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/27163af9499b4bcca2da96677b158efe/index.mpd
-
+#EXTINF:-1 tvg-id="Moonbug" tvg-url="mmm" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8b62ae389f0944d4a55daaad52de1f9d:ba145a1426491316010da87bfd69de05
-#EXTINF:-1 tvg-id="Moonbug" tvg-url="mmm" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/198f7febb48c4c909d62977d88c195b0/index.mpd
 
+#EXTINF:-1 tvg-id="DreamWorks" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/drwk.png" group-title="Kids",Dreamworks HD (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecd651d0872c46d6b75a902f3b796e6b:3915b032de12140475d2696ae734cf58
-#EXTINF:-1 tvg-id="DreamWorks" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/drwk.png" group-title="Kids",Dreamworks HD (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/index.mpd
 
+#EXTINF:-1 tvg-id="Kids TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kidstv.png" group-title="Kids",Kids TV (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
-#EXTINF:-1 tvg-id="Kids TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kidstv.png" group-title="Kids",Kids TV (V+)
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
+#EXTINF:-1 tvg-id="CBeebies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cbeis.png" group-title="Kids",Cbeebies (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=736777e5823249849d71a7d41ddc35aa:f831235372e07e24fb70f7336291c549
-#EXTINF:-1 tvg-id="CBeebies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cbeis.png" group-title="Kids",Cbeebies (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2a5668fb3b9f4e34ab7c02cdc6ef56db/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTINF:-1 tvg-id="Animax" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/animax.png" group-title="Kids",Animax (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/biznetkids.png" group-title="Kids",Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -3317,13 +3337,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhk5.png",NHK World Japan
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhk.png",NHK World Japan
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhk5.png",NHK World Japan
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhkjapan.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
@@ -3331,7 +3351,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenix.png",Phoenix InfoNews
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenixnews.png",Phoenix Info News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
@@ -3349,6 +3369,23 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
 
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foxnews.png",FOX News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=132
+https://ayo.maling.pl/Vision/index.mpd?id=132
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/euronews.png",Euro News
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=151
+https://ayo.maling.pl/Vision/index.mpd?id=151
 
 #<============  TV SD ===================================>
 

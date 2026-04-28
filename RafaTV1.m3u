@@ -1756,8 +1756,13 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
+#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png",Romedy Now
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#================ Entertainemnt=====================================================================================================================================>
+
+#================ Entertainemnt===============================================================================================#
 
 
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="mmm" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/warner.png",Warner TV
@@ -1820,8 +1825,20 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/FashionTV/mediampd/FashionTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxreels.png" group-title="Entertainment",Max Reels
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-<============ COMEDY ==============================================================================>
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxeats.png",Max Eats
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstreak.png",Max Streak
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+
+
+#<============ COMEDY ==============================================================================>#
 
 
 #EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="835" tvg-name="Just for Laughs Gags" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="Comedy",Just for Laughs Gags
@@ -1898,7 +1915,7 @@ https://cdnvod.panda-os.com/livehls/68ef86320630444b1f796875/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn10jtedge.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/funplanet5.png",FunPlanet
+#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/funplanet5.png",Max Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
@@ -2037,9 +2054,20 @@ https://9xjio.wiseplayout.com/9XM/master.m3u8
 #<================= News =========================================================================================================================>
 
 
+#EXTINF:-1 group-title="News" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC Australia (V+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jazeera.png",Al Jazeera English
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn10jtedge.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcnews.png",BBC News
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
@@ -2117,6 +2145,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/ind
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenix.png",Phoenix Chinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdn10jtedge.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenixnews.png",Phoenix Info News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://cdn10jtedge.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtoday.png",Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
