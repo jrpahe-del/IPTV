@@ -1502,24 +1502,10 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aplanet.png" group-title="Documentary",Animal Planet 🇺🇸
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"k+SzQxHk96mVDxhIWV9Wiw","kid":"DgvwlWWPp8zkDExnE2ueIw"}],"type":"temporary"}
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ewj95eclhn/out/v1/b394624dc26a4628a6c78317f09ff4e9/cenc.mpd
-
-#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="Documentary",HISTORY 🇺🇸
+#EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="Documentary",History
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://www.armandsarlangue.com/wp-content/uploads/2022/12/ifl-science-transparent.png" group-title="Documentary",Science is Amazing
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8cdce02de4ee021313752bf3f4170fb4:60dbfbe941a0462e0d56a95c7b9e3bee
-https://qw.live.pv-cdn.net/OTTB/pdx-nitro/live/clients/dash/enc/d9iunfir77/out/v1/4c1ded14e2db44d59915910e6dc2284d/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-logo="https://truehistoryshop.com/wp-content/uploads/2017/12/500-230.png" group-title="Documentary",True History
 #KODIPROP:inputstream=inputstream.adaptive
@@ -1535,40 +1521,30 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q3gjkjvw6b/
 #KODIPROP:inputstream.adaptive.license_key=53a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
 https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://www.viasatexplore.eu/assets/images/ex-header-logo.png" group-title="Documentary",Viasat EXPLORE 🇬🇧
+#EXTINF:-1 tvg-logo="https://www.viasatexplore.eu/assets/images/ex-header-logo.png" group-title="Documentary",Viasat EXPLORE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://webtvstream.bhtelecom.ba/hls15/viasat_explore.mpd?n=ayoyoyPh0WDAYJCl1UQlpOST0fCwcGGRJTOD1KVERbQFdBOQwaX11ISQpTXV1BKh8UDQk9ACMKKAddWVZdS1hEQUQhJjUnOklDBQcKFlYuDwYfGllMIgYXGwQMXFhBUEdET1tBVEECwMgMyhcR19SRFZd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/stddeviant/images/f/f3/Polsat_Viasat_History_%282022-.n.v.%29.png/revision/latest?cb=20240727130736" group-title="Documentary",Viasat HISTORY 🇬🇧
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/stddeviant/images/f/f3/Polsat_Viasat_History_%282022-.n.v.%29.png/revision/latest?cb=20240727130736" group-title="Documentary",Viasat History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_history.mpd?n=7e88df0f0fc1cbd49f02170eb9448f5a
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ae/Viasat_Nature_%282014-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20190716143740" group-title="Documentary",Viasat NATURE 🇬🇧
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/a/ae/Viasat_Nature_%282014-.n.v.%29.png/revision/latest/scale-to-width-down/250?cb=20190716143740" group-title="Documentary",Viasat Nature 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0973b5d585851284
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Discovery_Science_HD_2017_%28Gray%29.svg/revision/latest/scale-to-width-down/250?cb=20191226125430" group-title="Documentary",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Discovery_Science_HD_2017_%28Gray%29.svg/revision/latest/scale-to-width-down/250?cb=20191226125430" group-title="Documentary",Discovery Science
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Discovery_Science_HD_2017_%28Gray%29.svg/revision/latest/scale-to-width-down/250?cb=20191226125430" group-title="Documentary",Discovery Science HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6a1dfce06caf463d29b91fc890baad1:4ce50c2ee03a4fbec5ddbf57bc8e6c8b
-https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-SCIENCE-HD/default.mpd
-
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Documentary",Discovery Turbo HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e4bae4a7baa977c5b1a253adc589b6a7:ed5aa984b371395293b2c2a27125509c
-https://zap-live1-ott.izzigo.tv/4/out/u/dash/DISCOVERY-TURBO-HD/default.mpd
 
 #EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Documentary",Discovery Turbo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1741,7 +1717,7 @@ https://a188aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hik
 #KODIPROP:inputstream.adaptive.license_key=bbfd8a5d79b8b84e5b65be1a0ee17dba:99e5e91fc3f9c297abed36000fb1fe88
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/out/v1/e105d6321667470d872c9bb3d519e6d5/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="Documentary",DISCOVERY INVESTIGATION
+#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/investigation-discovery-us.png?raw=true" group-title="Documentary",Discovery Investigation
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
@@ -2191,11 +2167,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/c4526445da1e72faca3e5b485c490386d3d6857c9a8b440bd871afbac79eac6f._SL170_FMpng_.png" group-title="Entertainment",AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"3290efe4c5cf67165e846a0742c22cd9":"ddb94463c46af6037432fc026339c09d"}
-https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f7dd1b08a404581818c3923af9a93/cenc.mpd
 
 
 #<============ COMEDY ==============================================================================>#
