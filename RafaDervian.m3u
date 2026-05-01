@@ -2565,6 +2565,8 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #<================= Documentary ===========================================================>#
 
 
+
+
 #EXTINF:-1 tvg-id="BBC Earth" tvg-url="hmmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcearth.png" group-title="Documentary",BBC Earth (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2699,13 +2701,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
+
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="Documentary",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a598d133e3ea508a29255f58e09758bf:ad64ce2c7864315dfd293f454f54bea0
 https://live.corusdigitaldev.com/groupa/live/c0ebcb53-b9fa-4359-830b-714eb459c6d1/corus-history.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://truehistoryshop.com/wp-content/uploads/2017/12/500-230.png" group-title="Documentary",True History
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/truehistory.png" group-title="Documentary",True History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2753,13 +2756,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/unsolvedmysteries/images/5/59/Unsolved_Mysteries_Title_Seasons_1_%26_2.png/revision/latest?cb=20170124211859" group-title="Documentary",Unsolved Mysteries
+#EXTINF:-1 tvg-logo="https://img1.picmix.com/output/stamp/normal/6/7/4/4/2334476_28670.gif" group-title="Documentary",Unsolved Mysteries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f96d75ed2d96faf9af0857c8e2fbca3:454198d857d8a58591e654321c5e7824
 https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/ezzzdqdq6n/out/v1/15b0b244788c4620abb49708d0b1b37e/cenc-sd.mpd
 
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2014/01/bbc-logo.jpg?w=1000&h=562&crop=1&resize=910%2C511" group-title="Documentary",BBC Treasures
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbctrasures.png" group-title="Documentary",BBC Treasures
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2767,7 +2770,7 @@ https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/ezzzdqdq6n/o
 #KODIPROP:inputstream.adaptive.license_key=f94bae425abea0ccacec08b2e72b7d07:8eea02108392c61aa79663bc064fc600
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/out/v1/31374ef324ce4bd2bd278b78f4a97d60/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://www.magellantv.com/_next/image?url=%2Fimages%2Fmgtv_full_logo_dark.png&w=1200&q=75" group-title="Documentary",MagellanTV Wildest
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wildest.png" group-title="Documentary",MagellanTV Wildest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2775,7 +2778,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/aczgdiuxsu/
 #KODIPROP:inputstream.adaptive.license_key=27adff179a63db8066aa6733cb30d918:5a4e36391d13c94a4bf925d8fd8a236c
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/out/v1/cac331ecba3b4d86b58a1a0a706a82eb/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/640a64bd73e013000893d4e0/colorLogoPNG.png" group-title="Documentary",PBS Nature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pbsnature.png" group-title="Documentary",PBS Nature
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2783,7 +2786,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/fsvs0bvb7h/
 #KODIPROP:inputstream.adaptive.license_key=c9d9ff22763b83b4ff72001f9ce632c5:b55821341a79541aba79b759cc823be1
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/out/v1/cb1c6fe397164335b456dd8a33cb821b/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://resources.finalsite.net/images/f_auto,q_auto/v1606837007/lnsuorg/u1hjnbjwaswqk0yleda5/ken.png" group-title="Documentary",PBS Ken Burns
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pbsken.png" group-title="Documentary",PBS Ken Burns
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2791,7 +2794,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/qi23sqygqv/
 #KODIPROP:inputstream.adaptive.license_key=a94324af694aae8210572186c7cf1c04:63c879aa2e3128d12e12ba6956c99c01
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zaf7e2tnmr/out/v1/94ef3b285f51419791b3b435ce449255/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/A6GXhta.png" group-title="Documentary",PBS Travel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pbstravel.png" group-title="Documentary",PBS Travel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2799,7 +2802,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/zaf7e2tnmr/
 #KODIPROP:inputstream.adaptive.license_key=a37ce8d3160b036da8fd40ccf583ac41:0b82dcfa0995bbc6f382a3d8ef066ab9
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/out/v1/5d9a60deddcd460d8eb8d685dfe5e148/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/MvnT9eH-show-mezzanine16x9-JXjD3iL.jpg" group-title="Documentary",PBS Documentaries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pbsdoc.png" group-title="Documentary",PBS Documentaries
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2807,7 +2810,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/mxbsynqple/
 #KODIPROP:inputstream.adaptive.license_key=5d97cf2527ef9b9d20afd7dd446af50b:87713be5a27996ee6901bd46a791f06b
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/5kgj4foeaa/out/v1/aac8e6bb3b924bdf896032592ada5a3c/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://familyhistorydaily.com/wp-content/uploads/2024/07/genealogy-roadshow.jpg" group-title="Documentary",PBS Genealogy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pbsgen.png" group-title="Documentary",PBS Genealogy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2827,13 +2830,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10
 #KODIPROP:inputstream.adaptive.license_key=7800bfe7a7b4f5c983c9dc3c500b0357:2be6d286bb03f70e43e4019f9d7c1d34
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/c9sshqw4lf/out/v1/6173f88d0c4e440bb3071a1e89d3a541/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natwild.png" group-title="Documentary",National WILD
+#EXTINF:-1 tvg-id="NationalGeographic.tr@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="Documentary",National WILD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
 https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 
-#EXTINF:-1 tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/11/curiosity-now.jpg.jpeg" group-title="Documentary",Curiosity Now
+#EXTINF:-1 tvg-logo="https://media-01.imu.nl/storage/thehappyinvestors.nl/4298/klein-aandeel-met-potentie-558x236.jpg" group-title="Documentary",Curiosity Now
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2873,7 +2876,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/
 #KODIPROP:inputstream.adaptive.license_key=163975022cfd582eefca8d9e3a9ef4ea:95e911ecff6b8bbcd8c5ca6ea4219d02
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/out/v1/a5c9712cac43483baaf7314645fe6e9c/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://res.cloudinary.com/jerrick/image/upload/d_642250b563292b35f27461a7.png,f_jpg,fl_progressive,q_auto,w_1024/gonnbgr2jxzjrx18o55a.jpg" group-title="Documentary",Mythbusters
+#EXTINF:-1 tvg-logo="https://cporising.com/wp-content/uploads/2024/07/Mythbusters.jpg" group-title="Documentary",Mythbusters
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
