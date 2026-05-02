@@ -822,6 +822,14 @@ https://ayo.maling.pl/Vision/index.mpd?id=137
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/citramuslim.png" group-title="Indo Movies",Citra Muslim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f0bdfdef0f564819a2b43345b328f989:9f7555440fb310341ddb00cdbc638cea
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 12) ExoPlayerLib/2.15.1
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
+
 
 #<=============INDO Sports =================================================================================================>
 
@@ -2641,6 +2649,13 @@ https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="History.jp@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history5.png" group-title="Documentary",History Channel Japan (544p)
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aplanet.png" group-title="Documentary",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aplanet.png" group-title="Documentary",Animal Planet
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
