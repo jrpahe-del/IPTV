@@ -2573,8 +2573,6 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #<================= Documentary ===========================================================>#
 
 
-
-
 #EXTINF:-1 tvg-id="BBC Earth" tvg-url="hmmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcearth.png" group-title="Documentary",BBC Earth (V+)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2657,7 +2655,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
 #KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aplanet.png" group-title="Documentary",Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aplanet.png" group-title="Documentary",Animal Planet 2
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
@@ -2716,6 +2714,13 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aplanet.png" group-title="Documentary",Animal Planet
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 
 #EXTINF:-1 tvg-name="HISTORY" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="Documentary",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2899,7 +2904,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/
 #KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://www.bryantstibel.com/wp-content/uploads/2022/04/rover-white-1024x342.png" group-title="Documentary",Rovr Pets
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rovrpet.png" group-title="Documentary",Rovr Pets
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2939,7 +2944,7 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 #KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/674e52dfce16dd42647c6c98/36877efb-d893-4007-9f21-9c2d50265282/2024.12-Jacks-Jungle-Khaki.png?format=1500w" group-title="Documentary",The Jack Hanna Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/thejack.png" group-title="Documentary",The Jack Hanna Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
