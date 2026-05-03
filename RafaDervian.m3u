@@ -1558,10 +1558,10 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv16hd.m3u8?auth=testpub
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV17.png",CCTV 17
 http://38.75.136.137:98/gslb/dsdqpub/cctv17hd.m3u8?auth=testpub
 
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV1.png",CCTV 1
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV1.png",CCTV-1
 http://play.kankanlive.com/live/1698234869325962.m3u8
 
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV13.png",CCTV 13
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV13.png",CCTV-13
 http://pull-hls-f11.douyincdn.com/media/stream-695715623379403436.m3u8?expire=1778193009&sign=45fe2b90306250f83c8803f9a636a49d&arch_hrchy=w1&exp_hrchy=w1&neq=1&major_anchor_level=common&t_id=037-20260501063009D573D93A189AC1017167-huDcbM
 
 #EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/52/CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2_2006.png/revision/latest?cb=20240623034254&path-prefix=vi",CHC家庭影院 2
@@ -1576,46 +1576,46 @@ https://t.freetv.fun/live/chcdong-zuo-dian-ying-6.m3u8
 #EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/07/CHC%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1_2006.png/revision/latest?cb=20240623032425&path-prefix=vi",CHC影迷电影
 https://t.freetv.fun/live/chcying-mi-dian-ying-6.m3u8
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9_logo.png/revision/latest/scale-to-width-down/2334?cb=20250619131628&path-prefix=vi",河南卫视
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",河南卫视
 http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=a274b157c4c5321afbaba8b712c9d9b5&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93_2012_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/2272?cb=20250619131259&path-prefix=vi",新闻频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",新闻频道
 http://tvcdn.stream3.hndt.com/tv/65bb6966017e100059b75a8500000000_transios/playlist.m3u8?wsSecret=36eba960df3aecafe4c2a6148b7f9e85&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/%E6%B2%B3%E5%8D%97%E9%83%BD%E5%B8%82%E9%A2%91%E9%81%93_2012.png/revision/latest/scale-to-width-down/985?cb=20250619131253&path-prefix=vi",都市频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",都市频道
 http://tvcdn.stream3.hndt.com/tv/65c3fbc5017e1000fde13faa00000000_transios/playlist.m3u8?wsSecret=f44b34710590c07f7d6380d5513b2b01&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93_2012_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/2272?cb=20250619131259&path-prefix=vi",民生频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",民生频道
 http://tvcdn.stream3.hndt.com/tv/65bef28a017e10009c49d5f900000000_transios/playlist.m3u8?wsSecret=1b92dbe8afd18ccb4c30077fa3c53b7d&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9_logo.png/revision/latest/scale-to-width-down/2334?cb=20250619131628&path-prefix=vi",法治频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",法治频道
 http://tvcdn.stream3.hndt.com/tv/65be54a9017e1000af59fb4800000000_transios/playlist.m3u8?wsSecret=debab526a8ccbfb319d357e80496e4e6&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://nettv.live/uploads/allimg/25/1-25062R311030-L.png",公共频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",公共频道
 http://tvcdn.stream3.hndt.com/tv/65b93894017e10000ae6b07d00000000_transios/playlist.m3u8?wsSecret=975b19d849a94d94609fb16007c0fd51&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9_logo.png/revision/latest/scale-to-width-down/2334?cb=20250619131628&path-prefix=vi",河南乡村频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",河南乡村频道
 http://tvcdn.stream3.hndt.com/tv/65b8302b017e100019dc540f00000000_transios/playlist.m3u8?wsSecret=81a018e37ab40c712435adeac27760be&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93_2012_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/2272?cb=20250619131259&path-prefix=vi",电视剧频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",电视剧频道
 http://tvcdn.stream3.hndt.com/tv/65bd329b017e1000648cd2ed00000000_transios/playlist.m3u8?wsSecret=ae5dc365d21f62fe12787cd381c6c11b&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93_2012_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/2272?cb=20250619131259&path-prefix=vi",梨园频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",梨园频道
 https://dxtx.hntv.tv/live/lypd.m3u8?txSecret=10c771842a0be59e8b575d765173ec96&txTime=7B923E0A&wsSecret=2f164142b3d9a4cf7659afed9037038f&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/0/0a/%E6%B2%B3%E5%8D%97%E6%96%87%E7%89%A9%E5%AE%9D%E5%BA%93_2017.png/revision/latest/scale-to-width-down/2224?cb=20250619131458&path-prefix=vi",文物宝库
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",文物宝库
 https://dxtx.hntv.tv/live/wwbk.m3u8?txSecret=317b89626134fd6bea6e129455b5ff18&txTime=7C4C635C&wsSecret=f0e0d0f59cb75e3a0b3fdba20d0f82cc&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/5c/%E6%B2%B3%E5%8D%97%E6%B3%95%E6%B2%BB%E9%A2%91%E9%81%93_logo.png/revision/latest/scale-to-width-down/985?cb=20250619131623&path-prefix=vi",武术频道
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",武术频道
 https://dxtx.hntv.tv/live/wssj.m3u8?txSecret=c38b4d31ba4c45c6babb5c47132123e3&txTime=7ABB976A&wsSecret=6fc0f7826e67a0e7a38b4ed40d99093f&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9_logo.png/revision/latest/scale-to-width-down/2334?cb=20250619131628&path-prefix=vi",睛彩中原
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",睛彩中原
 https://dxtx.hntv.tv/live/jczy.m3u8?txSecret=e785008e49564e5e738439b4dd2ae68e&txTime=7C4C6207&wsSecret=1a9ab210c32665a64b3bc1723530a3c7&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/%E6%B2%B3%E5%8D%97%E6%B0%91%E7%94%9F%E9%A2%91%E9%81%93_2012_b%E1%BA%A3n_2.png/revision/latest/scale-to-width-down/2272?cb=20250619131259&path-prefix=vi",象视界
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",象视界
 http://tvcdn.stream3.hndt.com/tv/d34d1a2b0178100022de972e00000000_transios/playlist.m3u8?wsSecret=55aaa8b1025c8423d30fb553f5e6a7d9&wsTime=1777773544
 
-#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/57/%E6%B2%B3%E5%8D%97%E6%AC%A2%E8%85%BE%E8%B4%AD%E7%89%A9_logo.png/revision/latest/scale-to-width-down/2334?cb=20250619131628&path-prefix=vi",欢腾购物
+#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnlogo.png",欢腾购物
 http://tvcdn.stream3.hndt.com/tv/65ba653b017e1000d4ee41c700000000_transios/playlist.m3u8?wsSecret=703ea19a286ffa1e7448de9806b1f74b&wsTime=1777773544
 
 
