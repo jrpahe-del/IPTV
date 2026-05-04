@@ -2203,19 +2203,19 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://yt3.googleusercontent.com/O9giq9YaGKr56yBo3TuUuN6ZGPLSBcrXBwVV05xGJad0z52b-GFAlHd718WfpKCFW6kaEqyhflU=s900-c-k-c0x00ffffff-no-rj", C31 Melbourne
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192714/C31-logo.png", C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROgStgqnaD9XoiJg-FRKTne1AzsDs1zSyJmetBUeff3wjmk0c4eZ1FNx8&s=10",Channel 44
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgA4_n7qGd3anx5oT3ogwCOQdsCA7AmPSt4_8ofq3XV3nIW9UWGD4RfY&s=10",Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://images.swm.digital/image?u=https://api.tvapi.com.au/v1/data/appconfig/p8/images/Ausbiz_16-9_Black.jpg&q=70&w=828",Ausbiz TV
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ausbiz.com.au/assets/logo.png",Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://assets.bwbx.io/s3/multimedia/public/app/images/bloomberg_default-a4f15fa7ee.jpg",Bloomberg TV Australia
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ewsat.com/img/EXPO_CHANNEL.png",Expo Channel
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://www.intothelight.paris/wp-content/uploads/2025/03/lexpo-1536x563.png",Expo Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
@@ -2272,6 +2272,37 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTVLCOPT:http-referrer=https://abc.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/FAvbwG4AstAvoVQfcmUI1PgACC0=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="AUSTRALIA TV",Mystery & Paranormal-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mystery-and-paranormal-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xaNdnPn5W3BwSQs7llqODbYZ0X6.png" group-title="AUSTRALIA TV",Seinfled-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-seinfledtv-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60-Minutes-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-60-minutes-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/members.abettertheater.com/wp-content/uploads/2023/12/History-logo.webp?fit=500,200&ssl=1" group-title="AUSTRALIA TV",History-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
+#EXTINF:- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Marriage-at-first-sight-logo-300x140.png/revision/latest?cb=20180809074751" group-title="AUSTRALIA TV",Married At First Sight-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mfs-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/tW7RCAz-show-white-logo-lDtqm4S.png" group-title="AUSTRALIA TV",The Block-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-the-block-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/21222197/71C11E99-30C3-4140-af43-bd28a2f6d3fb.png?imformat=chrome" group-title="AUSTRALIA TV",Dance Moms-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-dance-moms-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xaNdnPn5W3BwSQs7llqODbYZ0X6.png" group-title="AUSTRALIA TV",Seinfeld 24x7
+https://fast-channels-prod.akamaized.net/out/v1/879ab979a42c4b03a4f49981c87bc271/live.m3u8
+#EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60 Minutes Australia 24x7
+https://fast-channels-prod.akamaized.net/out/v1/426fe60b8c1e4b0f921da72848bf55df/live.m3u8
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/GoQkLiOf6XGh_b2IPFtLImdvRkA=/1920x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F577797%2F9crime_logo.png" group-title="AUSTRALIA TV",9 Crime
+https://fast-channels-prod.akamaized.net/out/v1/d8f5fb60797e4c78abc7041864095111/live.m3u8
+#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/7876782/1C57F3B6-38EC-49da-8761-f692f9bca0eb.png?imformat=chrome" group-title="AUSTRALIA TV",Married at First Sight UK alt
+https://fast-channels-prod.akamaized.net/out/v1/2dce4756bb3d4ce5a9ef88aaa7fb4ca6/live.m3u8
+#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/21222197/71C11E99-30C3-4140-af43-bd28a2f6d3fb.png?imformat=chrome" group-title="AUSTRALIA TV",Dance Moms 24x7
+https://fast-channels-prod.akamaized.net/out/v1/71be5ebc96d84b7b828daa2a5aa5338a/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.pedestrian.tv/wp-content/uploads/2021/02/18/new-lead.jpg?quality=50" group-title="AUSTRALIA TV",Pedestrian Music TV
+https://fast-channels-prod.akamaized.net/out/v1/c81c18d56f3840c29f10ffed5e1f1cb9/live.m3u8
+#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/tW7RCAz-show-white-logo-lDtqm4S.png" group-title="AUSTRALIA TV",The Block 24x7
+https://fast-channels-prod.akamaized.net/out/v1/cabdd7a838404b0ca662dab4d5724960/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kB0RBAP_rj3EXjTPiW-vVkZRcaFtA02755rb5-C-Uyog=s900-c-k-c0x00ffffff-no-rj" group-title="AUSTRALIA TV",LMN 
+https://fast-channels-prod.akamaized.net/out/v1/c4f1b78a1ff04dd4a54e5616ed44c93b/live.m3u8
 
 
 #============CAMBODJA====================#
