@@ -2215,7 +2215,7 @@ https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
 
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://www.intothelight.paris/wp-content/uploads/2025/03/lexpo-1536x563.png",Expo Channel
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.shopify.com/s/files/1/0788/6992/2098/files/TVSN_LOGO_480x480.png?v=1709261839",TVSN Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
@@ -2279,7 +2279,7 @@ https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-chan
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-seinfledtv-nsa.m3u8
 #EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60-Minutes-Geo
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-60-minutes-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/members.abettertheater.com/wp-content/uploads/2023/12/History-logo.webp?fit=500,200&ssl=1" group-title="AUSTRALIA TV",History-Geo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="AUSTRALIA TV",History-Geo
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
 #EXTINF:- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Marriage-at-first-sight-logo-300x140.png/revision/latest?cb=20180809074751" group-title="AUSTRALIA TV",Married At First Sight-Geo
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mfs-nsa.m3u8
