@@ -3471,7 +3471,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c45d2c72ab7e41f7b368a3a09dacfd08:72d5dd7b3d92a23d81317a04ac25271a
-#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/first.png" group-title="Entertainment", First Lifestyle 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/first.png" group-title="Entertainment",First Lifestyle 
 https://atemecdnbalancer-voe.sysln.id/live/eds/FirstLifestyleHD/mediampd/FirstLifestyleHD.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
