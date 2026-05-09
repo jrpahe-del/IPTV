@@ -815,8 +815,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 
 #EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/insert.png",Insert
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-http://103.58.160.157:8278/720-INSERT/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
+https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/IW5zZXJ0/manifest.mpd
 
 
 #<=============INDO Sports =================================================================================================>
@@ -2184,90 +2188,24 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
 
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="AUSTRALIA TV",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192714/C31-logo.png", C31 Melbourne
 https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgA4_n7qGd3anx5oT3ogwCOQdsCA7AmPSt4_8ofq3XV3nIW9UWGD4RfY&s=10",Channel 44
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ausbiz.com.au/assets/logo.png",Ausbiz TV
 https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg TV Australia
 https://bloomberg.com/media-manifest/streams/aus.m3u8
-
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.shopify.com/s/files/1/0788/6992/2098/files/TVSN_LOGO_480x480.png?v=1709261839",TVSN Channel
 https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-sa.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Brisbane
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-qld.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Canberra
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-act.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Darwin
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-nt.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Hobart
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-tas.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Melbourne
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-vic.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Perth
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-wa.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Sydney
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-nsw.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC Family
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-tv-plus.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC Entertains
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-me.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC News
-#EXTVLCOPT:http-referrer=https://abc.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/FAvbwG4AstAvoVQfcmUI1PgACC0=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="AUSTRALIA TV",Mystery & Paranormal-Geo
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mystery-and-paranormal-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xaNdnPn5W3BwSQs7llqODbYZ0X6.png" group-title="AUSTRALIA TV",Seinfled-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-seinfledtv-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60-Minutes-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-60-minutes-nsa.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="AUSTRALIA TV",History-Geo
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
 #EXTINF:- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Marriage-at-first-sight-logo-300x140.png/revision/latest?cb=20180809074751" group-title="AUSTRALIA TV",Married At First Sight-Geo
 https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mfs-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/tW7RCAz-show-white-logo-lDtqm4S.png" group-title="AUSTRALIA TV",The Block-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-the-block-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/21222197/71C11E99-30C3-4140-af43-bd28a2f6d3fb.png?imformat=chrome" group-title="AUSTRALIA TV",Dance Moms-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-dance-moms-nsa.m3u8
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xaNdnPn5W3BwSQs7llqODbYZ0X6.png" group-title="AUSTRALIA TV",Seinfeld 24x7
 https://fast-channels-prod.akamaized.net/out/v1/879ab979a42c4b03a4f49981c87bc271/live.m3u8
 #EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60 Minutes Australia 24x7
@@ -2284,6 +2222,40 @@ https://fast-channels-prod.akamaized.net/out/v1/c81c18d56f3840c29f10ffed5e1f1cb9
 https://fast-channels-prod.akamaized.net/out/v1/cabdd7a838404b0ca662dab4d5724960/live.m3u8
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kB0RBAP_rj3EXjTPiW-vVkZRcaFtA02755rb5-C-Uyog=s900-c-k-c0x00ffffff-no-rj" group-title="AUSTRALIA TV",LMN 
 https://fast-channels-prod.akamaized.net/out/v1/c4f1b78a1ff04dd4a54e5616ed44c93b/live.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Brisbane
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Canberra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Darwin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Hobart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Melbourne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Perth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Sydney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC Entertains
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
 
 #============CAMBODJA====================#
@@ -2328,6 +2300,26 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #============INDIA=================#
 
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebioskop.png",Zee Bioskop (V+)
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dantv.png" group-title="INDIA TV",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="INDIA TV",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzWsaXTGzqeKQ54Dqfr4j5BjWjDvCsR8OywDAa60azLP7ct4doDl6MI8&s=10" group-title="INDIA TV",Hare Krsna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -2335,34 +2327,6 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/59f65220db9d688fbaadde26c62344f6.png"group-title="INDIA TV",9X Jhakaas
-https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="INDIA TV",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest?cb=20240319200053"group-title="INDIA TV",B4U Kadak
-https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo Film TV
-https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Music
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Punjabi Gold
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/133758-ptc.JPG"group-title="INDIA TV",PTC News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/491-4910873_ptc-punjabi-hd-png-download.png"group-title="INDIA TV",PTC Punjabi
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="INDIA TV",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" group-title="INDIA TV",Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AIdro_kI4JClRCHEh9PH1YHLAm7kULM1u9UUStnre_vqyPnRFgM/default.jpg" group-title="INDIA TV",] 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/56/ENTV_Bangla_Movies_HD_logo_%282020%29.png/revision/latest?cb=20210429041753" group-title="INDIA TV",Bangla Movies 
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="INDIA TV",Zee TV HD
@@ -2374,16 +2338,78 @@ http://103.229.254.25:7001/play/a0cs/index.m3u8
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Action.png"group-title="INDIA TV",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/59f65220db9d688fbaadde26c62344f6.png"group-title="INDIA TV",9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest?cb=20240319200053"group-title="INDIA TV",B4U Kadak
+https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="INDIA TV",Shemaroo Josh (720p)
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo Marathi Bana (720p)
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo TV (720p)
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_UMANG/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo Umang (720p)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo Film music (720p)
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Chakde (720p)
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Music (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" group-title="INDIA TV",PTC News (576p)
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi Gold (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Green%20TV.png"group-title="INDIA TV",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" group-title="INDIA TV",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AIdro_kI4JClRCHEh9PH1YHLAm7kULM1u9UUStnre_vqyPnRFgM/default.jpg" group-title="INDIA TV",] 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/56/ENTV_Bangla_Movies_HD_logo_%282020%29.png/revision/latest?cb=20210429041753" group-title="INDIA TV",Bangla Movies 
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="INDIA TV",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood 
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/2Iywcnbbyac/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD0Er9ywSBxMVJFNEN2EcDrfw51qg"group-title="INDIA TV",DD Asian
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="INDIA TV",Goldmines (576p)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="INDIA TV",Goldmines 2 (576p)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",Goldmines Movies (576p)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540"group-title="INDIA TV",DD Asian
 https://cdn-4.pishow.tv/live/25/master.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/c4Y6yMuq54tw8eg4pYZNPKL5wbvJaQL5zbZZfuM_d7Xyj4OrrZfskH9Q2mn5tG-6Mic=w526-h296-rw"group-title="INDIA TV",URDU TV
 https://cdn-4.pishow.tv/live/8/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/%26TV_orange_white.png/revision/latest/scale-to-width-down/250?cb=20250127160159" group-title="INDIA TV",&TV HD (1080p)
 http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="INDIA TV",Sony Sports Ten 2 HD (1080p)
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="INDIA TV",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="INDIA TV",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="News18Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png" group-title="INDIA TV",News18 Bangla (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" group-title="INDIA TV",News18 India (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="News",Awaaz India TV (720p) [Not 24/7]
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" group-title="INDIA TV",India Daily Live (1080p)
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="News",Awaaz India TV (720p) [Not 24/7]
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8#EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="INDIA TV",Awakening TV (576p)
+#EXTINF:-1 tvg-id="RTIndia.in@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Russia-today-logo.svg" group-title="News",RT India (1080p)
+https://rt-india.rttv.com/dvr/rtindia/playlist.m3u8
 
 
 #==========MYANMAR===================#
