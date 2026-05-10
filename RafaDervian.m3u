@@ -2382,7 +2382,7 @@ https://cdn-2.pishow.tv/live/1460/master.m3u8
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
 #EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",Goldmines Movies (576p)
 https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1e/DD_India_logo_2023.png/revision/latest/scale-to-width-down/985?cb=20231001010656&path-prefix=vi" group-title="INDIA TV",DD Asian
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
 https://cdn-4.pishow.tv/live/25/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png"group-title="INDIA TV",URDU TV
 https://cdn-4.pishow.tv/live/8/master.m3u8
@@ -2440,13 +2440,13 @@ https://cdn-2.pishow.tv/live/1604/master.m3u8
 https://cdn-2.pishow.tv/live/1613/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
 https://cdn-7.pishow.tv/live/453/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/1e/DD_India_logo_2023.png/revision/latest/scale-to-width-down/985?cb=20231001010656&path-prefix=vi" group-title="INDIA TV",DD Asian
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
 https://cdn-4.pishow.tv/live/25/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Mahaa_News_new.jpeg/revision/latest?cb=20191226172851"group-title="INDIA TV",MAHAA NEWS
 https://cdn-1.pishow.tv/live/401/master.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/dbb980847ae214a5105907f35ed65e48.png"group-title="INDIA TV",ABN TV
 https://cdn-1.pishow.tv/live/407/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="INDIA TV", DD BHARATI TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="INDIA TV",DD BHARATI TV
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="INDIA TV",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
