@@ -2321,11 +2321,11 @@ https://seatv.netlinkbroadcaster.com/hls/test.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://i.imgur.com/EWkyqrw.png",KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/KG1_Kien_Giang.png/revision/latest?cb=20200622095807",KienGiangTV
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/KG1_Kien_Giang.png/revision/latest?cb=20200622095807",KienGiangTV1
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 
@@ -2515,7 +2515,7 @@ http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dU2w3eCjd-u5ifnlcaoPiQFdbiSKwIWVP6fH9z9aDmVkV22p3syf02ZYrKfKNm8bqiU" group-title="MYANMAR", 膼峄搉g Nai 2(မြန်မာ)
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/KG1_Kien_Giang.png/revision/latest?cb=20200622095807" group-title="MYANMAR", KienGiangTV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="MYANMAR", ATV1
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdd89GgRKBL7vv_M5jwzQdrXIiXn5vBnT80h2NECH1ku42P5BXwSTiWzlR&s=10" group-title="MYANMAR", Hmong Star TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
@@ -2626,7 +2626,7 @@ https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="VIETNAM", KhAnh HOa
 https://tv.ktv.org.vn/hls/ktv2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/KG1_Kien_Giang.png/revision/latest?cb=20200622095807" group-title="VIETNAM", KiAn Giang 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="VIETNAM", ATV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/CTV_C%C3%A0_Mau_07-2025.png/revision/latest/scale-to-width-down/985?cb=20260101131511&path-prefix=vi" group-title="VIETNAM", CA Mau
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
@@ -2634,7 +2634,7 @@ http://tv.ctvcamau.vn/live/tv/tv.m3u8
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/7/7b/Btvhdblue.webp/revision/latest/scale-to-width-down/284?cb=20220718193101&path-prefix=bg" group-title="VIETNAM",  BTV HD | TH Bình Định
 http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/KG1_Kien_Giang.png/revision/latest?cb=20200622095807" group-title="VIETNAM", KiAn Giang
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="VIETNAM", ATV1
 https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="VIETNAM",  TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
