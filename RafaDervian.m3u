@@ -33,7 +33,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstrib
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://i.pinimg.com/736x/25/da/83/25da83fd8c3e0a119f8cc1409deb0e7f.jpg", 14:45 WIB Macarthur vs Bangkok United
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/soccer-logo-design-template-17da39f2c5428225e3d5baad9038ef98_screen.jpg?ts=1737117163", 14:45 WIB Macarthur vs Bangkok United
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
