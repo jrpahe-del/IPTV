@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/event4.png" group-title="EVENT LIVE SPORTS",0300 WIB EVENT BOLA+ 2026
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/seria.png" group-title="EVENT LIVE SPORTS",0300 WIB EVENT BOLA+ 2026
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -33,7 +33,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02873-kravemedia-mtrspt1-sportstrib
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://d1csarkz8obe9u.cloudfront.net/posterpreviews/soccer-logo-design-template-17da39f2c5428225e3d5baad9038ef98_screen.jpg?ts=1737117163", 14:45 WIB Macarthur vs Bangkok United
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/soccer1.png",14:45 WIB Macarthur vs Bangkok United
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -63,7 +63,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/m6sqanvm2m/
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://www.fifaultimateteam.it/en/wp-content/uploads/2020/05/cover-totssf-csl-fifa-20.jpg",00:45 WIB PAOK vs Celta de Vigo
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/28uq381687624585.png/medium",00:45 WIB PAOK vs Celta de Vigo
 http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
 #KODIPROP:inputstream=inputstream.adaptive
