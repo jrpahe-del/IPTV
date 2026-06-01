@@ -1,6 +1,4 @@
 ,#EXTM3U
-keneng kang renekilo tamengono aku 
-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
