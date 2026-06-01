@@ -182,10 +182,12 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/in
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="mml" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="Indonesia",MNC TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #EXTINF:-1 tvg-id="9" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="Indonesia",Indosiar
-http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab1fe99e4e4f4cbe95930b3154c1fb19:c7f529deccbf6709e3e65c61c8d1344f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
 
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -294,7 +296,7 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo5.png" group-title="Indonesia" ,SINPO TV
-https://cdn10jtedge.indihometv.com/atm/DASH/sinpotv/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/jtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -692,8 +694,8 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/in
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
-#EXTINF:-1 tvg-id="Maxstream.id" tvg-name="Maxstream" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstrim.png" group-title="Indo Movies", Maxstream
-https://cdn08jtedge.indihometv.com/dassdvr/134/maxstream/manifest_wuseetv.mpd
+#EXTINF:-1 tvg-id="]eam.id" tvg-name="Maxstream" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstrim.png" group-title="Indo Movies", Maxstream
+https://indihuy.streamized.net/atm/DASH/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -726,22 +728,11 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indo Movies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/allplay.png",AllPlay Ent
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=79698301a95740009531b1d53e3ad5fe:7240a4a29a54e6089b108fbcb95cb265
-#EXTINF:-1 tvg-url="mmm" group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/flik5.png",Flik
-https://cdn08jtedge.indihometv.com/dassdvr/130/flik/manifest.mpd
-
-#EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebioskop.png" group-title="Indo Movies",Zee Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/zbioskop/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="Indo Movies",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -749,27 +740,13 @@ https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
 #EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ggstv.png",GGSTV
 https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bioskopindo.png" group-title="Indo Movies", Bioskop Indonesia
-https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd
-
-#EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/duniaanak.png",Dunia Anak
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
-https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/RHVuaWEgQW5haw/manifest.mpd
-
-#EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dunialain.png",Dunia Lain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
-https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/RHVuaWEgTGFpbg/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -799,14 +776,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/Cit
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/citramuslim.png" group-title="Indo Movies",Citra Muslim
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd
 
-#EXTINF:-1 group-title="Indo Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/insert.png",Insert
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ee68086f028e431385bba0a6a8f71543:cb97a816d96d45b192bd97a9be922094
-https://cdnjktbpid02.transvision.co.id/riutx01-35d1ba6950454cced97575281e6279d58e5be4321858e7f654ba9a9b87fb337e/dash/IW5zZXJ0/manifest.mpd
-
 
 #<=============INDO Sports =================================================================================================>
 
@@ -817,7 +786,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRI_Sports.m3
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxsports.png",Max Sports
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/psjtv5.png" group-title="Indo Sports",PersijaTV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -1163,7 +1132,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="mmm" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png",K-Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/kplus/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
@@ -1254,7 +1223,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="KOREA",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h219/01.m3u8
+https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kbs.png" group-title="KOREA",KBS Korea
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -2569,109 +2538,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 #============VIETNAM=================#
 
-
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_31-07-2023.png/revision/latest/scale-to-width-down/2488?cb=20260105144448&path-prefix=vi", Dong Thap TV
-https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest?cb=20201008153201",BGTV HD Bắc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TBK_logo_2021.png/revision/latest?cb=20231007103028&path-prefix=vi",TBK
-http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi", DRT
-https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/CTV_C%C3%A0_Mau.png/revision/latest?cb=20200712010026",Cà Mau TV
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/CRTV_Cao_B%E1%BA%B1ng.png/revision/latest?cb=20200711123050",Cao Bang TV
-http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/hMDRDxN.png", Dien Bien TV
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://themediaonline.co.za/wp-content/uploads/2023/10/TraceUrban_Logo_colour_578x278.png",Trace Urban
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/%C4%90NNRTV.png/revision/latest/scale-to-width-down/197?cb=20250818153925&path-prefix=vi" group-title="VIETNAM",Đồng Nai 1
-http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/%C4%90NNRTV.png/revision/latest/scale-to-width-down/197?cb=20250818153925&path-prefix=vi" group-title="VIETNAM",Đồng Nai 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HaGiangTV.vn" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM",Ha Giang TV
-http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/%C4%90NNRTV.png/revision/latest/scale-to-width-down/197?cb=20250818153925&path-prefix=vi" group-title="VIETNAM", Dong Nai 3
-http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="VIETNAM", BAc Ninh
-http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="VIETNAM", Lai ChAu
-http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="VIETNAM", LAm Dong
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="VIETNAM", PhU YEn
-http://113.161.4.48:8080/phuyen/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kETe9LN.png" group-title="VIETNAM", Cao BAng
-http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM", HA Giang
-http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/THLD.png/revision/latest?cb=20210714105415&path-prefix=vi" group-title="VIETNAM",LTV HD TH Lâm Đồng
-http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ui0sjEz.png" group-title="VIETNAM", HAi PhOng+
-https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="VIETNAM", HAi PhOng
-https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JAglyuT.png" group-title="VIETNAM", HUng YEn
-https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="VIETNAM", Dak LAk
-https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/NgcSFah.png" group-title="VIETNAM", HA Nam
-https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="VIETNAM", BAc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest?cb=20201008153201" group-title="VIETNAM",BGTV HD | TH Bắc Giang
-https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="VIETNAM", LAng SOn
-https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="VIETNAM", Ninh BInh
-https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="VIETNAM", KhAnh HOa
-https://tv.ktv.org.vn/hls/ktv2.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="VIETNAM", ATV1
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/CTV_C%C3%A0_Mau_07-2025.png/revision/latest/scale-to-width-down/985?cb=20260101131511&path-prefix=vi" group-title="VIETNAM", CA Mau
-http://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="VIETNAM", BInh Dinh
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/7/7b/Btvhdblue.webp/revision/latest/scale-to-width-down/284?cb=20220718193101&path-prefix=bg" group-title="VIETNAM",  BTV HD | TH Bình Định
-http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="VIETNAM", ATV1
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="VIETNAM",  TVK
-https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="VIETNAM", Kon Tum
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="VIETNAM", Ninh ThuAn
-https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="VIETNAM", BInh PhUoc 2
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="VIETNAM", LAo Cai
-https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="VIETNAM", HAi DUong
-http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2022/06/wion-news-logo.jpg" group-title="VIETNAM",WION
-https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L8ufYjD.png" group-title="VIETNAM", HOa BInh.
-http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="VIETNAM", DiEn BiEn
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="VIETNAM", BAc KAn
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0fGI8cJ.png" group-title="VIETNAM", CAn ThO
-https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="VIETNAM", BInh ThuAn
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/75/QRT_1997.png/revision/latest?cb=20210827005816&path-prefix=vi" group-title="VIETNAM", Quang Nam
-https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/HGTV_Hau_Giang.png/revision/latest?cb=20191114091251" group-title="VIETNAM",  THTPCT HD | TH Cần Thơ
-https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/7/7b/Btvhdblue.webp/revision/latest/scale-to-width-down/284?cb=20220718193101&path-prefix=bg" group-title="VIETNAM",  BTV HD | TH Bình Thuận
-https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="VIETNAM", BAc  LiAu
-https://tv.thbl.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/HTTV.png/revision/latest?cb=20250520235530&path-prefix=vi" group-title="VIETNAM",  HTTV HD | TH Hà Tĩnh
-https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv1hd" tvg-name="VTV1" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" tvg-logo="https://i.imgur.com/nfkmvAY.png" group-title="VIETNAM" ,VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist_b4200000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/BVwi3K3.png" group-title="VIETNAM" ,VTV2
@@ -2894,6 +2760,109 @@ https://live.fptplay53.net/fnxsd1/hungyen_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8 
 #EXTINF:0 tvg-id="hue" group-title="VIETNAM" tvg-logo="https://i.imgur.com/q5MBibm.png",HUE
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8 
+
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b7/TH%C4%90T1_logo_31-07-2023.png/revision/latest/scale-to-width-down/2488?cb=20260105144448&path-prefix=vi", Dong Thap TV
+https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest?cb=20201008153201",BGTV HD Bắc Giang
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TBK_logo_2021.png/revision/latest?cb=20231007103028&path-prefix=vi",TBK
+http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi", DRT
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/CTV_C%C3%A0_Mau.png/revision/latest?cb=20200712010026",Cà Mau TV
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/07/CRTV_Cao_B%E1%BA%B1ng.png/revision/latest?cb=20200711123050",Cao Bang TV
+http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://i.imgur.com/hMDRDxN.png", Dien Bien TV
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://themediaonline.co.za/wp-content/uploads/2023/10/TraceUrban_Logo_colour_578x278.png",Trace Urban
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV1.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/%C4%90NNRTV.png/revision/latest/scale-to-width-down/197?cb=20250818153925&path-prefix=vi" group-title="VIETNAM",Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="DongNaiTV2.vn" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/%C4%90NNRTV.png/revision/latest/scale-to-width-down/197?cb=20250818153925&path-prefix=vi" group-title="VIETNAM",Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="HaGiangTV.vn" tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM",Ha Giang TV
+http://123.31.36.68/live.m3u8?c=vstv365&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/%C4%90NNRTV.png/revision/latest/scale-to-width-down/197?cb=20250818153925&path-prefix=vi" group-title="VIETNAM", Dong Nai 3
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w828434596_b1384000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sPyR9t6.png" group-title="VIETNAM", BAc Ninh
+http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n02cvKQ.png" group-title="VIETNAM", Lai ChAu
+http://123.31.36.68/live.m3u8?c=vstv361&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iaexSxL.png" group-title="VIETNAM", LAm Dong
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DJsuiHq.png" group-title="VIETNAM", PhU YEn
+http://113.161.4.48:8080/phuyen/tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kETe9LN.png" group-title="VIETNAM", Cao BAng
+http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zXqjjUf.png" group-title="VIETNAM", HA Giang
+http://123.31.36.68/live.m3u8?c=vstv365&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/35/THLD.png/revision/latest?cb=20210714105415&path-prefix=vi" group-title="VIETNAM",LTV HD TH Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ui0sjEz.png" group-title="VIETNAM", HAi PhOng+
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iq9JLb9.png" group-title="VIETNAM", HAi PhOng
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JAglyuT.png" group-title="VIETNAM", HUng YEn
+https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jtyDVU5.png" group-title="VIETNAM", Dak LAk
+https://live.mediatech.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NgcSFah.png" group-title="VIETNAM", HA Nam
+https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/j9lbGel.png" group-title="VIETNAM", BAc Giang
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest?cb=20201008153201" group-title="VIETNAM",BGTV HD | TH Bắc Giang
+https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yxz02UD.png" group-title="VIETNAM", LAng SOn
+https://live.mediatech.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pL4NqYO.png" group-title="VIETNAM", Ninh BInh
+https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N2gUYoh.png" group-title="VIETNAM", KhAnh HOa
+https://tv.ktv.org.vn/hls/ktv2.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="VIETNAM", ATV1
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/0/04/CTV_C%C3%A0_Mau_07-2025.png/revision/latest/scale-to-width-down/985?cb=20260101131511&path-prefix=vi" group-title="VIETNAM", CA Mau
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0yZnK57.png" group-title="VIETNAM", BInh Dinh
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/7/7b/Btvhdblue.webp/revision/latest/scale-to-width-down/284?cb=20220718193101&path-prefix=bg" group-title="VIETNAM",  BTV HD | TH Bình Định
+http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="VIETNAM", ATV1
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601" group-title="VIETNAM",  TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TFTkBVt.png" group-title="VIETNAM", Kon Tum
+https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9bFk5Lj.png" group-title="VIETNAM", Ninh ThuAn
+https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WTixVS.png" group-title="VIETNAM", BInh PhUoc 2
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldwQU4L.png" group-title="VIETNAM", LAo Cai
+https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KrYncYX.png" group-title="VIETNAM", HAi DUong
+http://truyenhinh.vnptvas.vn/live.m3u8?c=vstv369&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-logo="https://www.waterstudio.nl/wp-content/uploads/2022/06/wion-news-logo.jpg" group-title="VIETNAM",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/L8ufYjD.png" group-title="VIETNAM", HOa BInh.
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMDRDxN.png" group-title="VIETNAM", DiEn BiEn
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6HQeLRw.png" group-title="VIETNAM", BAc KAn
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv360&q=high&type=tv&location=NA&pkg=pkg11.hni
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0fGI8cJ.png" group-title="VIETNAM", CAn ThO
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tW0pGBM.png" group-title="VIETNAM", BInh ThuAn
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/75/QRT_1997.png/revision/latest?cb=20210827005816&path-prefix=vi" group-title="VIETNAM", Quang Nam
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/HGTV_Hau_Giang.png/revision/latest?cb=20191114091251" group-title="VIETNAM",  THTPCT HD | TH Cần Thơ
+https://live.canthotv.vn/live/tv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/the-fake-logos-of-the-world/images/7/7b/Btvhdblue.webp/revision/latest/scale-to-width-down/284?cb=20220718193101&path-prefix=bg" group-title="VIETNAM",  BTV HD | TH Bình Thuận
+https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ATG11ql.png" group-title="VIETNAM", BAc  LiAu
+https://tv.thbl.vn/live/tv/tv.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2b/HTTV.png/revision/latest?cb=20250520235530&path-prefix=vi" group-title="VIETNAM",  HTTV HD | TH Hà Tĩnh
+https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 
 
 #<================= Documentary ===========================================================>#
@@ -3644,17 +3613,10 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/
 #================ Entertainemnt=====================================================================================================================================>
 
 
-#EXTINF:-1 tvg-id="Warner TV" tvg-url="mmm" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/warner.png",Warner TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
-#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="mmm" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/warner.png",Warner TV
-https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3662,10 +3624,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d4126f7fd6134adfbedb3a0daefd7657:920f1adcca60069c887da7f1d225607d
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockactions.png" group-title="Entertainment",Rock Action (V+)
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd
-
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rockactions.png" group-title="Entertainment",Rock Action
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3726,15 +3684,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxreels.png" group-title="Entertainment",Max Reels
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxeats.png",Max Eats
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/maxeats/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstreak.png",Max Streak
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
+https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
 
 
 #============ COMEDY ==============================================================================>#
@@ -3879,34 +3837,12 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #===================== Music ===================================================================================>
 
 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cdangdut5.png",Citra Dangdut
-https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mediampd/CitraDangdutHD.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 #EXTINF:-1 tvg-id="Music TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/musictv.png" group-title="Music",Musik TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/imtv.png", IMTV
-#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/prambors5.png",Prambors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e092c5a72f3444419756b6a66c5e64da:8193b7dbb3e1c62ddd30546d3aaf9d40
-#EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i1.sndcdn.com/avatars-000181187049-3ybqi3-t1080x1080.jpg" group-title="Music", Musik Indonesia
-https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest_wuseetv.mpd
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bahana.png",Bahana Radio Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
@@ -5495,168 +5431,5 @@ https://linear-860.frequency.stream/dist/freelivesports/860/hls/master/playlist.
 https://amg17560-amg17560c2-freelivesports-emea-10992.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg17560-fcbarcelona-topbarcaspanish-freelivesportsemea/playlist.m3u8?channel_name=Top%20Barca%20Spanish&content_genre=Football%2CSport&ic=IAB17%2CIAB17-12&rating=G&language=ES&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 tvg-name="Cirque du Soleil" tvg-logo="https://media.unreel.me/prod/freelivesports/logo/3a544454-5beb-49db-87fe-898abd8a4811" group-title="FreeLiveSports",Cirque du Soleil
 https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01439-amg01439c1-amgplt0201/playlist.m3u8?channel_name=Cirque%20du%20Soleil&content_genre=Sport&ic=IAB17&rating=PG&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
-
-
-#==========US PREMIUM.===============#
-
-
-#EXTINF:-1 tvg-id="CineMAX.us" tvg-name="USA: CINEMAX" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/cinemax.png" group-title="USA | PREMIUM",USA: CINEMAX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814412
-#EXTINF:-1 tvg-id="Cinemax5StarMAX.us" tvg-name="USA: CINEMAX 5 STARMAX" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/5starmax.png" group-title="USA | PREMIUM",USA: CINEMAX 5 STARMAX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814413
-#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="USA: CINEMAX ACTION MAX" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/actionmax.png" group-title="USA | PREMIUM",USA: CINEMAX ACTION MAX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814414
-#EXTINF:-1 tvg-id="US: ACTIONMAX WEST" tvg-name="USA: CINEMAX ACTION MAX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/actionmax.png" group-title="USA | PREMIUM",USA: CINEMAX ACTION MAX WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814415
-#EXTINF:-1 tvg-id="COVID19" tvg-name="USA: CINEMAX MOREMAX EAST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/moremax.png" group-title="USA | PREMIUM",USA: CINEMAX MOREMAX EAST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814416
-#EXTINF:-1 tvg-id="US: MOREMAX WEST" tvg-name="USA: CINEMAX MOREMAX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/moremax.png" group-title="USA | PREMIUM",USA: CINEMAX MOREMAX WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814417
-#EXTINF:-1 tvg-id="CineMAXPacific.us" tvg-name="USA: CINEMAX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/cinemaxwest.png" group-title="USA | PREMIUM",USA: CINEMAX WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814422
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="USA: HBO" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo.png" group-title="USA | PREMIUM",USA: HBO
-http://zerotwo.access.ly:2096/ruswri/6024593781/814423
-#EXTINF:-1 tvg-id="HBO2.us" tvg-name="USA: HBO 2" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo2.png" group-title="USA | PREMIUM",USA: HBO 2
-http://zerotwo.access.ly:2096/ruswri/6024593781/814424
-#EXTINF:-1 tvg-id="US: HBO 2 WEST" tvg-name="USA: HBO 2 WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo2.png" group-title="USA | PREMIUM",USA: HBO 2 WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814425
-#EXTINF:-1 tvg-id="HBOComedy.us" tvg-name="USA: HBO COMEDY" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbocomedy.png" group-title="USA | PREMIUM",USA: HBO COMEDY
-http://zerotwo.access.ly:2096/ruswri/6024593781/814426
-#EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="USA: HBO COMEDY WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbocomedy.png" group-title="USA | PREMIUM",USA: HBO COMEDY WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814427
-#EXTINF:-1 tvg-id="US: HBO SIGNATURE EAST" tvg-name="USA: HBO SIGNATURE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbosignature.png" group-title="USA | PREMIUM",USA: HBO SIGNATURE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814430
-#EXTINF:-1 tvg-id="US: HBO SIGNATURE WEST" tvg-name="USA: HBO SIGNATURE WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbosignature.png" group-title="USA | PREMIUM",USA: HBO SIGNATURE WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814431
-#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="USA: HBO WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo_west.png" group-title="USA | PREMIUM",USA: HBO WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814432
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="USA: HBO ZONE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo_zone.png" group-title="USA | PREMIUM",USA: HBO ZONE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814433
-#EXTINF:-1 tvg-id="HBOZone.us" tvg-name="USA: HBO ZONE WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/hbo_zone.png" group-title="USA | PREMIUM",USA: HBO ZONE WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814434
-#EXTINF:-1 tvg-id="HDNetMovies.us" tvg-name="USA: HDNET MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f4/HDNet_Movies_2003_stacked_blue.svg/revision/latest/scale-to-width-down/250?cb=20240304150317" group-title="USA | PREMIUM",USA: HDNET MOVIES
-http://zerotwo.access.ly:2096/ruswri/6024593781/814435
-#EXTINF:-1 tvg-id="IndiePlex.us" tvg-name="USA: INDIEPLEX" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/indieplex.png" group-title="USA | PREMIUM",USA: INDIEPLEX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814436
-#EXTINF:-1 tvg-id="IndiePlexPacific.us" tvg-name="USA: INDIEPLEX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/indieplex.png" group-title="USA | PREMIUM",USA: INDIEPLEX WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814437
-#EXTINF:-1 tvg-id="MGM+.us" tvg-name="USA: MGM+" tvg-logo="https://ww-imgix.ranker.com/providers/mgm_plus.svg" group-title="USA | PREMIUM",USA: MGM+
-http://zerotwo.access.ly:2096/ruswri/6024593781/814438
-#EXTINF:-1 tvg-id="MGM+DriveIn.us" tvg-name="USA: MGM+ DRIVE IN" tvg-logo="https://ww-imgix.ranker.com/providers/mgm_plus.svg" group-title="USA | PREMIUM",USA: MGM+ DRIVE IN
-http://zerotwo.access.ly:2096/ruswri/6024593781/814439
-#EXTINF:-1 tvg-id="MGM+Hits.us" tvg-name="USA: MGM+ HITS" tvg-logo="https://ww-imgix.ranker.com/providers/mgm_plus.svg" group-title="USA | PREMIUM",USA: MGM+ HITS
-http://zerotwo.access.ly:2096/ruswri/6024593781/814440
-#EXTINF:-1 tvg-id="MGM+Marquee.us" tvg-name="USA: MGM+ MARQUEE" tvg-logo="https://ww-imgix.ranker.com/providers/mgm_plus.svg" group-title="USA | PREMIUM",USA: MGM+ MARQUEE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814441
-#EXTINF:-1 tvg-id="MoviePlex.us" tvg-name="USA: MOVIEPLEX" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/movieplex.png" group-title="USA | PREMIUM",USA: MOVIEPLEX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814442
-#EXTINF:-1 tvg-id="MoviePlexPacific.us" tvg-name="USA: MOVIEPLEX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/movieplex.png" group-title="USA | PREMIUM",USA: MOVIEPLEX WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814443
-#EXTINF:-1 tvg-id="RetroPlex.us" tvg-name="USA: RETROPLEX" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/retroplex.png" group-title="USA | PREMIUM",USA: RETROPLEX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814445
-#EXTINF:-1 tvg-id="RetroPlexPacific.us" tvg-name="USA: RETROPLEX WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/retroplex.png" group-title="USA | PREMIUM",USA: RETROPLEX WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814446
-#EXTINF:-1 tvg-id="ScreenPix.us" tvg-name="USA: SCREENPIX" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/ScreenPix_logo_2019.png" group-title="USA | PREMIUM",USA: SCREENPIX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814447
-#EXTINF:-1 tvg-id="ScreenPixAction.us" tvg-name="USA: SCREENPIX ACTION" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/ScreenPix_Action.png" group-title="USA | PREMIUM",USA: SCREENPIX ACTION
-http://zerotwo.access.ly:2096/ruswri/6024593781/814448
-#EXTINF:-1 tvg-id="ScreenPixVoices.us" tvg-name="USA: SCREENPIX VOICES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/ScreenPix_Voices_2019.png" group-title="USA | PREMIUM",USA: SCREENPIX VOICES
-http://zerotwo.access.ly:2096/ruswri/6024593781/814449
-#EXTINF:-1 tvg-id="ScreenPixWesterns.us" tvg-name="USA: SCREENPIX WESTERNS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/ScreenPix_Westerns_2019.png" group-title="USA | PREMIUM",USA: SCREENPIX WESTERNS
-http://zerotwo.access.ly:2096/ruswri/6024593781/814450
-#EXTINF:-1 tvg-id="ShortsTV.us" tvg-name="USA: SHORTS TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/21/The_Shorts_Movie_Channel_transparent_logo.png/revision/latest?cb=20250820183816" group-title="USA | PREMIUM",USA: SHORTS TV
-http://zerotwo.access.ly:2096/ruswri/6024593781/814451
-#EXTINF:-1 tvg-id="Paramount+withShowtime.us" tvg-name="USA: SHOWTIME" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showtime.png" group-title="USA | PREMIUM",USA: SHOWTIME
-http://zerotwo.access.ly:2096/ruswri/6024593781/814452
-#EXTINF:-1 tvg-id="Showtime2.us" tvg-name="USA: SHOWTIME 2" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showtime2.png" group-title="USA | PREMIUM",USA: SHOWTIME 2
-http://zerotwo.access.ly:2096/ruswri/6024593781/814453
-#EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="USA: SHOWTIME 2 WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showtime2.png" group-title="USA | PREMIUM",USA: SHOWTIME 2 WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814454
-#EXTINF:-1 tvg-id="ShowtimeExtreme.us" tvg-name="USA: SHOWTIME EXTREME" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/shoextereme.png" group-title="USA | PREMIUM",USA: SHOWTIME EXTREME
-http://zerotwo.access.ly:2096/ruswri/6024593781/814455
-#EXTINF:-1 tvg-id="ShowtimeExtremePacific.us" tvg-name="USA: SHOWTIME EXTREME WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/shoextereme.png" group-title="USA | PREMIUM",USA: SHOWTIME EXTREME WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814456
-#EXTINF:-1 tvg-id="ShowtimeFamilyzone.us" tvg-name="USA: SHOWTIME FAMILY ZONE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showtime_family.png" group-title="USA | PREMIUM",USA: SHOWTIME FAMILY ZONE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814457
-#EXTINF:-1 tvg-id="ShowtimeFamilyzonePacific.us" tvg-name="USA: SHOWTIME FAMILY ZONE WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showtime_family.png" group-title="USA | PREMIUM",USA: SHOWTIME FAMILY ZONE WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814458
-#EXTINF:-1 tvg-id="ShowtimeNext.us" tvg-name="USA: SHOWTIME NEXT" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/shonext.png" group-title="USA | PREMIUM",USA: SHOWTIME NEXT
-http://zerotwo.access.ly:2096/ruswri/6024593781/814459
-#EXTINF:-1 tvg-id="ShowtimeNextPacific.us" tvg-name="USA: SHOWTIME NEXT WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/shonext.png" group-title="USA | PREMIUM",USA: SHOWTIME NEXT WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814460
-#EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="USA: SHOWTIME SHOWCASE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showcase.png" group-title="USA | PREMIUM",USA: SHOWTIME SHOWCASE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814461
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="USA: SHOWTIME SHOWCASE WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showcase.png" group-title="USA | PREMIUM",USA: SHOWTIME SHOWCASE WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814462
-#EXTINF:-1 tvg-id="Paramount+withShowtimePacific.us" tvg-name="USA: SHOWTIME WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showtime_west.png" group-title="USA | PREMIUM",USA: SHOWTIME WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814463
-#EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="USA: SHOWTIME WOMEN" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showomen.png" group-title="USA | PREMIUM",USA: SHOWTIME WOMEN
-http://zerotwo.access.ly:2096/ruswri/6024593781/814464
-#EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="USA: SHOWTIME WOMEN WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/showomen.png" group-title="USA | PREMIUM",USA: SHOWTIME WOMEN WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814465
-#EXTINF:-1 tvg-id="SHOxBET.us" tvg-name="USA: SHOxBET" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3e63bd8-7785-430d-95ea-e431f52558f6/dgfd27b-645a63d0-4991-45a8-9fcf-d94d37742bfb.png/v1/fill/w_300,h_114/sho_x_bet_2020_to_now_secondary_logo_by_yellowdude74_dgfd27b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE0IiwicGF0aCI6IlwvZlwvYjNlNjNiZDgtNzc4NS00MzBkLTk1ZWEtZTQzMWY1MjU1OGY2XC9kZ2ZkMjdiLTY0NWE2M2QwLTQ5OTEtNDVhOC05ZmNmLWQ5NGQzNzc0MmJmYi5wbmciLCJ3aWR0aCI6Ijw9MzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._iaaaYvy4MCWY2M5BupYI5M5iHRv6sk7UX_LikUwEcA" group-title="USA | PREMIUM",USA: SHOxBET
-http://zerotwo.access.ly:2096/ruswri/6024593781/814466
-#EXTINF:-1 tvg-id="SHOxBETPacific.us" tvg-name="USA: SHOxBET WEST" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b3e63bd8-7785-430d-95ea-e431f52558f6/dgfd27b-645a63d0-4991-45a8-9fcf-d94d37742bfb.png/v1/fill/w_300,h_114/sho_x_bet_2020_to_now_secondary_logo_by_yellowdude74_dgfd27b-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTE0IiwicGF0aCI6IlwvZlwvYjNlNjNiZDgtNzc4NS00MzBkLTk1ZWEtZTQzMWY1MjU1OGY2XC9kZ2ZkMjdiLTY0NWE2M2QwLTQ5OTEtNDVhOC05ZmNmLWQ5NGQzNzc0MmJmYi5wbmciLCJ3aWR0aCI6Ijw9MzAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0._iaaaYvy4MCWY2M5BupYI5M5iHRv6sk7UX_LikUwEcA" group-title="USA | PREMIUM",USA: SHOxBET WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814467
-#EXTINF:-1 tvg-id="SonyMovieChannel.us" tvg-name="USA: SONY MOVIE CHANNEL" tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2016/12/Sony_Movie_Channel_logo.png" group-title="USA | PREMIUM",USA: SONY MOVIE CHANNEL
-http://zerotwo.access.ly:2096/ruswri/6024593781/814468
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="USA: STARZ" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz.png" group-title="USA | PREMIUM",USA: STARZ
-http://zerotwo.access.ly:2096/ruswri/6024593781/814469
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="USA: STARZ CINEMA" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_cinema.png" group-title="USA | PREMIUM",USA: STARZ CINEMA
-http://zerotwo.access.ly:2096/ruswri/6024593781/814470
-#EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="USA: STARZ CINEMA WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_cinema.png" group-title="USA | PREMIUM",USA: STARZ CINEMA WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814471
-#EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="USA: STARZ COMEDY" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_comedy.png" group-title="USA | PREMIUM",USA: STARZ COMEDY
-http://zerotwo.access.ly:2096/ruswri/6024593781/814472
-#EXTINF:-1 tvg-id="StarzComedyPacific.us" tvg-name="USA: STARZ COMEDY WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_comedy.png" group-title="USA | PREMIUM",USA: STARZ COMEDY WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814473
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="USA: STARZ EDGE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_edge.png" group-title="USA | PREMIUM",USA: STARZ EDGE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814474
-#EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="USA: STARZ EDGE EAST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_east.png" group-title="USA | PREMIUM",USA: STARZ EDGE EAST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814475
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="USA: STARZ ENCORE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore.png" group-title="USA | PREMIUM",USA: STARZ ENCORE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814476
-#EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="USA: STARZ ENCORE ACTION" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_action.png" group-title="USA | PREMIUM",USA: STARZ ENCORE ACTION
-http://zerotwo.access.ly:2096/ruswri/6024593781/814477
-#EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="USA: STARZ ENCORE BLACK" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_black.png" group-title="USA | PREMIUM",USA: STARZ ENCORE BLACK
-http://zerotwo.access.ly:2096/ruswri/6024593781/814478
-#EXTINF:-1 tvg-id="StarzEncoreBlackPacific.us" tvg-name="USA: STARZ ENCORE BLACK WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_black.png" group-title="USA | PREMIUM",USA: STARZ ENCORE BLACK WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814479
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="USA: STARZ ENCORE CLASSIC" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_classic.png" group-title="USA | PREMIUM",USA: STARZ ENCORE CLASSIC
-http://zerotwo.access.ly:2096/ruswri/6024593781/814480
-#EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="USA: STARZ ENCORE CLASSIC WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_classic.png" group-title="USA | PREMIUM",USA: STARZ ENCORE CLASSIC WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814481
-#EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="USA: STARZ ENCORE FAMILY" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_family.png" group-title="USA | PREMIUM",USA: STARZ ENCORE FAMILY
-http://zerotwo.access.ly:2096/ruswri/6024593781/814482
-#EXTINF:-1 tvg-id="StarzEncoreFamilyPacific.us" tvg-name="USA: STARZ ENCORE FAMILY WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_family.png" group-title="USA | PREMIUM",USA: STARZ ENCORE FAMILY WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814483
-#EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="USA: STARZ ENCORE SUSPENSE" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_suspense.png" group-title="USA | PREMIUM",USA: STARZ ENCORE SUSPENSE
-http://zerotwo.access.ly:2096/ruswri/6024593781/814484
-#EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="USA: STARZ ENCORE SUSPENSE WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_suspense.png" group-title="USA | PREMIUM",USA: STARZ ENCORE SUSPENSE WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814485
-#EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="USA: STARZ ENCORE WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_west.png" group-title="USA | PREMIUM",USA: STARZ ENCORE WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814486
-#EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="USA: STARZ ENCORE WESTERNS" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_westerns.png" group-title="USA | PREMIUM",USA: STARZ ENCORE WESTERNS
-http://zerotwo.access.ly:2096/ruswri/6024593781/814487
-#EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="USA: STARZ ENCORE WESTERNS WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_encore_westerns.png" group-title="USA | PREMIUM",USA: STARZ ENCORE WESTERNS WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814488
-#EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="USA: STARZ IN BLACK" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_in_black.png" group-title="USA | PREMIUM",USA: STARZ IN BLACK
-http://zerotwo.access.ly:2096/ruswri/6024593781/814489
-#EXTINF:-1 tvg-id="StarzinBlackPacific.us" tvg-name="USA: STARZ IN BLACK WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_in_black.png" group-title="USA | PREMIUM",USA: STARZ IN BLACK WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814490
-#EXTINF:-1 tvg-id="StarzKids.us" tvg-name="USA: STARZ KIDS AND FAMILY" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/STZKHD/large_white.png?auto=webp&auto=webp&ver=1&ver=1" group-title="USA | PREMIUM",USA: STARZ KIDS AND FAMILY
-http://zerotwo.access.ly:2096/ruswri/6024593781/814491
-#EXTINF:-1 tvg-id="StarzKidsPacific.us" tvg-name="USA: STARZ KIDS AND FAMILY WEST" tvg-logo="https://prod-s.cdn-cf.philo.com/images/channel_logos/STZKHD/large_white.png?auto=webp&auto=webp&ver=1&ver=1" group-title="USA | PREMIUM",USA: STARZ KIDS AND FAMILY WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814492
-#EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="USA: STARZ WEST" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/starz_west.png" group-title="USA | PREMIUM",USA: STARZ WEST
-http://zerotwo.access.ly:2096/ruswri/6024593781/814493
-#EXTINF:-1 tvg-id="TheMovieChannel.us" tvg-name="USA: THE MOVIE CHANNEL" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/the_movie_channel.png" group-title="USA | PREMIUM",USA: THE MOVIE CHANNEL
-http://zerotwo.access.ly:2096/ruswri/6024593781/814494
-#EXTINF:-1 tvg-id="TheMovieChannelExtra.us" tvg-name="USA: THE MOVIE CHANNEL XTRA" tvg-logo="https://puddintap.click/ico/USA-Color-Movies/the_movie_channel_xtra.png" group-title="USA | PREMIUM",USA: THE MOVIE CHANNEL XTRA
-http://zerotwo.access.ly:2096/ruswri/6024593781/814495
-#EXTINF:-1 tvg-id="FLIX.us" tvg-name="USA: FLIX" tvg-logo="https://sc.dish.com/shared/images/station-logos/FLIX.png" group-title="USA | PREMIUM",USA: FLIX
-http://zerotwo.access.ly:2096/ruswri/6024593781/814496
-#EXTINF:-1 tvg-id="FlixPacific.us" tvg-name="USA: FLIX (WEST)" tvg-logo="https://sc.dish.com/shared/images/station-logos/FLIX.png" group-title="USA | PREMIUM",USA: FLIX (WEST)
-http://zerotwo.access.ly:2096/ruswri/6024593781/814497
 
 
