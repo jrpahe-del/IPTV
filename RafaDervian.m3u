@@ -387,6 +387,10 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvriwo.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
+#EXTINF:-1 tvg-id="Astha" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/allegro.png" group-title="LOCAL TV",Allegro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
+
 #EXTINF:-1 tvg-id="Atobuo tv" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/atambua5.png" group-title="LOCAL TV",Atambua tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8
@@ -666,6 +670,10 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/uchannel1.m3u8
 #EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ugtv.png" group-title="LOCAL TV",UGTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
+
+#EXTINF:-1 tvg-id="UGTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/padangtv.png" group-title="LOCAL TV",Padang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WesalTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wesaltv.png" group-title="LOCAL TV",Wesal Tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -3829,6 +3837,10 @@ http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w41736285
 #KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
 #EXTINF:-1 tvg-id="Music TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/musictv.png" group-title="Music",Musik TV
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mic.png",MIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+https://mic.siar.us/mic/live/mic.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bahana.png",Bahana Radio Music
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
