@@ -703,7 +703,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
 #EXTINF:-1 tvg-id="]eam.id" tvg-name="Maxstream" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstrim.png" group-title="Indo Movies", Maxstream
-https://cdnbal1.indihometv.com/atm/DASH/maxstream/manifest.mpd
+https://cdnbal1.indihometv.com/dassdvr/134/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3051,7 +3051,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q3gjkjvw6b/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
-#EXTINF:-1 tvg-logo="https://startalkmedia.com/wp-content/themes/startalk%20020b/img/logo-st-bringin-the-universe.png" group-title="Documentary",StarTalk
+#EXTINF:-1 tvg-logo="https://startalkmedia.com/wp-content/themes/startalk%20021c/img/logo-st-bringin-the-universe.png" group-title="Documentary",StarTalk
 https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -3784,7 +3784,7 @@ https://flv.intechmedia.net/live/ch83.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
 #EXTINF:-1 group-title="Kids" tvg-id="Aniplus" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/aniplus.png",Aniplus
-https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
+https://cdnbal1.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
