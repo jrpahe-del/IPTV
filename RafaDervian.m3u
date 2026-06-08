@@ -16,14 +16,14 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1539f043249e413d91906036f305831e:671e24fd8d234c7f38d85055815f902a
-#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="EVENT LIVE SPORTS",17:00 WIB MOTOGP+
+#EXTINF:-1 tvg-id="SPOTV 2" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png" group-title="EVENT LIVE SPORTS",16:30 WIB MOTOGP+
 https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/index.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png", 02:00 WIB MOTOGP+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png", 01:30 WIB MOTOGP+
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_spotvhd/default/index.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png", 17:00 WIB MOTOGP+
@@ -286,7 +286,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 group-title="Indonesia" tvg-id="SindoNews" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sindonews5.png",SindoNews
-https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -299,13 +299,13 @@ https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo5.png" group-title="Indonesia" ,SINPO TV
-https://indihuy.streamized.net/atm/DASH/jtv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/jtv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 group-title="Indonesia"  tvg-url="hmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/antara5.png",Antara TV
-https://indihuy.streamized.net/atm/DASH/antara/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/antara/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -410,7 +410,7 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 group-title="LOCAL TV" tvg-id="Bali TV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/balitv5.png",Bali TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://indihuy.streamized.net/atm/DASH/balitv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
 
 #EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/balikpapan.png" group-title="LOCAL TV",Balikpapan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -703,7 +703,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=727489e7583045de8d7e118acb8f757d:13fe71d17a1f9a8cdec42b1089275b03
 #EXTINF:-1 tvg-id="]eam.id" tvg-name="Maxstream" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstrim.png" group-title="Indo Movies", Maxstream
-https://indihuy.streamized.net/atm/DASH/maxstream/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxstream/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -736,11 +736,11 @@ https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/in
 #EXTVLCOPT:http-referrer=https://www.indihometv.com 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="AllPlay Ent" group-title="Indo Movies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/allplay.png",AllPlay Ent
-https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="Indo Movies",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -794,7 +794,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRI_Sports.m3
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxsports.png",Max Sports
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://indihuy.streamized.net/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/psjtv5.png" group-title="Indo Sports",PersijaTV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -1140,7 +1140,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/ind
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="mmm" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png",K-Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
@@ -1213,7 +1213,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h20/01.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="KOREA",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/kplus/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kbs.png" group-title="KOREA",KBS Korea
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -1344,15 +1344,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/in
 
 #EXTINF:-1 tvg-id="New TV Comprehensive" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv.png",New TV Comprehensive
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://indihuy.streamized.net/atm/DASH/newtvcomprehensive/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
 
 #EXTINF:-1 tvg-id="New TV Finance" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv2.png",New TV Finance
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://indihuy.streamized.net/atm/DASH/newtvfinance/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
 
 #EXTINF:-1 tvg-id="New TV Variety" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv3.png",New TV Variety
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://indihuy.streamized.net/atm/DASH/newtvvariety/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -2924,7 +2924,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
 #EXTINF:-1 tvg-url="mmm" tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/discovery.png" group-title="Documentary",Discovery Channel
-https://indihuy.streamized.net/atm/DASH/disco/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/disco/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3465,7 +3465,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/1880fc1b32d3449196e80345f6cd5918/ind
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO
-https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -3473,7 +3473,7 @@ https://indihuy.streamized.net/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbohits.png",HBO Hits
-https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -3481,7 +3481,7 @@ https://indihuy.streamized.net/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbofamily.png",HBO Family
-https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -3489,7 +3489,7 @@ https://indihuy.streamized.net/atm/DASH/hbofamily/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbosig.png",HBO Signature
-https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -3497,7 +3497,7 @@ https://indihuy.streamized.net/atm/DASH/hbosignature/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax
-https://indihuy.streamized.net/atm/DASH/cinemax/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -3646,7 +3646,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
 #EXTINF:-1 tvg-id="Warner TV" tvg-url="mmm" group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/warner.png",Warner TV
-https://indihuy.streamized.net/atm/DASH/warner/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3714,15 +3714,15 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxreels.png" group-title="Entertainment",Max Reels
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/useeprime/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxeats.png",Max Eats
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/maxeats/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxeats/manifest.mpd
 
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxstreak.png",Max Streak
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://indihuy.streamized.net/atm/DASH/maxstreak/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 
 
 #============ COMEDY ==============================================================================>#
@@ -3803,19 +3803,19 @@ https://cdnvod.panda-os.com/livehls/68ef86320630444b1f796875/master.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cartoonito.png",Cartoonito 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://indihuy.streamized.net/atm/DASH/boomerang/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
 
 #EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/funplanet5.png",Max Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://indihuy.streamized.net/atm/DASH/indikids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
 
 #EXTINF:-1 tvg-id="CBeebies" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cbeis.png" group-title="Kids",Cbeebies 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://indihuy.streamized.net/atm/DASH/cbeebies/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/cbeebies/manifest.mpd
 
 #EXTINF:-1 tvg-id="My Kidz" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mykids.png" group-title="Kids",MyKids (DensTV)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://indihuy.streamized.net/atm/DASH/mykids/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/mykids/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.firstmedia.com
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -3943,7 +3943,7 @@ https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jazeera.png",Al Jazeera English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/aljazeera/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3953,7 +3953,7 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/ind
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcnews.png",BBC News 2
-https://indihuy.streamized.net/atm/DASH/bbcnews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/bbcnews/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3963,7 +3963,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/in
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/BLOOMBERG_AT/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3979,7 +3979,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/in
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cna.png",Channel News Asia 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/newsasia/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/newsasia/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3989,7 +3989,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/in
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dw5.png",DW English
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/DWTV/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/DWTV/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3999,7 +3999,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/in
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fr24.png",France24 2
-https://indihuy.streamized.net/atm/DASH/FRANCE_24/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4009,19 +4009,19 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/ind
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhkjapan.png",NHK World Japan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenix.png",Phoenix Chinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/phoenixchinese/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenixnews.png",Phoenix Info News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/phoenixinfonews/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtoday.png",Russia Today
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/rusiatv/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/rusiatv/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4031,7 +4031,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/in
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvbs.png",TVBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://indihuy.streamized.net/atm/DASH/TVBS_NEWS/manifest.mpd
+https://cdnbal1.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
 
 
 #<============  TV SD ===================================>
