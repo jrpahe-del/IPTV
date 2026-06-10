@@ -122,8 +122,7 @@ https://live-manifest.production-public.tubi.io/live/ea70dfb3-0a75-4ca1-9151-476
 
 
 #EXTINF:-1 tvg-id="FishingVision.jp@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fishingVs.png" group-title="Fishing",Fishing Vision (544p)
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+https://jmp2.uk/plu-65253d66c52b3600083d8dd2.m3u8
 
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fishingtv.png" group-title="Fishing",Italian Fishing TV (1080p)
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -3733,6 +3732,11 @@ https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-650b5bb3f4b2d9579946a500.m3u8
 
 #========== KIDS ==================================================================================================>
 
+
+#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
+https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
