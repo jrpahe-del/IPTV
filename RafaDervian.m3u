@@ -1874,7 +1874,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
 
 #EXTINF:-1 tvg-name="TOPNEW" tvg-logo="https://images.topnews.co.th/2025/10/top_news_online_no_bg_%E0%B8%82%E0%B8%B2%E0%B8%A7%E0%B8%94%E0%B8%B3-425x115.png?x-image-process=style/webp" group-title="THAILAND",TOPNEWS
 https://live.topnews.co.th/hls/mobile_v1.m3u8
-#EXTINF:-1 tvg-name="NEW1" tvg-logo="https://files-world.thaipbs.or.th/thaipbsworld_logo_a6d261af22.png" group-title="THAILAND",NEW1
+#EXTINF:-1 tvg-name="NEW1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/astv.png" group-title="THAILAND",NEW1
 https://server1.streamssl.com/stream/news1_mid.m3u8
 
 #EXTINF:-1 tvg-id="DLTV1.th@SD" tvg-logo="https://i.imgur.com/nLzdGeX.png" group-title="THAILAND",DLTV 1 (1080p)
