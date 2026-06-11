@@ -1627,7 +1627,10 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 
 #===============JAPAN========================#
 
-
+#EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/4825.T_BIG.D-91f862fb.png?t=1720244490" group-title="JAPAN",ウェザーニュースLiVE
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XY487Kx.png" group-title="JAPAN",Gaki No Tsukai
+https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/389/lg/6f2a84/LG-Logo-PNG-100x100_v3.png" group-title="JAPAN",Bloomberg TV+
 https://727fa7fd.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctanBfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png" group-title="JAPAN",Bloomberg Originals
