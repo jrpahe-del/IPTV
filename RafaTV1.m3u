@@ -2219,195 +2219,280 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #===============US AMERICA================#
 
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="United States",1Tv
+#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="United States",1+1 International
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="United States",Estrella TV
+#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europa",Estrella TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="United States",Pro 100
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg?w=200&h=200&crop=1" group-title="United States",History
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=229&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=231&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/9781.png" group-title="Europa",TR: STAR TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=232&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/9781.png" group-title="Europa",TR: STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=233&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=223&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=230&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=225&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/8404.png" group-title="Europa",TR: FOX/NOW TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=234&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/8404.png" group-title="Europa",TR: FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=218&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=251&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=221&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 INT
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=242&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=222&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=212&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=237&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=219&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=257&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=226&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=227&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=216&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=238&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=220&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=70887&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Europa",TR: 360 TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=254&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/6138.png" group-title="Europa",TR: TV 4 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=258&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3855.png" group-title="Europa",TR: TGRT EU
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110477&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3872.png" group-title="Europa",TR: TIVI 6 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TABII TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404644&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 4K 2160P
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=245&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 4K
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=244&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3939.png" group-title="Europa",TR: TRT 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=215&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3974.png" group-title="Europa",TR: TRT TURK HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110478&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3858.png" group-title="Europa",TR: TRT AVAZ HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110475&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3943.png" group-title="Europa",TR: SHOW MAX
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=239&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3941.png" group-title="Europa",TR: ATV AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=240&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3947.png" group-title="Europa",TR: EURO STAR
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=241&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3945.png" group-title="Europa",TR: EURO D
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=213&extension=ts
+#EXTINF:-1 tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/join.tyt.com/acr-logos/6c2d2593-transparent-white-tyt-logo_075046000000000000001.png" group-title="Europa",TR: TYT TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg?w=200&h=200&crop=1" group-title="Europa",History
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Iv-Ar5TuScFBZ3IK3C0VCUbw00A3yfeJYj3UI9tNPykEACZAmKRG4zq8HHGjPABcNZieNihWH-w" group-title="United States",Wetv All Reality
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Iv-Ar5TuScFBZ3IK3C0VCUbw00A3yfeJYj3UI9tNPykEACZAmKRG4zq8HHGjPABcNZieNihWH-w" group-title="Europa",Wetv All Reality
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="United States",IMAGEN TV 
+#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="Europa",IMAGEN TV 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="United States",TvR 1
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europa",TvR 1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvrm-s3.fra1.cdn.digitaloceanspaces.com/superdesk/20240126140124/6d2bc4b4baa05b78a25c3638de32bb26de2534ae37080292ab360d85a0b219fb.jpg" group-title="United States",TvR Moldova
+#EXTINF:-1 tvg-logo="https://tvrm-s3.fra1.cdn.digitaloceanspaces.com/superdesk/20240126140124/6d2bc4b4baa05b78a25c3638de32bb26de2534ae37080292ab360d85a0b219fb.jpg" group-title="Europa",TvR Moldova
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2CK_o1PCefwDhUVqTP2ldMvW6FFlUaN1xV-AGLq1bnM38hn_HxERuzk&s=10" group-title="United States",2 M Monde +1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2CK_o1PCefwDhUVqTP2ldMvW6FFlUaN1xV-AGLq1bnM38hn_HxERuzk&s=10" group-title="Europa",2 M Monde +1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mediareform.org.uk/wp-content/uploads/2022/11/issues-bbc-channel4.jpg" group-title="United States",BBC 4
+#EXTINF:-1 tvg-logo="https://www.mediareform.org.uk/wp-content/uploads/2022/11/issues-bbc-channel4.jpg" group-title="Europa",BBC 4
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/25/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRThiCByOgyfSK1a5oJxlENYLOJZmP9IJcIQmVzVzKQWD6mND1z39MhAt3BJLzMmOsTHuV9kqJc3QUQ73wnMz00tiTxw1qgovK_Qy_YzvnRq9aoh912GnDtReQQv_YnYC09lFjupF0nY/s1600/1KZN_l+o+g+o_resize.jpg" group-title="United States",KZN tv
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjfRThiCByOgyfSK1a5oJxlENYLOJZmP9IJcIQmVzVzKQWD6mND1z39MhAt3BJLzMmOsTHuV9kqJc3QUQ73wnMz00tiTxw1qgovK_Qy_YzvnRq9aoh912GnDtReQQv_YnYC09lFjupF0nY/s1600/1KZN_l+o+g+o_resize.jpg" group-title="Europa",KZN tv
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cbeebies/images/f/f2/Four.png/revision/latest?cb=20190616213524" group-title="United States",BBC FOUR
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/cbeebies/images/f/f2/Four.png/revision/latest?cb=20190616213524" group-title="Europa",BBC FOUR
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/21/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/c/cd/Channel_4_%282015-.n.v.%29.png/revision/latest?cb=20200613212237&path-prefix=pl" group-title="United States",tv 4
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/c/cd/Channel_4_%282015-.n.v.%29.png/revision/latest?cb=20200613212237&path-prefix=pl" group-title="Europa",tv 4
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/18/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="United States",SOL
+#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Europa",SOL
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5621
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="United States",BBC Sports
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="Europa",BBC Sports
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/77361.m3u8
 
-#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="United States", BBC
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="Europa", BBC
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://149.102.245.111:80/16/tracks-v1a1/mono.m3u8?token=test
+http://149.102.245.111:80/16/tracks-v1a1/mono.m3u8?token= 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbctrasures.png" group-title="United States", BBC News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbctrasures.png" group-title="Europa", BBC News
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/15/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ficworld/images/4/4f/ITV5.png/revision/latest/thumbnail/width/360/height/360?cb=20240409131537" group-title="United States",ITV5
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ficworld/images/4/4f/ITV5.png/revision/latest/thumbnail/width/360/height/360?cb=20240409131537" group-title="Europa",ITV5
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/19/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/itv/images/7/70/ITV3.png/revision/latest?cb=20220419212813" group-title="United States", itv 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/itv/images/7/70/ITV3.png/revision/latest?cb=20220419212813" group-title="Europa",itv 3
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/23/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/citv/images/f/f9/ITV1_%282022%29.png/revision/latest/thumbnail/width/360/height/360?cb=20230928015332" group-title="United States",itv 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/citv/images/f/f9/ITV1_%282022%29.png/revision/latest/thumbnail/width/360/height/360?cb=20230928015332" group-title="Europa",itv 1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/17/tracks-v1a1/mono.m3u8?token=test
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EJXkQpUlNZokAzHCxR7NG4gip_RKs42lcjJiCN9cJwUUzQUeA3xPoimFegTSlIKBqaxImrWUfuQ" group-title="United States", FX TV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-EJXkQpUlNZokAzHCxR7NG4gip_RKs42lcjJiCN9cJwUUzQUeA3xPoimFegTSlIKBqaxImrWUfuQ" group-title="Europa", FX TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://84.17.50.102/fx/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/65950bb5ae364f0af1955505.jpg" group-title="United States",CNN TURK
+#EXTINF:-1 tvg-logo="https://image.cnnturk.com/i/cnnturk/75/740x416/65950bb5ae364f0af1955505.jpg" group-title="Europa",CNN TURK
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/cnn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="United States",NTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="Europa",NTV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/ntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="United States",TV8 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="Europa",TV8 HD
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/tv8/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="United States",TV 85
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/TV8.5_Logosu.png/revision/latest?cb=20170827103605" group-title="Europa",TV 85
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/tv85/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/star-tv-turkey-f7aa11d6-7214-42c0-873b-10d415f3c6d-resize-750.jpg" group-title="United States",Star TV
+#EXTINF:-1 tvg-logo="https://alchetron.com/cdn/star-tv-turkey-f7aa11d6-7214-42c0-873b-10d415f3c6d-resize-750.jpg" group-title="Europa",Star TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/startv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="United States",Nationsl Geografic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="Europa",National Geografic
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/natgeo/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natwild.png" group-title="United States",Nationsl Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natwild.png" group-title="Europa",National Wild
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/natgeowild/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="United States",TRT 1
+#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europa",TRT 1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="United States",Tivibu 1
+#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207/t1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="United States",Tivibu 2
+#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 2
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207/t3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="United States",Tivibu 3
+#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 3
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207/t3/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="United States",Tivibu 4
+#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 4
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207/t4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="United States",BeiN Sports 
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Sports 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://raw.githubusercontent.com/ALittleAnt4161/m3u8/refs/heads/main/beIN1fr.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/9274.png" group-title="United States",Arena Sports 
+#EXTINF:-1 tvg-logo="http://epg.one/img/9274.png" group-title="Europa",Arena Sports 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://178.253.194.79:10001
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="United States",BeiN Syria
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Syria
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="United States",FIFA+ 
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europa",FIFA+ 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2025/04/14/675x450/1_logo_caze_tv_610x400-49713590.jpg?20250414181547?20250414181547" group-title="United States",Caze TV
+#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2025/04/14/675x450/1_logo_caze_tv_610x400-49713590.jpg?20250414181547?20250414181547" group-title="Europa",Caze TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="United States",Canal+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="Europa",Canal+
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6098/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Brazzers-TV-Logo-Vector.svg-.png" group-title="United States",Brazzers Tv Europe
+#EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Brazzers-TV-Logo-Vector.svg-.png" group-title="Europa",Brazzers Tv Europe
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://88b9da48.kazmazpaz.ru:80/iptv/EHF55SW2TTSDUN/244/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.antaranews.com/cache/1200x800/2017/11/20171125F1_Formula_1_logo_black_background.png.webp" group-title="United States",F1 Formola
+#EXTINF:-1 tvg-logo="https://img.antaranews.com/cache/1200x800/2017/11/20171125F1_Formula_1_logo_black_background.png.webp" group-title="Europa",F1 Formola
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/2254.png" group-title="United States",CBS News
+#EXTINF:-1 tvg-logo="http://epg.one/img/2254.png" group-title="Europa",CBS News
 https://phila5bcfb03.airspace-cdn.cbsivideo.com/live/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2016/03/Fox_News_Channel_logo_1454609378760_796678_ver1.0.jpg?w=1237&h=680&crop=1" group-title="United States",FOX News
+#EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2016/03/Fox_News_Channel_logo_1454609378760_796678_ver1.0.jpg?w=1237&h=680&crop=1" group-title="Europa",FOX News
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://restream-live.realiptv.to:8080/Z3nXfkOnf0/Madt8rUvmN/98188
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj" group-title="United States",Fox Sports
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj" group-title="Europa",Fox Sports
 https://cdn.telecloud.tv/CH3225/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1280/960/FS1-1040x585-1.jpg?ve=1&tl=1" group-title="United States",FS1
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1280/960/FS1-1040x585-1.jpg?ve=1&tl=1" group-title="Europa",FS1
 https://cdn.telecloud.tv/CH3223/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://st5.depositphotos.com/4428871/67874/v/380/depositphotos_678748830-stock-illustration-npl-non-performing-loan-bank.jpg" group-title="United States",FOX NPL
+#EXTINF:-1 tvg-logo="https://st5.depositphotos.com/4428871/67874/v/380/depositphotos_678748830-stock-illustration-npl-non-performing-loan-bank.jpg" group-title="Europa",FOX NPL
 https://cdn.telecloud.tv/CH3227/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/994/361/small_2x/nba-logo-symbol-red-and-blue-design-america-basketball-american-countries-basketball-teams-illustration-with-black-background-free-vector.jpg" group-title="United States",NBA
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/994/361/small_2x/nba-logo-symbol-red-and-blue-design-america-basketball-american-countries-basketball-teams-illustration-with-black-background-free-vector.jpg" group-title="Europa",NBA
 https://cdn.telecloud.tv/CH3229/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/6582.png" group-title="United States",ESPN
+#EXTINF:-1 tvg-logo="http://epg.one/img/6582.png" group-title="Europa",ESPN
 http://84.17.50.102/espn/index.m3u8
 
 
