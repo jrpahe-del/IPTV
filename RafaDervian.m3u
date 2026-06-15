@@ -2253,9 +2253,9 @@ http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=231&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/9781.png" group-title="Europa",TR: STAR TV HD+
+#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD+
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=232&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/9781.png" group-title="Europa",TR: STAR TV HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD+
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=233&extension=ts
