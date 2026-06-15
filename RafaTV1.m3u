@@ -1324,6 +1324,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/39a34211e80145678ce1616b52368f99/in
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ftv.png",FORMOSA TV
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
 
+#EXTINF:-1 tvg-id="New TV Variety" tvg-url="mmm" group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7Xt-t91u2S-iFNLsm377RBS9Y3PGutV18g&s",NTD
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://ntd02.akamaized.net/HD-NY/index.m3u8
+
 #EXTINF:-1 tvg-id="New TV Comprehensive" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv.png",New TV Comprehensive
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
@@ -2215,13 +2219,21 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #===============US AMERICA================#
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/ee/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB_%28%D1%81_2023%2C_%D1%8D%D1%84%D0%B8%D1%80%29.png/revision/latest/scale-to-width-down/250?cb=20240801090924&path-prefix=ru" group-title="United States",1Tv
+#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="United States",1Tv
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/1%2B1_International.svg/500px-1%2B1_International.svg.png" group-title="United States",1+1 International
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="United States",1+1 International
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="United States",Estrella TV
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="United States",Pro 100
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg?w=200&h=200&crop=1" group-title="United States",History
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -2235,7 +2247,7 @@ https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TVR_logo_2022.svg/500px-TVR_logo_2022.svg.png" group-title="United States",TvR 1
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="United States",TvR 1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 
@@ -2259,10 +2271,6 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/21/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ficworld/images/4/4f/ITV5.png/revision/latest/thumbnail/width/360/height/360?cb=20240409131537" group-title="United States",ITV5
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://149.102.245.111:80/19/tracks-v1a1/mono.m3u8?token=test
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/c/cd/Channel_4_%282015-.n.v.%29.png/revision/latest?cb=20200613212237&path-prefix=pl" group-title="United States",tv 4
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/18/tracks-v1a1/mono.m3u8
@@ -2283,6 +2291,10 @@ http://149.102.245.111:80/16/tracks-v1a1/mono.m3u8?token=test
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/15/tracks-v1a1/mono.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/ficworld/images/4/4f/ITV5.png/revision/latest/thumbnail/width/360/height/360?cb=20240409131537" group-title="United States",ITV5
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+http://149.102.245.111:80/19/tracks-v1a1/mono.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/itv/images/7/70/ITV3.png/revision/latest?cb=20220419212813" group-title="United States", itv 3
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/23/tracks-v1a1/mono.m3u8
@@ -2299,15 +2311,11 @@ http://84.17.50.102/fx/index.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/cnn/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="United States",8 tv
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://65.108.239.207:80/tv8/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png" group-title="United States",NTV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/ntv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="United States",8 TV 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/Tv8_Yeni_Logo.png/revision/latest?cb=20160310161553" group-title="United States",TV8 HD
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/tv8/index.m3u8
 
@@ -2315,17 +2323,21 @@ http://65.108.239.207:80/tv8/index.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/tv85/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="United States",Nationsl Geografic
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://65.108.239.207:80/natgeo/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://alchetron.com/cdn/star-tv-turkey-f7aa11d6-7214-42c0-873b-10d415f3c6d-resize-750.jpg" group-title="United States",Star TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/startv/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="United States",Nationsl Geografic
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+http://65.108.239.207:80/natgeo/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natwild.png" group-title="United States",Nationsl Wild
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://65.108.239.207:80/natgeowild/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="United States",TRT 1
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="United States",Tivibu 1
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -2347,11 +2359,11 @@ http://65.108.239.207/t4/index.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://raw.githubusercontent.com/ALittleAnt4161/m3u8/refs/heads/main/beIN1fr.m3u8
 
-#EXTINF:-1 tvg-logo="https://mms.img.susercontent.com/id-11134210-7rasb-m3rmf299ro9c42" group-title="United States",Arena Sports 
+#EXTINF:-1 tvg-logo="http://epg.one/img/9274.png" group-title="United States",Arena Sports 
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://178.253.194.79:10001
 
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="United States",Be Syria
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="United States",BeiN Syria
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://go8knm.optikl.ink/X/index.php/Besyria1/video.m3u8
 
@@ -2365,7 +2377,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="United States",Canal+
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://tv.streamboxtv.cc:443/testlivestream/testlivestream/4140.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6098/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://vectorseek.com/wp-content/uploads/2023/09/Brazzers-TV-Logo-Vector.svg-.png" group-title="United States",Brazzers Tv Europe
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -2375,21 +2387,28 @@ http://88b9da48.kazmazpaz.ru:80/iptv/EHF55SW2TTSDUN/244/manifest.m3u8
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
 
+#EXTINF:-1 tvg-logo="http://epg.one/img/2254.png" group-title="United States",CBS News
+https://phila5bcfb03.airspace-cdn.cbsivideo.com/live/manifest.m3u8
+
 #EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2016/03/Fox_News_Channel_logo_1454609378760_796678_ver1.0.jpg?w=1237&h=680&crop=1" group-title="United States",FOX News
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://restream-live.realiptv.to:8080/Z3nXfkOnf0/Madt8rUvmN/98188
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/TzefJpalKWO0akoDZBlYLwAsgYLhK8OTkdclGr8KHW0V8EIi6uhfQZEpaB2Ln3hKjOgYjgiS4w=s900-c-k-c0x00ffffff-no-rj" group-title="United States",Fox Sports
 https://cdn.telecloud.tv/CH3225/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/250px-2015_Fox_Sports_1_logo.svg.png" group-title="United States",FS1
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1280/960/FS1-1040x585-1.jpg?ve=1&tl=1" group-title="United States",FS1
 https://cdn.telecloud.tv/CH3223/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4b/Nepal_Premier_League_official_logo.png" group-title="United States",FOX NPL
+#EXTINF:-1 tvg-logo="https://st5.depositphotos.com/4428871/67874/v/380/depositphotos_678748830-stock-illustration-npl-non-performing-loan-bank.jpg" group-title="United States",FOX NPL
 https://cdn.telecloud.tv/CH3227/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/994/361/small_2x/nba-logo-symbol-red-and-blue-design-america-basketball-american-countries-basketball-teams-illustration-with-black-background-free-vector.jpg" group-title="United States",NBA
 https://cdn.telecloud.tv/CH3229/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/6582.png" group-title="United States",ESPN
+http://84.17.50.102/espn/index.m3u8
 
 
 #==============AUSTRALIA==================#
