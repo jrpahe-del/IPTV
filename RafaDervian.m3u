@@ -2277,6 +2277,14 @@ http://149.102.245.111:80/19/tracks-v1a1/mono.m3u8?token=test
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/18/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="United States",SOL
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=5621
+
+#EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="United States",BBC Sports
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/77361.m3u8
+
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="United States", BBC
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://149.102.245.111:80/16/tracks-v1a1/mono.m3u8?token=test
@@ -2392,12 +2400,6 @@ https://cdn.telecloud.tv/CH3227/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/994/361/small_2x/nba-logo-symbol-red-and-blue-design-america-basketball-american-countries-basketball-teams-illustration-with-black-background-free-vector.jpg" group-title="United States",NBA
 https://cdn.telecloud.tv/CH3229/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="United States",SOL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5621
-
-#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="United States",SOL
-http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/77361.m3u8
 
 
 #==============AUSTRALIA==================#
