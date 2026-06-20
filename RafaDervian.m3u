@@ -1,16 +1,11 @@
 #EXTM3U
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/seria.png" group-title="EVENT LIVE SPORTS",0300 WIB EVENT BOLA+ 2026
-https://a83aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
+#EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/seria.png" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=620e51b82596475517a27aa425c52280:2b9ba811e9c5aeafc8ae1b71cdca4d6a
 #EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 3 Indonesia" tvg-logo="mmm" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga-alternate.vresize.112.112.medium.1.png" group-title="EVENT LIVE SPORTS",12,30 WIB EVENT BOLA+ 2026
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/out/v1/70a50b1bda944628b8e7e66ab4069419/cenc.mpd
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -694,23 +689,23 @@ https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
 #EXTINF:-1 tvg-id="VisionPrime" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/visionf.png" group-title="Indo Movies",Vision Prime (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=483c71dd36fd45dd965321e8c568ba42:719598f53c998c618adf76a8f4f17fd1
+https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
 #EXTINF:-1 tvg-id="]ainment" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ent.png" group-title="Indo Movies",Entertainment (V+)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
 #EXTINF:-1 tvg-id="Food Travel" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foodtr.png" group-title="Indo Movies", Food Travel (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=c263b43be6b94fb682b1d701e0aaf847:83491ecbe2968e91ed563ce2c41428dc
+https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -734,8 +729,7 @@ https://cdnbal1.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-id="99991348" tvg-name="KOCOWA K-Drama" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="Indo Movies",K+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa48b28bd723f91214887df6ed9fad10:b5a3a800848120c843ae0fa68c09c261
-https://ast.livecricketsl.live/proxy/sg.php/http://linearjitp-playback.astro.com.my/dash-wv/linear/9983/default_ott.mpd
+https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
@@ -1328,7 +1322,8 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=04fb6c48c6b4498cb9d3b9ede0d48db7:94253cf1df2659c3ea253ba1091eca4d
-#EXTINF:-1 tvg-id="Xing kong TV" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/xingkong.png",Xing Kong (V+)
+#EXTINF:-1 tvg-id="Xing kong TV" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/xingkong.png",Xing Kong
+http://103.137.83.62:9090/play/38/index.m3u8
 https://fta3-cdn-flr.visionplus.id/out/v1/a1dc0cb4b4f14a3094088b16366bbeed/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1659,6 +1654,8 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 #===============JAPAN========================#
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cgtn.png" group-title="JAPAN",CGTN Japan (1080p)
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/4825.T_BIG.D-91f862fb.png?t=1720244490" group-title="JAPAN",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 #EXTINF:-1 tvg-logo="https://gakiarchives.com/images/logo-white.png" group-title="JAPAN",Gaki No Tsukai
@@ -1701,135 +1698,6 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=babyshar
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_246&mpf=4034c999-39af1962-608639c7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=6fa28eda-fdf30b7e-9faae242-8a8391d2&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/LGUPLUS/KBO/KBO_logo_400x200.png" group-title="JAPAN",K-Baseball TV
 https://amg02040-lguplus-amg02040c11-lg-jp-7516.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbokor-lgjp/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
-
-#EXTINF:-1 tvg-id="BSAsahi.jp@SD" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/sites/753/2022/09/38cb9ce0f66c8f7d8099f07551f7738d-3.jpg" group-title="JAPAN",BS Asahi (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
-#EXTINF:-1 tvg-id="BSFuji.jp@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwJRbtfksZBVoRPNXWSQkcm-JHE_eTxy28RsUpjaJSw&s=10" group-title="JAPAN",BS Fuji TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
-#EXTINF:-1 tvg-id="BS]nTV.jp@SD" tvg-logo="https://i.imgur.com/D8lhZCI.png" group-title="JAPAN",BS Nippon TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
-#EXTINF:-1 tvg-id="BSShochikuTokyu.jp@SD" tvg-logo="https://i.imgur.com/pSKCgvv.png" group-title="JAPAN",BS Shochiku Tokyu (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31
-#EXTINF:-1 tvg-id="BSTBS.jp@SD" tvg-logo="https://i.imgur.com/h20eGKq.png" group-title="JAPAN",BS TBS (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
-#EXTINF:-1 tvg-id="BSTVTokyo.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/BSTVTokyo_2024logo-TeletoVer.svg/revision/latest/scale-to-width-down/512" group-title="JAPAN",BS TV Tokyo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
-#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" http-referrer="http://japan.cgntv.net/HD_player_jp.html" group-title="JAPAN",CGNTV Japan (1080p)
-#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
-https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="ChannelGinga.jp@SD" tvg-logo="https://www.ch-ginga.jp/assets/images/common/header_logo.png" group-title="JAPAN",Channel Ginga (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
-#EXTINF:-1 tvg-id="DisneyChannel.jp@SD" tvg-logo="https://cdn.aptoide.com/imgs/0/6/3/06373ca66221755837ac06e3156103ba_fgraphic.jpg" group-title="JAPAN",Disney Channel Japan (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
-#EXTINF:-1 tvg-id="EiseiGekijo.jp@SD" tvg-logo="https://yt3.googleusercontent.com/d5yMuTHpdKEjTqXDEnS-iYo_AaKwuwYtHRs3gbLB9Hg8j_XtXyUXOeKxetptLhz85SciuA5i=s512-c-k-c0x00ffffff-no-rj" group-title="JAPAN",Eisei Gekijo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
-#EXTINF:-1 tvg-id="FamilyGekijyo.jp@SD" tvg-logo="https://i.ytimg.com/vi/rvTaE86lGtY/mqdefault.jpg" group-title="JAPAN",Family Gekijo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20
-#EXTINF:-1 tvg-id="FishingVision.jp@SD" tvg-logo="https://i.imgur.com/qX6nNOF.png" group-title="JAPAN",Fishing Vision (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
-#EXTINF:-1 tvg-id="JOCXDTV.jp@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwJRbtfksZBVoRPNXWSQkcm-JHE_eTxy28RsUpjaJSw&s=10" group-title="JAPAN",Fuji TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
-#EXTINF:-1 tvg-id="FujiTVNEXT.jp@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHwJRbtfksZBVoRPNXWSQkcm-JHE_eTxy28RsUpjaJSw&s=10" group-title="JAPAN",Fuji TV NEXT (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
-#EXTINF:-1 tvg-id="GAORASPORTS.jp@SD" tvg-logo="https://i.imgur.com/UgKRfuw.png" group-title="JAPAN",Gaora Sports (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
-#EXTINF:-1 tvg-id="GolfNetwork.jp@SD" tvg-logo="https://i.imgur.com/s6lmfXF.png" group-title="JAPAN",Golf Network (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
-#EXTINF:-1 tvg-id="GreenChannel.jp@SD" tvg-logo="https://i.imgur.com/sD3z8j7.png" group-title="JAPAN",Green Channel (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
-#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://images.squarespace-cdn.com/content/v1/64d54fd8cd03f240928c1cf0/85ffcba0-43b0-453d-99b5-bb8553397a11/GSTV+WHITE+LOGO" group-title="JAPAN",GSTV (720p)
-https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
-#EXTINF:-1 tvg-id="History.jp@SD" tvg-logo="https://blog.gaggleamp.com/hs-fs/hubfs/Imported%20sitepage%20images/History_This_Week_Podcast_640x360_1.jpg?width=640&height=360&name=History_This_Week_Podcast_640x360_1.jpg" group-title="JAPAN",History Channel Japan (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09
-#EXTINF:-1 tvg-id="HomeDramaChannel.jp@SD" tvg-logo="https://i.imgur.com/iNkKh7w.png" group-title="JAPAN",Home Drama Channel (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
-#EXTINF:-1 tvg-id="JSPORTS1.jp@SD" tvg-logo="https://i.imgur.com/vEpjLnj.png" group-title="JAPAN",J Sports 1 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
-#EXTINF:-1 tvg-id="JSPORTS2.jp@SD" tvg-logo="https://i.imgur.com/g1GLVH2.png" group-title="JAPAN",J Sports 2 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
-#EXTINF:-1 tvg-id="JSPORTS3.jp@SD" tvg-logo="https://i.imgur.com/xdI361E.png" group-title="JAPAN",J Sports 3 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
-#EXTINF:-1 tvg-id="JSPORTS4.jp@SD" tvg-logo="https://i.imgur.com/fBcyZNL.png" group-title="JAPAN",J Sports 4 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
-#EXTINF:-1 tvg-id="JidaigekiSenmonChannel.jp@SD" tvg-logo="https://i.imgur.com/8T72RIH.png" group-title="JAPAN",Jidaigeki Senmon (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
-#EXTINF:-1 tvg-id="JOABDTV.jp@SD" tvg-logo="https://i.imgur.com/WxtftlO.png" group-title="JAPAN",JOAB-DTV
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
-#EXTINF:-1 tvg-id="JOAKDTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="JAPAN",JOAK-DTV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
-#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" tvg-logo="https://i.ytimg.com/vi/62_0hty23tM/mqdefault.jpg" group-title="JAPAN",JOAX-DTV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
-#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="JAPAN",JOEX-DTV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
-#EXTINF:-1 tvg-id="JORXDTV.jp@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMK5VmxbndWJwuAftRQblCgqSDf4tYIBW6UNnU526lWWE_b0dLiC9dB3w&s=10" group-title="JAPAN",JORX-DTV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
-#EXTINF:-1 tvg-id="Kanade.cl@SD" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="JAPAN",Kanade (1080p)
-https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-#EXTINF:-1 tvg-id="JODXDTV.jp@SD" tvg-logo="https://i.imgur.com/WMNg5De.png" group-title="JAPAN",Kansai TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
-#EXTINF:-1 tvg-id="KayoPops.jp@SD" tvg-logo="https://www.kayopops.jp/assets/home_main_prefetch/enkaboys.jpg" group-title="JAPAN",Kayo Pops (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
-#EXTINF:-1 tvg-id="KidsStation.jp@SD" tvg-logo="https://www.pokemon.co.jp/ex/origin/news/images/news_20131011_1@2x.jpg" group-title="JAPAN",Kids Station (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
-#EXTINF:-1 tvg-id="JOOYDTV.jp@SD" tvg-logo="https://i.imgur.com/RfrkGrd.png" group-title="JAPAN",MBS (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
-#EXTINF:-1 tvg-id="MTV.jp@SD" tvg-logo="https://cdn.mos.cms.futurecdn.net/q9g5vSSA9BrsZXjGv9K259.jpg" group-title="JAPAN",MTV Japan (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
-#EXTINF:-1 tvg-id="MusicJapanTV.jp@SD" tvg-logo="https://i.ytimg.com/vi/CvSsK1BmpN4/maxresdefault.jpg" group-title="JAPAN",Music Japan TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
-#EXTINF:-1 tvg-id="NationalGeographic.jp@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natgeo.png" group-title="JAPAN",National Geographic Japan (1080p)
-http://65.108.239.207:80/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="NHKBSP4K.jp@SD" tvg-logo="https://i.imgur.com/uvPpFo5.png" group-title="JAPAN",NHK BSP4K (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-#EXTINF:-1 tvg-id="JOBKDTV.jp@SD" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" group-title="JAPAN",NHK G (Osaka) (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
-#EXTINF:-1 tvg-id="NHKKishouSaigai.jp@SD" tvg-logo="https://www.kanaloco.jp/sites/default/files/2025-10/earthquake_0.jpg" group-title="JAPAN",NHK Kishou Saigai (360p) [Not 24/7]
-https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-logo="https://i.imgur.com/4ESi2La.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" group-title="JAPAN",NHK World Premium (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="JAPAN",NHK World-Japan HD
-https://nhk.lls.pbs.org/index.m3u8
-#EXTINF:-1 tvg-id="NihonEigaSenmonChannel.jp@SD" tvg-logo="https://get-cp.jp/usr/s-n-kansya/s_top.jpg" group-title="JAPAN",Nihon Eiga Senmon (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
-#EXTINF:-1 tvg-id="NitteleGPlus.jp@SD" tvg-logo="https://i.imgur.com/7237pCC.png" group-title="JAPAN",Nittele G Plus (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
-#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://c7.alamy.com/comp/2RCY7EH/qvc-logo-qvc-letter-qvc-letter-logo-design-initials-qvc-logo-linked-with-circle-and-uppercase-monogram-logo-qvc-typography-for-technology-busines-2RCY7EH.jpg" group-title="JAPAN",QVC Japan (720p)
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/com/images/common/logo_2021.png" group-title="JAPAN",Shop Channel (1080p) [Not 24/7]
-https://stream3.shopch.jp/HLS/master.m3u8
-#EXTINF:-1 tvg-id="SkyA.jp@SD" tvg-logo="https://i.imgur.com/JU3wZ0k.png" group-title="JAPAN",Sky A (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
-#EXTINF:-1 tvg-id="SpaceShowerTV.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/Space_Shower_-_1999.svg/revision/latest/scale-to-width-down/512" group-title="JAPAN",Space Shower TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
-#EXTINF:-1 tvg-id="StarChannel2.jp@SD" tvg-logo="https://yt3.googleusercontent.com/mZAG6Jxi8ccYl-JF5IpzsaqzddodBArVXCwsFHRHYTWl6RUe2VMTxaGYQAOrR0CXuJLIp2yg=s160-c-k-c0x00ffffff-no-rj" group-title="JAPAN",Star 2 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs27
-#EXTINF:-1 tvg-id="StarChannel3.jp@SD" tvg-logo="https://yt3.googleusercontent.com/mZAG6Jxi8ccYl-JF5IpzsaqzddodBArVXCwsFHRHYTWl6RUe2VMTxaGYQAOrR0CXuJLIp2yg=s160-c-k-c0x00ffffff-no-rj" group-title="JAPAN",Star 3 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs28
-#EXTINF:-1 tvg-id="JOUHDTV.jp@SD" tvg-logo="https://i.imgur.com/0qtXIRM.png" group-title="JAPAN",Sun TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp@SD" tvg-logo="https://www.tca-pictures.net/skystage/program/img/07/05_mizu/tit1.jpg" group-title="JAPAN",TAKARAZUKA SKY STAGE (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
-#EXTINF:-1 tvg-id="TBSNewsCS.jp@SD" tvg-logo="https://www.tbs.co.jp/cstbsnews/img_rw/top/lineup_straightnews.jpg" group-title="JAPAN",TBS News (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
-#EXTINF:-1 tvg-id="ToeiChannel.jp@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJAqlzGWSNJvfgzJl_9J7eQIXO7oEVLuJbM8A98onMr84Gn1n4jAqNqnUv&s=10" group-title="JAPAN",Toei Channel (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
-#EXTINF:-1 tvg-id="JOMXDTV.jp@SD" tvg-logo="https://i.imgur.com/0i5rDRN.png" group-title="JAPAN",Tokyo MX1 (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-#EXTINF:-1 tvg-id="JOBHDTV.jp@SD" tvg-logo="https://cdn.tv-osaka.co.jp/cdn/v20260407.104829/takoruworld/img/title.png" group-title="JAPAN",TV Osaka (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
-#EXTINF:-1 tvg-id="JOTXDTV.jp@SD" tvg-logo="https://i.ytimg.com/vi/RaBSX7LAB_I/maxresdefault.jpg" group-title="JAPAN",TV Tokyo (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
-#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="JAPAN",Weathernews (720p)
-https://weather-live-hls01e.akamaized.net/ade36978-4ad3-48de-91ab-7d6edd0b6388/11ed8ed8ca.ism/manifest(format=m3u8-aapl-v3,audio-only=false).m3u8
-#EXTINF:-1 tvg-id="WOWOWCinema.jp@SD" tvg-logo="https://i.imgur.com/Wx9fkCW.png" group-title="JAPAN",WOWOW Cinema (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
-#EXTINF:-1 tvg-id="WOWOWLive.jp@SD" tvg-logo="https://i.imgur.com/jPAYT5F.png" group-title="JAPAN",WOWOW Live
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
-#EXTINF:-1 tvg-id="WOWOWPrime.jp@SD" tvg-logo="https://i.imgur.com/vACq7w8.png" group-title="JAPAN",WOWOW Prime (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
-#EXTINF:-1 tvg-id="JOIXDTV.jp@SD" tvg-logo="https://i.imgur.com/ONbuWvo.png" group-title="JAPAN",YTV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 
 
 #============   THAILAND.=============== #
@@ -2246,7 +2114,83 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #===============US AMERICA================#
 
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/3652.png" group-title="Europa",US | AMC Fast
+
+#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
+http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europa",Estrella TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
+http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=223&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=225&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/8404.png" group-title="Europa",TR: FOX/NOW TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=218&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=221&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=212&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=219&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=226&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=216&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=220&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=70887&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Europa",TR: 360 TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=254&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/6138.png" group-title="Europa",TR: TV 4 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=258&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3855.png" group-title="Europa",TR: TGRT EU
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110477&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3872.png" group-title="Europa",TR: TIVI 6 HD
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TABII TV HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404644&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3939.png" group-title="Europa",TR: TRT 2 HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=215&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3974.png" group-title="Europa",TR: TRT TURK HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110478&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3858.png" group-title="Europa",TR: TRT AVAZ HD+
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110475&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3943.png" group-title="Europa",TR: SHOW MAX
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=239&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3941.png" group-title="Europa",TR: ATV AVRUPA
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=240&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3947.png" group-title="Europa",TR: EURO STAR
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=241&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/3945.png" group-title="Europa",TR: EURO D
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=213&extension=ts
+#EXTINF:-1 tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/join.tyt.com/acr-logos/6c2d2593-transparent-white-tyt-logo_075046000000000000001.png" group-title="Europa",TR: TYT TURK
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Europa",Anime Vision Classics
+https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/agendachilena.cl/wp-content/uploads/2016/06/radio-adn.png?fit=582%2C324&ssl=1" group-title="Europa",Adn Tv+ (720p)
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/4/43/Happy_Kids_logo_(2014-2017).png" group-title="Europa",Happy Kids 
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png" group-title="Europa",AfarinTV
+https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Gloob.png/revision/latest/scale-to-width-down/1200?cb=20241203031242&path-prefix=pt-br" group-title="Europa",Gloob Sd
+https://dns.p2.wtf/rogerio55x/24992611250/547
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RR8M1ejXuzk/hqdefault.jpg" group-title="Europa",Gloobinho
+https://dns.p2.wtf/rogerio55x/24992611250/296363
+
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6506fc65-9955-42e9-bd64-e9432925db17%2Famc_yellow_logo.png" group-title="Europa",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",La | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
@@ -2279,81 +2223,64 @@ https://canalextremadura-events.flumotion.cloud/canalextremadura/events_all/cana
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/05/oli-tv-300x300.png" group-title="Europa",OLI TV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
-http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europa",Estrella TV
-https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
-http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=229&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=223&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=225&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/8404.png" group-title="Europa",TR: FOX/NOW TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=218&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=221&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 INT
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=242&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=212&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=219&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=226&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=216&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=220&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 AVRUPA
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=70887&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Europa",TR: 360 TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=254&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/6138.png" group-title="Europa",TR: TV 4 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=258&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3855.png" group-title="Europa",TR: TGRT EU
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110477&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3872.png" group-title="Europa",TR: TIVI 6 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TABII TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404644&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 4K 2160P
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=245&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 4K
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=244&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3939.png" group-title="Europa",TR: TRT 2 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=215&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3974.png" group-title="Europa",TR: TRT TURK HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110478&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3858.png" group-title="Europa",TR: TRT AVAZ HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110475&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3943.png" group-title="Europa",TR: SHOW MAX
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=239&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TURK
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3941.png" group-title="Europa",TR: ATV AVRUPA
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=240&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3947.png" group-title="Europa",TR: EURO STAR
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=241&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3945.png" group-title="Europa",TR: EURO D
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=213&extension=ts
-#EXTINF:-1 tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/join.tyt.com/acr-logos/6c2d2593-transparent-white-tyt-logo_075046000000000000001.png" group-title="Europa",TR: TYT TURK
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png" group-title="Europa",AfarinTV
-https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Gloob.png/revision/latest/scale-to-width-down/1200?cb=20241203031242&path-prefix=pt-br" group-title="Europa",Gloob Sd
-https://dns.p2.wtf/rogerio55x/24992611250/547
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RR8M1ejXuzk/hqdefault.jpg" group-title="Europa",Gloobinho
-https://dns.p2.wtf/rogerio55x/24992611250/296363
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqe9rf9ZstexTLPI2TJu6lRR4WLbWMLN6LoQ&s" group-title="Europa",RTBF ACTUS
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/2M_tv_logo_2004.jpg/revision/latest/scale-to-width-down/284?cb=20240104002549" group-title="Europa",2M Monde +1 (1080p)
+https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
+#EXTINF:-1 tvg-logo="https://1almere.stream.prepr.io/2ojs222umgq7/w_1200,h_630/profielfoto-redactie-1almere.png" group-title="Europa",1 Almere Tv (720p)
+https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png/900" group-title="Europa",History Warfare Now
+https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Historia_2010.svg/revision/latest/scale-to-width-down/200?cb=20220122225451" group-title="Europa",Es Historia 
+https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/ReceitasFast_2023.svg/revision/latest/scale-to-width-down/220?cb=20251004164147" group-title="Europa",Receitas Fast Fhd 
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/71D24045-457E-467E-99E3-EB02DF915AA9/3-1x1.png" group-title="Europa",FOX LOCAL 
+https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Europa",Vevo Retro Rock 
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Europa",Vevo Retrorockau 
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://bx1pub.be/wp-content/uploads/2022/04/BX1-Pub-1-1024x973.png" group-title="Europa",BX1 TV
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c9/NTV_Brazil_%282021_-_Present%29.png/revision/latest/thumbnail/width/360/height/450?cb=20210820010031" group-title="Europa",BX1 2
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/f38818d7/index.mpd
+#EXTINF:-1 tvg-logo="https://b2cb7560bd.cbaul-cdnwnd.com/280ff287df1d73c68e176949b9592674/200000078-8ca418ca44/1200px-Quatro.svg.png?ph=b2cb7560bd" group-title="Europa",TV Qutre
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/17f2e303/index.mpd
+#EXTINF:-1 tvg-logo="https://ds.static.rtbf.be/article/image/370x208/e/3/6/f1c1ca1a473db0eb4086755bdb49c08b-1617979287.png" group-title="Europa",Bouke 
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.mpd
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Europa",American Crime Channel 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-logo="https://abcsd.org/wp-content/uploads/2021/04/cropped-ABCSD-Logo-Square-No-Text_png.png" group-title="Europa",Abc San Diego (Usa) 
+https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341" group-title="Europa",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n1DFlCGZ-TTt7hbrtpgf19Aajt1HPqu2Hgh5DsurCxH2MDUJqPxvRlx99P3KT_0D-1Q" group-title="Europa",Vida Melhor
+https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europa",Cine Mo!
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europa",Cine kwela
+https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtXqtl7dxJeHnIni53omD8G1RbYBeB1hpfxDBtFwuaJ57E002P" group-title="Europa",Que Marravilha 
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/TV_Aparecida_HD_2013-16.png/revision/latest?cb=20200205085527" group-title="Europa",TV_Aparecida_BR 
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap720.m3u8
+#EXTINF:-1 tvg-logo="https://www.seveninternet.net.br/assets/651328165db2e70001ac6940-PK41w4da.JPG" group-title="Europa",New Brasil
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasilp720.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2270.png" group-title="Europa",CNN News
+https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1280x720/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2270.png" group-title="Europa",CNN 2
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Europa",American Crime Channel 
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-logo="https://latamjournalismreview.org/wp-content/uploads/2023/07/jovem-pan-logo.png" group-title="Europa",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRQChMrk0pcyOCS4JesZBYZCm8iDRNiTX3HS7S3A-3EVfIdxhH" group-title="Europa",TVLUX
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.mpd
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/67ceaac66c67e560c2ebf432/9c29a851-983c-465c-b1ce-378e1cb860b3/telesambre-rect.png" group-title="Europa",TELESAMBRE 2 TV
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.mpd
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/67ceaac66c67e560c2ebf432/9c29a851-983c-465c-b1ce-378e1cb860b3/telesambre-rect.png" group-title="Europa",TELESAMBRE TV
+https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg?w=200&h=200&crop=1" group-title="Europa",History
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
@@ -2416,15 +2343,41 @@ http://65.108.239.207/t3/index.m3u8
 http://65.108.239.207/t3/index.m3u8
 #EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 4
 http://65.108.239.207/t4/index.m3u8
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Sports 
-https://raw.githubusercontent.com/ALittleAnt4161/m3u8/refs/heads/main/beIN1fr.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv Fhd
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv HD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN AR Sports 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN AR Sports 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="Europa",BeiN AR Sports 3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax4.png" group-title="Europa",BeiN AR Sports 4
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="Europa",BeiN AR Sports 5
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN TH Sports 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinth1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN FR Sports 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN FR Sports 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="Europa",BeiN FR Sports 3
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Extra
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Extra 2 
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europa",UFC 
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/9274.png" group-title="Europa",Arena Sports 
 http://178.253.194.79:10001
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Syria
-https://1nyaler.streamhostingcdn.top/stream/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europa",FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://midias.correiobraziliense.com.br/_midias/jpg/2025/04/14/675x450/1_logo_caze_tv_610x400-49713590.jpg?20250414181547?20250414181547" group-title="Europa",Caze TV
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europa",FIFA 7
+https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="Europa",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="Europa",Canal+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6098/index.m3u8
@@ -2442,8 +2395,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiaw
 https://cdn.telecloud.tv/CH3225/index.m3u8
 #EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/06/1280/960/FS1-1040x585-1.jpg?ve=1&tl=1" group-title="Europa",FS1
 https://cdn.telecloud.tv/CH3223/index.m3u8
-#EXTINF:-1 tvg-logo="https://st5.depositphotos.com/4428871/67874/v/380/depositphotos_678748830-stock-illustration-npl-non-performing-loan-bank.jpg" group-title="Europa",FOX NPL
-https://cdn.telecloud.tv/CH3227/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/010/994/361/small_2x/nba-logo-symbol-red-and-blue-design-america-basketball-american-countries-basketball-teams-illustration-with-black-background-free-vector.jpg" group-title="Europa",NBA
 https://cdn.telecloud.tv/CH3229/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6582.png" group-title="Europa",ESPN
@@ -2453,6 +2404,10 @@ https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/69288233bd359e8a5bd2fa50/69d66cb571df196b22e035a3_CBC.png" group-title="Europa",CBC Sports
 http://176.65.146.189:8701/play/a09h
 
+#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
+#EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2026/03/4-Kurd-Live-Online-560x315.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
+https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-hd.png" group-title="IRAN 🇮🇷",Parnian TV
 https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-one.png" group-title="IRAN 🇮🇷",Persiana One
@@ -2461,8 +2416,6 @@ https://onehls.persiana.live/hls/stream.m3u8
 https://twohls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/sm/persiana-comedy.jpg" group-title="IRAN 🇮🇷",Persiana Comedy
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2026/03/4-Kurd-Live-Online.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
-https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-family.jpg" group-title="IRAN 🇮🇷",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-iranian.jpg" group-title="IRAN 🇮🇷",Persiana Iranian
@@ -2483,19 +2436,21 @@ https://sonhls.persiana.live/hls/stream.m3u8
 https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-nostalgia.jpg" group-title="IRAN 🇮🇷",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5a1b31bef43b5510c0ec47f6/1511732226899-E4GFD743JAMUW4L7VWE2/Logo_01.jpg" group-title="IRAN 🇮🇷",YourTime TV
-https://hls.yourtime.live/hls/stream.m3u8
 
 
 #==============AUSTRALIA==================#
 
 
 #EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC Australia (V+)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://103.137.83.62:9090/play/40/index.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC News
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=83b7c942bf0c4a2d80a299426da2d764:5b1dd642b5a6317e00335eda59dfb07e
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
 
 #EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="AUSTRALIA TV",Trace Sport Stars (Australia) (1080p)
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
@@ -2636,6 +2591,16 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="INDIA TV",Zee News 
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/boJiw31wL-Q7F24kbNug_a7Jr433SUKG32Qg6Saq9b48bCDj5Zlj2wo9cRx3oZ0vCr3L7A_rgw=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA TV",DD News 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310" group-title="INDIA TV",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg/revision/latest?cb=20240319131335" group-title="INDIA TV",Tv 9 Bharat 
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741",Zee 24 Ghanta
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="INDIA TV",Zee TV HD
@@ -2685,7 +2650,7 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 http://103.175.73.12:8080/live/52/52_0.m3u8
 #EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="INDIA TV",Goldmines (576p)
 https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://www.lyngsat.com/logo/tv/gg/goldmines-2-in.png" group-title="INDIA TV",Goldmines 2 (576p)
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://i.ytimg.com/vi/DGY7EirQ8P4/maxresdefault.jpg" group-title="INDIA TV",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood (576p)
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
@@ -3907,7 +3872,7 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://static.wikia.nocookie.net/20th-century-studios-fanmade/images/a/ae/135-1358497_universal-logo-universal-pictures-logo-png.png/revision/latest/scale-to-width-down/1457?cb=20220109042451" group-title="Premium Movies", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/3652.png" group-title="Premium Movies",US | AMC Fast
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amc.png" group-title="Premium Movies",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="Premium Movies",La | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
@@ -4183,6 +4148,11 @@ https://mic.siar.us/mic/live/mic.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retro Rock 
+https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retroroc Kau 
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTINF:-1 tvg-id="Now90s00s.uk@Poland" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/now90s.png" group-title="Music",NOW 90s00s (1080p)
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
@@ -4206,14 +4176,6 @@ https://cdn-3.pishow.tv/live/441/master.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpop.png" group-title="Music",NEW K-POP (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="9XJhakaas.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png?lock=720x540" group-title="Music",9X Jhakaas (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
-
-#EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 
 #EXTINF:-1 tvg-id="9XM.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9XM/images/LOGO_HD/image.png" group-title="Music",9XM (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -4255,6 +4217,10 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcnews.png",BBC News 2
 https://cdnbal1.indihometv.com/atm/DASH/bbcnews/manifest.mpd
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.euronews.com/articles/programs/programs-logos/logo-the-edge.png",Euro News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.137.83.62:9090/play/48/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
