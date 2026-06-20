@@ -1671,7 +1671,7 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 #===============JAPAN========================#
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cgtn.png" group-title="JAPAN",CGTN Japan (1080p)
+#EXTINF:-1 tvg-logo="https://relurobot.com/partner/%E4%B8%AD%E5%B9%BF%E6%A0%B8.png" group-title="JAPAN",CGN Japan (1080p)
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/4825.T_BIG.D-91f862fb.png?t=1720244490" group-title="JAPAN",ウェザーニュースLiVE
 https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
