@@ -1,23 +1,23 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1 (RAW1)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="FIFA World Cup 2026",RTB Go Live FHD
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtbaneka.png" group-title="FIFA World Cup 2026",RTB Aneka FHD
+https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV5.png",CCTV 5
+http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="FIFA World Cup 2026",TR: TRT 1 (RAW1)
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1 (RAW)
-http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430088.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1  (FHD)
-http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/682314.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1 (HD)
+#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="FIFA World Cup 2026",TRT 1
+https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="FIFA World Cup 2026",TR: TRT 1 (HD)
 http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430090.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6525.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT SPOR (RAW)
-http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/681949.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6525.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT SPOR (HD)
-http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430092.m3u8
-#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="World Cup ⚡️ Dünya Kupası",TR: Tabii SPOR (FHD)
+#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (FHD)
 http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/681900.m3u8
-#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="World Cup ⚡️ Dünya Kupası",TR: Tabii SPOR (HD)
+#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (HD)
 http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430094.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="World Cup ⚡️ Dünya Kupası",DE: ZDF (FHD)
+#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="FIFA World Cup 2026",DE: ZDF (FHD)
 http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/1434608.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="World Cup ⚡️ Dünya Kupası",DE: ZDF (HD)
+#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="FIFA World Cup 2026",DE: ZDF (HD)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6059/index.m3u8
 
 #EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/seria.png" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup
