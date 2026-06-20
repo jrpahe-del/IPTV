@@ -1,20 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1 (RAW1)
+http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1 (RAW)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430088.m3u8
+http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430088.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1  (FHD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430089.m3u8
+http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/682314.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT 1 (HD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430090.m3u8
+http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430090.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6525.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT SPOR (RAW)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430091.m3u8
+http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/681949.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/6525.png" group-title="World Cup ⚡️ Dünya Kupası",TR: TRT SPOR (HD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430092.m3u8
+http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430092.m3u8
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="World Cup ⚡️ Dünya Kupası",TR: Tabii SPOR (FHD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430093.m3u8
+http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/681900.m3u8
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="World Cup ⚡️ Dünya Kupası",TR: Tabii SPOR (HD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430094.m3u8
+http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430094.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="World Cup ⚡️ Dünya Kupası",DE: ZDF (FHD)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31441/index.m3u8
+http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/1434608.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="World Cup ⚡️ Dünya Kupası",DE: ZDF (HD)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6059/index.m3u8
 
 #EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/seria.png" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
