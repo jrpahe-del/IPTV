@@ -4,13 +4,13 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtbaneka.png" group-title="FIFA World Cup 2026",RTB Aneka FHD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV5.png",CCTV 5
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=fb90330e87363856428a62285d07b23c&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260621100519&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=110.244.139.249&SecurityKey=20260621100519&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1abf9470961e88f31385836eee5e016b&sv=10004&ct=android
 #EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="FIFA World Cup 2026",TR: TRT 1 (RAW1)
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
+http://maindnskullanma.com:8080/live/1410niklas/DkdBHPW9Ku0J/1434610.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="FIFA World Cup 2026",TRT 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="FIFA World Cup 2026",TR: TRT 1 (HD)
-http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430090.m3u8
+#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="http://epg.one/img2/2904.png" tvg-rec="3",TVP Sport HD PL
+http://maindnskullanma.com:8080/live/1410niklas/DkdBHPW9Ku0J/1434637.m3u8
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (FHD)
 http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/681900.m3u8
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (HD)
@@ -2138,7 +2138,6 @@ https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #===============US AMERICA================#
 
 
-
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
@@ -2147,58 +2146,58 @@ http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
 http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=460529&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=217&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=224&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=223&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=225&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/8404.png" group-title="Europa",TR: FOX/NOW TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=218&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=221&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=212&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=219&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=226&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=216&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=220&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 AVRUPA
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=70887&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Europa",TR: 360 TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=254&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/6138.png" group-title="Europa",TR: TV 4 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=258&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3855.png" group-title="Europa",TR: TGRT EU
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110477&extension=ts
+#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 FHD
+http://sa2.560293.xyz:80/live/Ahmet.DURMUss/np2X.sHqXca/341457.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3872.png" group-title="Europa",TR: TIVI 6 HD
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TABII TV HD+
+#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="Europa",TR: TABII TV HD+
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404644&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.one/img/3939.png" group-title="Europa",TR: TRT 2 HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=215&extension=ts
+http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/682311.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3974.png" group-title="Europa",TR: TRT TURK HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110478&extension=ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2281/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3858.png" group-title="Europa",TR: TRT AVAZ HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=110475&extension=ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6799/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2261/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2274/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341462.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341464.m3u8
+#EXTINF:0 group-title="Europa" tvg-logo="http://epg.one/img2/8404.png",Fox Deportes HD US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30075/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341472.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414086.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341477.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341480.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341494.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414071.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 AVRUPA
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414101.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Europa",TR: 360 TV HD+
+http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414114.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/6138.png" group-title="Europa",TR: TV 4 HD+
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2528/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/3855.png" group-title="Europa",TR: TGRT Haber HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6796/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3943.png" group-title="Europa",TR: SHOW MAX
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=239&extension=ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6890/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TURK
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
 #EXTINF:-1 tvg-logo="http://epg.one/img/3941.png" group-title="Europa",TR: ATV AVRUPA
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=240&extension=ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6888/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3947.png" group-title="Europa",TR: EURO STAR
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=241&extension=ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6894/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3945.png" group-title="Europa",TR: EURO D
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=213&extension=ts
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6892/index.m3u8
 #EXTINF:-1 tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/join.tyt.com/acr-logos/6c2d2593-transparent-white-tyt-logo_075046000000000000001.png" group-title="Europa",TR: TYT TURK
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Europa",Anime Vision Classics
@@ -2357,16 +2356,56 @@ http://65.108.239.207:80/startv/index.m3u8
 http://65.108.239.207:80/natgeo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/natwild.png" group-title="Europa",National Wild
 http://65.108.239.207:80/natgeowild/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europa",TRT 1
+#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europa",TRT Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 1
-http://65.108.239.207/t1/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 2
-http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 3
-http://65.108.239.207/t3/index.m3u8
-#EXTINF:-1 tvg-logo="https://image.hurimg.com/i/hurriyet/90/750x422/6599bd2f341c7b3a78710a0d.jpg" group-title="Europa",Tivibu 4
-http://65.108.239.207/t4/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/16039/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/16040/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6507" tvg-logo="http://epg.one/img2/6507.png" tvg-rec="0",TNT Sports 4 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19054/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19062/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19064/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19067/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19068/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="2587" tvg-logo="http://epg.one/img2/2587.png" tvg-rec="0",A Spor HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19069/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19072/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6526" tvg-logo="http://epg.one/img2/6526.png" tvg-rec="0",Spor Smart 2 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19073/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6527" tvg-logo="http://epg.one/img2/6527.png" tvg-rec="0",Tivibu Spor 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19074/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6529" tvg-logo="http://epg.one/img2/6529.png" tvg-rec="0",Tivibu Spor 3 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19076/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6555" tvg-logo="http://epg.one/img2/6555.png" tvg-rec="0",Sky Sport 24 HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19127/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6556" tvg-logo="http://epg.one/img2/6556.png" tvg-rec="0",Sky Sport Arena HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19128/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6560" tvg-logo="http://epg.one/img2/6560.png" tvg-rec="0",Sky Sport Golf HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19132/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6561" tvg-logo="http://epg.one/img2/6561.png" tvg-rec="0",Sky Sport MotoGP HD IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19133/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="3117" tvg-logo="http://epg.one/img2/3117.png" tvg-rec="0",Super Tennis IT
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19136/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6566" tvg-logo="http://epg.one/img2/6566.png" tvg-rec="0",Fox Sports HD AR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19138/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6567" tvg-logo="http://epg.one/img2/6567.png" tvg-rec="0",Fox Sports HD MX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19139/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6571" tvg-logo="http://epg.one/img2/6571.png" tvg-rec="0",Fox Sports 506 HD AU
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19143/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="88010" tvg-logo="http://epg.one/img2/88010.png" tvg-rec="0",Fox Sports Racing US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19144/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6574" tvg-logo="http://epg.one/img2/6574.png" tvg-rec="0",Fox Sports 501 Cricket HD AU
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19146/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6578" tvg-logo="http://epg.one/img2/6578.png" tvg-rec="0",FanDuel Sports North US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19152/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="6579" tvg-logo="http://epg.one/img2/6579.png" tvg-rec="0",FanDuel Sports Midwest US
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19153/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv Fhd
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv HD
