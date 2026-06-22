@@ -4,19 +4,19 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtbaneka.png" group-title="FIFA World Cup 2026",RTB Aneka FHD
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV5.png",CCTV 5
-http://hlszymgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?msisdn=fb90330e87363856428a62285d07b23c&mdspid=&spid=699004&netType=0&sid=5500516171&pid=2028597139&timestamp=20260621100519&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=641886683&ParentNodeID=-99&assertID=5500516171&client_ip=110.244.139.249&SecurityKey=20260621100519&promotionId=&mvid=5102048712&mcid=500020&playurlVersion=ZQ-A1-9.6.1.2-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=1abf9470961e88f31385836eee5e016b&sv=10004&ct=android
+http://107.150.60.122/live/cctv5hd.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="FIFA World Cup 2026",TR: TRT 1 (RAW1)
-http://maindnskullanma.com:8080/live/1410niklas/DkdBHPW9Ku0J/1434610.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="FIFA World Cup 2026",TRT 1
+http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="FIFA World Cup 2026",TRT Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="http://epg.one/img2/2904.png" tvg-rec="3",TVP Sport HD PL
-http://maindnskullanma.com:8080/live/1410niklas/DkdBHPW9Ku0J/1434637.m3u8
+http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/407946.m3u8
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (FHD)
-http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/681900.m3u8
+http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430092.m3u8
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (HD)
 http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430094.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="FIFA World Cup 2026",DE: ZDF (FHD)
-http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/1434608.m3u8
+http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430095.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="FIFA World Cup 2026",DE: ZDF (HD)
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6059/index.m3u8
 
@@ -425,8 +425,10 @@ https://ammedia.siar.us/ammedia/live/playlist.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
 #EXTINF:-1 group-title="LOCAL TV" tvg-id="Bali TV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/balitv5.png",Bali TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-https://cdnbal1.indihometv.com/atm/DASH/balitv/manifest.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd
 
 #EXTINF:-1 tvg-id="BalikpapanTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/balikpapan.png" group-title="LOCAL TV",Balikpapan TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
@@ -1438,6 +1440,18 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSNews/mediampd/TVBSNews.mpd
 #KODIPROP:inputstream.adaptive.license_key=f530cf9ab2244fdb935da69d93614188:ccd52f487ef5c2c29869a5b6899397bb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvbs.png",TVBS Asia
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVBSAsia/mediampd/TVBSAsia.mpd
+
+#EXTINF:-1 tvg-id="FTV.tw@SD" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/317/604317-LOGO-m.png",Formosa
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=69
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/66f9fcf4947b425886af2289bb0c3244/index.mpd
+
+#EXTINF:-1 tvg-id="SETTaiwan.tw@SD" group-title="China" tvg-logo="https://www.visionplus.id/images/repository/548/604548-LOGO-m.png",Sanlih
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=70
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/a82a32a7b69f40f58ae25d619548d215/index.mpd
 
 #EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV1.png",CCTV 1
 #KODIPROP:inputstream=inputstream.adaptive
