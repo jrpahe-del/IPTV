@@ -1287,7 +1287,7 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs1-20181732222723.logowik.com.webp" group-title="KOREA",EBS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8
+https://ebsonairios.ebs.co.kr/groun;avetablet500k/tablet500k/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs2-20181732222751.logowik.com.webp" group-title="KOREA",EBS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -2336,7 +2336,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 http://149.102.245.111:80/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/c/cd/Channel_4_%282015-.n.v.%29.png/revision/latest?cb=20200613212237&path-prefix=pl" group-title="Europa",tv 4
 http://149.102.245.111:80/18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Europa",SOL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/01/Sol.png/revision/latest/scale-to-width-down/300?cb=20221101231342" group-title="Europa",SOL Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5621
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="Europa",BBC Sports
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/77361.m3u8
@@ -2417,11 +2417,41 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19146/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19152/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="6579" tvg-logo="http://epg.one/img2/6579.png" tvg-rec="0",FanDuel Sports Midwest US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19153/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv Fhd
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv HD
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN AR Sports 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv FHD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv2.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9274" tvg-logo="http://epg.one/img/9274.png" tvg-rec="0",Arena Sport 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9275" tvg-logo="http://epg.one/img/9275.png" tvg-rec="0",Arena Sport 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9277" tvg-logo="http://epg.one/img/9277.png" tvg-rec="0",Arena Sport 4 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9278" tvg-logo="http://epg.one/img/9278.png" tvg-rec="0",Arena Sport 5 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9279" tvg-logo="http://epg.one/img/9279.png" tvg-rec="0",Arena Sport 6 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9280" tvg-logo="http://epg.one/img/9280.png" tvg-rec="0",Arena Sport 7 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9281" tvg-logo="http://epg.one/img/9281.png" tvg-rec="0",Arena Sport 8 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9282" tvg-logo="http://epg.one/img/9282.png" tvg-rec="0",Arena Sport 9 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport9.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9283" tvg-logo="http://epg.one/img/9283.png" tvg-rec="0",Arena Sport 10 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" tvg-rec="0",Arena Premium 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" tvg-rec="0",Arena Premium 2 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png" tvg-rec="0",Arena Premium 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9269" tvg-logo="http://epg.one/img/9269.png" tvg-rec="0",Arena Esport HD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31597/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31598/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN AR Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN AR Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
@@ -2431,9 +2461,9 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="Europa",BeiN AR Sports 5
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN TH Sports 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN TH Sports 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinth1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN FR Sports 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN FR Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN FR Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
@@ -2480,7 +2510,7 @@ http://176.65.146.189:8701/play/a09h
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2026/03/4-Kurd-Live-Online-560x315.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/4-kurd-fr.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-hd.png" group-title="IRAN 🇮🇷",Parnian TV
 https://euhls.persiana.live/hls/stream.m3u8
@@ -4274,6 +4304,14 @@ https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_en
 #<================= News =========================================================================================================================>
 
 
+#EXTINF:-1 tvg-id="CNN.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnn5.png" group-title="News",CNN Indonesia
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://live.cnnindonesia.com/livecnn/smil:cnntv/chunklist_w1188349826_b384000_sleng.m3u8
+
+#EXTINF:-1 tvg-id="CNBCIndonesia.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cnbc5.png" group-title="News",CNBC Indonesia
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jazeera.png",Al Jazeera Arabic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
@@ -4288,10 +4326,6 @@ https://cdnbal1.indihometv.com/atm/DASH/aljazeera/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcnews.png",BBC News
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/7d38a4525dfa42b08a94c22c173061da/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bbcnews.png",BBC News 2
-https://cdnbal1.indihometv.com/atm/DASH/bbcnews/manifest.mpd
-
 #EXTINF:-1 group-title="News" tvg-logo="https://static.euronews.com/articles/programs/programs-logos/logo-the-edge.png",Euro News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://103.137.83.62:9090/play/48/index.m3u8
@@ -4302,25 +4336,17 @@ http://103.137.83.62:9090/play/48/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3212c95b42154b6284671f28cc2c943c/index.mpd
 
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdnbal1.indihometv.com/atm/DASH/BLOOMBERG_AT/manifest.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c2c7834abd740669637bc4b029c9aee:2f7808671f1a6f63ebd86850d8d7cc5f
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cgtn5.png",CGTN
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/c3e6d7241fbf404082087774d7221635/index.mpd
+https://english-livebkali.cgtn.com/live/encgtn.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=fb0dd5a64a3c45e086cb23f7f9649fbc:d68ee78a9b1703da869a983b57d95c60
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cna.png",Channel News Asia
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7295b950a9b44dd2bf622a7d7d25dbd3/index.mpd
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cna.png",Channel News Asia 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdnbal1.indihometv.com/atm/DASH/newsasia/manifest.mpd
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4329,8 +4355,8 @@ https://cdnbal1.indihometv.com/atm/DASH/newsasia/manifest.mpd
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dw5.png",DW English
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdnbal1.indihometv.com/atm/DASH/DWTV/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4338,19 +4364,10 @@ https://cdnbal1.indihometv.com/atm/DASH/DWTV/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fr24.png",France24
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/498b57e974a843d28ea1a393603e5318/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fr24.png",France24 2
-https://cdnbal1.indihometv.com/atm/DASH/FRANCE_24/manifest.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=989c2b64799145f3bbf19fade7f20380:6eb7e7a29e6e633a82a2af4449b93535
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhk.png",NHK World Japan
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/8decf3562fe943e88872ef868d6fb6a5/index.mpd
-
-#EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nhkjapan.png",NHK World Japan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdnbal1.indihometv.com/atm/DASH/NHK_WORLD_JAPAN/manifest.mpd
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h23/index.m3u8
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/phoenix.png",Phoenix Chinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -4361,8 +4378,9 @@ https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtoday.png",Russia Today
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://cdnbal1.indihometv.com/atm/DASH/rusiatv/manifest.mpd
+http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -4370,9 +4388,17 @@ https://cdnbal1.indihometv.com/atm/DASH/rusiatv/manifest.mpd
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trt.png",TRT World
 https://d2tjypxxy769fn.cloudfront.net/out/v1/be2bcc4b75e348e5b331fc5f99aa3daf/index.mpd
 
+#EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2016/03/Fox_News_Channel_logo_1454609378760_796678_ver1.0.jpg?w=1237&h=680&crop=1" group-title="News",FOX News
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvbs.png",TVBS News
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://cdnbal1.indihometv.com/atm/DASH/TVBS_NEWS/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="News",US TVINH News 24x7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
 
 
 #<============  TV SD ===================================>
@@ -4665,6 +4691,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h26/index.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s16/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/DDrt.png" group-title="DENSTV",RT Channel (360p)
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
 
@@ -4742,130 +4769,6 @@ http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 #http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8
-
-
-#=============TVRI=================#
-
-
-#EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI DKI Jakata
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Aceh" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Aceh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Bali" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Bali
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@BangkaBelitung" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Bangka Belitung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Bengkulu" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Bengkulu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Gorontalo" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Gorontalo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Jambi" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Jambi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@WestJava" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Jawa Barat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar-avc1_500000=10007-mp4a_64000_eng=20003.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@CentralJava" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Jawa Tengah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@EastJava" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Jawa Timur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@WestKalimantan" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Barat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@SouthKalimantan" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Selatan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@CentralKalimantan" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Tengah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@EastKalimantan" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Kalimantan Timur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Lampung" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Lampung
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Maluku" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Maluku
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@NorthSulawesi" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI North Sulawesi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@NorthSumatra" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI North Sumatra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut-avc1_500000=10001-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@WestNusaTenggara" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Nusa Tenggara Barat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@EastNusaTenggara" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Nusa Tenggara Timur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Papua" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Papua
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Riau" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Riau
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@WestSulawesi" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",mlawesi Barat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@SouthSulawesi" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Sulawesi Selatan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@CentralSulawesi" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Sulawesi Tengah
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@SoutheastSulawesi" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Sulawesi Tenggara
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@WestSumatra" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Sumatera Barat
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar-avc1_500000=10001-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@SouthSumatra" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Sumatera Selatan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel-avc1_500000=10001-mp4a_64000=20002.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@WestPapua" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI West Papua
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar-avc1_500000=10007-mp4a_64000=20001.m3u8
-
-#EXTINF:-1 tvg-id="TVRI.id@Yogyakarta" tvg-logo="https://redaktur.tvrinews.com/storage/images/upload/d7ac427b-4b5a-45fd-a322-6b996371fe7b.png" group-title="TVRI DAERAH",TVRI Yogyakarta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
-https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta-avc1_500000=10007-mp4a_64000=20001.m3u8
 
 
 #================SPORTS ======================#

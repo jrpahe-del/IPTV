@@ -2344,7 +2344,7 @@ https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
 http://149.102.245.111:80/21/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logaekranowe/images/c/cd/Channel_4_%282015-.n.v.%29.png/revision/latest?cb=20200613212237&path-prefix=pl" group-title="Europa",tv 4
 http://149.102.245.111:80/18/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://soltvperu.com/wp-content/uploads/2024/05/logo-sol-tv.png" group-title="Europa",SOL
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/0/01/Sol.png/revision/latest/scale-to-width-down/300?cb=20221101231342" group-title="Europa",SOL Music
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5621
 #EXTINF:-1 tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/BBC-Logo-1.png" group-title="Europa",BBC Sports
 http://tvportal4k.xyz:80/live/Rachideddib26/d41g5hkc1b/77361.m3u8
@@ -2425,11 +2425,41 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19146/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19152/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="6579" tvg-logo="http://epg.one/img2/6579.png" tvg-rec="0",FanDuel Sports Midwest US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19153/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv Fhd
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv HD
-https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/720p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN AR Sports 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv1.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv FHD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv2.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9274" tvg-logo="http://epg.one/img/9274.png" tvg-rec="0",Arena Sport 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9275" tvg-logo="http://epg.one/img/9275.png" tvg-rec="0",Arena Sport 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9277" tvg-logo="http://epg.one/img/9277.png" tvg-rec="0",Arena Sport 4 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9278" tvg-logo="http://epg.one/img/9278.png" tvg-rec="0",Arena Sport 5 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9279" tvg-logo="http://epg.one/img/9279.png" tvg-rec="0",Arena Sport 6 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9280" tvg-logo="http://epg.one/img/9280.png" tvg-rec="0",Arena Sport 7 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9281" tvg-logo="http://epg.one/img/9281.png" tvg-rec="0",Arena Sport 8 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9282" tvg-logo="http://epg.one/img/9282.png" tvg-rec="0",Arena Sport 9 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport9.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9283" tvg-logo="http://epg.one/img/9283.png" tvg-rec="0",Arena Sport 10 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" tvg-rec="0",Arena Premium 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" tvg-rec="0",Arena Premium 2 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png" tvg-rec="0",Arena Premium 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9269" tvg-logo="http://epg.one/img/9269.png" tvg-rec="0",Arena Esport HD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31597/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31598/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN AR Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN AR Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
@@ -2439,9 +2469,9 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="Europa",BeiN AR Sports 5
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN TH Sports 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN TH Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinth1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein1.png" group-title="Europa",BeiN FR Sports 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN FR Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN FR Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
@@ -2488,7 +2518,7 @@ http://176.65.146.189:8701/play/a09h
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://kurditv.com/wp-content/uploads/2026/03/4-Kurd-Live-Online-560x315.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/num/4-kurd-fr.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-hd.png" group-title="IRAN 🇮🇷",Parnian TV
 https://euhls.persiana.live/hls/stream.m3u8
