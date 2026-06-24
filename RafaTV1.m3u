@@ -1,25 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CGlzsD5.png" group-title="FIFA World Cup 2026",RTB Go Live FHD
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtbaneka.png" group-title="FIFA World Cup 2026",RTB Aneka FHD
-https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV5.png",CCTV 5
-http://107.150.60.122/live/cctv5hd.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="FIFA World Cup 2026",TR: TRT 1 (RAW1)
-http://push.cdn1.hls123.de:8080/streams/zed7kdzyh1/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="FIFA World Cup 2026",TRT Sports
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:-1 group-title="FIFA World Cup 2026" tvg-logo="http://epg.one/img2/2904.png" tvg-rec="3",TVP Sport HD PL
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/407946.m3u8
-#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (FHD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430092.m3u8
-#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="FIFA World Cup 2026",TR: Tabii SPOR (HD)
-http://sa2.560293.xyz:80/live/fransaferdikendisi/20092020ferdi/430094.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="FIFA World Cup 2026",DE: ZDF (FHD)
-http://sa2.560293.xyz:80/live/selimde/9vmRCzQXCg/430095.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3072.png" group-title="FIFA World Cup 2026",DE: ZDF (HD)
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6059/index.m3u8
-
 #EXTINF:-1 tvg-id="bein3uk" tvg-name="BeIN Sports 3 UK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/seria.png" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
