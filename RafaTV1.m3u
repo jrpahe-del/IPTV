@@ -6,7 +6,7 @@ http://link.zozotv.xyz:8080/live/QS3315/K717976/4644.ts
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup3
 http://link.zozotv.xyz:8080/live/QS3315/K717976/4645.ts
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup4
-http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup5
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
@@ -1683,6 +1683,10 @@ http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8
 #===============JAPAN========================#
 
 
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="JAPAN",NHK World-Japan (1080p)
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/NHK_World_Japan.png" group-title="JAPAN",NHK World-Japan HD (1080p) [Geo-blocked]
+https://nhk.lls.pbs.org/index.m3u8
 #EXTINF:-1 tvg-logo="https://relurobot.com/partner/%E4%B8%AD%E5%B9%BF%E6%A0%B8.png" group-title="JAPAN",CGN Japan (1080p)
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 #EXTINF:-1 tvg-logo="https://companieslogo.com/img/orig/4825.T_BIG.D-91f862fb.png?t=1720244490" group-title="JAPAN",ウェザーニュースLiVE
@@ -1691,7 +1695,7 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 https://hamada.gaki-no-tsukai.stream/hls/test.m3u8
 #EXTINF:-1 tvg-logo="https://www.phileweb.com/news/photo/d-av/576/57693/nhk1_thumb.jpg" group-title="JAPAN",NHK BS4K
 https://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png" group-title="JAPAN",Bloomberg Originals
+#EXTINF:-1 tvg-logo="https://img.platform.wurl.dev/channel/1179/lg/816767/LG-Logo-PNG-100x100_v1.png" group-title="JAPAN",Bloomberg
 https://5e72b647.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctanBfQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/MediaCan/TrendON/2-3-white-text-trend.png" group-title="JAPAN",TrendON
 https://amg15905-k20-amg15905c2-lg-jp-5524.playouts.now.amagi.tv/playlist/amg15905-mediacan-trendon-lgjp/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
@@ -1727,6 +1731,31 @@ https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=babyshar
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=essential%3B&channel_id=newid_246&mpf=4034c999-39af1962-608639c7&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=6fa28eda-fdf30b7e-9faae242-8a8391d2&ads.live=[CONTENT_LIVE]&ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.us_privacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://d3s2p39m306u7r.cloudfront.net/LGUPLUS/KBO/KBO_logo_400x200.png" group-title="JAPAN",K-Baseball TV
 https://amg02040-lguplus-amg02040c11-lg-jp-7516.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbokor-lgjp/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]
+#EXTINF:-1 tvg-id="BabyFirst.us@US" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="JAPAN",Babyfirst
+https://jmp2.uk/plu-5ebac49ce4dc8b00078b23bc.m3u8
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-logo="https://i.imgur.com/5LNZeVq.png" http-referrer="http://japan.cgntv.net/HD_player_jp.html" group-title="JAPAN",CGNTV Japan (1080p)
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="DellaTV.it@HD" tvg-logo="https://i.imgur.com/6lvQ3Xz.png" group-title="JAPAN",DellaTV (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-211474/playlist.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-logo="https://i.imgur.com/ECnVG5I.png" group-title="JAPAN",GSTV (720p)
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="JOAXDTV.jp@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/Nippon_TVSVGRed.svg/revision/latest/scale-to-width-down/250?cb=20250922104810" group-title="JAPAN",JOAX-DTV
+https://ntv5.mov3.co/hls/ntv.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp@SD" tvg-logo="https://i.imgur.com/sEWDmMD.png" group-title="JAPAN",JOCX-DTV
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="JOEXDTV.jp@SD" tvg-logo="https://i.imgur.com/YCqB5Kj.png" group-title="JAPAN",JOEX-DTV (540p)
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp@SD" tvg-logo="https://i.imgur.com/dUn2GRn.png" group-title="JAPAN",JORX-DTV
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="Kanade.cl@SD" tvg-logo="https://static.kanade.cl/assets/img/profilepic_512px.png" group-title="JAPAN",Kanade (1080p)
+https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-logo="https://logoeps.com/wp-content/uploads/2012/07/qvc-hd-logo-vector.png" group-title="JAPAN",QVC (1080p)
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-logo="https://www.shopch.jp/recruit/assets/img/page/recruit_concept/shopch_logo_02.png" group-title="JAPAN",Shop Channel (1080p) [Not 24/7]
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="Weathernews.jp@SD" tvg-logo="https://i.imgur.com/A8uRSTS.png" group-title="JAPAN",Weathernews (720p)
+https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
 
 
 #============   THAILAND.=============== #
@@ -3321,7 +3350,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-id="My Cinema Europe" tvg-url="mmm"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mycinema.png" group-title="Premium Movies", My Cinema Europe (DensTV)
+#EXTINF:-1 tvg-id="My Cinema Europe" tvg-url="mmm"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mycinema.png" group-title="Premium Movies", My Cinema ]e (DensTV)
 https://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
@@ -5439,16 +5468,27 @@ https://amg01439-amg01439c1-amgplt0201.playout.now3.amagi.tv/ts-eu-w1-n2/playlis
 #============EUROPEA=================#
 
 
+
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static1.tgstat.ru/channels/_0/32/32d3ca6b79f654ed36bfc220e5c78c88.jpg" group-title="Europa",Set Mix
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europa",TvR 1
+https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Europa" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
+https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europa",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
 http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2598.png" group-title="Europa",TR: TRT 1 FHD
-http://sa2.560293.xyz:80/live/Ahmet.DURMUss/np2X.sHqXca/341457.m3u8
+#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2293/index.m3u8
+#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/6883/index.m3u8
+#EXTINF:-1 group-title="Europa" tvg-id="3072" tvg-logo="http://epg.one/img2/3072.png" tvg-rec="3",ZDF HD DE
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/6059/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/tivi6.webp" group-title="Europa",TR: TIVI 6 HD
 http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
 #EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="Europa",TR: TABII TV HD+
@@ -5612,8 +5652,6 @@ https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="Europa",IMAGEN TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europa",TvR 1
-https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 tvg-logo="https://tvrm-s3.fra1.cdn.digitaloceanspaces.com/superdesk/20240126140124/6d2bc4b4baa05b78a25c3638de32bb26de2534ae37080292ab360d85a0b219fb.jpg" group-title="Europa",TvR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2CK_o1PCefwDhUVqTP2ldMvW6FFlUaN1xV-AGLq1bnM38hn_HxERuzk&s=10" group-title="Europa",2 M Monde +1
@@ -5788,7 +5826,7 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 #EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="Europa",Canal+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6098/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.antaranews.com/cache/1200x800/2017/11/20171125F1_Formula_1_logo_black_background.png.webp" group-title="Europa",F1 Formola
-https://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2254.png" group-title="Europa",CBS News
 https://phila5bcfb03.airspace-cdn.cbsivideo.com/live/manifest.m3u8
 #EXTINF:-1 tvg-logo="https://static-www.adweek.com/wp-content/uploads/sites/3/2016/03/Fox_News_Channel_logo_1454609378760_796678_ver1.0.jpg?w=1237&h=680&crop=1" group-title="Europa",FOX News
@@ -5841,58 +5879,111 @@ https://raphls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-nostalgia.jpg" group-title="IRAN 🇮🇷",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",ANEWZ
+
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9147" tvg-logo="http://epg.one/img2/9147.png" tvg-rec="3",Muz TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2191/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2635" tvg-logo="http://epg.one/img2/2635.png" tvg-rec="3",ARB TV HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2187/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9128" tvg-logo="http://epg.one/img2/9128.png" tvg-rec="3",ATV Cinema AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2120/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9764" tvg-logo="http://epg.one/img2/9764.png" tvg-rec="3",Premier Sports 2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2069/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9130" tvg-logo="http://epg.one/img2/9130.png" tvg-rec="0",ATV Vivace AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16068/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9131" tvg-logo="http://epg.one/img2/9131.png" tvg-rec="0",Show Plus TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16067/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9132" tvg-logo="http://epg.one/img2/9132.png" tvg-rec="0",VIP TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16052/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9144" tvg-logo="http://epg.one/img2/9144.png" tvg-rec="0",Baku TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16047/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9133" tvg-logo="http://epg.one/img2/9133.png" tvg-rec="0",MCJ Shopping AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16046/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2559" tvg-logo="http://epg.one/img2/2559.png" tvg-rec="0",ATV HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16045/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2637" tvg-logo="http://epg.one/img2/2637.png" tvg-rec="0",Idman TV HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16044/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="9136" tvg-logo="http://epg.one/img2/9136.png" tvg-rec="0",KATV1 AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/16042/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2551" tvg-logo="http://epg.one/img2/2551.png" tvg-rec="3",ARB 24 HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2188/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2552" tvg-logo="http://epg.one/img2/2552.png" tvg-rec="3",ARB Gunes HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2189/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2553" tvg-logo="http://epg.one/img2/2553.png" tvg-rec="3",Space TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2190/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2435" tvg-logo="http://epg.one/img2/2435.png" tvg-rec="3",Dunya TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2192/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2636" tvg-logo="http://epg.one/img2/2636.png" tvg-rec="3",CBC Sport AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2193/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2555" tvg-logo="http://epg.one/img2/2555.png" tvg-rec="3",Ictimai TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2195/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2158" tvg-logo="http://epg.one/img2/2158.png" tvg-rec="3",CBC AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2196/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2557" tvg-logo="http://epg.one/img2/2557.png" tvg-rec="3",Mədəniyyət TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2197/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2637" tvg-logo="http://epg.one/img2/2637.png" tvg-rec="3",Idman TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2198/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2558" tvg-logo="http://epg.one/img2/2558.png" tvg-rec="3",Xəzər TV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2199/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2559" tvg-logo="http://epg.one/img2/2559.png" tvg-rec="3",ATV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2200/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2134" tvg-logo="http://epg.one/img2/2134.png" tvg-rec="3",AzTV AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/966/index.m3u8
+#EXTINF:0 group-title="Azerbaijan" tvg-id="2158" tvg-logo="http://epg.one/img2/2158.png" tvg-rec="3",CBC HD AZ
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/1050/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiJlgLGwjZNxXLwt6U3Qs_L59v2qIh86biAMiRixMUvNFsDTi0" group-title="Azerbaijan",ANEWZ
 http://176.65.146.189:8701/play/a0a6
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",ATV Azerbaijan HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2559.png" group-title="Azerbaijan",ATV Azerbaijan HD
 http://176.65.146.189:8701/play/a09m
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",AZIYA TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png" group-title="Azerbaijan",AZIYA TV
 http://176.65.146.189:8701/play/a0a5
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",AzTV HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2134.png" group-title="Azerbaijan",AzTV HD
 http://176.65.146.189:8701/play/a09i
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",BAKU TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/9144.png" group-title="Azerbaijan",BAKU TV
 http://176.65.146.189:8701/play/a09t
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",BELARUS24 HD
+#EXTINF:-1 tvg-logo="https://static.tildacdn.com/tild6461-6131-4332-b332-343636306334/Belarus24_logo.png" group-title="Azerbaijan",BELARUS24 HD
 http://176.65.146.189:8701/play/a09v
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",CBC Azerbaijan TV HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2HypVBHkemrHTdKt6smXj4yuEv9dKzTxMC1sjAO2iYA&s" group-title="Azerbaijan",CBC Azerbaijan TV HD
 http://176.65.146.189:8701/play/a09g
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",CBC Sport TV HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2636.png" group-title="Azerbaijan",CBC Sport TV HD
 http://176.65.146.189:8701/play/a09h
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Dunya TV
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2435.png" group-title="Azerbaijan",Dunya TV
 http://176.65.146.189:8701/play/a09r
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",GROZNIY TV
+#EXTINF:-1 tvg-logo="https://grozny.tv/img/logo.png" group-title="Azerbaijan",GROZNIY TV
 http://176.65.146.189:8701/play/a09u
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",GUNAZ TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gunaz-tv.svg/1280px-Gunaz-tv.svg.png" group-title="Azerbaijan",GUNAZ TV
 http://176.65.146.189:8701/play/a09x
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Grozniy TV
+#EXTINF:-1 tvg-logo="https://grozny.tv/img/logo.png" group-title="Azerbaijan",Grozniy TV
 http://176.65.146.189:8701/play/a09s
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",IRAN INTERNATIONAL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/500px-Iran_International.svg.png" group-title="Azerbaijan",IRAN INTERNATIONAL
 http://176.65.146.189:8701/play/a0a0
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Ictimai TV HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Mywc7pA9-HE/maxresdefault.jpg" group-title="Azerbaijan",Ictimai TV HD
 http://176.65.146.189:8701/play/a09l
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Idman TV HD
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BSAIanmjkIk/maxresdefault.jpg" group-title="Azerbaijan",Idman TV HD
 http://176.65.146.189:8701/play/a09j
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",MTV Azerbaijan
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS33LpHTq64ZCNo17vvTCoDSyTgtM_maKANS3nJvkNCqEKBTNi8aYhDlZBh&s=10" group-title="Azerbaijan",MTV Azerbaijan
 http://176.65.146.189:8701/play/a09q
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",MY5 TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/MY5_TV_logotipi.png/1920px-MY5_TV_logotipi.png?_=20211117165823" group-title="Azerbaijan",MY5 TV
 http://176.65.146.189:8701/play/a0a3
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Medeniyyet TV HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/M%C9%99d%C9%99niyy%C9%99t_TV_%282019%29.png/1920px-M%C9%99d%C9%99niyy%C9%99t_TV_%282019%29.png" group-title="Azerbaijan",Medeniyyet TV HD
 http://176.65.146.189:8701/play/a09k
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",NEXT TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSksS0jjjLfn6nwP93kZnb6hc2-Jr9IafFitWLt-ljPzcEGBKZ0" group-title="Azerbaijan",NEXT TV
 http://176.65.146.189:8701/play/a09w
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",OMID E IRAN
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbj8phHkcnrnTYZVJ_S7n65lnv6UYbLRG2khmxdkZTSD6pWcm8" group-title="Azerbaijan",OMID E IRAN
 http://176.65.146.189:8701/play/a0a2
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",OMID E IRAN
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d93c8b_d02dc4f8324242bda77c27ae8da651c5~mv2.png/v1/fit/w_2500,h_1330,al_c/d93c8b_d02dc4f8324242bda77c27ae8da651c5~mv2.png" group-title="Azerbaijan",OMID E IRAN
 http://176.65.146.189:8701/play/a0a8
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",PARS TV
+#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/pars-tv.jpg" group-title="Azerbaijan",PARS TV
 http://176.65.146.189:8701/play/a0a7
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",PARS TV
+#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/pars-tv.jpg" group-title="Azerbaijan",PARS TV
 http://176.65.146.189:8701/play/a0a1
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Real TV HD
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/ir-leL190EfWChpw22t3s2GIkMLLv4k65tgW_9HvyipyEp9_CURhCbn5woJAb3CbFIOwFTGI9aU4hxD72f2T9A" group-title="Azerbaijan",Real TV HD
 http://176.65.146.189:8701/play/a09o
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Space TV HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2553.png" group-title="Azerbaijan",Space TV HD
 http://176.65.146.189:8701/play/a09p
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",TRT TURK HD
+#EXTINF:-1 tvg-logo="http://epg.one/img/3974.png" group-title="Azerbaijan",TRT TURK HD
 http://176.65.146.189:8701/play/a0a4
-#EXTINF:-1 tvg-logo="https://iqtisadiyyat.az/userfiles/files/a1(232).jpg" group-title="Azerbaijan",Xazar TV HD
+#EXTINF:-1 tvg-logo="http://epg.one/img2/2558.png" group-title="Azerbaijan",Xazar TV HD
 http://176.65.146.189:8701/play/a09n
+
 
