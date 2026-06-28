@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup1
-http://link.zozotv.xyz:8080/live/QS3315/K717976/4643.ts
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup2
-http://link.zozotv.xyz:8080/live/QS3315/K717976/4644.ts
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup3
-http://link.zozotv.xyz:8080/live/QS3315/K717976/4645.ts
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup4
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup3
+http://link.zozotv.xyz:8080/live/QS3315/K717976/4643.ts
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup4
+http://link.zozotv.xyz:8080/live/QS3315/K717976/4644.ts
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup5
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+http://link.zozotv.xyz:8080/live/QS3315/K717976/4645.ts
 
 #EXTINF:-1 tvg-url="mmm" tvg-id="beIN Sports 3 Indonesia" tvg-logo="mmm" tvg-logo="https://b.fssta.com/uploads/application/soccer/competition-logos/LaLiga-alternate.vresize.112.112.medium.1.png" group-title="EVENT LIVE SPORTS",12,30 WIB EVENT BOLA+ 2026
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -792,13 +792,8 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMusli
 #<=============INDO Sports =================================================================================================>
 
 
-#KODIPROP:inputstream=inputstream.ffmpegdirect
-#KODIPROP:mimetype=application/x-mpegURL
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=mpd
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="Indo Sports",GO LIVE FIFA 2026
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?id=1229
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="Indo Sports",REPLAY WORLD CUP 2026
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa1.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="Indo Sports",Caze TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -806,15 +801,11 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxsports.png",Max Sports
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
+https://cdnbal1.indihometv.com/atm/DASH/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/psjtv5.png" group-title="Indo Sports",PSJ TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-
-#EXTINF:-1 tvg-id="CelebesTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celebes.png" group-title="Indo Sports",Celebes TV
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -887,20 +878,6 @@ https://d6m3sfa7e58z5.cloudfront.net/out/v1/a265695db5cb461095cbfefc02ad793b/ind
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Okey" tvg-url="mmm" group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey5.png",Okey Sports
-https://d25tgymtnqzu8s.cloudfront.net/smil:okey/chunklist_b2596000_slENG.m3u8?id=3
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="TV1" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan5.png" group-title="Indo Sports",SUKAN Sports
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=http://dens.tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="Motorvision" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorv.png" group-title="Indo Sports", MotorVision+
@@ -910,7 +887,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nba5.png", NBA TV
-https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/nba.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
