@@ -985,6 +985,22 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Champion 1
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion1.m3u8
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Champion 2
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion2.m3u8
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Champion 3
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion3.m3u8
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Champion 4
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion4.m3u8
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Champion 5
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion5.m3u8
+
 
 #<================= Documentary ===========================================================>#
 
@@ -2063,40 +2079,6 @@ https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
 #<================== Malaysia ============================================================================>
 
 
-#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv1.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv2.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/drama/images/f/f9/TV3_Malaysia.png/revision/latest/thumbnail/width/360/height/450?cb=20240723085408" group-title="Malaysia",TV 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="Malaysia",TV 6
-#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
-https://cdn.stmify.com/mytv/stream/TV6/index.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TV9_Malasia_2006.png/revision/latest?cb=20210911153535&path-prefix=es" group-title="Malaysia",TV 9
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv9.m3u8
-
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-referrer=https://www.astro.com.my/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://resizer-vortals.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp" group-title="Malaysia",Astro Awani
-https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey.png" group-title="Malaysia",TV Okey
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvoky.m3u8
-
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="Malaysia", TVS Sarawak HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://stream2.smg.my/live/tvsplus.m3u8
@@ -2207,6 +2189,40 @@ https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Malaysia",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv1.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv2.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/drama/images/f/f9/TV3_Malaysia.png/revision/latest/thumbnail/width/360/height/450?cb=20240723085408" group-title="Malaysia",TV 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="Malaysia",TV 6
+#EXTVLCOPT:http-referrer=https://cdn.stmify.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
+https://cdn.stmify.com/mytv/stream/TV6/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/TV9_Malasia_2006.png/revision/latest?cb=20210911153535&path-prefix=es" group-title="Malaysia",TV 9
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mytv9.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-referrer=https://www.astro.com.my/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://resizer-vortals.eco.astro.com.my/tr:w-64px,h-64px,q-80,f-webp/https://media.astroawani.com/awani/media/uploads/logo/2025-11/astroawani_logo.webp" group-title="Malaysia",Astro Awani
+https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey.png" group-title="Malaysia",TV Okey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvoky.m3u8
 
 
 #<======== Korean Channels ===============================================================================>
@@ -2857,50 +2873,50 @@ https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1da
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=87db4361f7894655a4656e9c8b935a02:b025a4b950df41158a87cfc8d6f2ac34
-#EXTINF:-1 tvg-name="TV5" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/ch5new.logo.png" group-title="THAILAND",TV5
+#EXTINF:-1 tvg-name="TV5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/TV5logo.png/revision/latest?cb=20150716011927" group-title="THAILAND",TV5
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/5/5.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTINF:-1 tvg-name="ThaiPBS" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0014.png" group-title="THAILAND",ThaiPBS
+#EXTINF:-1 tvg-name="ThaiPBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/NBT_Central_2025.svg/revision/latest/scale-to-width-down/250?cb=20250608150219" group-title="THAILAND",NBT TV
 https://cdn-edge.iiptvcdn.com/live_event/smil:a834-75a7-a662-db55-5fa3.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="MCOT" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png" group-title="THAILAND",MCOT
+#EXTINF:-1 tvg-name="MCOT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Channel_9_MCOT_HD_Nov_2017.svg/revision/latest/scale-to-width-down/250?cb=20200901233640" group-title="THAILAND",MCOT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edef8ba979d64acea3c827dcd51d21ed:1c9f0222e49da66fc785376c0645d86d
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/30/30.mpd
 
-#EXTINF:-1 tvg-name="Nation22" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png" group-title="THAILAND",Nation22
+#EXTINF:-1 tvg-name="Nation22" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f9/Nation_TV_22.png/revision/latest/scale-to-width-down/340?cb=20200110042654" group-title="THAILAND",Nation22
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88b44b9be186449ca5322053d975aa4c:b95b471541994278a1960fd4f85a7ee2
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/22/22.mpd
 
-#EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png" group-title="THAILAND",Thairath TV
+#EXTINF:-1 tvg-name="Thairath TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Thairath_TV32.svg/3840px-Thairath_TV32.svg.png" group-title="THAILAND",Thairath TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4b2bff3e598043cfaf949305e3d153fa:545df84ff4c54af6b5385516e0f65956
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/32/32.mpd
 
-#EXTINF:-1 tvg-name="AmarinTV" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/AmarinTV_NEW512.png" group-title="THAILAND",AmarinTV
+#EXTINF:-1 tvg-name="AmarinTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcXZC4PZiY4w8v5FQ5ZO_T9Cg-hUgfNdAsbIpUdl65_RX9AESHNMofej0&s=10" group-title="THAILAND",AmarinTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b898bb9530b4b0a97e444d1e1f8960e:dab1a7c035d94287ac64417ef809ed3b
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/34/34.mpd
 
-#EXTINF:-1 tvg-name="True4U" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0054.png" group-title="THAILAND",True24
+#EXTINF:-1 tvg-name="True4U" tvg-logo="https://www.true4u.com/images/true4u-thumbnail-gray.jpg" group-title="THAILAND",True24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4eabd5db684248a98c5124fbb0687bde:d2f7a6f45b3c48678ca69c91d7823c25
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
-#EXTINF:-1 tvg-name="GMM 25" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png" group-title="THAILAND",GMM 25
+#EXTINF:-1 tvg-name="GMM 25" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a9/GMM_25_Logo.png" group-title="THAILAND",GMM 25
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
-#EXTINF:-1 tvg-name="ONE31" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png" group-title="THAILAND",ONE
+#EXTINF:-1 tvg-name="ONE31" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a8/One_31_Logo.png" group-title="THAILAND",ONE 31
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6529c8cd99db4489bd237f616f37124b:b9d299ba9ea94fd2ac4a77e8966dd91e
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
-#EXTINF:-1 tvg-name="Mono 29" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png" group-title="THAILAND",Mono 29
+#EXTINF:-1 tvg-name="Mono 29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="THAILAND",Mono 29
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=96a14b36335645b391bbbb48c424fec7:e6971b27837a4822832d8215156bb516
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
@@ -2910,7 +2926,7 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #KODIPROP:inputstream.adaptive.license_key=4a0a9dd380b4409c8dad910691283a0d:1447c104caa244d9a367549534e0b807
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/27/27.mpd
 
-#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png" group-title="THAILAND",Workpoint
+#EXTINF:-1 tvg-name="Workpoint" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Ch_1_Workpoint.svg/revision/latest/scale-to-width-down/250?cb=20250530170408" group-title="THAILAND",Workpoint
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e66726c1191403588f95c0757613ff1:67c26ba7f9b84024944808e01bbe6f47
 https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/23/23.mpd
@@ -3624,8 +3640,6 @@ http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9f/BGTV_Bac_Giang.png/revision/latest?cb=20201008153201",BGTV HD Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
-#EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/TBK_logo_2021.png/revision/latest?cb=20231007103028&path-prefix=vi",TBK
-http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f9/DRT_%C4%90%E1%BA%AFk_L%E1%BA%AFk_2021.png/revision/latest?cb=20230108145830&path-prefix=vi", DRT
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="VIETNAM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/CTV_C%C3%A0_Mau.png/revision/latest?cb=20200712010026",Cà Mau TV
