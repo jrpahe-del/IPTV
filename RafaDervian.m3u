@@ -277,9 +277,12 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/master.m3u8
 #EXTINF:-1 tvg-id="MetroTV" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/metrotv5.png" group-title="Indonesia",Metro TV
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
-#EXTINF:-1 tvg-id="Berita Satu" group-title="Indonesia" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/berita15.png",Berita Satu
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/btv.png" group-title="Indonesia",BTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47d8c564b0eb4d6ba83f7b155c827024:098f10e1734d00c0177bae1236db60fc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -340,8 +343,11 @@ http://cdn.nng.cloudns.us/live/m3u8/id/6183ec225226ccf.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
 
 #EXTINF:-1 tvg-id="TV ONE.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jtv.png" group-title="Indonesia",JTV
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=994121840707471a920b2e65bdf21b7e:0033ae3118a0153ad05fc9a066a8805c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTINF:-1 tvg-id="Jowo Channel"tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jowo.png" group-title="Indonesia",Channel Jowo
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -360,14 +366,6 @@ https://saktitv.siar.us/saktitv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
 #EXTINF:-1 tvg-id="Jak TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jaktv.png" group-title="Indonesia",JakTV
 https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
-
-#EXTINF:-1 tvg-id="TV ONE.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/btv.png" group-title="Indonesia",BTV
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
-
-#EXTINF:-1 tvg-id="TV ONE.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Knowledge5.png" group-title="Indonesia",Dens Knowledge
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-http://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
@@ -1055,13 +1053,6 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/in
 #EXTINF:-1 group-title="Documentary" tvg-id="id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/crimeinv.png",Crime Investigation (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTINF:-1 tvg-id="" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Knowledge.png" group-title="Documentary",Dens Knowledge (DensTV)
-https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1733,46 +1724,6 @@ https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 
 
-#============ COMEDY ==============================================================================>#
-
-
-#EXTINF:-1 channel-id="4f628a666da552d7a9ea9157e079d56b" tvg-id="4f628a666da552d7a9ea9157e079d56b" tvg-chno="835" tvg-name="Just for Laughs Gags" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/4f628a666da552d7a9ea9157e079d56b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078691120_JustforLaughsGags_260x147_copy.png" group-title="Comedy",Just for Laughs Gags
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/gag.m3u8
-
-#EXTINF:-1 channel-id="e3cd976116d5578ab9be32baa738ade2" tvg-id="e3cd976116d5578ab9be32baa738ade2" tvg-chno="338" tvg-name="The Carol Burnett Show" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/e3cd976116d5578ab9be32baa738ade2/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1653087138529_TCBS_260x147_centered.png" group-title="Comedy",The Carol Burnett Show
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/burnett.m3u8
-
-#EXTINF:-1 channel-id="86c08261fc015a58866210bea63eb8f4" tvg-id="86c08261fc015a58866210bea63eb8f4" tvg-chno="815" tvg-name="Always Funny Videos" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/86c08261fc015a58866210bea63eb8f4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1723058240057_AF_Logo_EFEFEF_Centered_260x147.png" group-title="Comedy",Always Funny Videos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Always.m3u8
-
-#EXTINF:-1 tvg-id="FailArmy.us@US" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/failarmy.png" group-title="Comedy",Failarmy International (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://failarmy-international-au.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/cbce9562-c7a6-460c-9d07-02ab8724bbc5/Light_Logo__Mythical_24_7_1500x1000.png" group-title="Comedy",Mythical 24/7
-https://jmp2.uk/plex-647f8d22a2fc3fadb4721685-650b5bb3f4b2d9579946a500.m3u8
-
-#EXTINF:-1 tvg-id="PersianaComedy.fr@SD" tvg-logo="https://i.imgur.com/DBZ3Pi5.png" group-title="Comedy",Persiana Comedy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://comedyhls.persiana.live/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="RotanaComedy.sa@SD" tvg-logo="https://i.imgur.com/IlT8U6S.png" http-referrer="https://rotana.net/" group-title="Comedy",Rotana Comedy
-#EXTVLCOPT:http-referrer=https://rotana.net/
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AFV.us@SD" tvg-logo="https://i.imgur.com/TOB9vmW.png" group-title="Comedy",AFV (720p)
-https://linear-12.frequency.stream/dist/plex/12/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DryBarComedyPlus.us@SD" tvg-logo="https://i.imgur.com/3N2C60N.png" group-title="Comedy",Dry Bar Comedy
-https://drybar-drybarcomedy-1-au.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TvoyeTVYumor.ru@SD" tvg-logo="https://sun9-53.userapi.com/lBbBDlD45yDDVtUgC1kdRDFiPTmXUTgCC7y6vw/TW9UcChI2RA.jpg" group-title="Comedy",Твое ТВ Юмор
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8
-
-
 #========== KIDS ==================================================================================================>
 
 
@@ -2048,9 +1999,11 @@ https://cdnbal1.indihometv.com/atm/DASH/phoenixchinese/manifest.mpd
 https://cdnbal1.indihometv.com/atm/DASH/phoenixinfonews/manifest.mpd
 
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtoday.png",Russia Today
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h226/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5aaa8234c3544b78559537d5e5dd4e3:0521cdbcfb827d59a939381620096ea2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d3bay3f4zdxn24.cloudfront.net/out/v1/451249e7e3004f5aba228da284c2a649/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -3951,65 +3904,16 @@ https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #============EUROPEA=================#
 
 
-#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="United Kingdom",TNT Sports 1
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="United Kingdom",TNT Sports 2
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="United Kingdom",TNT Sports 3
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
-#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tntsports.png" group-title="United Kingdom",TNT Sports 4
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img2/2889.png" tvg-rec="3",TNT Sports 1 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/6566/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img2/2889.png" tvg-rec="3",TNT Sports 1 FHD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/2505/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="2890" tvg-logo="http://epg.one/img2/2890.png" tvg-rec="3",TNT Sports 2 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/2506/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img2/3553.png" tvg-rec="3",Premier Sports 1 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/6555/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3554" tvg-logo="http://epg.one/img2/3554.png" tvg-rec="3",Eurosport 2 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/6556/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4569" tvg-logo="http://epg.one/img2/4569.png" tvg-rec="0",Sky Sports Premier League HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7335/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4570" tvg-logo="http://epg.one/img2/4570.png" tvg-rec="0",Sky Sports Football HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7336/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4571" tvg-logo="http://epg.one/img2/4571.png" tvg-rec="0",Sky Sports Main Event HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7337/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4573" tvg-logo="http://epg.one/img2/4573.png" tvg-rec="0",Sky Sports Mix HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7339/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4579" tvg-logo="http://epg.one/img2/4579.png" tvg-rec="0",Sky Sports Action HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7340/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4575" tvg-logo="http://epg.one/img2/4575.png" tvg-rec="0",Sky Sports Racing HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7341/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4576" tvg-logo="http://epg.one/img2/4576.png" tvg-rec="0",Sky Sports F1 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7342/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4577" tvg-logo="http://epg.one/img2/4577.png" tvg-rec="0",Sky Sports Cricket HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7343/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img2/4578.png" tvg-rec="0",Sky Sports Golf HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/7344/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6591" tvg-logo="http://epg.one/img2/6591.png" tvg-rec="0",BBC One HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19176/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6592" tvg-logo="http://epg.one/img2/6592.png" tvg-rec="0",BBC Two HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19177/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6594" tvg-logo="http://epg.one/img2/6594.png" tvg-rec="0",BBC Alba UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19179/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6596" tvg-logo="http://epg.one/img2/6596.png" tvg-rec="0",BBC HD NL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19181/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6598" tvg-logo="http://epg.one/img2/6598.png" tvg-rec="0",BBC Scotland HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19183/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6647" tvg-logo="http://epg.one/img2/6647.png" tvg-rec="0",ITV1 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19185/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6648" tvg-logo="http://epg.one/img2/6648.png" tvg-rec="0",ITV2 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19186/index.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="6650" tvg-logo="http://epg.one/img2/6650.png" tvg-rec="0",ITV4 +1 UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/RA365QWHN3KYHC/19188/index.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://static1.tgstat.ru/channels/_0/32/32d3ca6b79f654ed36bfc220e5c78c88.jpg" group-title="Europa",Set Mix
 https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europa",TvR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
+#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/2293/index.m3u8
+#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6883/index.m3u8
 #EXTINF:-1 group-title="Europa" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
 https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
@@ -4018,69 +3922,11 @@ http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
 http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/2293/index.m3u8
-#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 FHD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/6883/index.m3u8
-#EXTINF:-1 group-title="Europa" tvg-id="3072" tvg-logo="http://epg.one/img2/3072.png" tvg-rec="3",ZDF HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/5KLVA2TCEWQTMK/6059/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2025/09/tivi6.webp" group-title="Europa",TR: TIVI 6 HD
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404647&extension=ts
-#EXTINF:-1 tvg-logo="https://iasbh.tmgrup.com.tr/84f233/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sb/album/2024/10/24/trt-tabii-ucretli-mi-sifresiz-mi-tabii-spor-uyeligi-ne-kadar-kac-tl-nasil-uye-olunur-sampiyonlar-ligi-avrupa-l-1729773811956.jpg&mw=600" group-title="Europa",TR: TABII TV HD+
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=404644&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3939.png" group-title="Europa",TR: TRT 2 HD+
-http://maindnskullanma.com:8080/live/Djeukadirfx/0xD7jvxiBXz3yTTf/682311.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3974.png" group-title="Europa",TR: TRT TURK HD+
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2281/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3858.png" group-title="Europa",TR: TRT AVAZ HD+
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6799/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2600.png" group-title="Europa",TR: ATV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2261/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2593.png" group-title="Europa",TR: STAR TV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2274/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TV HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341462.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3983.png" group-title="Europa",TR: KANAL D HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341464.m3u8
-#EXTINF:0 group-title="Europa" tvg-logo="http://epg.one/img2/8404.png",Fox Deportes HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30075/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2596.png" group-title="Europa",TR: TV 8 HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341472.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2614.png" group-title="Europa",TR: TV 8.5 HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414086.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2668.png" group-title="Europa",TR: BEYAZ TV HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341477.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2607.png" group-title="Europa",TR: TEVE 2 HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341480.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3961.png" group-title="Europa",TR: A2 HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/341494.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 HD
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414071.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3956.png" group-title="Europa",TR: KANAL 7 AVRUPA
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414101.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2265.png" group-title="Europa",TR: 360 TV HD+
-http://sa2.560293.xyz:80/live/orhancaylak/m99PR3FEpu/414114.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/6138.png" group-title="Europa",TR: TV 4 HD+
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2528/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3855.png" group-title="Europa",TR: TGRT Haber HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6796/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3943.png" group-title="Europa",TR: SHOW MAX
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6890/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",TR: SHOW TURK
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=209141&extension=ts
-#EXTINF:-1 tvg-logo="http://epg.one/img/3941.png" group-title="Europa",TR: ATV AVRUPA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6888/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3947.png" group-title="Europa",TR: EURO STAR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6894/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/3945.png" group-title="Europa",TR: EURO D
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/6892/index.m3u8
-#EXTINF:-1 tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/join.tyt.com/acr-logos/6c2d2593-transparent-white-tyt-logo_075046000000000000001.png" group-title="Europa",TR: TYT TURK
-http://vipplayer1.com:8080/play/live.php?mac=00%3A1A%3A79%3A73%3A3F%3A18&stream=637916&extension=ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Europa",Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/agendachilena.cl/wp-content/uploads/2016/06/radio-adn.png?fit=582%2C324&ssl=1" group-title="Europa",Adn Tv+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/sr/4/43/Happy_Kids_logo_(2014-2017).png" group-title="Europa",Happy Kids 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Europa",Happy Kids 
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png" group-title="Europa",AfarinTV
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
@@ -4088,7 +3934,6 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 https://dns.p2.wtf/rogerio55x/24992611250/547
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RR8M1ejXuzk/hqdefault.jpg" group-title="Europa",Gloobinho
 https://dns.p2.wtf/rogerio55x/24992611250/296363
-
 #EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6506fc65-9955-42e9-bd64-e9432925db17%2Famc_yellow_logo.png" group-title="Europa",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",La | Runtime Accion
@@ -4121,7 +3966,6 @@ https://ava4.store/upload/ava.m3u8
 https://canalextremadura-events.flumotion.cloud/canalextremadura/events_all/canalextremadura/events_hd/chunks_dvr.m3u8
 #EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/05/oli-tv-300x300.png" group-title="Europa",OLI TV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqe9rf9ZstexTLPI2TJu6lRR4WLbWMLN6LoQ&s" group-title="Europa",RTBF ACTUS
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/2M_tv_logo_2004.jpg/revision/latest/scale-to-width-down/284?cb=20240104002549" group-title="Europa",2M Monde +1 (1080p)
@@ -4184,7 +4028,6 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.mpd
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2CK_o1PCefwDhUVqTP2ldMvW6FFlUaN1xV-AGLq1bnM38hn_HxERuzk&s=10" group-title="Europa",2 M Monde +1
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Iv-Ar5TuScFBZ3IK3C0VCUbw00A3yfeJYj3UI9tNPykEACZAmKRG4zq8HHGjPABcNZieNihWH-w" group-title="Europa",Wetv All Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="Europa",IMAGEN TV 
@@ -4193,20 +4036,10 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europa",TRT Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD DE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/16039/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/16040/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="6507" tvg-logo="http://epg.one/img2/6507.png" tvg-rec="0",TNT Sports 4 HD UK
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19054/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19062/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19064/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19067/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor FHD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19068/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="2587" tvg-logo="http://epg.one/img2/2587.png" tvg-rec="0",A Spor HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19069/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor HD TR
@@ -4277,39 +4110,45 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportprem
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31597/index.m3u8
 #EXTINF:0 group-title="Europa" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31598/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN AR Sports 1
+#EXTINF:0 group-title="Europa" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19062/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19064/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN AR Sports 2
+#EXTINF:0 group-title="Europa" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="Europa",BeiN AR Sports 3
+#EXTINF:0 group-title="Europa" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax4.png" group-title="Europa",BeiN AR Sports 4
+#EXTINF:0 group-title="Europa" tvg-id="3049" tvg-logo="http://epg.one/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinmax5.png" group-title="Europa",BeiN AR Sports 5
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN TH Sports 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinth1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsports.png" group-title="Europa",BeiN FR Sports 
+#EXTINF:0 group-title="Europa" tvg-id="3050" tvg-logo="http://epg.one/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
+https://raw.githubusercontent.Europa/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="3051" tvg-logo="http://epg.one/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6127/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="3052" tvg-logo="http://epg.one/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6128/index.m3u8
+#EXTINF:0 group-title="Europa" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD TR 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein2.png" group-title="Europa",BeiN FR Sports 2
+#EXTINF:0 group-title="Europa" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bein3.png" group-title="Europa",BeiN FR Sports 3
+#EXTINF:0 group-title="Europa" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Extra
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Extra 2 
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blteefa2cd6bf4a4ed5/64da237e83f119ba5e667ccc/DAZN_logo.svg.png" group-title="Europa",DAZN Sport 1
+#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:-1 tvg-logo="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blteefa2cd6bf4a4ed5/64da237e83f119ba5e667ccc/DAZN_logo.svg.png" group-title="Europa",DAZN Sport 2
+#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:-1 tvg-logo="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blteefa2cd6bf4a4ed5/64da237e83f119ba5e667ccc/DAZN_logo.svg.png" group-title="Europa",DAZN Sport 3
+#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 Bar HD 
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:-1 tvg-logo="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blteefa2cd6bf4a4ed5/64da237e83f119ba5e667ccc/DAZN_logo.svg.png" group-title="Europa",DAZN Sport 4
+#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 Bar HD 
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#EXTINF:-1 tvg-logo="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blteefa2cd6bf4a4ed5/64da237e83f119ba5e667ccc/DAZN_logo.svg.png" group-title="Europa",DAZN Sport 5
+#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#EXTINF:-1 tvg-logo="https://www.eurosportacc.com/cdn/shop/files/logo_1200x1200.png?v=1613513711" group-title="Europa",Euro Sport
+#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europa",EuroSport
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europa",UFC 
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
@@ -4325,6 +4164,111 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6098/inde
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2913.png" group-title="Europa",Liga de champions
 https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
+
+#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports FHD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/2505/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports1 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports2 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports3 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports4 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 1 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 2 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3663" tvg-logo="http://epg.one/img/3663.png" tvg-rec="0",TSN 3 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 4 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 5 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6685" tvg-logo="http://epg.one/img/6685.png" tvg-rec="0",ESPN 1 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6686" tvg-logo="http://epg.one/img/6686.png" tvg-rec="0",ESPN 2 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6687" tvg-logo="http://epg.one/img/6687.png" tvg-rec="0",ESPN 3 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6688" tvg-logo="http://epg.one/img/6688.png" tvg-rec="0",ESPN 4 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn5.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6688" tvg-logo="http://epg.one/img/6688.png" tvg-rec="0",ESPN 4 Plus
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="9051" tvg-logo="http://epg.one/img/9051.png" tvg-rec="3",Sky Sports News HD 50 (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skyspornw.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4569" tvg-logo="http://epg.one/img/4569.png" tvg-rec="0",Sky Sports Premier League HD (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4570" tvg-logo="http://epg.one/img/4570.png" tvg-rec="0",Sky Sports Football HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4571" tvg-logo="http://epg.one/img/4571.png" tvg-rec="0",Sky Sports Main Event HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportm.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4573" tvg-logo="http://epg.one/img/4573.png" tvg-rec="0",Sky Sports Mix HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportmix.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4579" tvg-logo="http://epg.one/img/4579.png" tvg-rec="0",Sky Sports Action HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysport%2B.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4575" tvg-logo="http://epg.one/img/4575.png" tvg-rec="0",Sky Sports Racing HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportrc.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4576" tvg-logo="http://epg.one/img/4576.png" tvg-rec="0",Sky Sports F1 HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4577" tvg-logo="http://epg.one/img/4577.png" tvg-rec="0",Sky Sports Cricket HD  (UK)
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/7343/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportg.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4575" tvg-logo="http://epg.one/img/4575.png" tvg-rec="3",Sky Sports Racing HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9335/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4569" tvg-logo="http://epg.one/img/4569.png" tvg-rec="3",Sky Sports Premier League HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9334/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4573" tvg-logo="http://epg.one/img/4573.png" tvg-rec="3",Sky Sports Mix HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9310/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4571" tvg-logo="http://epg.one/img/4571.png" tvg-rec="3",Sky Sports Main Event HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9308/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="3",Sky Sports Golf HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9293/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4570" tvg-logo="http://epg.one/img/4570.png" tvg-rec="3",Sky Sports Football HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9289/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4576" tvg-logo="http://epg.one/img/4576.png" tvg-rec="3",Sky Sports F1 HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9283/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4577" tvg-logo="http://epg.one/img/4577.png" tvg-rec="3",Sky Sports Cricket HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9258/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4572" tvg-logo="http://epg.one/img/4572.png" tvg-rec="3",Sky Sports+ HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9248/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4579" tvg-logo="http://epg.one/img/4579.png" tvg-rec="3",Sky Sports Action HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/9155/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6647" tvg-logo="http://epg.one/img/6647.png" tvg-rec="0",ITV1 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/19185/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6648" tvg-logo="http://epg.one/img/6648.png" tvg-rec="0",ITV2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/19186/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6650" tvg-logo="http://epg.one/img/6650.png" tvg-rec="0",ITV4 +1 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/19188/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6650" tvg-logo="http://epg.one/img2/6650.png" tvg-rec="0",ITV4 +1 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/19188/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img/3553.png" tvg-rec="3",Premier Sports 1 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6555/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img/3553.png" tvg-rec="3",Premier Sports 1 HD 50 UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/2160/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="9081" tvg-logo="http://epg.one/img/9081.png" tvg-rec="0",Sky History HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/16037/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3554" tvg-logo="http://epg.one/img/3554.png" tvg-rec="3",Eurosport 2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6556/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/2506/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6564/index.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6566/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341" group-title="United Kingdom",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 
 #EXTINF:0 group-title="USA TV" tvg-id="2327" tvg-logo="http://epg.one/img2/2327.png" tvg-rec="3",ABC HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1087/index.m3u8
