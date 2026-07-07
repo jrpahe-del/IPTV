@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa4.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup2
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa6.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup3
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 1
@@ -1030,7 +1030,7 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4271dec5b6794650872dc915fe10fdeb:0e64ddadd1cbd079f98c597fc01c06bf
 #EXTINF:-1 tvg-url="mmm" tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/discovery.png" group-title="Documentary",Discovery Channel
-https://cdnbal1.indihometv.com/atm/DASH/disco/manifest.mpd
+http://202.169.224.202:8800/udp/239.9.1.6:1234
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -3911,9 +3911,9 @@ https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europa",TvR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/2293/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2293/index.m3u8
 #EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 FHD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6883/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/6883/index.m3u8
 #EXTINF:-1 group-title="Europa" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
 https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
@@ -4215,79 +4215,79 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Z9LPP8ZWL9WCSR/6566/inde
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 
 #EXTINF:0 group-title="USA TV" tvg-id="2327" tvg-logo="http://epg.one/img2/2327.png" tvg-rec="3",ABC HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1087/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1087/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2328" tvg-logo="http://epg.one/img2/2328.png" tvg-rec="3",Fox 5 WNYW HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1086/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1086/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2329" tvg-logo="http://epg.one/img2/2329.png" tvg-rec="3",MY9 New Jersey HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1088/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1088/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2331" tvg-logo="http://epg.one/img2/2331.png" tvg-rec="3",MotorTrend HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1091/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1091/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2332" tvg-logo="http://epg.one/img2/2332.png" tvg-rec="3",BBC America HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1092/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1092/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2333" tvg-logo="http://epg.one/img2/2333.png" tvg-rec="3",WPIX HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1090/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1090/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2334" tvg-logo="http://epg.one/img2/2334.png" tvg-rec="3",Thirteen HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1093/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1093/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2335" tvg-logo="http://epg.one/img2/2335.png" tvg-rec="3",WLIW HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1094/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1094/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2336" tvg-logo="http://epg.one/img2/2336.png" tvg-rec="3",New Jersey PBS HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1095/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1095/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2337" tvg-logo="http://epg.one/img2/2337.png" tvg-rec="3",MeTV HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1096/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1096/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="11651" tvg-logo="http://epg.one/img2/11651.png" tvg-rec="3",Estrella TV US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1098/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1098/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2340" tvg-logo="http://epg.one/img2/2340.png" tvg-rec="3",Univision HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1099/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1099/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2341" tvg-logo="http://epg.one/img2/2341.png" tvg-rec="3",UniMás HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1100/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1100/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2342" tvg-logo="http://epg.one/img2/2342.png" tvg-rec="3",USA HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1101/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1101/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2343" tvg-logo="http://epg.one/img2/2343.png" tvg-rec="3",TNT HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1102/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1102/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2344" tvg-logo="http://epg.one/img2/2344.png" tvg-rec="3",TBS US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1103/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1103/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2345" tvg-logo="http://epg.one/img2/2345.png" tvg-rec="3",TLC HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1105/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1105/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2346" tvg-logo="http://epg.one/img2/2346.png" tvg-rec="3",FXM Retro HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1106/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1106/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2347" tvg-logo="http://epg.one/img2/2347.png" tvg-rec="3",A&E US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/1108/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/1108/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2128" tvg-logo="http://epg.one/img2/2128.png" tvg-rec="3",CNBC HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/962/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/962/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4558" tvg-logo="http://epg.one/img2/4558.png" tvg-rec="0",Fox Sports 1 HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7322/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7322/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8407" tvg-logo="http://epg.one/img2/8407.png" tvg-rec="0",Fox Sports 2 HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7323/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7323/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4560" tvg-logo="http://epg.one/img2/4560.png" tvg-rec="0",CBS Sports Network HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7324/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7324/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4588" tvg-logo="http://epg.one/img2/4588.png" tvg-rec="0",MSG HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7325/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7325/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4589" tvg-logo="http://epg.one/img2/4589.png" tvg-rec="0",MSG 2 HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7326/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7326/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4561" tvg-logo="http://epg.one/img2/4561.png" tvg-rec="0",NBC Sports Network HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7327/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7327/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4562" tvg-logo="http://epg.one/img2/4562.png" tvg-rec="0",NHL Network HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/7328/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7328/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4801" tvg-logo="http://epg.one/img2/4801.png" tvg-rec="0",SportsNet New York HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/11107/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/11107/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4802" tvg-logo="http://epg.one/img2/4802.png" tvg-rec="0",Spectrum SportsNet HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/11108/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/11108/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="4803" tvg-logo="http://epg.one/img2/4803.png" tvg-rec="0",NESN HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/11109/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/11109/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2347" tvg-logo="http://epg.one/img2/2347.png" tvg-rec="0",A&E HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30001/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30001/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8336" tvg-logo="http://epg.one/img2/8336.png" tvg-rec="0",American Heroes Channel HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30007/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30007/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8340" tvg-logo="http://epg.one/img2/8340.png" tvg-rec="0",AXS TV HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30011/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30011/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8341" tvg-logo="http://epg.one/img2/8341.png" tvg-rec="0",BabyFirst TV HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30012/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30012/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8344" tvg-logo="http://epg.one/img2/8344.png" tvg-rec="0",beIN Sports En Español HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30015/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30015/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8347" tvg-logo="http://epg.one/img2/8347.png" tvg-rec="0",BET Her HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30018/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30018/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8353" tvg-logo="http://epg.one/img2/8353.png" tvg-rec="0",Bravo HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30024/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/30024/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8355" tvg-logo="http://epg.one/img2/8355.png" tvg-rec="0",C-SPAN 2 HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/30026/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8356" tvg-logo="http://epg.one/img2/8356.png" tvg-rec="0",C-SPAN 3 HD US
@@ -4369,49 +4369,49 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31017/ind
 #EXTINF:0 group-title="USA TV" tvg-id="322" tvg-logo="http://epg.one/img2/322.png" tvg-rec="0",Outdoor Channel US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31018/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9199" tvg-logo="http://epg.one/img2/9199.png" tvg-rec="0",FanDuel Sports Ohio HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31019/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31019/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8499" tvg-logo="http://epg.one/img2/8499.png" tvg-rec="0",Ovation TV HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31020/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31020/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8500" tvg-logo="http://epg.one/img2/8500.png" tvg-rec="0",OWN HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31021/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31021/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8508" tvg-logo="http://epg.one/img2/8508.png" tvg-rec="0",Paramount Network HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31029/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31029/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9201" tvg-logo="http://epg.one/img2/9201.png" tvg-rec="0",FanDuel Sports Ohio Cleveland HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31030/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31030/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9203" tvg-logo="http://epg.one/img2/9203.png" tvg-rec="0",FanDuel Sports San Diego HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31032/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31032/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9204" tvg-logo="http://epg.one/img2/9204.png" tvg-rec="0",FanDuel Sports SoCal HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31034/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31034/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9205" tvg-logo="http://epg.one/img2/9205.png" tvg-rec="0",FanDuel Sports Southeast HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31035/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31035/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9206" tvg-logo="http://epg.one/img2/9206.png" tvg-rec="0",FanDuel Sports Southwest HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31036/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31036/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9207" tvg-logo="http://epg.one/img2/9207.png" tvg-rec="0",FanDuel Sports Southwest Plus HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31039/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31039/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="6576" tvg-logo="http://epg.one/img2/6576.png" tvg-rec="0",FanDuel Sports Sun HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31041/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31041/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8521" tvg-logo="http://epg.one/img2/8521.png" tvg-rec="0",Retroplex HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31042/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31042/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9209" tvg-logo="http://epg.one/img2/9209.png" tvg-rec="0",FanDuel Sports West HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31043/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31043/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9210" tvg-logo="http://epg.one/img2/9210.png" tvg-rec="0",FanDuel Sports West Plus HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31044/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31044/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9211" tvg-logo="http://epg.one/img2/9211.png" tvg-rec="0",FanDuel Sports Wisconsin HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31046/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31046/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9212" tvg-logo="http://epg.one/img2/9212.png" tvg-rec="0",FanDuel Sports Wisconsin Plus HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31047/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31047/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9213" tvg-logo="http://epg.one/img2/9213.png" tvg-rec="0",beIN Sports US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31048/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31048/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9216" tvg-logo="http://epg.one/img2/9216.png" tvg-rec="0",beIN Sports 4 US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31051/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31051/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9217" tvg-logo="http://epg.one/img2/9217.png" tvg-rec="0",beIN Sports 5 US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31052/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31052/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9218" tvg-logo="http://epg.one/img2/9218.png" tvg-rec="0",beIN Sports 6 US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31053/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31053/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9219" tvg-logo="http://epg.one/img2/9219.png" tvg-rec="0",beIN Sports 7 US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31054/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31054/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="9221" tvg-logo="http://epg.one/img2/9221.png" tvg-rec="0",Monumental Sports Network HD US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31056/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31056/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8540" tvg-logo="http://epg.one/img2/8540.png" tvg-rec="0",Smithsonian Channel HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/31061/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2344" tvg-logo="http://epg.one/img2/2344.png" tvg-rec="0",TBS HD US
@@ -4606,13 +4606,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6513/inde
 #EXTINF:0 group-title="Canada TV" tvg-id="3657" tvg-logo="http://epg.one/img2/3657.png" tvg-rec="0",ICI Radio-Canada Télé CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6515/index.m3u8
 #EXTINF:0 group-title="Canada TV" tvg-id="88030" tvg-logo="http://epg.one/img2/88030.png" tvg-rec="0",TSN 5 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6517/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/6517/index.m3u8
 #EXTINF:0 group-title="Canada TV" tvg-id="3662" tvg-logo="http://epg.one/img2/3662.png" tvg-rec="0",History CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6520/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/6520/index.m3u8
 #EXTINF:0 group-title="Canada TV" tvg-id="3663" tvg-logo="http://epg.one/img2/3663.png" tvg-rec="0",TSN 1 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6521/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/6521/index.m3u8
 #EXTINF:0 group-title="Canada TV" tvg-id="3664" tvg-logo="http://epg.one/img2/3664.png" tvg-rec="0",TSN 3 HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6522/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/6522/index.m3u8
 #EXTINF:0 group-title="Canada TV" tvg-id="3665" tvg-logo="http://epg.one/img2/3665.png" tvg-rec="0",CPAC French CA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6523/index.m3u8
 #EXTINF:0 group-title="Canada TV" tvg-id="3666" tvg-logo="http://epg.one/img2/3666.png" tvg-rec="0",TLC CA
@@ -4627,71 +4627,71 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6537/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/A4M5THZG7QS74W/6538/index.m3u8
 
 #EXTINF:0 group-title="Portugal" tvg-id="2909" tvg-logo="http://epg.one/img/2909.png" tvg-rec="3",Sport TV 1 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2525/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2525/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2910" tvg-logo="http://epg.one/img/2910.png" tvg-rec="3",Sport TV 2 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2526/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2526/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2911" tvg-logo="http://epg.one/img/2911.png" tvg-rec="3",Sport TV 3 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2527/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2527/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2912" tvg-logo="http://epg.one/img/2912.png" tvg-rec="3",Sport TV 4 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2528/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2528/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2913" tvg-logo="http://epg.one/img/2913.png" tvg-rec="3",Sport TV 5 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2529/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2529/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2914" tvg-logo="http://epg.one/img/2914.png" tvg-rec="3",Sporting TV FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2530/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2530/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2915" tvg-logo="http://epg.one/img/2915.png" tvg-rec="3",DAZN 1 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2531/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2531/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2916" tvg-logo="http://epg.one/img/2916.png" tvg-rec="3",DAZN 2 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2532/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2532/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2918" tvg-logo="http://epg.one/img/2918.png" tvg-rec="3",DAZN 4 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2534/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2534/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2919" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2535/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2535/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2920" tvg-logo="http://epg.one/img/2920.png" tvg-rec="3",DAZN 6 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/2536/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2536/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2917" tvg-logo="http://epg.one/img/2917.png" tvg-rec="3",DAZN 3 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/7062/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/7062/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="9262" tvg-logo="http://epg.one/img/9262.png" tvg-rec="0",Sport TV+ FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31941/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31941/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2909" tvg-logo="http://epg.one/img/2909.png" tvg-rec="0",Sport TV 1 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31942/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31942/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2910" tvg-logo="http://epg.one/img/2910.png" tvg-rec="0",Sport TV 2 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31943/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31943/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2911" tvg-logo="http://epg.one/img/2911.png" tvg-rec="0",Sport TV 3 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31944/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31944/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2912" tvg-logo="http://epg.one/img/2912.png" tvg-rec="0",Sport TV 4 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31945/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31945/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2913" tvg-logo="http://epg.one/img/2913.png" tvg-rec="0",Sport TV 5 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31946/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31946/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11435" tvg-logo="http://epg.one/img/11435.png" tvg-rec="0",Sport TV 6 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31947/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31947/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11436" tvg-logo="http://epg.one/img/11436.png" tvg-rec="0",Sport TV 7 FHD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31948/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31948/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11437" tvg-logo="http://epg.one/img/11437.png" tvg-rec="0",Eurosport 1 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31949/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31949/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11438" tvg-logo="http://epg.one/img/11438.png" tvg-rec="0",Eurosport 2 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31950/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31950/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11439" tvg-logo="http://epg.one/img/11439.png" tvg-rec="0",A Bola TV HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31951/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31951/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="6584" tvg-logo="http://epg.one/img/6584.png" tvg-rec="0",Benfica TV HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31952/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31952/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2914" tvg-logo="http://epg.one/img/2914.png" tvg-rec="0",Sporting TV HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31953/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31953/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2915" tvg-logo="http://epg.one/img/2915.png" tvg-rec="0",DAZN 1 PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31954/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31954/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2916" tvg-logo="http://epg.one/img/2916.png" tvg-rec="0",DAZN 2 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31955/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31955/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2917" tvg-logo="http://epg.one/img/2917.png" tvg-rec="0",DAZN 3 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31956/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31956/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2918" tvg-logo="http://epg.one/img/2918.png" tvg-rec="0",DAZN 4 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31957/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31957/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="2919" tvg-logo="http://epg.one/img/2919.png" tvg-rec="0",DAZN 5 HD PT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31958/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31958/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11440" tvg-logo="http://epg.one/img/11440.png" tvg-rec="0",W-Sport HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31959/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31959/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11441" tvg-logo="http://epg.one/img/11441.png" tvg-rec="0",Fight Network HD CA
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31960/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31960/index.m3u8
 #EXTINF:0 group-title="Portugal" tvg-id="11442" tvg-logo="http://epg.one/img/11442.png" tvg-rec="0",FightBox HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/CMKU7NZGG6DQE9/31961/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/31961/index.m3u8
 
 #EXTINF:0 group-title="France" tvg-id="2884" tvg-logo="http://epg.one/img/2884.png" tvg-rec="3",beIN Sports 1 HD FR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2499/index.m3u8
@@ -4712,19 +4712,19 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/6151/inde
 #EXTINF:0 group-title="France" tvg-id="3042" tvg-logo="http://epg.one/img/3042.png" tvg-rec="3",Paris Premiere HD FR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/6146/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2885" tvg-logo="http://epg.one/img/2885.png" tvg-rec="3",beIN Sports 2 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2500/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2500/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2886" tvg-logo="http://epg.one/img/2886.png" tvg-rec="3",beIN Sports 3 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2501/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2501/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2887" tvg-logo="http://epg.one/img/2887.png" tvg-rec="3",Canal+ Sport HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2502/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2502/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2928" tvg-logo="http://epg.one/img/2928.png" tvg-rec="3",Infosport+ HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2544/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2544/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2929" tvg-logo="http://epg.one/img/2929.png" tvg-rec="3",RMC Sport 1 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2545/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2545/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2930" tvg-logo="http://epg.one/img/2930.png" tvg-rec="3",RMC Sport 2 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2546/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2546/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2931" tvg-logo="http://epg.one/img/2931.png" tvg-rec="3",RMC Sport 3 HD FR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/2547/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2547/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="2133" tvg-logo="http://epg.one/img/2133.png" tvg-rec="3",France 24 HD FR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/TVEGY2EV2RCNLB/947/index.m3u8
 #EXTINF:0 group-title="France" tvg-id="3088" tvg-logo="http://epg.one/img/3088.png" tvg-rec="3",Canal+ Cinema HD FR
