@@ -3217,128 +3217,31 @@ https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 
-#==============AUSTRALIA==================#
-
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC Australia (V+)
-https://d3rzhldmr21hry.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC News
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=83b7c942bf0c4a2d80a299426da2d764:5b1dd642b5a6317e00335eda59dfb07e
-https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
-
-#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="AUSTRALIA TV",Trace Sport Stars (Australia) (1080p)
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192714/C31-logo.png", C31 Melbourne
-https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgA4_n7qGd3anx5oT3ogwCOQdsCA7AmPSt4_8ofq3XV3nIW9UWGD4RfY&s=10",Channel 44
-https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ausbiz.com.au/assets/logo.png",Ausbiz TV
-https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg TV Australia
-https://bloomberg.com/media-manifest/streams/aus.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.shopify.com/s/files/1/0788/6992/2098/files/TVSN_LOGO_480x480.png?v=1709261839",TVSN Channel
-https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
-#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/FAvbwG4AstAvoVQfcmUI1PgACC0=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="AUSTRALIA TV",Mystery & Paranormal-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mystery-and-paranormal-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="AUSTRALIA TV",History-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
-#EXTINF:- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Marriage-at-first-sight-logo-300x140.png/revision/latest?cb=20180809074751" group-title="AUSTRALIA TV",Married At First Sight-Geo
-https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mfs-nsa.m3u8
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xaNdnPn5W3BwSQs7llqODbYZ0X6.png" group-title="AUSTRALIA TV",Seinfeld 24x7
-https://fast-channels-prod.akamaized.net/out/v1/879ab979a42c4b03a4f49981c87bc271/live.m3u8
-#EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60 Minutes Australia 24x7
-https://fast-channels-prod.akamaized.net/out/v1/426fe60b8c1e4b0f921da72848bf55df/live.m3u8
-#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/GoQkLiOf6XGh_b2IPFtLImdvRkA=/1920x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F577797%2F9crime_logo.png" group-title="AUSTRALIA TV",9 Crime
-https://fast-channels-prod.akamaized.net/out/v1/d8f5fb60797e4c78abc7041864095111/live.m3u8
-#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/7876782/1C57F3B6-38EC-49da-8761-f692f9bca0eb.png?imformat=chrome" group-title="AUSTRALIA TV",Married at First Sight UK alt
-https://fast-channels-prod.akamaized.net/out/v1/2dce4756bb3d4ce5a9ef88aaa7fb4ca6/live.m3u8
-#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/21222197/71C11E99-30C3-4140-af43-bd28a2f6d3fb.png?imformat=chrome" group-title="AUSTRALIA TV",Dance Moms 24x7
-https://fast-channels-prod.akamaized.net/out/v1/71be5ebc96d84b7b828daa2a5aa5338a/live.m3u8
-#EXTINF:-1 tvg-logo="https://www.pedestrian.tv/wp-content/uploads/2021/02/18/new-lead.jpg?quality=50" group-title="AUSTRALIA TV",Pedestrian Music TV
-https://fast-channels-prod.akamaized.net/out/v1/c81c18d56f3840c29f10ffed5e1f1cb9/live.m3u8
-#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/tW7RCAz-show-white-logo-lDtqm4S.png" group-title="AUSTRALIA TV",The Block 24x7
-https://fast-channels-prod.akamaized.net/out/v1/cabdd7a838404b0ca662dab4d5724960/live.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kB0RBAP_rj3EXjTPiW-vVkZRcaFtA02755rb5-C-Uyog=s900-c-k-c0x00ffffff-no-rj" group-title="AUSTRALIA TV",LMN 
-https://fast-channels-prod.akamaized.net/out/v1/c4f1b78a1ff04dd4a54e5616ed44c93b/live.m3u8
-
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-sa.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Brisbane
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-qld.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Canberra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-act.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Darwin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-nt.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Hobart
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-tas.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Melbourne
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-vic.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Perth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-wa.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Sydney
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-nsw.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC Family
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-tv-plus.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC Entertains
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://c.mjh.nz/abc-me.m3u8
-#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC News
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
-
 #============CAMBODJA====================#
 
 
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601", TVK
 https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://vayofm.com/content_img/108527/s1_17.jpg",TVK 2
 https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://lh3.googleusercontent.com/66cd_eUigIyRuf4rY1NgFSzXhq_lb6YJTZKnVeZ7StsaHyVZL3nFsA2A2naUvxPlTT0xnTojPyC62iwoCfsKRhhuloWJ91xEylUILA=rw", SEATV
 https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://i.imgur.com/EWkyqrw.png",KhmerTV
 https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.k4media.com/media/logos/fresh-news-english.png", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/7x0ff7NSN3eGi7RP_m0tQ2G9wAXjf7e9fJ-SjPRXpuQZWtx-SgZyk1onz7YIQUyEjTQ8FUFU=s900-c-k-c0x00ffffff-no-rj", PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg",CNC
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058", CTV8 HD
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIotsyjv-kelm6Xxt8koAxa2RBzWGhXKjup_GVcne5XEpKe8fyjF9SfZi&s=10", My TV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
@@ -3901,268 +3804,347 @@ https://live.fptplay53.net/fnxsd1/thanhhoa_hls.smil/chunklist_b2500000.m3u8
 https://live.fptplay53.net/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8 
 
 
+#==============AUSTRALIA==================#
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=3db925fa5b654910aecb196080722def:b19719a771e0f8647216f5bb94da2734
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC Australia (V+)
+https://d3rzhldmr21hry.cloudfront.net/out/v1/6c075b570f99473fa6715bb399bc9571/index.mpd
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-id="ABC Australia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abcau.png" ,ABC News
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=83b7c942bf0c4a2d80a299426da2d764:5b1dd642b5a6317e00335eda59dfb07e
+https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/7e1cd32d1ec24845bf7bf3d9c60704e6/index.mpd
+
+#EXTINF:-1 tvg-id="TraceSportStars.fr@HD" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="AUSTRALIA TV",Trace Sport Stars (Australia) (1080p)
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ctvplus-web-media.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2023/03/27192714/C31-logo.png", C31 Melbourne
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJgA4_n7qGd3anx5oT3ogwCOQdsCA7AmPSt4_8ofq3XV3nIW9UWGD4RfY&s=10",Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://ausbiz.com.au/assets/logo.png",Ausbiz TV
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bloombeng.png",Bloomberg TV Australia
+https://bloomberg.com/media-manifest/streams/aus.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://cdn.shopify.com/s/files/1/0788/6992/2098/files/TVSN_LOGO_480x480.png?v=1709261839",TVSN Channel
+https://tvsnhlslivetest.akamaized.net/hls/live/2034711/EXPO-MSL4/master.m3u8
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/FAvbwG4AstAvoVQfcmUI1PgACC0=/1920x0/filters:format(webp)/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2025%2F04%2F685330%2Fcroppedlogo-5.png" group-title="AUSTRALIA TV",Mystery & Paranormal-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mystery-and-paranormal-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="AUSTRALIA TV",History-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
+#EXTINF:- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Marriage-at-first-sight-logo-300x140.png/revision/latest?cb=20180809074751" group-title="AUSTRALIA TV",Married At First Sight-Geo
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-mfs-nsa.m3u8
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xaNdnPn5W3BwSQs7llqODbYZ0X6.png" group-title="AUSTRALIA TV",Seinfeld 24x7
+https://fast-channels-prod.akamaized.net/out/v1/879ab979a42c4b03a4f49981c87bc271/live.m3u8
+#EXTINF:-1 tvg-logo="https://smarttechfoundation.org/wp-content/uploads/2015/10/60-minutes-logo.png" group-title="AUSTRALIA TV",60 Minutes Australia 24x7
+https://fast-channels-prod.akamaized.net/out/v1/426fe60b8c1e4b0f921da72848bf55df/live.m3u8
+#EXTINF:-1 tvg-logo="https://imageresizer.static9.net.au/GoQkLiOf6XGh_b2IPFtLImdvRkA=/1920x0/https%3A%2F%2Fvms-tv-images-prod.s3-ap-southeast-2.amazonaws.com%2F2024%2F03%2F577797%2F9crime_logo.png" group-title="AUSTRALIA TV",9 Crime
+https://fast-channels-prod.akamaized.net/out/v1/d8f5fb60797e4c78abc7041864095111/live.m3u8
+#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/7876782/1C57F3B6-38EC-49da-8761-f692f9bca0eb.png?imformat=chrome" group-title="AUSTRALIA TV",Married at First Sight UK alt
+https://fast-channels-prod.akamaized.net/out/v1/2dce4756bb3d4ce5a9ef88aaa7fb4ca6/live.m3u8
+#EXTINF:-1 tvg-logo="https://ic.c4assets.com/bips/21222197/71C11E99-30C3-4140-af43-bd28a2f6d3fb.png?imformat=chrome" group-title="AUSTRALIA TV",Dance Moms 24x7
+https://fast-channels-prod.akamaized.net/out/v1/71be5ebc96d84b7b828daa2a5aa5338a/live.m3u8
+#EXTINF:-1 tvg-logo="https://www.pedestrian.tv/wp-content/uploads/2021/02/18/new-lead.jpg?quality=50" group-title="AUSTRALIA TV",Pedestrian Music TV
+https://fast-channels-prod.akamaized.net/out/v1/c81c18d56f3840c29f10ffed5e1f1cb9/live.m3u8
+#EXTINF:-1 tvg-logo="https://image.pbs.org/contentchannels/tW7RCAz-show-white-logo-lDtqm4S.png" group-title="AUSTRALIA TV",The Block 24x7
+https://fast-channels-prod.akamaized.net/out/v1/cabdd7a838404b0ca662dab4d5724960/live.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kB0RBAP_rj3EXjTPiW-vVkZRcaFtA02755rb5-C-Uyog=s900-c-k-c0x00ffffff-no-rj" group-title="AUSTRALIA TV",LMN 
+https://fast-channels-prod.akamaized.net/out/v1/c4f1b78a1ff04dd4a54e5616ed44c93b/live.m3u8
+
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Adelaide
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-sa.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Brisbane
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-qld.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Canberra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-act.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Darwin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-nt.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Hobart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-tas.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC TV Melbourne
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-vic.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Perth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-wa.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC TV Sydney
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-nsw.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC Family
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-tv-plus.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png",ABC Entertains
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://c.mjh.nz/abc-me.m3u8
+#EXTINF:-1 group-title="AUSTRALIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abctv.png", ABC News
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+
+
 #============EUROPEA=================#
 
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europa",1Tv
+#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europea",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static1.tgstat.ru/channels/_0/32/32d3ca6b79f654ed36bfc220e5c78c88.jpg" group-title="Europa",Set Mix
+#EXTINF:-1 tvg-logo="https://static1.tgstat.ru/channels/_0/32/32d3ca6b79f654ed36bfc220e5c78c88.jpg" group-title="Europea",Set Mix
 https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europa",TvR 1
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europea",TvR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/2293/index.m3u8
-#EXTINF:-1 group-title="Europa" tvg-id="2598" tvg-logo="http://epg.one/img2/2598.png" tvg-rec="3",TRT 1 FHD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/3MKGMVU86EYR56/6883/index.m3u8
-#EXTINF:-1 group-title="Europa" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
+#EXTINF:0 group-title="Europea" tvg-id="3873" tvg-logo="http://epg.one/img/3873.png" tvg-rec="3",beIN Sports 1 HD 
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="2598" tvg-logo="http://epg.one/img/2598.png" tvg-rec="3",TRT 1 (1080p)
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Europea",TRT Arabi (1080p) [Not 24/7]
+https://tv-trtarabi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" tvg-rec="3",TRT Avaz (720p)
+https://tv-trtavaz.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3907" tvg-logo="http://epg.one/img/3907.png" tvg-rec="3",TRT Belgesel TR (720p)
+https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3896" tvg-logo="http://epg.one/img2/3896.png",TRT Çocuk (720p)
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Europea",TRT Diyanet Çocuk (720p)
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3970" tvg-logo="http://epg.one/img/3970.png" tvg-rec="3",TRT Eba Ilkokul (720p)
+https://tv-e-okul00.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3970" tvg-logo="http://epg.one/img/3970.png" tvg-rec="3",TRT Eba Lise (720p)
+https://tv-e-okul02.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3970" tvg-logo="http://epg.one/img/3970.png" tvg-rec="3",TRT Eba Ortaokul (720p)
+https://tv-e-okul01.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3974" tvg-logo="http://epg.one/img/3974.png" tvg-rec="3",TRT Haber (720p)
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTKurdi.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TRT_Kurd%C3%AE_logo.svg/960px-TRT_Kurd%C3%AE_logo.svg.png" group-title="Europea",TRT Kurdî (720p)
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3924" tvg-logo="http://epg.one/img/3924.png" tvg-rec="3",TRT Müzik (720p)
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor (1080p)
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor Yildiz (1080p)
+https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" tvg-rec="0",TRT Türk (720p)
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Europea",TRT World (1080p) [Not 24/7]
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Europea",TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Europea" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
 https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europa",1+1 International
+#EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europea",1+1 International
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europa",Estrella TV
+#EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europea",Estrella TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europa",Pro 100
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/6f/Pro100.svg/revision/latest/scale-to-width-down/1200?cb=20240815153301&path-prefix=ru" group-title="Europea",Pro 100
 http://venera.movify.tv/Pro100tvRu/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Europa",Anime Vision Classics
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mTaiEE1.png" group-title="Europea",Anime Vision Classics
 https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/agendachilena.cl/wp-content/uploads/2016/06/radio-adn.png?fit=582%2C324&ssl=1" group-title="Europa",Adn Tv+ (720p)
+#EXTINF:-1 tvg-logo="https://i0.wp.com/agendachilena.cl/wp-content/uploads/2016/06/radio-adn.png?fit=582%2C324&ssl=1" group-title="Europea",Adn Tv+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Europa",Happy Kids 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116" group-title="Europea",Happy Kids 
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png" group-title="Europa",AfarinTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Afarin_logo.png" group-title="Europea",AfarinTV
 https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Gloob.png/revision/latest/scale-to-width-down/1200?cb=20241203031242&path-prefix=pt-br" group-title="Europa",Gloob Sd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/67/Gloob.png/revision/latest/scale-to-width-down/1200?cb=20241203031242&path-prefix=pt-br" group-title="Europea",Gloob Sd
 https://dns.p2.wtf/rogerio55x/24992611250/547
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RR8M1ejXuzk/hqdefault.jpg" group-title="Europa",Gloobinho
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/RR8M1ejXuzk/hqdefault.jpg" group-title="Europea",Gloobinho
 https://dns.p2.wtf/rogerio55x/24992611250/296363
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6506fc65-9955-42e9-bd64-e9432925db17%2Famc_yellow_logo.png" group-title="Europa",US | AMC Fast
+#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F6506fc65-9955-42e9-bd64-e9432925db17%2Famc_yellow_logo.png" group-title="Europea",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",La | Runtime Accion
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",La | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",LA | Runtime Peliculas
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Peliculas
 https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",LA | Runtime Comedia
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Comedia
 https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",LA | Runtime Crimen
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Crimen
 https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",La | Runtime Romance
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",La | Runtime Romance
 https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",LA | Runtime Familia
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Familia
 https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europa",LA | Runtime Terror
+#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Terror
 https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
-#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="Europa",Canal D
+#EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="Europea",Canal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
-#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/z2Ga8pLDDIIcBfH1ClklW42msYo.png" group-title="Europa",One Play
+#EXTINF:-1 tvg-logo="https://framerusercontent.com/images/z2Ga8pLDDIIcBfH1ClklW42msYo.png" group-title="Europea",One Play
 http://45.129.141.180:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Wflx.svg/revision/latest/scale-to-width-down/250?cb=20260219235912" group-title="Europa",FOX 29
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Wflx.svg/revision/latest/scale-to-width-down/250?cb=20260219235912" group-title="Europea",FOX 29
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europa",Show TV
+#EXTINF:-1 tvg-logo="http://epg.one/img/2608.png" group-title="Europea",Show TV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&st=&e=0&tv=1&ppid=
-#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/6/5/7/65743b61154515b6d0cb198fdb0f9e9a_fgraphic.png" group-title="Europa",RTBF
+#EXTINF:-1 tvg-logo="https://cdn.aptoide.com/imgs/6/5/7/65743b61154515b6d0cb198fdb0f9e9a_fgraphic.png" group-title="Europea",RTBF
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.reberraoof.com/Photo/Img/f6dc8f4b-0b0c-47a6-94ed-cba8035a9daf.jpg" group-title="Europa",AVA 4
+#EXTINF:-1 tvg-logo="https://www.reberraoof.com/Photo/Img/f6dc8f4b-0b0c-47a6-94ed-cba8035a9daf.jpg" group-title="Europea",AVA 4
 https://ava4.store/upload/ava.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f5cdf367c7d08c2662188a813e56c807b7c65b68e9ac6d5e4a51e39c47911594.png" group-title="Europa",Canal Extremadura
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/f5cdf367c7d08c2662188a813e56c807b7c65b68e9ac6d5e4a51e39c47911594.png" group-title="Europea",Canal Extremadura
 https://canalextremadura-events.flumotion.cloud/canalextremadura/events_all/canalextremadura/events_hd/chunks_dvr.m3u8
-#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/05/oli-tv-300x300.png" group-title="Europa",OLI TV
+#EXTINF:-1 tvg-logo="https://sintoniza.tv/wp-content/uploads/2026/05/oli-tv-300x300.png" group-title="Europea",OLI TV
 https://v4.tustreaming.cl/retroplaytv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqe9rf9ZstexTLPI2TJu6lRR4WLbWMLN6LoQ&s" group-title="Europa",RTBF ACTUS
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqe9rf9ZstexTLPI2TJu6lRR4WLbWMLN6LoQ&s" group-title="Europea",RTBF ACTUS
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/2M_tv_logo_2004.jpg/revision/latest/scale-to-width-down/284?cb=20240104002549" group-title="Europa",2M Monde +1 (1080p)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/2M_tv_logo_2004.jpg/revision/latest/scale-to-width-down/284?cb=20240104002549" group-title="Europea",2M Monde +1 (1080p)
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-logo="https://1almere.stream.prepr.io/2ojs222umgq7/w_1200,h_630/profielfoto-redactie-1almere.png" group-title="Europa",1 Almere Tv (720p)
+#EXTINF:-1 tvg-logo="https://1almere.stream.prepr.io/2ojs222umgq7/w_1200,h_630/profielfoto-redactie-1almere.png" group-title="Europea",1 Almere Tv (720p)
 https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png/900" group-title="Europa",History Warfare Now
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/41E6152D-2E5D-47B1-B910-6C069D7FDCD1/3-1x1.png/900" group-title="Europea",History Warfare Now
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Historia_2010.svg/revision/latest/scale-to-width-down/200?cb=20220122225451" group-title="Europa",Es Historia 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Historia_2010.svg/revision/latest/scale-to-width-down/200?cb=20220122225451" group-title="Europea",Es Historia 
 https://d1k3vzh2ivy22k.cloudfront.net/Historia.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/ReceitasFast_2023.svg/revision/latest/scale-to-width-down/220?cb=20251004164147" group-title="Europa",Receitas Fast Fhd 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/ReceitasFast_2023.svg/revision/latest/scale-to-width-down/220?cb=20251004164147" group-title="Europea",Receitas Fast Fhd 
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/71D24045-457E-467E-99E3-EB02DF915AA9/3-1x1.png" group-title="Europa",FOX LOCAL 
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/71D24045-457E-467E-99E3-EB02DF915AA9/3-1x1.png" group-title="Europea",FOX LOCAL 
 https://aegis-cloudfront-1.tubi.video/36a435c5-f70a-411a-b237-e32738c486a8/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Europa",Vevo Retro Rock 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Europea",Vevo Retro Rock 
 https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Europa",Vevo Retrorockau 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Europea",Vevo Retrorockau 
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://bx1pub.be/wp-content/uploads/2022/04/BX1-Pub-1-1024x973.png" group-title="Europa",BX1 TV
+#EXTINF:-1 tvg-logo="https://bx1pub.be/wp-content/uploads/2022/04/BX1-Pub-1-1024x973.png" group-title="Europea",BX1 TV
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c9/NTV_Brazil_%282021_-_Present%29.png/revision/latest/thumbnail/width/360/height/450?cb=20210820010031" group-title="Europa",BX1 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/c/c9/NTV_Brazil_%282021_-_Present%29.png/revision/latest/thumbnail/width/360/height/450?cb=20210820010031" group-title="Europea",BX1 2
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/f38818d7/index.mpd
-#EXTINF:-1 tvg-logo="https://b2cb7560bd.cbaul-cdnwnd.com/280ff287df1d73c68e176949b9592674/200000078-8ca418ca44/1200px-Quatro.svg.png?ph=b2cb7560bd" group-title="Europa",TV Qutre
+#EXTINF:-1 tvg-logo="https://b2cb7560bd.cbaul-cdnwnd.com/280ff287df1d73c68e176949b9592674/200000078-8ca418ca44/1200px-Quatro.svg.png?ph=b2cb7560bd" group-title="Europea",TV Qutre
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/17f2e303/index.mpd
-#EXTINF:-1 tvg-logo="https://ds.static.rtbf.be/article/image/370x208/e/3/6/f1c1ca1a473db0eb4086755bdb49c08b-1617979287.png" group-title="Europa",Bouke 
+#EXTINF:-1 tvg-logo="https://ds.static.rtbf.be/article/image/370x208/e/3/6/f1c1ca1a473db0eb4086755bdb49c08b-1617979287.png" group-title="Europea",Bouke 
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.mpd
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Europa",American Crime Channel 
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Europea",American Crime Channel 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
-#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLlkr1dcoetd62PFnX-VIIZepjGp9G7h-eyzMDs2dPtdz9L2Kl" group-title="Europa",Abc San Diego (Usa) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLlkr1dcoetd62PFnX-VIIZepjGp9G7h-eyzMDs2dPtdz9L2Kl" group-title="Europea",Abc San Diego (Usa) 
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341" group-title="Europa",Trace UK
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341" group-title="Europea",Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n1DFlCGZ-TTt7hbrtpgf19Aajt1HPqu2Hgh5DsurCxH2MDUJqPxvRlx99P3KT_0D-1Q" group-title="Europa",Vida Melhor
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n1DFlCGZ-TTt7hbrtpgf19Aajt1HPqu2Hgh5DsurCxH2MDUJqPxvRlx99P3KT_0D-1Q" group-title="Europea",Vida Melhor
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europa",Cine Mo!
+#EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europea",Cine Mo!
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europa",Cine kwela
+#EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europea",Cine kwela
 https://d1bail49udbz1k.cloudfront.net/out/v1/78e282e04f0944f3ad0aa1db7a1be645/index_3.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtXqtl7dxJeHnIni53omD8G1RbYBeB1hpfxDBtFwuaJ57E002P" group-title="Europa",Que Marravilha 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQtXqtl7dxJeHnIni53omD8G1RbYBeB1hpfxDBtFwuaJ57E002P" group-title="Europea",Que Marravilha 
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/TV_Aparecida_HD_2013-16.png/revision/latest?cb=20200205085527" group-title="Europa",TV_Aparecida_BR 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/TV_Aparecida_HD_2013-16.png/revision/latest?cb=20200205085527" group-title="Europea",TV_Aparecida_BR 
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/TV_Aparecida/TV_Aparecida_BR/TV_Aparecidap720.m3u8
-#EXTINF:-1 tvg-logo="https://www.seveninternet.net.br/assets/651328165db2e70001ac6940-PK41w4da.JPG" group-title="Europa",New Brasil
+#EXTINF:-1 tvg-logo="https://www.seveninternet.net.br/assets/651328165db2e70001ac6940-PK41w4da.JPG" group-title="Europea",New Brasil
 https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/NewCo/New_Brasil_BR/New_Brasilp720.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2270.png" group-title="Europa",CNN News
+#EXTINF:-1 tvg-logo="http://epg.one/img/2270.png" group-title="Europea",CNN News
 https://d25usgadhphvwi.cloudfront.net//hls/stv-plus1280x720/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2270.png" group-title="Europa",CNN 2
+#EXTINF:-1 tvg-logo="http://epg.one/img/2270.png" group-title="Europea",CNN 2
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Europa",American Crime Channel 
+#EXTINF:-1 tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/D10ACB25-D8D4-4445-9D47-30195BD2DE7E/3-1x1.png/900" group-title="Europea",American Crime Channel 
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
-#EXTINF:-1 tvg-logo="https://latamjournalismreview.org/wp-content/uploads/2023/07/jovem-pan-logo.png" group-title="Europa",Jovem Pan News
+#EXTINF:-1 tvg-logo="https://latamjournalismreview.org/wp-content/uploads/2023/07/jovem-pan-logo.png" group-title="Europea",Jovem Pan News
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRQChMrk0pcyOCS4JesZBYZCm8iDRNiTX3HS7S3A-3EVfIdxhH" group-title="Europa",TVLUX
+#EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTRQChMrk0pcyOCS4JesZBYZCm8iDRNiTX3HS7S3A-3EVfIdxhH" group-title="Europea",TVLUX
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/764748cd/index.mpd
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/67ceaac66c67e560c2ebf432/9c29a851-983c-465c-b1ce-378e1cb860b3/telesambre-rect.png" group-title="Europa",TELESAMBRE 2 TV
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/67ceaac66c67e560c2ebf432/9c29a851-983c-465c-b1ce-378e1cb860b3/telesambre-rect.png" group-title="Europea",TELESAMBRE 2 TV
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/d14f1e64/index.mpd
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/67ceaac66c67e560c2ebf432/9c29a851-983c-465c-b1ce-378e1cb860b3/telesambre-rect.png" group-title="Europa",TELESAMBRE TV
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/67ceaac66c67e560c2ebf432/9c29a851-983c-465c-b1ce-378e1cb860b3/telesambre-rect.png" group-title="Europea",TELESAMBRE TV
 https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/2f00284b/index.mpd
-#EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg?w=200&h=200&crop=1" group-title="Europa",History
+#EXTINF:-1 tvg-logo="https://www.hollywoodreporter.com/wp-content/uploads/2012/02/history_channel_logo.jpg?w=200&h=200&crop=1" group-title="Europea",History
 https://d1nzda2a2b3swt.cloudfront.net/History_Warfare_Now.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2CK_o1PCefwDhUVqTP2ldMvW6FFlUaN1xV-AGLq1bnM38hn_HxERuzk&s=10" group-title="Europa",2 M Monde +1
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy2CK_o1PCefwDhUVqTP2ldMvW6FFlUaN1xV-AGLq1bnM38hn_HxERuzk&s=10" group-title="Europea",2 M Monde +1
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Iv-Ar5TuScFBZ3IK3C0VCUbw00A3yfeJYj3UI9tNPykEACZAmKRG4zq8HHGjPABcNZieNihWH-w" group-title="Europa",Wetv All Reality
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Iv-Ar5TuScFBZ3IK3C0VCUbw00A3yfeJYj3UI9tNPykEACZAmKRG4zq8HHGjPABcNZieNihWH-w" group-title="Europea",Wetv All Reality
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="Europa",IMAGEN TV 
+#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="Europea",IMAGEN TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-logo="https://tvrm-s3.fra1.cdn.digitaloceanspaces.com/superdesk/20240126140124/6d2bc4b4baa05b78a25c3638de32bb26de2534ae37080292ab360d85a0b219fb.jpg" group-title="Europa",TvR Moldova
+#EXTINF:-1 tvg-logo="https://tvrm-s3.fra1.cdn.digitaloceanspaces.com/superdesk/20240126140124/6d2bc4b4baa05b78a25c3638de32bb26de2534ae37080292ab360d85a0b219fb.jpg" group-title="Europea",TvR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europa",TRT Sports
+#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europea",TRT Sports
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6039" tvg-logo="http://epg.one/img2/6039.png" tvg-rec="0",Red Bull TV HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/16040/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6507" tvg-logo="http://epg.one/img2/6507.png" tvg-rec="0",TNT Sports 4 HD UK
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19054/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="2587" tvg-logo="http://epg.one/img2/2587.png" tvg-rec="0",A Spor HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19069/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19072/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6526" tvg-logo="http://epg.one/img2/6526.png" tvg-rec="0",Spor Smart 2 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19073/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6527" tvg-logo="http://epg.one/img2/6527.png" tvg-rec="0",Tivibu Spor 1 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19074/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3872" tvg-logo="http://epg.one/img/3872.png" tvg-rec="3",Tivibu Spor 2 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6816/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6529" tvg-logo="http://epg.one/img2/6529.png" tvg-rec="0",Tivibu Spor 3 HD TR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19076/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6555" tvg-logo="http://epg.one/img2/6555.png" tvg-rec="0",Sky Sport 24 HD IT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19127/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6556" tvg-logo="http://epg.one/img2/6556.png" tvg-rec="0",Sky Sport Arena HD IT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19128/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6560" tvg-logo="http://epg.one/img2/6560.png" tvg-rec="0",Sky Sport Golf HD IT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19132/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6561" tvg-logo="http://epg.one/img2/6561.png" tvg-rec="0",Sky Sport MotoGP HD IT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19133/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3117" tvg-logo="http://epg.one/img2/3117.png" tvg-rec="0",Super Tennis IT
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19136/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6566" tvg-logo="http://epg.one/img2/6566.png" tvg-rec="0",Fox Sports HD AR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19138/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6567" tvg-logo="http://epg.one/img2/6567.png" tvg-rec="0",Fox Sports HD MX
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19139/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6571" tvg-logo="http://epg.one/img2/6571.png" tvg-rec="0",Fox Sports 506 HD AU
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19143/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="88010" tvg-logo="http://epg.one/img2/88010.png" tvg-rec="0",Fox Sports Racing US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19144/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6574" tvg-logo="http://epg.one/img2/6574.png" tvg-rec="0",Fox Sports 501 Cricket HD AU
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19146/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6578" tvg-logo="http://epg.one/img2/6578.png" tvg-rec="0",FanDuel Sports North US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19152/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6579" tvg-logo="http://epg.one/img2/6579.png" tvg-rec="0",FanDuel Sports Midwest US
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19153/index.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europea",Ge Tv HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv1.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europa",Ge Tv FHD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europea",Ge Tv FHD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv2.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9274" tvg-logo="http://epg.one/img/9274.png" tvg-rec="0",Arena Sport 1 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9274" tvg-logo="http://epg.one/img/9274.png" tvg-rec="0",Arena Sport 1 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
+#EXTINF:0 group-title="Europea" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9275" tvg-logo="http://epg.one/img/9275.png" tvg-rec="0",Arena Sport 3 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9275" tvg-logo="http://epg.one/img/9275.png" tvg-rec="0",Arena Sport 3 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9277" tvg-logo="http://epg.one/img/9277.png" tvg-rec="0",Arena Sport 4 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9277" tvg-logo="http://epg.one/img/9277.png" tvg-rec="0",Arena Sport 4 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9278" tvg-logo="http://epg.one/img/9278.png" tvg-rec="0",Arena Sport 5 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9278" tvg-logo="http://epg.one/img/9278.png" tvg-rec="0",Arena Sport 5 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9279" tvg-logo="http://epg.one/img/9279.png" tvg-rec="0",Arena Sport 6 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9279" tvg-logo="http://epg.one/img/9279.png" tvg-rec="0",Arena Sport 6 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9280" tvg-logo="http://epg.one/img/9280.png" tvg-rec="0",Arena Sport 7 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9280" tvg-logo="http://epg.one/img/9280.png" tvg-rec="0",Arena Sport 7 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9281" tvg-logo="http://epg.one/img/9281.png" tvg-rec="0",Arena Sport 8 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9281" tvg-logo="http://epg.one/img/9281.png" tvg-rec="0",Arena Sport 8 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9282" tvg-logo="http://epg.one/img/9282.png" tvg-rec="0",Arena Sport 9 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9282" tvg-logo="http://epg.one/img/9282.png" tvg-rec="0",Arena Sport 9 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport9.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9283" tvg-logo="http://epg.one/img/9283.png" tvg-rec="0",Arena Sport 10 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9283" tvg-logo="http://epg.one/img/9283.png" tvg-rec="0",Arena Sport 10 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" tvg-rec="0",Arena Premium 1 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" tvg-rec="0",Arena Premium 1 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" tvg-rec="0",Arena Premium 2 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" tvg-rec="0",Arena Premium 2 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png" tvg-rec="0",Arena Premium 3 HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png" tvg-rec="0",Arena Premium 3 HD RS
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9269" tvg-logo="http://epg.one/img/9269.png" tvg-rec="0",Arena Esport HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9269" tvg-logo="http://epg.one/img/9269.png" tvg-rec="0",Arena Esport HD RS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31597/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
+#EXTINF:0 group-title="Europea" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/31598/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
+#EXTINF:0 group-title="Europea" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19062/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
+#EXTINF:0 group-title="Europea" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/19064/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3049" tvg-logo="http://epg.one/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3049" tvg-logo="http://epg.one/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3050" tvg-logo="http://epg.one/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3050" tvg-logo="http://epg.one/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
 https://raw.githubusercontent.Europa/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3051" tvg-logo="http://epg.one/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3051" tvg-logo="http://epg.one/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6127/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3052" tvg-logo="http://epg.one/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
+#EXTINF:0 group-title="Europea" tvg-id="3052" tvg-logo="http://epg.one/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6128/index.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD TR 
+#EXTINF:0 group-title="Europea" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD TR 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
+#EXTINF:0 group-title="Europea" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD TR
+#EXTINF:0 group-title="Europea" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Extra
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europea",BeiN Extra
 https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europa",BeiN Extra 2 
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europea",BeiN Extra 2 
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
+#EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
 http://znty.dyndns.org:5010/hls/eleven1.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
+#EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
 http://znty.dyndns.org:5010/hls/eleven2.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 Bar HD 
+#EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 Bar HD 
 http://znty.dyndns.org:5010/hls/eleven3.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 Bar HD 
+#EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 Bar HD 
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
-#EXTINF:0 group-title="Europa" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
+#EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europa",EuroSport
+#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europa",UFC 
+#EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europea",UFC 
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europa",FIFA+ 
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europea",FIFA+ 
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europa",FIFA 7
+#EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europea",FIFA 7
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="Europa",Caze TV
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="Europea",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="Europa",Canal+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="Europea",Canal+
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BQETB7GS453AKA/6098/index.m3u8
-#EXTINF:-1 tvg-logo="https://img.antaranews.com/cache/1200x800/2017/11/20171125F1_Formula_1_logo_black_background.png.webp" group-title="Europa",F1 Formola
+#EXTINF:-1 tvg-logo="https://img.antaranews.com/cache/1200x800/2017/11/20171125F1_Formula_1_logo_black_background.png.webp" group-title="Europea",F1 Formola
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/2913.png" group-title="Europa",Liga de champions
+#EXTINF:-1 tvg-logo="http://epg.one/img/2913.png" group-title="Europea",Liga de champions
 https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
 
 
