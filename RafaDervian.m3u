@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=902070&extension=ts
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa4.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup2
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup3
-http://216.227.139.146:80/play/HXFvyaB0xyMLAylspDWARotaztTdyE_GELYk48uxWM3X8lfFIfjpJ3ExxvptH2fBhLvFgc2htfYGz7altpS8Y1AGoixAmB8iQqeaP6_qSe2vGnMrsUBVbO7T-LEl5xL1pvdDUXtIbEIQujIek-BExq1ldkavUNR2HLEzGhF_X3k?ext=.ts
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 1
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa2.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 2
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1745155&extension=ts
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa3.m3u8
 
 #EXTINF:-1 tvg-url="mmm" tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="EVENT LIVE SPORTS",12,30 WIB EVENT BOLA+ 2026
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -3896,8 +3896,6 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europea",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://static1.tgstat.ru/channels/_0/32/32d3ca6b79f654ed36bfc220e5c78c88.jpg" group-title="Europea",Set Mix
-https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europea",TvR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="3873" tvg-logo="http://epg.one/img/3873.png" tvg-rec="3",beIN Sports 1 HD 
@@ -3936,8 +3934,6 @@ https://tv-trtturk.medya.trt.com.tr/master.m3u8
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Europea",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
-#EXTINF:-1 group-title="Europea" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
-https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europea",1+1 International
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europea",Estrella TV
@@ -4147,6 +4143,72 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2913.png" group-title="Europea",Liga de champions
 https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
 
+#EXTINF:0 group-title="United Kingdom" tvg-id="2909" tvg-logo="http://epg.one/img/2909.png" tvg-rec="3",Sport TV 1 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2910" tvg-logo="http://epg.one/img/2910.png" tvg-rec="3",Sport TV 2 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2911" tvg-logo="http://epg.one/img/2911.png" tvg-rec="3",Sport TV 3 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2912" tvg-logo="http://epg.one/img/2912.png" tvg-rec="3",Sport TV 4 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2913" tvg-logo="http://epg.one/img/2913.png" tvg-rec="3",Sport TV 5 HD PT
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv5.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2890" tvg-logo="http://epg.one/img/2890.png" tvg-rec="3",TNT Sports 2 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports1 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports2 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports3 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports4 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 1 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 2 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3663" tvg-logo="http://epg.one/img/3663.png" tvg-rec="0",TSN 3 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 4 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 5 HD CA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6685" tvg-logo="http://epg.one/img/6685.png" tvg-rec="0",ESPN 1 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6686" tvg-logo="http://epg.one/img/6686.png" tvg-rec="0",ESPN 2 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6687" tvg-logo="http://epg.one/img/6687.png" tvg-rec="0",ESPN 3 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6688" tvg-logo="http://epg.one/img/6688.png" tvg-rec="0",ESPN 4 HD NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn5.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="6688" tvg-logo="http://epg.one/img/6688.png" tvg-rec="0",ESPN 4 Plus
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="9051" tvg-logo="http://epg.one/img/9051.png" tvg-rec="3",Sky Sports News HD 50 (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportnw.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4569" tvg-logo="http://epg.one/img/4569.png" tvg-rec="0",Sky Sports Premier League HD (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportp.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4570" tvg-logo="http://epg.one/img/4570.png" tvg-rec="0",Sky Sports Football HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4571" tvg-logo="http://epg.one/img/4571.png" tvg-rec="0",Sky Sports Main Event HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportm.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4573" tvg-logo="http://epg.one/img/4573.png" tvg-rec="0",Sky Sports Mix HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportmix.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4579" tvg-logo="http://epg.one/img/4579.png" tvg-rec="0",Sky Sports Action HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysport%2B.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4575" tvg-logo="http://epg.one/img/4575.png" tvg-rec="0",Sky Sports Racing HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportrc.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4576" tvg-logo="http://epg.one/img/4576.png" tvg-rec="0",Sky Sports F1 HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf1.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD  (UK)
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportg.m3u8
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
