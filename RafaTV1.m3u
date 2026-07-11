@@ -748,12 +748,7 @@ https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
 https://ratu77.adptv.workers.dev/index.mpd?id=18105&type=dash
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bioskopindo.png" group-title="Indo Movies", Bioskop Indonesia
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.mediaflow.workers.dev/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+http://202.169.224.202:8800/udp/239.9.1.15:1234
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1728,10 +1723,7 @@ https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 
 
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
-
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=858769&extension=ts
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3894,20 +3886,30 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #============EUROPEA=================#
 
 
+#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 1 TR
+https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 1 NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 2 NL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr2.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="3873" tvg-logo="http://epg.one/img/3873.png" tvg-rec="3",beIN Sports 1 HD FR
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europea",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-logo="https://static1.tgstat.ru/channels/_0/32/32d3ca6b79f654ed36bfc220e5c78c88.jpg" group-title="Europea",Set Mix
+https://amchls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/2795.png" group-title="Europea",TvR 1
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/playlist.m3u8
-#EXTINF:0 group-title="Europea" tvg-id="3873" tvg-logo="http://epg.one/img/3873.png" tvg-rec="3",beIN Sports 1 HD 
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-#EXTINF:0 group-title="Europea" tvg-id="2598" tvg-logo="http://epg.one/img/2598.png" tvg-rec="3",TRT 1 (1080p)
+#EXTINF:0 group-title="Europea" tvg-id="2598" tvg-logo="http://epg.one/img/2598.png" tvg-rec="3",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:0 group-title="Europea" tvg-id="2598" tvg-logo="http://epg.one/img/2598.png" tvg-rec="3",TRT 1 FHD
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=229&extension=ts
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Europea",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" tvg-rec="3",TRT Avaz (720p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="3907" tvg-logo="http://epg.one/img/3907.png" tvg-rec="3",TRT Belgesel TR (720p)
-https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=67571&extension=ts
 #EXTINF:0 group-title="Europea" tvg-id="3896" tvg-logo="http://epg.one/img2/3896.png",TRT Çocuk (720p)
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTDiyanetCocuk.tr@SD" tvg-logo="https://i.imgur.com/8PmXz9t.png" group-title="Europea",TRT Diyanet Çocuk (720p)
@@ -3925,15 +3927,17 @@ https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="3924" tvg-logo="http://epg.one/img/3924.png" tvg-rec="3",TRT Müzik (720p)
 https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor (1080p)
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=636780&extension=ts
 #EXTINF:0 group-title="Europea" tvg-id="6525" tvg-logo="http://epg.one/img2/6525.png" tvg-rec="0",TRT Spor Yildiz (1080p)
-https://tv-trtspor2.medya.trt.com.tr/master.m3u8
+http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=282&extension=ts
 #EXTINF:0 group-title="Europea" tvg-id="2951" tvg-logo="http://epg.one/img/2951.png" tvg-rec="0",TRT Türk (720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Europea",TRT World (1080p) [Not 24/7]
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="TRTWorld.tr@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/960px-TRT_World.svg.png" group-title="Europea",TRT World HD
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1 group-title="Europea" tvg-logo="http://epg.one/img2/8488.png" tvg-rec="0",Newsmax TV HD US
+https://a-cdn.klowdtv.com/live2/newsmax_720p/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europea",1+1 International
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/11651.png" group-title="Europea",Estrella TV
@@ -4126,8 +4130,6 @@ http://znty.dyndns.org:5010/hls/eleven3.m3u8
 http://znty.dyndns.org:5010/hls/eleven4.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
 http://znty.dyndns.org:5010/hls/eleven5.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europea",UFC 
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europea",FIFA+ 
@@ -4143,6 +4145,16 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2913.png" group-title="Europea",Liga de champions
 https://1nyaler.streamhostingcdn.top/stream/133/index.m3u8
 
+#EXTINF:0 group-title="United Kingdom" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD US
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinus.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD US
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinus2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD US
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinus3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3049" tvg-logo="http://epg.one/img/3049.png" tvg-rec="0",beIN Sports 4 HD US
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinus4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3050" tvg-logo="http://epg.one/img/3050.png" tvg-rec="0",beIN Sports 5 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinus5.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="2909" tvg-logo="http://epg.one/img/2909.png" tvg-rec="3",Sport TV 1 HD PT
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportv1.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="2910" tvg-logo="http://epg.one/img/2910.png" tvg-rec="3",Sport TV 2 HD PT
@@ -4161,6 +4173,8 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport2.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport3.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="3560" tvg-logo="http://epg.one/img/3560.png" tvg-rec="3",TNT Sports 4 HD UK
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tntsport4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="2889" tvg-logo="http://epg.one/img/2889.png" tvg-rec="3",TNT Sports FHD UK
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q3DW57VGFFQMKZ/2505/index.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports1 HD
@@ -4207,8 +4221,36 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysport%2B.m3
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportrc.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="4576" tvg-logo="http://epg.one/img/4576.png" tvg-rec="0",Sky Sports F1 HD  (UK)
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportf1.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="4578" tvg-logo="http://epg.one/img/4578.png" tvg-rec="0",Sky Sports Golf HD  (UK)
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/skysportg.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img/3553.png" tvg-rec="3",Premier Sports 1 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img/3553.png" tvg-rec="3",Premier Sports21 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="3553" tvg-logo="http://epg.one/img/3553.png" tvg-rec="3",Premier Sports 3 HD UK
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/premier3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportnet.png",Sports Net HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportnet.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sportnet.png",Sports Net 2 HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportnet2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4536" tvg-logo="http://epg.one/img/4536.png" tvg-rec="0",Sport Klub 1 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4537" tvg-logo="http://epg.one/img/4537.png" tvg-rec="0",Sport Klub 2 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub2.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4538" tvg-logo="http://epg.one/img/4538.png" tvg-rec="0",Sport Klub 3 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub3.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4539" tvg-logo="http://epg.one/img/4539.png" tvg-rec="0",Sport Klub 4 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub4.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4540" tvg-logo="http://epg.one/img/4540.png" tvg-rec="0",Sport Klub 5 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub5.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4541" tvg-logo="http://epg.one/img/4541.png" tvg-rec="0",Sport Klub 6 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub6.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4542" tvg-logo="http://epg.one/img/4542.png" tvg-rec="0",Sport Klub 7 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub7.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4543" tvg-logo="http://epg.one/img/4543.png" tvg-rec="0",Sport Klub 8 HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub8.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4544" tvg-logo="http://epg.one/img/4544.png" tvg-rec="0",Sport Klub Golf HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub9.m3u8
+#EXTINF:0 group-title="United Kingdom" tvg-id="4545" tvg-logo="http://epg.one/img/4545.png" tvg-rec="0",Sport Klub Fight HD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sportklub10.m3u8
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
