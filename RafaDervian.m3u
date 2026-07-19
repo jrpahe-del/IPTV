@@ -4048,6 +4048,16 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_(Oct_2024).png/revision/latest/scale-to-width-down/250?cb=20241121183458",Astro Football
+https://dropbox.com/scl/fi/9yejkhi75ujavsdlespvt/astro1.m3u8?rlkey=ych21bdk9exhck5rge2r342bs&st=tltee2mt&dl=1
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro Grandstard
+https://dropbox.com/scl/fi/fwlevicycanwf4bcq8at3/astro2.m3u8?rlkey=4skcqwti05tp92gqavq4z5pcu&st=t0c827jm&dl=1
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png/revision/latest?cb=20240923165535",Astro Premier Leagua
+https://dropbox.com/scl/fi/jjfwhgflj78kzgccuobeo/astro3.m3u8?rlkey=rwepzc92r8t9ypkq2yl87pw9s&st=yftab25i&dl=1
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png/revision/latest?cb=20240923165535",Astro Premier Leagua HD
+https://dropbox.com/scl/fi/55o5dixttzy4yjerlo7fc/astro4.m3u8?rlkey=9jh65arn16shxlg2rflvittbm&st=kbyp2tuv&dl=1
+#EXTINF:0 group-title="United Kingdom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Astro_Premier_%282D%29.png/revision/latest?cb=20240923165535",Astro Premier Leagua HD 2
+https://dropbox.com/scl/fi/j63yutbv4dxsq3d1w6csj/astro5.m3u8?rlkey=jldf222y853tmwbcwqeknx8t0&st=kipwnpcm&dl=1
 #EXTINF:0 group-title="United Kingdom" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD US
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinus.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD US
