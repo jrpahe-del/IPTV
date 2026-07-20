@@ -3799,13 +3799,11 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 2 NL
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr2.m3u8
-#EXTINF:0 group-title="Europea" tvg-id="3873" tvg-logo="http://epg.one/img/3873.png" tvg-rec="3",beIN Sports 1 HD FR
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europea",1Tv
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europea",1+1 International
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
-#EXTINF:-1 tvg-logo="https://tvrm-s3.fra1.cdn.digitaloceanspaces.com/superdesk/20240126140124/6d2bc4b4baa05b78a25c3638de32bb26de2534ae37080292ab360d85a0b219fb.jpg" group-title="Europea",TvR Moldova
+#EXTINF:-1 tvg-logo="http://epg.one/img/7824.png" group-title="Europea",TvR Moldova
 https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
 #EXTINF:0 group-title="Europea" tvg-logo="http://epg.one/img/3683.png",TVR 1 RO
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
@@ -4098,15 +4096,15 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport2.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsport3.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="6567" tvg-logo="http://epg.one/img/6567.png" tvg-rec="0",Fox Sports4 HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 1 HD CA
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img2/3663.png" tvg-rec="0",TSN 1 HD CA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn1.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 2 HD CA
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img2/3635.png" tvg-rec="0",TSN 2 HD CA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn2.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3663" tvg-logo="http://epg.one/img/3663.png" tvg-rec="0",TSN 3 HD CA
+#EXTINF:0 group-title="United Kingdom" tvg-id="3663" tvg-logo="http://epg.one/img2/3664.png" tvg-rec="0",TSN 3 HD CA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn3.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 4 HD CA
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img2/3588.png" tvg-rec="0",TSN 4 HD CA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn4.m3u8
-#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 5 HD CA
+#EXTINF:0 group-title="United Kingdom" tvg-id="3664" tvg-logo="http://epg.one/img2/88030.png" tvg-rec="0",TSN 5 HD CA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tsn5.m3u8
 #EXTINF:0 group-title="United Kingdom" tvg-id="6685" tvg-logo="http://epg.one/img/6685.png" tvg-rec="0",ESPN 1 HD NL
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/espn1.m3u8
