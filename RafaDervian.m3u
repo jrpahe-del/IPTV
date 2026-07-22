@@ -4230,9 +4230,9 @@ http://stream.mcquack.net/227/index.m3u8
 http://stream.mcquack.net/314/index.m3u8
 #EXTINF:0 group-title="TEST-1" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер HD UA+
 http://stream.mcquack.net/345/index.m3u8
-#EXTINF:0 group-title="TEST-1" tvg-id="146" tvg-logo="http://epg.one/img/146.png" tvg-rec="0",Первый канал UHD
+#EXTINF:0 group-title="TEST-1" tvg-id="9126" tvg-logo="http://epg.one/img/2104.png" tvg-rec="0",Новий Канал HD UA
 http://stream.mcquack.net/157/index.m3u8
-#EXTINF:0 group-title="TEST-1" tvg-id="2924" tvg-logo="http://epg.one/img/2924.png" tvg-rec="3",TV 2 Sport 2 HD NO
+#EXTINF:0 group-title="TEST-1" tvg-logo="http://epg.one/img/7843.png" tvg-rec="0",ICTV 2 HD UA
 http://stream.mcquack.net/368/index.m3u8
 #EXTINF:0 group-title="TEST-1" tvg-id="3309" tvg-logo="http://epg.one/img/3309.png" tvg-rec="3",СТБ UA
 http://stream.mcquack.net/156/index.m3u8
@@ -4278,473 +4278,473 @@ http://stream.mcquack.net/160/index.m3u8
 http://stream.mcquack.net/442/index.m3u8
 #EXTINF:0 group-title="TEST-1" tvg-id="2205" tvg-logo="http://epg.one/img/2205.png" tvg-rec="3",Eco TV HD UA
 http://stream.mcquack.net/222/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Армія TV
+#EXTINF:0 group-title="TEST-1" tvg-id="8886" tvg-logo="http://epg.one/img/8886.png" tvg-rec="0",Армія TV HD UA
 http://stream.mcquack.net/468/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Інтер
+#EXTINF:0 group-title="TEST-1" tvg-id="2106" tvg-logo="http://epg.one/img/2106.png" tvg-rec="3",Інтер HD UA
 http://stream.mcquack.net/174/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",К2
+#EXTINF:0 group-title="TEST-1" tvg-id="2099" tvg-logo="http://epg.one/img/2099.png" tvg-rec="3",К2 UA
 http://stream.mcquack.net/324/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Суспільне Київ
+#EXTINF:0 group-title="TEST-1" tvg-id="8867" tvg-logo="http://epg.one/img/8867.png" tvg-rec="0",Суспільне Київ HD UA
 http://stream.mcquack.net/439/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Суспільне Крим
+#EXTINF:0 group-title="TEST-1" tvg-id="2148" tvg-logo="http://epg.one/img/2148.png" tvg-rec="0",Суспільне Крим FHD UA
 http://stream.mcquack.net/436/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Суспільне Перший
+#EXTINF:0 group-title="TEST-1" tvg-id="8872" tvg-logo="http://epg.one/img/8872.png" tvg-rec="0",Суспільне Спорт HD UA
 http://stream.mcquack.net/437/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Zoom
+#EXTINF:0 group-title="TEST-1" tvg-id="2201" tvg-logo="http://epg.one/img/2201.png" tvg-rec="3",Zoom UA
 http://stream.mcquack.net/327/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Перший Західний
+#EXTINF:0 group-title="TEST-1" tvg-id="8874" tvg-logo="http://epg.one/img/8874.png" tvg-rec="0",Перший Західний HD UA
 http://stream.mcquack.net/246/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 11 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="4296" tvg-logo="http://epg.one/img/4296.png" tvg-rec="0",Channel 1 HD IL)
 http://stream.mcquack.net/293/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 12 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="9049" tvg-logo="http://epg.one/img/9049.png" tvg-rec="0",Channel 2 HD IL)
 http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 13 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="4296" tvg-logo="http://epg.one/img/4296.png" tvg-rec="0",Channel 3 13 (Израиль)
 http://stream.mcquack.net/295/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 14 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="4296" tvg-logo="http://epg.one/img/4296.png" tvg-rec="0",Channel 14 FHD IL)
 http://stream.mcquack.net/454/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Zoom (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="2690" tvg-logo="http://epg.one/img/2690.png" tvg-rec="3",Zoom (Израиль)
 http://stream.mcquack.net/377/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",KAN23 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="2673" tvg-logo="http://epg.one/img/2673.png" tvg-rec="3",Kan 23 (Израиль)
 http://stream.mcquack.net/378/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",HOT Zone (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="2691" tvg-logo="http://epg.one/img/2691.png" tvg-rec="3",HOT Zone HD IL
 http://stream.mcquack.net/379/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",HOT HBO (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="2685" tvg-logo="http://epg.one/img/2685.png" tvg-rec="3",HOT HBO HD IL (Израиль)
 http://stream.mcquack.net/381/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",5Sport (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="2682" tvg-logo="http://epg.one/img/2682.png" tvg-rec="3",5Sport (Израиль)
 http://stream.mcquack.net/41/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Channel 24 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="9049" tvg-logo="http://epg.one/img/9049.png" tvg-rec="0",Channel 24 HD IL
 http://stream.mcquack.net/42/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",VIVA Premium (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="9055" tvg-logo="http://epg.one/img/9055.png" tvg-rec="0",Viva Premium HD IL
 http://stream.mcquack.net/43/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",i24 (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="2717" tvg-logo="http://epg.one/img/2717.png" tvg-rec="3",i24 News IL
 http://stream.mcquack.net/45/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Yam Tichoni (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="4011" tvg-logo="http://epg.one/img/4011.png" tvg-rec="3",Yam Tichoni IL
 http://stream.mcquack.net/46/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Knesset Channel (Израиль)
+#EXTINF:0 group-title="TEST-1" tvg-id="4306" tvg-logo="http://epg.one/img/4306.png" tvg-rec="0",Knesset Channel IL
 http://stream.mcquack.net/48/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",7 канал (Казахстан)
+#EXTINF:0 group-title="TEST-1" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",канал (Казахстан)
 http://stream.mcquack.net/27/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",31 Канал (Казахстан)
+#EXTINF:0 group-title="TEST-1" tvg-id="427" tvg-logo="http://epg.one/img/427.png" tvg-rec="0",Канал (Казахстан)
 http://stream.mcquack.net/388/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Qazaqstan (Казахстан)
+#EXTINF:0 group-title="TEST-1" tvg-id="2569" tvg-logo="http://epg.one/img/2569.png" tvg-rec="3",Qazaqstan KZ
 http://stream.mcquack.net/71/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Астана ТВ (Казахстан)
+#EXTINF:0 group-title="TEST-1" tvg-id="7093" tvg-logo="http://epg.one/img/7093.png" tvg-rec="3",Астана ТВ (Казахстан)
 http://stream.mcquack.net/28/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",КТК (Казахстан)
+#EXTINF:0 group-title="TEST-1" tvg-id="2570" tvg-logo="http://epg.one/img/2570.png" tvg-rec="3",КТК HD KZ
 http://stream.mcquack.net/26/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",НТК (Казахстан)
+#EXTINF:0 group-title="TEST-1" tvg-id="2640" tvg-logo="http://epg.one/img/2640.png" tvg-rec="3",НТК KZ
 http://stream.mcquack.net/389/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Armenia 1 TV (Армения)
+#EXTINF:0 group-title="TEST-1" tvg-id="2064" tvg-logo="http://epg.one/img/2064.png" tvg-rec="3",Armenia TV HD AM
 http://stream.mcquack.net/38/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Armenia TV (Армения)
+#EXTINF:0 group-title="TEST-1" tvg-id="2064" tvg-logo="http://epg.one/img/2064.png" tvg-rec="3",Armenia TV HD AM
 http://stream.mcquack.net/175/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Shant (Армения)
+#EXTINF:0 group-title="TEST-1" tvg-id="3486" tvg-logo="http://epg.one/img/3486.png" tvg-rec="0",Shant (Армения)
 http://stream.mcquack.net/37/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ATV (Армения)
+#EXTINF:0 group-title="TEST-1" tvg-id="2559" tvg-logo="http://epg.one/img/2559.png" tvg-rec="3",ATV AZ
 http://stream.mcquack.net/36/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kentron (Армения)
+#EXTINF:0 group-title="TEST-1" tvg-id="5917" tvg-logo="http://epg.one/img/5917.png" tvg-rec="0",Kentron HD AM
 http://stream.mcquack.net/39/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Armenia Premium 1
+#EXTINF:0 group-title="TEST-1" tvg-id="2384" tvg-logo="http://epg.one/img/2384.png" tvg-rec="3",Armenia Premium HD AM
 http://stream.mcquack.net/123/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",LTV1 (Латвия)
+#EXTINF:0 group-title="TEST-1" tvg-id="3276" tvg-logo="http://epg.one/img/3276.png" tvg-rec="0",LTV1 LV
 http://stream.mcquack.net/34/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",LNK (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3370" tvg-logo="http://epg.one/img/3370.png" tvg-rec="3",LNK LT
 http://stream.mcquack.net/30/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",BTV (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3268" tvg-logo="http://epg.one/img/3268.png" tvg-rec="3",BTV LT
 http://stream.mcquack.net/35/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",LRT (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3279" tvg-logo="http://epg.one/img/3279.png" tvg-rec="3",LRT TV LT
 http://stream.mcquack.net/31/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",LRT Plius (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3284" tvg-logo="http://epg.one/img/3284.png" tvg-rec="3",LRT Plius LT
 http://stream.mcquack.net/353/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV8 (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3278" tvg-logo="http://epg.one/img/3278.png" tvg-rec="0",TV8 HD LT
 http://stream.mcquack.net/374/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV3 (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="4238" tvg-logo="http://epg.one/img/4238.png" tvg-rec="3",TV3 HD EE
 http://stream.mcquack.net/29/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Balticum (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3364" tvg-logo="http://epg.one/img/3364.png" tvg-rec="3",Balticum LT
 http://stream.mcquack.net/376/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV6 (Литва)
+#EXTINF:0 group-title="TEST-1" tvg-id="3274" tvg-logo="http://epg.one/img/3274.png" tvg-rec="3",TV6 LT
 http://stream.mcquack.net/375/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",One TV (Молдова)
+#EXTINF:0 group-title="TEST-1" tvg-id="2844" tvg-logo="http://epg.one/img/2844.png" tvg-rec="3",One TV MD
 http://stream.mcquack.net/335/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Jurnal TV (Молдова)
+#EXTINF:-1 group-title="TEST-1" tvg-id="2843" tvg-logo="http://epg.one/img/2843.png" tvg-rec="3",Jurnal TV MD
 http://stream.mcquack.net/277/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Discovery
+#EXTINF:-1 group-title="TEST-1" tvg-id="3078" tvg-logo="http://epg.one/img/3078.png" tvg-rec="3",Discovery Channel HD PL
 http://stream.mcquack.net/177/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Investigation Discovery
+#EXTINF:-1 group-title="TEST-1" tvg-id="3699" tvg-logo="http://epg.one/img/3699.png" tvg-rec="3",Investigation Discovery RO
 http://stream.mcquack.net/205/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",National Geographic
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3760.png" tvg-rec="3",National Geographic HD RO
 http://stream.mcquack.net/116/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TLC
+#EXTINF:-1 group-title="TEST-1" tvg-id="2345" tvg-logo="http://epg.one/img/2345.png" tvg-rec="3",TLC HD
 http://stream.mcquack.net/168/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Animal Planet
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/365.png" tvg-rec="3",Animal Planet TR
 http://stream.mcquack.net/114/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",RAZ 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://raztv.net/wp-content/uploads/2021/04/RAZ-TV-Logo-Menu-4.png" tvg-rec="3",RAZ 1
 http://stream.mcquack.net/463/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",RAZ 2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://raztv.net/wp-content/uploads/2021/04/RAZ-TV-Logo-Menu-4.png" tvg-rec="3",RAZ 2
 http://stream.mcquack.net/464/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Світ+
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/%D0%A1%D0%B2%D1%96%D1%82%2B_%28HD_Logo%29.png",Світ+
 http://stream.mcquack.net/358/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ЗооСвіт
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/367.png" tvg-rec="3",Зоопарк HD
 http://stream.mcquack.net/460/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Глазами Туриста
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2508.png" tvg-rec="3",Глазами Туриста HD
 http://stream.mcquack.net/304/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Живи Активно
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/5881.png" tvg-rec="0",Живи Активно HD
 http://stream.mcquack.net/132/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Наука 2.0
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD
 http://stream.mcquack.net/125/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Культура
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8869.png" tvg-rec="0",Культура
 http://stream.mcquack.net/229/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",В мире животных
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2498.png" tvg-rec="3",В мире животных HD
 http://stream.mcquack.net/241/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мама
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/618.png" tvg-rec="7",Мама
 http://stream.mcquack.net/79/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Доктор
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/16.png" tvg-rec="7",Доктор
 http://stream.mcquack.net/80/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Da Vinci
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3912.png" tvg-rec="3",Da Vinci HD TR
 http://stream.mcquack.net/238/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju Explore
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/521.png" tvg-rec="7",Viju Explore
 http://stream.mcquack.net/239/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Planet
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2012.png" tvg-rec="3",Viju+ Planet HD
 http://stream.mcquack.net/240/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju History
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/277.png" tvg-rec="3",Viju History HD orig
 http://stream.mcquack.net/101/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Quiz TV
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://images.immediate.co.uk/production/volatile/sites/3/2020/05/big-tv-quiz-aeb23c6.jpg?quality=90&webp=true&resize=620,414",Quiz TV
 http://stream.mcquack.net/397/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Соль ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2420.png" tvg-rec="3",Соль ТВ
 http://stream.mcquack.net/398/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Чемодан ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2420.png",timeshift="7",Чемодан ТВ
 http://stream.mcquack.net/399/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Фауна
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8853.png" tvg-rec="0",Фауна UA
 http://stream.mcquack.net/401/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Терра
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/5950.png" tvg-rec="0",Терра UA
 http://stream.mcquack.net/402/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Наука
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/723.png" tvg-rec="3",Наука HD
 http://stream.mcquack.net/403/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Перший Автомобільний
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4585.png" tvg-rec="0",Перший Автомобільний HD UA
 http://stream.mcquack.net/404/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Фронт
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://kontinent-tv.com.ua/wp-content/uploads/2023/02/logo_front_tv.png",Фронт
 http://stream.mcquack.net/489/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Моя планета
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/675.png" tvg-rec="3",Моя Планета orig
 http://stream.mcquack.net/124/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",RTG
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2280.png" tvg-rec="7",RTG TV
 http://stream.mcquack.net/164/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Travel channel
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/613.png" tvg-rec="3",Travel Channel HD orig
 http://stream.mcquack.net/231/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Travel+Adventure
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1035.png" tvg-rec="3",Travel+Adventure orig
 http://stream.mcquack.net/206/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Охота и рыбалка
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2419.png" tvg-rec="7",Охота и рыбалка
 http://stream.mcquack.net/155/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Охотник и рыболов
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1681.png" tvg-rec="3",Охотник и Рыболов HD orig
 http://stream.mcquack.net/194/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Диалоги о рыбалке
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2627.png" tvg-rec="3",Диалоги о рыбалке HD
 http://stream.mcquack.net/264/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дикая Охота
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2483.png" tvg-rec="7",Дикая охота HD
 http://stream.mcquack.net/274/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дикая Рыбалка
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/6124.png" tvg-rec="0",VF Рыбалка
 http://stream.mcquack.net/275/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Explorers
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/9082.png" tvg-rec="0",The Explorers HD
 http://stream.mcquack.net/450/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Travel XP
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/9154.png" tvg-rec="0",TravelXP 4K
 http://stream.mcquack.net/451/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",OstWest24
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/7670.png" tvg-rec="0",OstWest DE
 http://stream.mcquack.net/455/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Continent E
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPbMNTz6aw6Ny8W7htsRibE8nJ1DgWRJ4BwnQl5Zci303ySvCRPfsrdg-1&s=10",Continent E
 http://stream.mcquack.net/449/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",One Planet
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/7623.png" tvg-rec="0",One Planet
 http://stream.mcquack.net/448/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Усадьба
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/434.png" tvg-rec="7",Усадьба
 http://stream.mcquack.net/211/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Живая природа
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD orig
 http://stream.mcquack.net/225/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Живая планета
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2495.png" tvg-rec="3",Живая природа HD
 http://stream.mcquack.net/83/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Кухня ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/614.png" tvg-rec="7",Кухня
 http://stream.mcquack.net/179/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Food Time
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/7635.png" tvg-rec="0",FoodTime HD 50
 http://stream.mcquack.net/216/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Food Network
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2708.png" tvg-rec="3",Food Network IL
 http://stream.mcquack.net/298/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Авто24
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2008.png" tvg-rec="0",Авто 24 HD
 http://stream.mcquack.net/78/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Моя стихия
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2028.png" tvg-rec="3",Моя Стихия
 http://stream.mcquack.net/141/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Точка
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2457.png" tvg-rec="3",Точка ТВ
 http://stream.mcquack.net/161/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Insight TV
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://cdn.aptoide.com/imgs/3/c/6/3c6f4e320451d7283f6e26447f97e48a_icon.png",Insight TV
 http://stream.mcquack.net/361/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мега
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2098.png" tvg-rec="3",Мега UA
 http://stream.mcquack.net/325/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Закон
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2463.png" tvg-rec="3",Закон
 http://stream.mcquack.net/406/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Масон
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/9232.png" tvg-rec="0",Масон
 http://stream.mcquack.net/346/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Трофей
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4103.png" tvg-rec="3",Трофей UA
 http://stream.mcquack.net/357/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Нано ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2521.png" tvg-rec="3",Нано ТВ HD orig
 http://stream.mcquack.net/419/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Кинокомедия
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/821.png" tvg-rec="7",Кинокомедия
 http://stream.mcquack.net/265/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Киносемья
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/987.png" tvg-rec="3",Киносемья HD orig
 http://stream.mcquack.net/170/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Киносвидание
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/462.png" tvg-rec="3",Киносвидание orig
 http://stream.mcquack.net/171/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Кинохит
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/542.png" tvg-rec="0",Кинохит HD
 http://stream.mcquack.net/126/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Киномикс
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/644.png" tvg-rec="7",Киномикс
 http://stream.mcquack.net/133/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Родное кино
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/12.png" tvg-rec="3",Родное Кино orig
 http://stream.mcquack.net/242/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Индийское кино
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/798.png" tvg-rec="3",Индийское Кино orig
 http://stream.mcquack.net/104/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мужское кино
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1584.png" tvg-rec="3",Мужское Кино HD orig
 http://stream.mcquack.net/107/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Киноужас
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2493.png" tvg-rec="3",Киноужас HD
 http://stream.mcquack.net/278/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju TV 1000
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/267.png" tvg-rec="7",Viju TV1000 Русское
 http://stream.mcquack.net/110/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju TV 1000 Action
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/125.png" tvg-rec="7",Viju TV1000 Action
 http://stream.mcquack.net/100/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Premiere
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1013.png" tvg-rec="7",Viju+ Premiere HD
 http://stream.mcquack.net/202/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Megahit
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1012.png" tvg-rec="3",Viju+ Megahit HD orig
 http://stream.mcquack.net/200/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Comedy
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1011.png" tvg-rec="7",Viju+ Comedy HD
 http://stream.mcquack.net/201/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Serial
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2838.png" tvg-rec="3",Viju+ Serial HD orig
 http://stream.mcquack.net/311/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Комедийное
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/138.png" tvg-rec="7",Комедийное HD
 http://stream.mcquack.net/74/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Amedia Premium
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1372.png" tvg-rec="7",Amedia Premium HD
 http://stream.mcquack.net/151/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Amedia 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1371.png" tvg-rec="7",Amedia 1
 http://stream.mcquack.net/117/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Amedia Hit
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2007.png" tvg-rec="7",Amedia Hit
 http://stream.mcquack.net/162/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Роман
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2772.png" tvg-rec="3",Романтичное HD
 http://stream.mcquack.net/266/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Бестселлер
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://www.cableman.ru/sites/default/files/logo_rb_1.png",Бестселлер
 http://stream.mcquack.net/208/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Детектив
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/5209.png" tvg-rec="0",MM USSR Детектив HD
 http://stream.mcquack.net/204/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Комедия
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1620.png" tvg-rec="7",Комедия
 http://stream.mcquack.net/68/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",KinoKazka
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/9092.png" tvg-rec="0",KinoKazka
 http://stream.mcquack.net/167/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",black
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/935.png" tvg-rec="0",.black HD
 http://stream.mcquack.net/263/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Время
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/669.png" tvg-rec="7",Время
 http://stream.mcquack.net/237/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",red
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3136.png" tvg-rec="0",Red TV Anal
 http://stream.mcquack.net/69/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",sci-fi
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/516.png" tvg-rec="0",.sci-fi HD
 http://stream.mcquack.net/180/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Наше
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2018.png" tvg-rec="3",Наше HD
 http://stream.mcquack.net/217/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Душевное
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2019.png" tvg-rec="7",Душевное HD
 http://stream.mcquack.net/213/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",КиноТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1037.png" tvg-rec="3",Кино ТВ HD
 http://stream.mcquack.net/221/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Кинопоказ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2834.png" tvg-rec="3",Кинопоказ HD
 http://stream.mcquack.net/64/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",НСТ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/518.png" tvg-rec="7",НСТ
 http://stream.mcquack.net/207/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Еврокино
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/352.png" tvg-rec="3",Еврокино HD orig
 http://stream.mcquack.net/385/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Fox
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/6683.png" tvg-rec="0",Fox News FHD US
 http://stream.mcquack.net/182/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Fox Life
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/6566.png" tvg-rec="0",Fox Life
 http://stream.mcquack.net/129/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ТВ XXI
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2277.png" tvg-rec="0",РУ.ТВ HD
 http://stream.mcquack.net/152/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дом Кино
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/834.png" tvg-rec="7",Дом Кино
 http://stream.mcquack.net/236/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дом Кино Премиум
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2020.png" tvg-rec="7",Дом Кино Премиум HD
 http://stream.mcquack.net/108/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Hollywood
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/934.png" tvg-rec="7",Hollywood HD
 http://stream.mcquack.net/268/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",24Техно
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2762.png" tvg-rec="3",Т24 orig
 http://stream.mcquack.net/209/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kino 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8919.png" tvg-rec="0",Kino
 http://stream.mcquack.net/395/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kino 2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8919.png" tvg-rec="0",Kino 2
 http://stream.mcquack.net/465/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Твій Серіал
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2217.png" tvg-rec="0",Уніaн Серіал UA
 http://stream.mcquack.net/466/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Шокирующее
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2309.png" tvg-rec="3",Шокирующее HD
 http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Хит
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2833.png" tvg-rec="3",Хит HD orig
 http://stream.mcquack.net/363/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Enter-фільм
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/5611.png" tvg-rec="0",Enter-фільм HD UA
 http://stream.mcquack.net/322/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",BCU
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8769.png" tvg-rec="0",BCU Russia 90s HD
 http://stream.mcquack.net/488/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/17022.png" tvg-rec="0",Мосфильм. Золотая коллекция +4 HD
 http://stream.mcquack.net/369/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Премиальное
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2732.png" tvg-rec="3",Премиальное FHD
 http://stream.mcquack.net/421/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Ретро
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2402.png" tvg-rec="7",Ретро
 http://stream.mcquack.net/191/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Fan
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2359.png" tvg-rec="3",FAN orig
 http://stream.mcquack.net/420/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinoliving
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/9123.png" tvg-rec="0",KinoLiving
 http://stream.mcquack.net/445/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinowood
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8921.png" tvg-rec="0",Kinowood HD
 http://stream.mcquack.net/446/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Kinosweet
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8920.png" tvg-rec="0",Kinosweet HD UA
 http://stream.mcquack.net/447/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Наше любимое кино
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/485.png" tvg-rec="3",Наше Новое Кино orig
 http://stream.mcquack.net/456/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Дорама
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2174.png" tvg-rec="3",Дорама orig
 http://stream.mcquack.net/412/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD
 http://stream.mcquack.net/176/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Eurosport 2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD
 http://stream.mcquack.net/192/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Футбол 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2044.png" tvg-rec="7",Матч! Футбол 1 HD
 http://stream.mcquack.net/130/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Футбол 2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1042.png" tvg-rec="7",Матч! Футбол 2
 http://stream.mcquack.net/142/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Футбол 3
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2005.png" tvg-rec="7",Матч! Футбол 3
 http://stream.mcquack.net/185/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Игра
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2050.png" tvg-rec="7",Матч! Игра
 http://stream.mcquack.net/188/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! СТРАНА
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2042.png" tvg-rec="7",Матч! Страна
 http://stream.mcquack.net/143/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Арена
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2003.png" tvg-rec="7",Матч! Арена
 http://stream.mcquack.net/163/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2051.png" tvg-rec="7",Матч ТВ
 http://stream.mcquack.net/169/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч! Боец
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2054.png" tvg-rec="7",Матч! Боец
 http://stream.mcquack.net/112/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Матч Премьер
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2250.png" tvg-rec="3",Матч! Премьер orig
 http://stream.mcquack.net/193/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/7238.png" tvg-rec="0",Setanta Sports 1 FHD GE
 http://stream.mcquack.net/234/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports 2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/6805.png" tvg-rec="3",Setanta Sports 2 HD GE
 http://stream.mcquack.net/235/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports UA
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2370.png" tvg-rec="0",Setanta Sports UA
 http://stream.mcquack.net/313/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Setanta Sports+
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/6860.png" tvg-rec="0",Setanta Sports+ UA
 http://stream.mcquack.net/390/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 1 Baltic
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 
 http://stream.mcquack.net/461/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 1
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3317.png" tvg-rec="3",Sport 1 UA
 http://stream.mcquack.net/391/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 2 UA
 http://stream.mcquack.net/392/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 3
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 3 UA
 http://stream.mcquack.net/393/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 4
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 4 UA
 http://stream.mcquack.net/394/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Sport 5
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3318.png" tvg-rec="3",Sport 5 UA
 http://stream.mcquack.net/212/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Dynamo Kyiv TV
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://i.imgur.com/ymxmyyG.png",Dynamo Kyiv TV
 http://stream.mcquack.net/396/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Trace Sports
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",Trace Sports
 http://stream.mcquack.net/256/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Суспільне Спорт
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9a/Suspilne_Sport_(2024,_Pride,_OSB).svg/revision/latest/scale-to-width-down/250?cb=20240627193532",Суспільне Спорт
 http://stream.mcquack.net/444/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",DiVi Sport
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8909.png" tvg-rec="0",Divi Sport HD UA
 http://stream.mcquack.net/457/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Maincast кіберспорт
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzu9cJuZbzOO6JCv-AAXr-2tnk_iDCu_GafWKJCs0Hp4pO9IlmJ3kri2ed&s=10",Maincast кіберспорт
 http://stream.mcquack.net/487/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Maincast sport
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://sportbusiness.media/wp-content/uploads/2025/07/znimok-ekrana-2025-07-08-o-13.55.56.jpg",Maincast sport
 http://stream.mcquack.net/490/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",KHL ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2048.png" tvg-rec="3",KHL orig
 http://stream.mcquack.net/166/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",KHL Prime
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1038.png" tvg-rec="0",KHL Prime HD 50
 http://stream.mcquack.net/178/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Viju+ Sport
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2055.png" tvg-rec="7",Viju+ Sport HD
 http://stream.mcquack.net/333/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TV3 Sport LT
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4910.png" tvg-rec="0",TV3 Sport SE
 http://stream.mcquack.net/416/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Бокс ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2285.png" tvg-rec="7",Бокс ТВ
 http://stream.mcquack.net/154/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Беларусь 5
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2541.png" tvg-rec="3",Беларусь 5 HD BY
 http://stream.mcquack.net/33/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Extreme Sports
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2053.png" tvg-rec="0",Extreme Sports HD
 http://stream.mcquack.net/148/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",UDAR
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://filmuz.org/uploads/posts/2026-07/img_8362.webp",UDAR
 http://stream.mcquack.net/279/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Qazsport
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/7509.png" tvg-rec="0",QazSport HD KZ
 http://stream.mcquack.net/72/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Equalympic
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8910.png" tvg-rec="0",Equalympic HD UA
 http://stream.mcquack.net/485/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Nickelodeon
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4857.png" tvg-rec="0",Nickelodeon
 http://stream.mcquack.net/443/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Nick Jr
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/917.png" tvg-rec="7",Nick Jr.
 http://stream.mcquack.net/220/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Солнце
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/7669.png" tvg-rec="3",Солнце
 http://stream.mcquack.net/118/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",TiJi
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/555.png" tvg-rec="7",Tiji TV
 http://stream.mcquack.net/111/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мульт
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/1332.png" tvg-rec="7",Мульт
 http://stream.mcquack.net/232/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Мульт и музыка
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/284.png" tvg-rec="7",Мультимузыка
 http://stream.mcquack.net/82/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",JimJam
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3703.png" tvg-rec="3",JimJam RO
 http://stream.mcquack.net/150/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Канал О!
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал UA
 http://stream.mcquack.net/60/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Капитан Фантастика
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2438.png" tvg-rec="3",Капитан Фантастика HD
 http://stream.mcquack.net/144/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Карусель
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/740.png" tvg-rec="3",Карусель orig
 http://stream.mcquack.net/120/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",СТС Kids
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2481.png" tvg-rec="7",СТС Kids HD
 http://stream.mcquack.net/197/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Gulli Girl
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/810.png" tvg-rec="7",Gulli Girl
 http://stream.mcquack.net/305/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Ani
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2011.png" tvg-rec="7",Ani
 http://stream.mcquack.net/306/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Піксель
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://static.wikia.nocookie.net/iepfanon/images/4/43/Pixel_TV_logo.png/revision/latest?cb=20230709150514",Піксель
 http://stream.mcquack.net/323/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Stingray CMusic
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8152.png" tvg-rec="0",Stingray Classica HD DE
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",1
+#EXTINF:-1 group-title="TEST-1" tvg-id="2560" tvg-logo="http://epg.one/img/2560.png" tvg-rec="3",1TV GE
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",2
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3287.png" tvg-rec="3",2TV LT
 http://stream.mcquack.net/330/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Bridge deluxe
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2022.png" tvg-rec="7",Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Bridge classic
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4373.png" tvg-rec="3",Bridge Classic orig
 http://stream.mcquack.net/272/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Bridge
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4373.png" tvg-rec="3",Bridge Classic 2 orig
 http://stream.mcquack.net/318/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Bridge хит
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/4621.png" tvg-rec="0",Bridge Шлягер
 http://stream.mcquack.net/320/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Europa Plus TV
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/681.png" tvg-rec="0",Europa Plus TV HD
 http://stream.mcquack.net/184/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Inrating
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/6011.png" tvg-rec="0",InRating TV HD UA
 http://stream.mcquack.net/147/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Музыка Первого
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/715.png" tvg-rec="7",Музыка Первого
 http://stream.mcquack.net/153/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Муз ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/897.png" tvg-rec="7",МУЗ-ТВ
 http://stream.mcquack.net/86/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Жара
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/165.png" tvg-rec="3",Жара HD
 http://stream.mcquack.net/386/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",RU TV
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2276.png" tvg-rec="3",MCM Top Russia orig
 http://stream.mcquack.net/109/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Mezzo Live
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/801.png" tvg-rec="7",Mezzo Live HD
 http://stream.mcquack.net/276/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Ля-минор ТВ
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3039.png" tvg-rec="0",ТВ Центр +8
 http://stream.mcquack.net/303/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",ТНТ music
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/353.png" tvg-rec="0",ТНТ HD music
 http://stream.mcquack.net/317/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",BBC News UK
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/828.png" tvg-rec="3",BBC World News UK
 http://stream.mcquack.net/85/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Настоящее время
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2142.png" tvg-rec="3",Настоящее время
 http://stream.mcquack.net/384/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Deutsche Welle
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8045.png" tvg-rec="0",Deutsches Musik Fernsehen HD DE
 http://stream.mcquack.net/440/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Прямий
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2212.png" tvg-rec="3",Прямий HD UA
 http://stream.mcquack.net/292/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Рада
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2118.png" tvg-rec="0",Рада HD UA
 http://stream.mcquack.net/382/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",5 Канал
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2079.png" tvg-rec="3",5 Канал UA
 http://stream.mcquack.net/291/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",Еспресо
+#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2096.png" tvg-rec="3",Еспресо UA
 http://stream.mcquack.net/84/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-rec="7" timeshift="7",FreeДОМ
+#EXTINF:0 group-title="TEST-1" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="3",Русский бестселлер orig
 http://stream.mcquack.net/63/index.m3u8
 
 
