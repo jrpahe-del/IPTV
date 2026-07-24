@@ -2287,7 +2287,7 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 #<========== China ============================================================================================>
 
 
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV1.png",CCTV Opera
+#EXTINF:-1 group-title="China" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ed/CCTV-%E6%88%8F%E6%9B%B2_2020.png/revision/latest/scale-to-width-down/2576?cb=20250809042957&path-prefix=vi",CCTV Opera
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cctv-opera.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
