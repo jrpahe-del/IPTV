@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup1
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup2
-http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",EFENT 2026 FIFA World Cup3
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 1
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa2.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa1.m3u8
 #EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 2
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa2.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 3
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa3.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 4
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa4.m3u8
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 5
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa5.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -818,7 +818,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #KODIPROP:inputstream.adaptive.license_key=3dd653fc7aa1e3075b7f0233620df68f:8573791fa55bff03a3094ff559fc1407
 #EXTINF:-1 tvg-id="SPOTVNOW.mana2" tvg-logo="https://activate.unifi.com.my/authsv/images/logo/spotv.png" group-title="Indo Sports",Spotv Now
 #https://slive.mana2.my/SpotvNow/index.mpd
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=894978&extension=ts&play_token=oCWGHo9F0c
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/spotvnow.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
