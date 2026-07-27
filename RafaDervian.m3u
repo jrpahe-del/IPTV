@@ -33,11 +33,11 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/f12.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros1.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",Motor Cross 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros2.m3u8
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Liga Champions3
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",UCL Champions3
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk2.m3u8
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Liga Champions4
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",UCL Champions4
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk4.m3u8
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",Liga Champions5
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",UCL Champions5
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk5.m3u8
 
 
@@ -275,6 +275,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/in
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 http://khano.nng.cloudns.us/live/m3u8/id/1de333734b1b7e0.m3u8
 
+#EXTINF:-1 tvg-id="Jowo Channel"tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ntv.png" group-title="Indonesia",Nusantara TV
+#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
 #EXTINF:-1tvg-id="Dhoho Channel"tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dhoho5.png" group-title="Indonesia",Dhoho TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
@@ -296,10 +300,14 @@ https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mediampd/JAKTV.mpd
 #EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hanacaraka.png" group-title="Indonesia",HANACARAKA TV
 https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
  
+#EXTINF:-1 tvg-id="TV9Nusantara.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv9.png" group-title="Indonesia",TV9 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TVRI" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="Indonesia",TVRI DKI
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="Indonesia",TVRI Nasional
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
+https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
 #EXTINF:-1 tvg-id="TVRI World" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="Indonesia",TVRI World
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tvriwo.m3u8
 
@@ -871,19 +879,19 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=16
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 
-#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",Champions 1
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",UCL Champions 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion1.m3u8
-#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",Champions 2
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",UCL Champions 2
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion2.m3u8
-#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",Champions 3
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",UCL Champions 3
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion3.m3u8
-#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",Champions 4
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",UCL Champions 4
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion4.m3u8
-#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",Champion 5
+#EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",UCL Champion 5
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion5.m3u8
 
@@ -2307,9 +2315,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ShenzenTV/mediampd/ShenzenTV.mpd
 
 #EXTINF:-1 tvg-id="TVBS News" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvbs.png",TVBS 2
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=382799&extension=ts
-
-#EXTINF:-1 group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/CCTV1.png",CCTV Opera
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cctv-opera.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
