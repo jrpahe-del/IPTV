@@ -4439,6 +4439,66 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports2.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-id="2944" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" tvg-rec="3",S-Sport 3 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2923" tvg-logo="https://xml-epgservice.cdnvideo.ru/EPGService/hs/xmldata/852f4b92-cae5-463e-aad6-cd8844c5a49/logo/8354.png", CineMan Фитнес
+https://11.hls.gd/ch2923/mono.m3u8?token=conklave.v2_DumaPm9_s7yOAQgs3XhGR744TqbvT8X5fqLBfKZIVOllWTuwj9nuMUEaa-eS0x1tOkpykZ9KirJmyg
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV Legendary Matches HD
+https://11.hls.gd/ch2036/mono.m3u8?token=conklave.v2_g30rPPgbkO0VJ8I0PZdTE30LMRiKZXqbX4O66vBzPus8dXN3b3hKt86kDWZ-InmqUmcyeyco9NikEQ
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV Gol Classics HD
+https://11.hls.gd/ch1618/mono.m3u8?token=conklave.v2_5MQqxJXttXtesSDNv0X9FLguZnAm1tYPkBVNq6rpC_jJcWkHb8K4w0lXZBCNwsz3dHwc7q_hSwbiQA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 1984
+https://11.hls.gd/ch3155/mono.m3u8?token=conklave.v2_WJ1Zjx1V0iM-18rOnlMszlSjOvP1iH8M0aFpWx1tjUSyjrmlgCBfY9mMy6ZsSXKYI6aTdkYYVj-NYw
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 1988
+https://11.hls.gd/ch3156/mono.m3u8?token=conklave.v2_oLW1YxAbQRZbNJYbCU_eq9YQR700WWG1_lc3wFjFFhklIhXJJUdIW6534Zptk-Hg-bLmi2kY0kK1Og
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 1992
+https://11.hls.gd/ch1088/mono.m3u8?token=conklave.v2_Y06f282bky4EzAWiqKL-68_w9pR6e6HREDcMtI0dnCUHynXLC3HQldt8UdaTevKJhzxHQvFD7SpMmA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 1996
+https://11.hls.gd/ch3426/mono.m3u8?token=conklave.v2_nH8VGnQkEdvKyPOVC1PjRdGqf07s8hpLpjKkZQi1_VHFsPvDhomO1i9p-nfLJlgDhuoCV586fwdOuQ
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2000
+https://11.hls.gd/ch3337/mono.m3u8?token=conklave.v2_-LIaVhjnrUFEBsmQsFeVNM223MVrjklxAHeCu642WUDPVZmKLvFKq0p9eeKTtxoOHfwTTlw4TpLE6Q
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2004
+https://11.hls.gd/ch3339/mono.m3u8?token=conklave.v2_JZul8e3FKQhTAT1fBo7n9PqvuTJ-246btze7a0WEqsMgFa-sE2qdFET9YK4hrbMQFI6HhdCXduKToQ
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2008 HD
+https://11.hls.gd/ch3822/mono.m3u8?token=conklave.v2_tGzLOcYDietelW9o7HDTTEO01FSHk3DPIchvloduRmZX1Rv6g1N2vJ1jCzbIUpnnDODfdajERA8UUQ
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2012 HD
+https://11.hls.gd/ch3823/mono.m3u8?token=conklave.v2_2psjN0JzTuWmo3hByzKaLxmdIZBdJjG9oxxKqqQevTnPgjvXhNmxf0HcrTfia31OEXEoVpxjPHokHw
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2016 HD
+https://11.hls.gd/ch3838/mono.m3u8?token=conklave.v2_RezeLLPBY2S5iM6RYTFF3Ox_l8FPEkLeGqb17F-K_M8Jo8BwbK00pTDDL3u9KfF_x5usRmJuV2j_lA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2020 HD
+https://11.hls.gd/ch3819/mono.m3u8?token=conklave.v2_H-MR9dtrgmqaRQXBXYoOOi8S4lcAHB9y9JPP8iGvBjQp2Dn4fX3O5hp3Ni6QgKE7zeMTOgkooV-lFA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV EuroCup 2024 HD
+https://11.hls.gd/ch2004/mono.m3u8?token=conklave.v2_COB7aRJ5PiKQ3SolhM3Ek1DDZRA7DuOb7Cl75OPC9xyLkM5vnjOURblFQzoFbf1EvxPMELh94mCu1w
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1970
+https://11.hls.gd/ch3112/mono.m3u8?token=conklave.v2_gHOVUPxgKjt1lGzfeogmL-utW8mdXI6TN6lMOjrp0T2l5LoJNy4LKzRHwigP6snLQkxb79Q636uagw
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1974
+https://11.hls.gd/ch828/mono.m3u8?token=conklave.v2_csYPdymg-XDFKTe4oCfehfKpKzBI1wMv2tofLaYAwonnZzHYiIJBTZfFDK4ZO6oMd74m1oKvWf9j
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1978
+https://11.hls.gd/ch2116/mono.m3u8?token=conklave.v2_FYHEmrHupP0c5boxpONk1t0C4J-W58rs5WkYvBuHJUqa6H8cF9er62Gz8CrofoDTmx9eoCgLfmj8ow
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1982 HD
+https://11.hls.gd/ch3595/mono.m3u8?token=conklave.v2_QCfF1HAAn5Ea8imTQwkInN4sJsUGX94KZMpGH-gmETH_6aeMyzRQCeHrP2taa5MhACk0c0hPxgeJBA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1986 HD
+https://11.hls.gd/ch3596/mono.m3u8?token=conklave.v2_bl39qfiJETyfbGJu1Vb8sOZDWbjEHvWDOHerNLQkS1ytmORAhIskI10oAPC8P3BoIkyAFt-WeUd4sg
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1990
+https://11.hls.gd/ch3427/mono.m3u8?token=conklave.v2_Kh_SKkO09ILXz2qNOrNuc-_yCLGuEpEGRQnnvLZBCKBuviSdmuYLjR9YVg5uRhN0HmEcwIFu0DYliA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1994
+https://11.hls.gd/ch3157/mono.m3u8?token=conklave.v2_WQKfcL6h76iQ-JkSPDH9IJBYJEVIJ4iwA141E584UI7xdpnrAWUQWkkpXrEmYWcz_Kd2Js4lBVNQdg
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 1998
+https://11.hls.gd/ch3297/mono.m3u8?token=conklave.v2_nHWxSqtWAuGGCWHuTmSI7tvxPtAxj_3GvDvzLJjzBjDJq26Ta16owZjcEBDLiinVRnwwaacO7Kb5Iw
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 2002
+https://11.hls.gd/ch3428/mono.m3u8?token=conklave.v2_UJzuiOv3CKMzOQI1OCmn7tNlkI0OwotslQAT8VKJc9Vh7Q304lgMpIcIiTziUQmLqWZ7xgJyX65ODw
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 2006
+https://11.hls.gd/ch3158/mono.m3u8?token=conklave.v2_DGw_oM0dRz5_MjIh_phRYJYCpIfSlls3RgK-ta81QLPMsY5RH62mTKW3ha_1ouLEzhOxFsFNXFzyEQ
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 2010
+https://11.hls.gd/ch3159/mono.m3u8?token=conklave.v2_JWb2cCck3zNLRk3rN1-52A9MqDxF0QW3mQNEW5NxqNBhRSpclPk4je41CNYPlfNkEVliMHMh6xmZCg
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 2014
+https://11.hls.gd/ch3160/mono.m3u8?token=conklave.v2_ZsEre43XUKjUDNKiEQmm5wY3VOvKxd-OpfCfsagWZ-jo3BORYc78a5qX-cYxKtb7Q41wg2mKLS8fRg
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 2018
+https://11.hls.gd/ch3161/mono.m3u8?token=conklave.v2_Y9jqy0xUOgpSk6zanEhtMO2kKW3Nn7TblUAGVYdygd4SDxFSefIYxAN0RdQZxWrALL5FzoPhLih-jQ
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV World Cup 2022 HD
+https://11.hls.gd/ch1084/mono.m3u8?token=conklave.v2_m2BOghGVRL_ZKt3SmCpDTuc9sr45CPHhQOU2zNZbdOfkvhdD23sJGbiE3gEYBAte6QEmfFIZuT-EnA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", Velilla TV FIFA Club World Cup 2025 HD
+https://11.hls.gd/ch3429/mono.m3u8?token=conklave.v2_eRgI-hgz2-b4dPUSXqrpKcKTb37ZWHN7QrYJYdOmiOA-gmXZ2HVKk-jrb3ffijP8P0uAtKX8p3BFJA
+#EXTINF:0 group-title="Sports HD" tvg-name="ch2036" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/velilla.png", TVPlay ЧМ FIFA Плей-офф H
+https://11.hls.gd/ch3779/mono.m3u8?token=conklave.v2_ng_Fd5bHOWJN5KedzcGPQsenLYISzJnvKTPdBgVHpkpZH9uY94gmxJMyCWSZ_Jh1W3tUzYwb58yclg
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
