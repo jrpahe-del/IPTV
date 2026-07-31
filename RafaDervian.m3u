@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 1
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa1.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 2
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa2.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 3
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa3.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 4
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa4.m3u8
-#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",REPLAY WORLD CUP 2026 5
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fifa5.m3u8
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -29,16 +18,47 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/f1.m3u8
 #EXTINF:-1 tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png" group-title="EVENT LIVE SPORTS",F1 Formula 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/f12.m3u8
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",Motor Cross 1
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",MotoCross 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros1.m3u8
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",Motor Cross 2
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",MotoCross 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros2.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",UCL Champions3
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk2.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",UCL Champions4
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk4.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion.png",UCL Champions5
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk5.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/]uk5.m3u8
+
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",FIFA Club World Cup 2025 HD
+https://11.hls.gd/ch3429/mono.m3u8?token=conklave.v2_eRgI-hgz2-b4dPUSXqrpKcKTb37ZWHN7QrYJYdOmiOA-gmXZ2HVKk-jrb3ffijP8P0uAtKX8p3BFJA
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 2022 HD
+https://11.hls.gd/ch1084/mono.m3u8?token=conklave.v2_m2BOghGVRL_ZKt3SmCpDTuc9sr45CPHhQOU2zNZbdOfkvhdD23sJGbiE3gEYBAte6QEmfFIZuT-EnA
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 2018
+https://11.hls.gd/ch3161/mono.m3u8?token=conklave.v2_Y9jqy0xUOgpSk6zanEhtMO2kKW3Nn7TblUAGVYdygd4SDxFSefIYxAN0RdQZxWrALL5FzoPhLih-jQ
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 2014
+https://11.hls.gd/ch3160/mono.m3u8?token=conklave.v2_ZsEre43XUKjUDNKiEQmm5wY3VOvKxd-OpfCfsagWZ-jo3BORYc78a5qX-cYxKtb7Q41wg2mKLS8fRg
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 2010
+https://11.hls.gd/ch3159/mono.m3u8?token=conklave.v2_JWb2cCck3zNLRk3rN1-52A9MqDxF0QW3mQNEW5NxqNBhRSpclPk4je41CNYPlfNkEVliMHMh6xmZCg
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 2006
+https://11.hls.gd/ch3158/mono.m3u8?token=conklave.v2_DGw_oM0dRz5_MjIh_phRYJYCpIfSlls3RgK-ta81QLPMsY5RH62mTKW3ha_1ouLEzhOxFsFNXFzyEQ
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 2002
+https://11.hls.gd/ch3428/mono.m3u8?token=conklave.v2_UJzuiOv3CKMzOQI1OCmn7tNlkI0OwotslQAT8VKJc9Vh7Q304lgMpIcIiTziUQmLqWZ7xgJyX65ODw
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1998
+https://11.hls.gd/ch3297/mono.m3u8?token=conklave.v2_nHWxSqtWAuGGCWHuTmSI7tvxPtAxj_3GvDvzLJjzBjDJq26Ta16owZjcEBDLiinVRnwwaacO7Kb5Iw
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1994
+https://11.hls.gd/ch3157/mono.m3u8?token=conklave.v2_WQKfcL6h76iQ-JkSPDH9IJBYJEVIJ4iwA141E584UI7xdpnrAWUQWkkpXrEmYWcz_Kd2Js4lBVNQdg
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1990
+https://11.hls.gd/ch3427/mono.m3u8?token=conklave.v2_Kh_SKkO09ILXz2qNOrNuc-_yCLGuEpEGRQnnvLZBCKBuviSdmuYLjR9YVg5uRhN0HmEcwIFu0DYliA
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1986 HD
+https://11.hls.gd/ch3596/mono.m3u8?token=conklave.v2_bl39qfiJETyfbGJu1Vb8sOZDWbjEHvWDOHerNLQkS1ytmORAhIskI10oAPC8P3BoIkyAFt-WeUd4sg
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1982 HD
+https://11.hls.gd/ch3595/mono.m3u8?token=conklave.v2_QCfF1HAAn5Ea8imTQwkInN4sJsUGX94KZMpGH-gmETH_6aeMyzRQCeHrP2taa5MhACk0c0hPxgeJBA
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1978
+https://11.hls.gd/ch2116/mono.m3u8?token=conklave.v2_FYHEmrHupP0c5boxpONk1t0C4J-W58rs5WkYvBuHJUqa6H8cF9er62Gz8CrofoDTmx9eoCgLfmj8ow
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1974
+https://11.hls.gd/ch828/mono.m3u8?token=conklave.v2_csYPdymg-XDFKTe4oCfehfKpKzBI1wMv2tofLaYAwonnZzHYiIJBTZfFDK4ZO6oMd74m1oKvWf9j
+#EXTINF:-1 tvg-name="BeIN Sports 3 UK" tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQG2yVCKbjM0qLvguFpT_IQuQssBPXp1qX6qdn3AJFzOO0Huye9" group-title="EVENT LIVE SPORTS",World Cup 1970
+https://11.hls.gd/ch3112/mono.m3u8?token=conklave.v2_gHOVUPxgKjt1lGzfeogmL-utW8mdXI6TN6lMOjrp0T2l5LoJNy4LKzRHwigP6snLQkxb79Q636uagw
 
 
 #=========Indonesia Channels ==================================================>#
