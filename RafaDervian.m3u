@@ -4217,13 +4217,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31120/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31124/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="8610" tvg-logo="http://epg.one/img/8610.png" tvg-rec="0",Willow HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/31131/index.m3u8
-#EXTINF:0 group-title="USA TV" tvg-rec="0",Fox Sports 1 US
+#EXTINF:0 group-title="USA TV" tvg-id="4558" tvg-logo="http://epg.one/img/4558.png",Fox Sports 1 US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32033/index.m3u8
-#EXTINF:0 group-title="USA TV" tvg-rec="0",ESPN US
+#EXTINF:0 group-title="USA TV" tvg-id="6513" tvg-logo="http://epg.one/img/6513.png",ESPN US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32034/index.m3u8
-#EXTINF:0 group-title="USA TV" tvg-rec="0",CNN International Europe HD
+#EXTINF:0 group-title="USA TV" tvg-id="2270" tvg-logo="http://epg.one/img/2270.png",CNN International Europe HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32068/index.m3u8
-#EXTINF:0 group-title="USA TV" tvg-rec="0",CNN US
+#EXTINF:0 group-title="USA TV" tvg-id="2270" tvg-logo="http://epg.one/img/2270.png",CNN US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32073/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
