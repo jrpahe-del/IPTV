@@ -4,7 +4,8 @@
 #EXTVLCOPT:http-referrer=https://cignalplay.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec7ee27d83764e4b845c48cca31c8eef:9c0e4191203fccb0fde34ee29999129e
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+#https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motogp2.m3u8
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png", 01:30 WIB MOTOGP+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
@@ -36,29 +37,25 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk5.m3u8
 
 
 #EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ninjawarior.png",Ninja Warrior
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/playlist.m3u8
+https://amg00654-itv-amg00654c27-rakuten-uk-5295.playouts.now.amagi.tv/720p-vtt/index.m3u8
 #EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ninjawarior.png", American Ninja Warrior
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mrbean.png", Mr Bean Live Actions
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309dbb185d8464b42e065eb15b3c537fdcec0fac6b5bc0860a967b2bdeadd46068285b5ccc5b3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea147ce56420452dfae5e22b05558accfc3379a3c0f785cf60355/28/1280x720_3329040/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png" group-title="Actions",Women's Sports Network
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network720.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/-ZIKP2u6RaYLoA==/d15c6bd1-7006-4386-beff-047dfe28d2d2/CHgQeDoFMS4xLjlAAQ==" group-title="Actions",The Biggest Loser
+https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/720p-cc/index.m3u8
+#EXTINF:-1 group-title="Actions" tvg-id="Redbull.Dummy.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/redbull.png", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/zpmicKsrwms87A==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjlAAQ==" group-title="Actions",Wipeout Xtra
+https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309de8480ad56de129575eb15b3c537fdcec0fac6b00cdd45f967c7883f8dc3038795809975a3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea14cc556424f5cdfae5e76ec59a3ed2d98f1a1523f4d9dd4f37e/93/1280x720_3329040/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/takesi.png" group-title="Actions",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 group-title="Actions" tvg-id="Redbull.Dummy.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/redbull.png", Red Bull
-#EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0128b5f756acf1e1c488509fd76b0a61/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758735344999_X_Games_TV_260x147_White.png" group-title="Actions",X Games TV
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/X-Games.m3u8
 #EXTINF:-1 tvg-name="American Gladiators" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cf7c191b9f2a4207cf119fb095e965e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749753112642_AmericanGladiators_HUDLogo_Centered_260x147.png" group-title="Actions",American Gladiators
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/gladiator.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png" group-title="Actions",Women's Sports Network
-https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/-ZIKP2u6RaYLoA==/d15c6bd1-7006-4386-beff-047dfe28d2d2/CHgQeDoFMS4xLjlAAQ==" group-title="Actions",The Biggest Loser
-https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/zpmicKsrwms87A==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjlAAQ==" group-title="Actions",Wipeout Xtra
-https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="Fishing",Hunt Fish TV
 https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136dae84f0a833fed7d484bbf5d361b63dcbb58b07e51ccd1178f2e28dff9d5353f7a530d9a3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee6964776d7d71258da7b034c2643415f5604f576b48f3f845135/52/1280x720_2500000/index.m3u8
@@ -66,12 +63,12 @@ https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.ama
 https://d1p1siomv3cm7b.cloudfront.net/playlist_1280x720.m3u8
 #EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fishingtv.png" group-title="Fishing",Italian Fishing TV (1080p)
 https://fms.premio.link/fishingtv/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wiredfish.png" group-title="Fishing",Wired2Fish
-https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="FLS_672a69a5873afb52c5fc1497" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotrsfish.png" group-title="Fishing",Sports Fishing
 https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136dfbf4c5f806ae22c484bbf5d6f1b63dcbb58b07e50c08617897d7f8da4da356c2b0f56973f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79242c056425c2a85ae5e7b827e54d7cb08872a82d0b1d94deec4/176/1280x720_2500000/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Bassmaster.png" group-title="Fishing",Bassmaster
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Bassmaster.m3u8
+#EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wiredfish.png" group-title="Fishing",Wired2Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tunachannel.png" group-title="Fishing",The Wicked Tuna Channel (1080p)
 https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c41368aef190d816ee72d484bbf5d6c1b63dcbb58b07f5bc181178e7920daf9df34312f0c5ccd3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79245c65642512b85ae5e8165b5244f87a1bf1225b657a880d97f/100/1280x720_3329040/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wfn.png" group-title="Fishing",WFN
