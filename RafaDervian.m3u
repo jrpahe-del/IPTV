@@ -1711,6 +1711,8 @@ https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
 #EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits UK (1080p)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136d8b84a0ad764b72f4844ee506f1b63dcbb58b07f04908217d87d2a82ffdf333c795a58cd3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79244c556420d65d0af5e1e3bb7894b1f93dc9574bb0d26e68b02/113/1280x720_3329040/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341" group-title="Music",Trace UK
+https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 #EXTINF:0 group-title="Music" tvg-id="5597" tvg-logo="http://epg.one/img/5597.png",Trace Africa (1080p)
 https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
 #EXTINF:0 group-title="Music" tvg-id="5597" tvg-logo="http://epg.one/img/5597.png",Trace Ayiti (1080p)
@@ -3537,8 +3539,6 @@ https://tvr-2.lg.mncdn.com/tvr2/smil:tvr2.smil/chunklist_b5160000.m3u8
 https://tvr-3.lg.mncdn.com/tvr3/smil:tvr3.smil/chunklist_b5160000.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="2598" tvg-logo="http://epg.one/img/2598.png" tvg-rec="3",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-#EXTINF:0 group-title="Europea" tvg-id="2598" tvg-logo="http://epg.one/img/2598.png" tvg-rec="3",TRT 1 FHD
-http://vipplayer1.com:8080/play/live.php?mac=00:1A:79:73:3F:18&stream=229&extension=ts
 #EXTINF:-1 tvg-id="TRTArabi.tr@SD" tvg-logo="https://i.imgur.com/dEfI2M9.png" group-title="Europea",TRT Arabi (1080p) [Not 24/7]
 https://tv-trtarabi.medya.trt.com.tr/master_720.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="3858" tvg-logo="http://epg.one/img/3858.png" tvg-rec="3",TRT Avaz (720p)
@@ -3585,20 +3585,6 @@ https://5dcabf026b188.streamlock.net/afarinTV/livestream/playlist.m3u8
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=901354&extension=ts
 #EXTINF:0 group-title="Europea" tvg-id="3652" tvg-logo="http://epg.one/img/3652.png" tvg-rec="0",AMC CA
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",La | Runtime Accion
-https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Peliculas
-https://run-rt-mx.otteravision.com/run/rt_mx/rt_mx_720p_high.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Comedia
-https://run-rc-la.otteravision.com/run/rc_la/rc_la_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Crimen
-https://run-rucrl.otteravision.com/run/rucrl/rucrl_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",La | Runtime Romance
-https://run-rurol.otteravision.com/run/rurol/rurol_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Familia
-https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
-#EXTINF:-1 tvg-logo="https://www.runtime.tv/themes/custom/run/runtime/logo.png" group-title="Europea",LA | Runtime Terror
-https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 #EXTINF:-1 tvg-logo="https://turkey.mom-rsf.org/uploads/tx_lfrogmom/media/240-101_import.png" group-title="Europea",Canal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/Wflx.svg/revision/latest/scale-to-width-down/250?cb=20260219235912" group-title="Europea",FOX 29
@@ -3639,8 +3625,6 @@ https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.mpd
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
 #EXTINF:-1 tvg-logo="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQLlkr1dcoetd62PFnX-VIIZepjGp9G7h-eyzMDs2dPtdz9L2Kl" group-title="Europea",Abc San Diego (Usa) 
 https://aegis-cloudfront-1.tubi.video/1a352414-3a30-4f42-b14b-c091d02a5e45/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Trace-Uk.png/revision/latest?cb=20240911222341" group-title="Europea",Trace UK
-https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/n1DFlCGZ-TTt7hbrtpgf19Aajt1HPqu2Hgh5DsurCxH2MDUJqPxvRlx99P3KT_0D-1Q" group-title="Europea",Vida Melhor
 https://d12e4o88jd8gex.cloudfront.net/out/v1/cea3de0b76ac4e82ab8ee0fd3f17ce12/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://strapi.fondation.canal-plus.com/uploads/LOGO_MONOCHROME_BLANC_00267bdc71.png" group-title="Europea",Cine Mo!
@@ -3675,8 +3659,6 @@ https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7936151-imagen-television-el-nuevo-canal-de-mexico-revela-detalles-programacion/image/imagen-television-logo-black-english-48-HR.jpg" group-title="Europea",IMAGEN TV 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
-#EXTINF:-1 tvg-logo="http://epg.one/img/88014.png" group-title="Europea",TRT Sports
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europea",Ge Tv HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv1.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Europea",Ge Tv FHD
@@ -4165,6 +4147,179 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32034/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32068/index.m3u8
 #EXTINF:0 group-title="USA TV" tvg-id="2270" tvg-logo="http://epg.one/img/2270.png",CNN US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32073/index.m3u8
+
+#EXTINF:0 group-title="Canada" tvg-id="2347" tvg-logo="http://epg.one/img/2347.png" tvg-rec="0",A&E CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6419/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3566" tvg-logo="http://epg.one/img/3566.png" tvg-rec="0",CBC Gem (St. John's) CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6422/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3567" tvg-logo="http://epg.one/img/3567.png" tvg-rec="0",CTV 2 CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6423/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3568" tvg-logo="http://epg.one/img/3568.png" tvg-rec="0",NFL Network CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6424/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3569" tvg-logo="http://epg.one/img/3569.png" tvg-rec="0",ICI RDI HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6425/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3571" tvg-logo="http://epg.one/img/3571.png" tvg-rec="0",Global Toronto HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6427/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3572" tvg-logo="http://epg.one/img/3572.png" tvg-rec="0",OMNI.1 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6428/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3573" tvg-logo="http://epg.one/img/3573.png" tvg-rec="0",City TV Toronto HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6429/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3574" tvg-logo="http://epg.one/img/3574.png" tvg-rec="0",Yes TV HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6431/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3575" tvg-logo="http://epg.one/img/3575.png" tvg-rec="0",CHCH HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6432/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3576" tvg-logo="http://epg.one/img/3576.png" tvg-rec="0",TFO HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6433/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3577" tvg-logo="http://epg.one/img/3577.png" tvg-rec="0",OMNI.2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6434/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3578" tvg-logo="http://epg.one/img/3578.png" tvg-rec="0",FX HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6435/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3567" tvg-logo="http://epg.one/img/3567.png" tvg-rec="0",CTV 2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6437/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3581" tvg-logo="http://epg.one/img/3581.png" tvg-rec="0",Sportsnet ONE HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6438/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3582" tvg-logo="http://epg.one/img/3582.png" tvg-rec="0",Sportsnet Ontario HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6439/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3584" tvg-logo="http://epg.one/img/3584.png" tvg-rec="0",YTV HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6441/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3585" tvg-logo="http://epg.one/img/3585.png" tvg-rec="0",CBC News Network HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6442/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3586" tvg-logo="http://epg.one/img/3586.png" tvg-rec="0",W Network HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6443/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3588" tvg-logo="http://epg.one/img/3588.png" tvg-rec="0",TSN 4 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6445/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3666" tvg-logo="http://epg.one/img/3666.png" tvg-rec="0",TLC HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6446/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3590" tvg-logo="http://epg.one/img/3590.png" tvg-rec="0",OLN HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6447/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3591" tvg-logo="http://epg.one/img/3591.png" tvg-rec="0",CMT Canada CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6448/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3592" tvg-logo="http://epg.one/img/3592.png" tvg-rec="0",Showcase HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6449/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3593" tvg-logo="http://epg.one/img/3593.png" tvg-rec="0",CTV Drama HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6450/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3594" tvg-logo="http://epg.one/img/3594.png" tvg-rec="0",Slice HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6451/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3595" tvg-logo="http://epg.one/img/325.png" tvg-rec="0",Discovery Channel HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6452/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3596" tvg-logo="http://epg.one/img/3596.png" tvg-rec="0",History HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6453/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3597" tvg-logo="http://epg.one/img/3597.png" tvg-rec="0",CTV Comedy HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6454/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3598" tvg-logo="http://epg.one/img/3598.png" tvg-rec="0",Teletoon HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6455/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3600" tvg-logo="http://epg.one/img/3600.png" tvg-rec="0",Peachtree TV HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6457/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3601" tvg-logo="http://epg.one/img/3601.png" tvg-rec="0",TCM HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6458/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3602" tvg-logo="http://epg.one/img/3602.png" tvg-rec="0",CTV SCI-FI HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6459/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3605" tvg-logo="http://epg.one/img/3605.png" tvg-rec="0",Sportsnet 360 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6462/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3607" tvg-logo="http://epg.one/img/3607.png" tvg-rec="0",Food Network HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6464/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3608" tvg-logo="http://epg.one/img/3608.png" tvg-rec="0",BNN Bloomberg HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6465/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3610" tvg-logo="http://epg.one/img/3610.png" tvg-rec="0",Vision TV CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6467/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3611" tvg-logo="http://epg.one/img/3611.png" tvg-rec="0",CTV News Channel HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6468/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3612" tvg-logo="http://epg.one/img/3612.png" tvg-rec="0",E! HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6469/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3613" tvg-logo="http://epg.one/img/3613.png" tvg-rec="0",FXX HDTV CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6470/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3614" tvg-logo="http://epg.one/img/3614.png" tvg-rec="0",Treehouse HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6471/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3618" tvg-logo="http://epg.one/img/3618.png" tvg-rec="0",OWN HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6475/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3619" tvg-logo="http://epg.one/img/3619.png" tvg-rec="0",Game TV CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6476/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3620" tvg-logo="http://epg.one/img/3620.png" tvg-rec="0",Sportsnet East HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6477/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3621" tvg-logo="http://epg.one/img/3621.png" tvg-rec="0",Sportsnet West HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6478/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3622" tvg-logo="http://epg.one/img/3622.png" tvg-rec="0",Sportsnet Pacific HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6479/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3624" tvg-logo="http://epg.one/img/3624.png" tvg-rec="0",Golf Channel HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6481/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3625" tvg-logo="http://epg.one/img/3625.png" tvg-rec="0",CNBC Canada CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6482/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3627" tvg-logo="http://epg.one/img/3627.png" tvg-rec="0",Lifetime HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6484/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3629" tvg-logo="http://epg.one/img/3629.png" tvg-rec="0",MovieTime HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6486/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="8457" tvg-logo="http://epg.one/img/8457.png" tvg-rec="0",Magnolia Network CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6488/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3633" tvg-logo="http://epg.one/img/3633.png" tvg-rec="0",Disney Channel HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6490/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3634" tvg-logo="http://epg.one/img/3634.png" tvg-rec="0",NBA TV Canada CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6491/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3635" tvg-logo="http://epg.one/img/3635.png" tvg-rec="0",TSN 2 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6492/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3637" tvg-logo="http://epg.one/img/3637.png" tvg-rec="0",CPAC English CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6494/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3638" tvg-logo="http://epg.one/img/3638.png" tvg-rec="0",Makeful CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6495/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3639" tvg-logo="http://epg.one/img/3639.png" tvg-rec="0",CTV Toronto CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6496/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3640" tvg-logo="http://epg.one/img/3640.png" tvg-rec="0",CBC Toronto CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6497/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3641" tvg-logo="http://epg.one/img/3641.png" tvg-rec="0",CNN CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6499/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3642" tvg-logo="http://epg.one/img/3642.png" tvg-rec="0",HLN CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6500/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3643" tvg-logo="http://epg.one/img/3643.png" tvg-rec="0",CP 24 CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6501/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3644" tvg-logo="http://epg.one/img/3644.png" tvg-rec="0",Treehouse TV CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6502/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3645" tvg-logo="http://epg.one/img/3645.png" tvg-rec="0",Disney XD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6503/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3646" tvg-logo="http://epg.one/img/3646.png" tvg-rec="0",Nickelodeon CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6504/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3649" tvg-logo="http://epg.one/img/3649.png" tvg-rec="0",WKBW-TV (ABC) HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6507/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3648" tvg-logo="http://epg.one/img/3648.png" tvg-rec="0",Crime + Investigation CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6506/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3650" tvg-logo="http://epg.one/img/3650.png" tvg-rec="0",Cartoon Network CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6508/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3652" tvg-logo="http://epg.one/img/3652.png" tvg-rec="0",AMC CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6510/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3651" tvg-logo="http://epg.one/img/3651.png" tvg-rec="0",TCM CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6509/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3654" tvg-logo="http://epg.one/img/3654.png" tvg-rec="0",MLB Network HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6512/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3640" tvg-logo="http://epg.one/img/3640.png" tvg-rec="0",CBC Toronto HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6513/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3657" tvg-logo="http://epg.one/img/3657.png" tvg-rec="0",ICI Radio-Canada Télé CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6515/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="1031" tvg-logo="http://epg.one/img/1031.png" tvg-rec="0",FX
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6516/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="88030" tvg-logo="http://epg.one/img/88030.png" tvg-rec="0",TSN 5 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6517/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3662" tvg-logo="http://epg.one/img/3662.png" tvg-rec="0",History CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6520/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3663" tvg-logo="http://epg.one/img/3663.png" tvg-rec="0",TSN 1 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6521/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3664" tvg-logo="http://epg.one/img/3664.png" tvg-rec="0",TSN 3 HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6522/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3665" tvg-logo="http://epg.one/img/3665.png" tvg-rec="0",CPAC French CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6523/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3666" tvg-logo="http://epg.one/img/3666.png" tvg-rec="0",TLC CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6524/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3668" tvg-logo="http://epg.one/img/3668.png" tvg-rec="0",Showcase CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6526/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3674" tvg-logo="http://epg.one/img/3674.png" tvg-rec="0",Unis TV HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6532/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3679" tvg-logo="http://epg.one/img/3679.png" tvg-rec="0",FOX Buffalo HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6537/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3641" tvg-logo="http://epg.one/img/3641.png" tvg-rec="0",CNN HD CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/6538/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="8344" tvg-logo="http://epg.one/img/8344.png",beIN Sports CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32043/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3641" tvg-logo="https://www.mppglobal.com/wp-content/uploads/2019/04/One-Soccer-1.png",One Soccer CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32044/index.m3u8
+#EXTINF:0 group-title="Canada" tvg-id="3641" tvg-logo="http://epg.one/img/5089.png",BBC Earth CA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/33RWU7D7E7Z2VG/32077/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
