@@ -710,7 +710,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hgtv.m3u8
 #<=============INDO Sports =================================================================================================>
 
 
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foxsp.png" group-title="Indo Sports",Fox Sports
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foxsp.png" group-title="Indo Sports",Fox Racing
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
 
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="Indo Sports",Caze TV
@@ -808,9 +808,9 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 #EXTINF:-1 tvg-id="557763" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fifaplus-white.png" group-title="Indo Sports",FIFA
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+#https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+https://tglmp03.akamaized.net/out/v1/c8e964618dbd41b38ae487760387af24/manifest.mpd
 
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/realmadrid.png",Real Madrid TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
