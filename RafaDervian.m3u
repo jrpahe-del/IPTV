@@ -3893,15 +3893,15 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europea",BeiN Extra 2 
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
-http://znty.dyndns.org:5010/hls/eleven1.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn1.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
-http://znty.dyndns.org:5010/hls/eleven2.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 Bar HD 
-http://znty.dyndns.org:5010/hls/eleven3.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 Bar HD 
-http://znty.dyndns.org:5010/hls/eleven4.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
-http://znty.dyndns.org:5010/hls/eleven5.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn1/5.m3u8
 #EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europea",UFC 
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europea",FIFA+ 
