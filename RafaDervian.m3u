@@ -3901,7 +3901,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 Bar HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn1/5.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
 #EXTINF:-1 tvg-logo="https://sportsagentblog.com/wp-content/uploads/2012/01/UFC.jpg" group-title="Europea",UFC 
 https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://roams.es/images/post/es_ES_news/categoria-telefonia/logo-de-fifa-plus.webp" group-title="Europea",FIFA+ 
