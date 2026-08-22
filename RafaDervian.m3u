@@ -1402,7 +1402,8 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/man
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tlc.png" group-title="Documentary",TLC HD
 #https://atemecdnbalancer-voe.sysln.id/live/eds/TLCHD/mediampd/TLCHD.mpd
 #http://79.127.238.228:14433
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1025256&extension=ts&play_token=1qjTgRlw4Q
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=858793&extension=ts&play_token=P4aHZN8J6I
+
 
 #================= Premium Movies ============================================================================================>
 
