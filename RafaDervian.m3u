@@ -1745,8 +1745,7 @@ https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/o
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/yayaw.png" group-title="Kids",FLY YAYA
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-https://cdnvod.panda-os.com/livehls/68ef86320630444b1f796875/master.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/yaya.m3u8
 
 #EXTINF:-1 tvg-id="Cartoonito" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cartoonito.png",Cartoonito 
 #https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
