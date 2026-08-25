@@ -87,7 +87,7 @@ https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=7.play
 #EXTINF:-1 tvg-id="Trans7.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="Indonesia",Trans7
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id
@@ -95,7 +95,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=6.play
 #EXTINF:-1 tvg-id="TransTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/transtv.png" group-title="Indonesia",Trans TV
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="Indonesia",Indosiar HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
@@ -1096,7 +1096,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/936ed6f98448469b924a0ce456586651/index.mpd
  
 #EXTINF:-1 tvg-url="mmm" tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/discovery.png" group-title="Documentary",Discovery Channel
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1170666&extension=ts&play_token=mY409MbInP
+http://iyh5mlxw.klaipedalt.org/iptv/Q9HCQVD66DX86T/6452/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1216,7 +1216,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/q3gjkjvw6b/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53a72a67b3a71fad6f4b7863336184e4:2c41a547022ec33cc99720c2d4c1b7e8
-#EXTINF:-1 tvg-logo="https://startalkmedia.com/wp-content/themes/startalk%20021c/img/logo-st-bringin-the-universe.png" group-title="Documentary",StarTalk
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/startalk.png" group-title="Documentary",StarTalk
 https://a73aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/20e3xywbum/out/v1/45f29ac5121847959c3a60ae068e729b/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -1242,19 +1242,19 @@ https://mob.webtvstream.bhtelecom.ba/hls15/viasat_nature.mpd?n=276ceb87b528e1ce0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5458f45efedb4d6f8aa6ac76c85b621b:dbf8a0a306a64525ba3012fd225370c0
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Discovery_Science_HD_2017_%28Gray%29.svg/revision/latest/scale-to-width-down/250?cb=20191226125430" group-title="Documentary",Discovery Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/science.png" group-title="Documentary",Discovery Science
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryscience2/default/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c011525969e44b99a86059dbb3cdf4e8:6700a5d93203417b8585f7de7dd1a09b
-#EXTINF:-1 tvg-logo="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/6eCv1iuk.png" group-title="Documentary",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/discoveryturbo.png" group-title="Documentary",Discovery Turbo
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Discoveryturbo2/default/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7f96d75ed2d96faf9af0857c8e2fbca3:454198d857d8a58591e654321c5e7824
-#EXTINF:-1 tvg-logo="https://img1.picmix.com/output/stamp/normal/6/7/4/4/2334476_28670.gif" group-title="Documentary",Unsolved Mysteries
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mysteries.gif" group-title="Documentary",Unsolved Mysteries
 https://a82aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash-sd/enc/ezzzdqdq6n/out/v1/15b0b244788c4620abb49708d0b1b37e/cenc-sd.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1336,7 +1336,7 @@ https://dash2.antik.sk/stream/hisi_ngw/playlist_cbcs.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a9a561b6adad89952415120e7061782d:09ac42a44dfc17aa31c160052bb1834c
-#EXTINF:-1 tvg-logo="https://media-01.imu.nl/storage/thehappyinvestors.nl/4298/klein-aandeel-met-potentie-558x236.jpg" group-title="Documentary",Curiosity Now
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/curiosity.jpg" group-title="Documentary",Curiosity Now
 https://a83aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/pbfcrvvryb/out/v1/40523cc41143492b9995faf2d6f97ab6/cenc.mpd?encoding=segmentBase
 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1352,7 +1352,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/x3nmcouwjh/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=016ea4104bdc43d9a1cf81d50f8ec0d6:d4fdfa9c49307246cdafb6598cbcb255
-#EXTINF:-1 tvg-logo="https://ashestospace.com/wp-content/uploads/2025/09/Space-Beyond-Logo-One-Color_On-Dark-01.png" group-title="Documentary",Space & Beyond
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Spaceb.png" group-title="Documentary",Space & Beyond
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/out/v1/a032ddc3b3cb4b509462280f7afda8a2/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1360,7 +1360,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/1bqgd0dlxj/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8e4f091aa3f162f2b37bb9bfc22d67e2:868caee53170b0b75804f4463ecd80d5
-#EXTINF:-1 tvg-logo="https://earthdayeveryday.pl/wp-content/uploads/2022/04/cropped-Logo3-Earth-Day-Everyday-1024x576.png" group-title="Documentary",EarthDay 365
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/earthday.png" group-title="Documentary",EarthDay 365
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/out/v1/2c07bb80f1c241b3828ce427530e9741/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1368,7 +1368,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/6ovm8kpzl0/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=163975022cfd582eefca8d9e3a9ef4ea:95e911ecff6b8bbcd8c5ca6ea4219d02
-#EXTINF:-1 tvg-logo="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2022/01/modern-marvels-refresh-logo.png?w=1024" group-title="Documentary",Modern Marvels
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/modernmarvels.png" group-title="Documentary",Modern Marvels
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/out/v1/a5c9712cac43483baaf7314645fe6e9c/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1376,7 +1376,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/xt0kntz2vb/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8dcf7207dd39c334d64c5059f6721639:d6b433c51aa8a84586126e42eb69bed0
-#EXTINF:-1 tvg-logo="https://cporising.com/wp-content/uploads/2024/07/Mythbusters.jpg" group-title="Documentary",Mythbusters
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Mythbusters.png" group-title="Documentary",Mythbusters
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/ugmfjiqwfd/out/v1/1c2804035667405cba6b37162ae105ea/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1400,7 +1400,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/orgtigwisa/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d264da818cdcc2b79aed140c7513d30:f72e7aee419cfb474ee38ba664c5edef
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS22xeF07-6eyQnMuYBd2_U7rgonkdvIH_toX6x8MM&s" group-title="Documentary",Mysterious Worlds
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Mysteriousw.png" group-title="Documentary",Mysterious Worlds
 https://a51aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/9w8aklof7x/out/v1/9d30f39ba2464bb4a764e337ba0f03ad/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1416,7 +1416,7 @@ https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utc
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f61f911fcd0a2eb37ce0b1d9629dc56:dd6abd1f533209d1bbcf50a61ec23cc2
-#EXTINF:-1 tvg-logo="https://image.xumo.com/v1/channels/channel/99991379/240x240.webp?type=color_onBlack" group-title="Documentary",Combat War Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/combatWar.png" group-title="Documentary",Combat War Channel
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/il20sicd8s/out/v1/d2bfb9b1f48a4929a61507d03620a681/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1440,7 +1440,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/rgzxepokao/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d733f0ac4bd88702afb22ba8cd27aad9:5c3f0468b3e5e7c88d4f342812c08ea4
-#EXTINF:-1 tvg-logo="https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2F7fd8ebf6-610f-472c-b2ce-1dc327122ef7%2FModern_Innovations_by_History_General_Market_Launch_Channel_logo_color_RDX.png" group-title="Documentary",Modern Innovations by History
+#EXTINF:-1 tvg-name="Military Heroes" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moderninnovations2.png" group-title="Documentary",Modern Innovations by History
 https://a188aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/hikx7374m8/out/v1/ce26c25968b34e0fa3a8c9a4ce222f67/cenc.mpd?encoding=segmentBase
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1882,17 +1882,9 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/ind
 https://mic.siar.us/mic/live/mic.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bahana.png",Bahana Radio Music
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Pop (1080p)
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo 2 K (1080p)
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retro Rock 
-https://d2hdqrshyzxswl.cloudfront.net/Vevo_Retro_Rock.m3u8
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retroroc Kau 
-https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retro Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/m2o.png" group-title="Music",M2o
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/m2o.m3u8
@@ -2149,6 +2141,19 @@ https://dedm91s0p00ib.cloudfront.net/smil:selangor/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/onmy.png" group-title="Malaysia",Oh My Ceria!
 https://f9169865dbd747b4a24602e856a9c7a2.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/951fbca46ac9b52422f8e3d6d4d6dab33623c3cc/FASTOO_CH7_CERIA/dash.mpd
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dramah.png" group-title="Malaysia",Drama Mantap
+#https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
+https://tglmp02.akamaized.net/out/v1/f8119e31a0804f178a7d1f566d16600a/manifest.mpd
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fmantap.png" group-title="Malaysia",Filem Mantap
+https://tglmp01.akamaized.net/out/v1/35baec6f2f1f47f89dde431d388d91ee/manifest.mpd
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-referrer=https://www.astro.com.my/
@@ -2220,20 +2225,8 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fmantap.png" group-title="Malaysia",Filem Mantap
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_2/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lawak.png" group-title="Malaysia",Lawak Sentral
 https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_3/dash.mpd
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dramah.png" group-title="Malaysia",DRAMA HEBAT
-https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_1/dash.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtbsuk.png" group-title="Malaysia",RTB Sukmaindera FHD
 https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8?id=2
@@ -2246,9 +2239,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8?i
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan.png" group-title="Malaysia",SUKAN RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://www.tvikim.my/images/header-tvikim-logo-white.png" group-title="Malaysia",TV Ikim
-https://mifntechnology.github.io/siaranMy/channels/TvIkim/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="Malaysia",RTM Asean
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
