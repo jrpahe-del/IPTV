@@ -4123,7 +4123,7 @@ https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Europea",BeiN Extra 2 
 https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn1.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 Bar HD 
@@ -4153,6 +4153,16 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_(Oct_2024).png/revision/latest/scale-to-width-down/250?cb=20241121183458",Astro Football
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro1.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro Grandstard
