@@ -139,9 +139,11 @@ https://tvratu.my.id/vid/index.mpd?id=782
 https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="Indonesia",RTV
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87484c0b2a4c41b9b08249ef7817ad7f:ff4f3f232f747e5e7f616b4741fa5c32
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mentari.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -3930,12 +3932,14 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 2 NL
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/146.png" group-title="Europea",1Tv
+#EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Europea",1Tv FHD
+https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Europea",1Tv HD
 https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.epg.one/img/8897.png" group-title="Europea",1+1 International
 http://34cb12c24-ottiptv.github.io/iptv/MM4E93NGF5LADZ/4829224/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/7824.png" group-title="Europea",TvR Moldova
-https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.simpalsmedia.com/point.md/news/thumbnails/large/f4da90de86cd78989f8e73ba7aa6fd24.png" group-title="Europea",TvR Moldova
+https://tvr-moldova.lg.mncdn.com/tvrmoldova/smil:tvrmoldova.smil/chunklist_b3096000.m3u8
 #EXTINF:0 group-title="Europea" tvg-logo="http://epg.one/img/3683.png",TVR 1 RO
 https://tvr-1.lg.mncdn.com/tvr1/smil:tvr1.smil/chunklist_b5160000.m3u8
 #EXTINF:0 group-title="Europea" tvg-logo="http://epg.one/img/3684.png",TVR 2 RO
