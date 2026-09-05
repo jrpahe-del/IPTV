@@ -1068,7 +1068,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Picture.png" group-title="Indo Sports",UFC 
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ufc.m3u8
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -4148,8 +4148,6 @@ https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 https://d2w9q46ikgrcwx.cloudfront.net/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/c03133211512425.Y3JvcCwxMDcwLDgzNyw0MjMsMTIx.png" group-title="Europea",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
-#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/canal-premium.png" group-title="Europea",Canal+
-http://main.light-ott.net:80/play/live.php?mac=00:1A:79:0E:14:DE&stream=894988&extension=ts&play_token=791POd4SbQ
 #EXTINF:0 group-title="Europea" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports 2
@@ -4161,6 +4159,16 @@ https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 #EXTINF:0 group-title="Europea" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports 5
 https://andro.226503.xyz/checklist/androstreamlivebs5.m3u8
 
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 1 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 2 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 5 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 4 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 5 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus5.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
