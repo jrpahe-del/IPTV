@@ -903,6 +903,13 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/out/v1/813bba04214e4f4dab57f0129365635a/cenc.mpd
 
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fubosp.png" group-title="Indo Sports",Fubo Sports HD
+https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/daznring.png",DAZN Ringside
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnD0uhXuKlq2Tb6Y_JYZaz18WBfJwPCNj056yIQI5qvg&s",Tennis Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -910,30 +917,9 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/cmtyd9kpfe/
 #KODIPROP:inputstream.adaptive.license_key=59f50679c9e60963bd0cb6640992aaaa:8685817c4d31f322e08940feeae2855a
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/bfigtl960n/out/v1/5ba5484550e84681bff2e8ca994266c1/cenc.mpd
 
-#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 1 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 2 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus2.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 5 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus3.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 4 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus4.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 5 HD PL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus5.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 HD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 HD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
-#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fubosp.png" group-title="Indo Sports",Fubo Sports HD
-https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQeCMgJRfMkOjfUlGbxg63_YnsVwVudj-4gBfFdV_JBkuTdHeFu" group-title="Indo Sports",GeTv FHD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv1.m3u8
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mutv.png" group-title="Indo Sports",MUTV
@@ -947,9 +933,6 @@ https://tglmp02.akamaized.net/out/v1/1063ebb215c14312ba9d4e415ac706d2/manifest.m
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/psjtv5.png" group-title="Indo Sports",PSJ TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-
-#EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/maxsports.png",Max Sports
-https://cdnbal1.indihometv.com/atm/DASH/useesport/index_720p.mpd
 
 #EXTINF:-1 tvg-id="Soccer Channel" tvg-url="mmm" tvg-logo="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/soccer.png" group-title="Indo Sports",Soccer Channel
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
@@ -1087,7 +1070,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Picture.png" group-title="Indo Sports",UFC 
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ufc.m3u8
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -3344,6 +3327,19 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="INDIA TV",Zee News 
@@ -3475,8 +3471,6 @@ https://cdn-1.pishow.tv/live/407/master.m3u8
 https://cdn-1.pishow.tv/live/10/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA TV",B4U Movies 
 https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest?cb=20240319200053"group-title="INDIA TV",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
 
 
 #==========MYANMAR===================#
@@ -3949,6 +3943,26 @@ https://c.mjh.nz/abc-me.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 1 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 2 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 5 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 4 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-logo="http://epg.one/img/3129.png" tvg-rec="3",Canal+ Sport 5 HD PL
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/canalplus5.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11418.png" tvg-rec="0",DAZN 3 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/11419.png" tvg-rec="0",DAZN 4 HD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="6501" tvg-logo="http://epg.one/img/2919.png" tvg-rec="3",DAZN 5 FHD 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dazn5.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/70/Astro_Football_(Oct_2024).png/revision/latest/scale-to-width-down/250?cb=20241121183458",Astro Football
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/astro1.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro Grandstard
