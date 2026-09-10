@@ -3148,7 +3148,7 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodIdeaTV.th@SD" tvg-logo="https://i.imgur.com/ETgVyTy.png" group-title="THAILAND",Good Idea TV (720p) [Not 24/7]
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LanthungTV.th@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" group-title="THAILAND",Lanthung TV
+#EXTINF:-1 tvg-id="LanthungTV.th@SD" tvg-logo="https://connextsystem.com/wp-content/uploads/2021/10/lun-thung.png" group-title="THAILAND",Lanthung TV
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Lao_TV_2023.png/revision/latest/scale-to-width-down/944?cb=20250107102037&path-prefix=vi" group-title="THAILAND",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
@@ -3530,7 +3530,7 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699928690f0ab5e237298361/6725b2136_PSX_20260220_232051.png" group-title="MYANMAR", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://teatv.art/wp-content/uploads/2025/12/teatv-apk-download.jpg" group-title="MYANMAR", Tea TV 2(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://teatvx.com/wp-content/uploads/2026/06/TeaTv-APK.webp" group-title="MYANMAR", Tea TV 2(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/HBTV_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_2021-2025.png/revision/latest/scale-to-width-down/1200?cb=20240714001000&path-prefix=vi" group-title="MYANMAR", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8

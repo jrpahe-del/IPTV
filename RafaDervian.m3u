@@ -3149,7 +3149,7 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="GoodIdeaTV.th@SD" tvg-logo="https://i.imgur.com/ETgVyTy.png" group-title="THAILAND",Good Idea TV (720p) [Not 24/7]
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="LanthungTV.th@SD" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png" group-title="THAILAND",Lanthung TV
+#EXTINF:-1 tvg-id="LanthungTV.th@SD" tvg-logo="https://connextsystem.com/wp-content/uploads/2021/10/lun-thung.png" group-title="THAILAND",Lanthung TV
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 #EXTINF:-1 tvg-id="LaoThaiTV.us@SD" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Lao_TV_2023.png/revision/latest/scale-to-width-down/944?cb=20250107102037&path-prefix=vi" group-title="THAILAND",Lao-Thai TV (720p)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
@@ -3290,7 +3290,7 @@ http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/7x0ff7NSN3eGi7RP_m0tQ2G9wAXjf7e9fJ-SjPRXpuQZWtx-SgZyk1onz7YIQUyEjTQ8FUFU=s900-c-k-c0x00ffffff-no-rj", PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://www.cnc.com.kh/pnew/img/logo.jpg",CNC
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/19-400_import.jpg",CNC
 http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058", CTV8 HD
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
@@ -3531,7 +3531,7 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699928690f0ab5e237298361/6725b2136_PSX_20260220_232051.png" group-title="MYANMAR", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://teatv.art/wp-content/uploads/2025/12/teatv-apk-download.jpg" group-title="MYANMAR", Tea TV 2(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://teatvx.com/wp-content/uploads/2026/06/TeaTv-APK.webp" group-title="MYANMAR", Tea TV 2(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/HBTV_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_2021-2025.png/revision/latest/scale-to-width-down/1200?cb=20240714001000&path-prefix=vi" group-title="MYANMAR", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
@@ -4767,6 +4767,409 @@ http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32043/index.m3u8
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32044/index.m3u8
 #EXTINF:0 group-title="Canada" tvg-id="3641" tvg-logo="http://epg.one/img/5089.png",BBC Earth CA
 http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/32077/index.m3u8
+
+#EXTINF:0 group-title="Germany" tvg-id="9084" tvg-logo="http://epg.one/img/9084.png" tvg-rec="3",Sky Sport Mix HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/5039/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="9114" tvg-logo="http://epg.one/img/9114.png" tvg-rec="3",Sky Sport Golf HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/5043/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="9115" tvg-logo="http://epg.one/img/9115.png" tvg-rec="3",Sky Sport Premier League HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/5042/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3123" tvg-logo="http://epg.one/img/3123.png" tvg-rec="3",Sky Sci-Fi HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6092/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2865" tvg-logo="http://epg.one/img/2865.png" tvg-rec="3",Sky Cinema HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2484/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2866" tvg-logo="http://epg.one/img/2866.png" tvg-rec="3",Sky Cinema Highlights HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2485/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2868" tvg-logo="http://epg.one/img/2868.png" tvg-rec="3",Sky Atlantic HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2488/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2869" tvg-logo="http://epg.one/img/2869.png" tvg-rec="3",Sky Cinema Family HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2489/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6445" tvg-logo="http://epg.one/img/6445.png" tvg-rec="3",Sky Cinema Classics HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2490/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2871" tvg-logo="http://epg.one/img/2871.png" tvg-rec="3",Sky Krimi HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2491/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2873" tvg-logo="http://epg.one/img/2873.png" tvg-rec="3",Sky Arts HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2494/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2877" tvg-logo="http://epg.one/img/2877.png" tvg-rec="3",Sky Sport News HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2477/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2878" tvg-logo="http://epg.one/img/2878.png" tvg-rec="3",Sky Sport 1 FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2478/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2879" tvg-logo="http://epg.one/img/2879.png" tvg-rec="3",Sky Sport 2 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2479/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2880" tvg-logo="http://epg.one/img/2880.png" tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2480/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2883" tvg-logo="http://epg.one/img/2883.png" tvg-rec="3",Sky Sport Austria 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2492/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2888" tvg-logo="http://epg.one/img/2888.png" tvg-rec="3",Sport 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2503/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3072" tvg-logo="http://epg.one/img/3072.png" tvg-rec="3",ZDF HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6059/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6174" tvg-logo="http://epg.one/img/6174.png" tvg-rec="0",ZDFinfo HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/17042/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2996" tvg-logo="http://epg.one/img/2996.png" tvg-rec="3",VOX HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6061/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3124" tvg-logo="http://epg.one/img/3124.png" tvg-rec="3",Universal TV FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6094/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3122" tvg-logo="http://epg.one/img/3122.png" tvg-rec="3",Warner TV Serie HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6090/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3120" tvg-logo="http://epg.one/img/3120.png" tvg-rec="3",Warner TV Film DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6111/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3116" tvg-logo="http://epg.one/img/3116.png" tvg-rec="3",Toggo DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6063/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2874" tvg-logo="http://epg.one/img/2874.png" tvg-rec="3",Spiegel Geschichte FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6091/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3060" tvg-logo="http://epg.one/img/3060.png" tvg-rec="3",Sky Sport Austria 2 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6113/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2995" tvg-logo="http://epg.one/img/2995.png" tvg-rec="3",Sat.1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6060/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3114" tvg-logo="http://epg.one/img/3114.png" tvg-rec="3",Nitro FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6064/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3113" tvg-logo="http://epg.one/img/3113.png" tvg-rec="3",RTL HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6062/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3112" tvg-logo="http://epg.one/img/3112.png" tvg-rec="3",RTL Zwei HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6065/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3070" tvg-logo="http://epg.one/img/3070.png" tvg-rec="3",ProSieben HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6057/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3071" tvg-logo="http://epg.one/img/3071.png" tvg-rec="3",ProSieben Maxx FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6058/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3127" tvg-logo="http://epg.one/img/3127.png" tvg-rec="3",Kabel Eins HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6067/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3062" tvg-logo="http://epg.one/img/3062.png" tvg-rec="3",Motorvision+ DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/6112/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4461" tvg-logo="http://epg.one/img/4461.png" tvg-rec="0",RTL Passion HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7230/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4462" tvg-logo="http://epg.one/img/4462.png" tvg-rec="0",Romance TV DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7231/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2881" tvg-logo="http://epg.one/img/2881.png" tvg-rec="0",Sky Sport Bundesliga 2 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7234/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4522" tvg-logo="http://epg.one/img/4522.png" tvg-rec="0",Sky Sport Bundesliga 3 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7235/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7778" tvg-logo="http://epg.one/img/7778.png" tvg-rec="0",Sky Sport Bundesliga 5 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7237/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4525" tvg-logo="http://epg.one/img/4525.png" tvg-rec="0",Sky Sport Bundesliga 6 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7238/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4526" tvg-logo="http://epg.one/img/4526.png" tvg-rec="0",Sky Sport Bundesliga 7 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7239/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4527" tvg-logo="http://epg.one/img/4527.png" tvg-rec="0",Sky Sport Bundesliga 8 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7240/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4528" tvg-logo="http://epg.one/img/4528.png" tvg-rec="0",Sky Sport Bundesliga 9 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7241/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4474" tvg-logo="http://epg.one/img/4474.png" tvg-rec="0",National Geographic HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7255/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4475" tvg-logo="http://epg.one/img/4475.png" tvg-rec="0",National Geographic Wild HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7256/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4476" tvg-logo="http://epg.one/img/365.png" tvg-rec="0",Animal Planet HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7257/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4483" tvg-logo="http://epg.one/img/4483.png" tvg-rec="0",Welt DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7258/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4484" tvg-logo="http://epg.one/img/4484.png" tvg-rec="0",N-TV FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/7259/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4483" tvg-logo="http://epg.one/img/4483.png" tvg-rec="0",Welt HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15169/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5655" tvg-logo="http://epg.one/img/5655.png" tvg-rec="0",SIXX HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15170/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5656" tvg-logo="http://epg.one/img/5656.png" tvg-rec="0",Arte DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15171/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5657" tvg-logo="http://epg.one/img/5657.png" tvg-rec="0",Das Erste HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15172/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5658" tvg-logo="http://epg.one/img/5658.png" tvg-rec="0",WDR HD (Aachen) DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15173/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3071" tvg-logo="http://epg.one/img/3071.png" tvg-rec="0",ProSieben Maxx HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15174/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5659" tvg-logo="http://epg.one/img/5659.png" tvg-rec="0",KiKA FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15175/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5660" tvg-logo="http://epg.one/img/5660.png" tvg-rec="0",ATV DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15176/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5661" tvg-logo="http://epg.one/img/5661.png" tvg-rec="0",ORF 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15177/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5662" tvg-logo="http://epg.one/img/5662.png" tvg-rec="0",RTL Crime HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15178/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5883" tvg-logo="http://epg.one/img/5883.png" tvg-rec="0",Eurosport 1 FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15179/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5663" tvg-logo="http://epg.one/img/5663.png" tvg-rec="0",HR FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15180/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5664" tvg-logo="http://epg.one/img/5664.png" tvg-rec="0",NDR HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/15181/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6439" tvg-logo="http://epg.one/img/6439.png" tvg-rec="0",Sky One HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19000/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6429" tvg-logo="http://epg.one/img/6429.png" tvg-rec="0",Sky Crime HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19001/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="11086" tvg-logo="http://epg.one/img/11086.png" tvg-rec="0",Sky Sport Top Event HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19003/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6445" tvg-logo="http://epg.one/img/6445.png" tvg-rec="0",Sky Cinema Classics DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19005/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6434" tvg-logo="http://epg.one/img/6434.png" tvg-rec="0",Sky Replay HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19006/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2869" tvg-logo="http://epg.one/img/2869.png" tvg-rec="0",Sky Cinema Family FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19008/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2868" tvg-logo="http://epg.one/img/2868.png" tvg-rec="0",Sky Atlantic FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19009/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6442" tvg-logo="http://epg.one/img/6442.png" tvg-rec="0",Sky Cinema Premieren HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19014/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6445" tvg-logo="http://epg.one/img/6445.png" tvg-rec="0",Sky Cinema Classics FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19017/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2871" tvg-logo="http://epg.one/img/2871.png" tvg-rec="0",Sky Krimi FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19019/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6448" tvg-logo="http://epg.one/img/6448.png" tvg-rec="0",Sky Nature HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19020/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6449" tvg-logo="http://epg.one/img/6449.png" tvg-rec="0",Sky Documentaries HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19021/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4656" tvg-logo="http://epg.one/img/4656.png" tvg-rec="0",Sky Sport F1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19022/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="11456" tvg-logo="http://epg.one/img/11456.png" tvg-rec="0",Sportdigital Fussball HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19023/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4656" tvg-logo="http://epg.one/img/4656.png" tvg-rec="0",Sky Sport F1 DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19027/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2878" tvg-logo="http://epg.one/img/2878.png" tvg-rec="0",Sky Sport 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19028/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6489" tvg-logo="http://epg.one/img/6489.png" tvg-rec="0",Sky Sport 3 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19030/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6490" tvg-logo="http://epg.one/img/6490.png" tvg-rec="0",Sky Sport 4 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19031/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6491" tvg-logo="http://epg.one/img/6491.png" tvg-rec="0",Sky Sport 5 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19032/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6492" tvg-logo="http://epg.one/img/6492.png" tvg-rec="0",Sky Sport 6 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19033/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6493" tvg-logo="http://epg.one/img/6493.png" tvg-rec="0",Sky Sport 7 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19034/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6494" tvg-logo="http://epg.one/img/6494.png" tvg-rec="0",Sky Sport 8 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19035/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6495" tvg-logo="http://epg.one/img/6495.png" tvg-rec="0",Sky Sport 9 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19036/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6496" tvg-logo="http://epg.one/img/6496.png" tvg-rec="0",Sky Sport 10 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19037/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6501" tvg-logo="http://epg.one/img/6501.png" tvg-rec="0",DAZN 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19042/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6502" tvg-logo="http://epg.one/img/6502.png" tvg-rec="0",DAZN 2 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19043/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2878" tvg-logo="http://epg.one/img/2878.png" tvg-rec="0",Sky Sport UHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/19044/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7863" tvg-logo="http://epg.one/img/7863.png" tvg-rec="0",History HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/20017/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7863" tvg-logo="http://epg.one/img/7863.png" tvg-rec="0",History FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/20039/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7780" tvg-logo="http://epg.one/img/7780.png" tvg-rec="0",Cartoonito DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/20042/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4478" tvg-logo="http://epg.one/img/4478.png" tvg-rec="0",Nick Jr. HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/20043/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3120" tvg-logo="http://epg.one/img/3120.png" tvg-rec="0",Warner TV Film HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/20045/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8016" tvg-logo="http://epg.one/img/8016.png" tvg-rec="0",#dabeiTV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31279/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8017" tvg-logo="http://epg.one/img/8017.png" tvg-rec="0",1-2-3.tv HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31280/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7204" tvg-logo="http://epg.one/img/7204.png" tvg-rec="0",13th Street HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31281/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8019" tvg-logo="http://epg.one/img/8019.png" tvg-rec="0",3sat HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31282/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8020" tvg-logo="http://epg.one/img/8020.png" tvg-rec="0",Al Jazeera English HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31283/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4476" tvg-logo="http://epg.one/img/365.png" tvg-rec="0",Animal Planet FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31284/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8022" tvg-logo="http://epg.one/img/8022.png" tvg-rec="0",Anixe HD Serie DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31285/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8023" tvg-logo="http://epg.one/img/8023.png" tvg-rec="0",Anixe+ HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31286/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8024" tvg-logo="http://epg.one/img/8024.png" tvg-rec="0",ARD Alpha HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31287/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5656" tvg-logo="http://epg.one/img/5656.png" tvg-rec="0",Arte HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31288/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8026" tvg-logo="http://epg.one/img/8026.png" tvg-rec="0",Asharq News HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31289/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8028" tvg-logo="http://epg.one/img/8028.png" tvg-rec="0",Ballermann TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31291/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8030" tvg-logo="http://epg.one/img/8030.png" tvg-rec="0",Bibel TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31293/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7853" tvg-logo="http://epg.one/img/7853.png" tvg-rec="0",BonGusto HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31296/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8034" tvg-logo="http://epg.one/img/8034.png" tvg-rec="0",BR Fernsehen HD (Süd) DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31297/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7852" tvg-logo="http://epg.one/img/7852.png" tvg-rec="0",Cartoon Network DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31298/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7780" tvg-logo="http://epg.one/img/7780.png" tvg-rec="0",Cartoonito HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31299/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8037" tvg-logo="http://epg.one/img/8037.png" tvg-rec="0",Channel 21 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31300/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8038" tvg-logo="http://epg.one/img/8038.png" tvg-rec="0",CNN International HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31301/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3077" tvg-logo="http://epg.one/img/3077.png" tvg-rec="0",Comedy Central HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31302/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7192" tvg-logo="http://epg.one/img/7192.png" tvg-rec="0",Crime + Investigation HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31304/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7200" tvg-logo="http://epg.one/img/7200.png" tvg-rec="0",Curiosity Channel HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31305/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5657" tvg-logo="http://epg.one/img/5657.png" tvg-rec="0",Das Erste DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31306/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8044" tvg-logo="http://epg.one/img/8044.png" tvg-rec="0",Deluxe Music FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31307/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8045" tvg-logo="http://epg.one/img/8045.png" tvg-rec="0",Deutsches Musik Fernsehen HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31308/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5704" tvg-logo="http://epg.one/img/5704.png" tvg-rec="0",DMAX HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31310/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8048" tvg-logo="http://epg.one/img/8048.png" tvg-rec="0",eSports ONE HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31311/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8050" tvg-logo="http://epg.one/img/8050.png" tvg-rec="0",Euronews Deutsch DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31313/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5883" tvg-logo="http://epg.one/img/5883.png" tvg-rec="0",Eurosport 1 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31314/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8052" tvg-logo="http://epg.one/img/8052.png" tvg-rec="0",Eurosport 2 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31315/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8053" tvg-logo="http://epg.one/img/8053.png" tvg-rec="0",Fashion TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31316/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8054" tvg-logo="http://epg.one/img/8054.png" tvg-rec="0",Folx Music Television HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31317/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2127" tvg-logo="http://epg.one/img/2127.png" tvg-rec="0",France 24 English HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31318/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2133" tvg-logo="http://epg.one/img/2133.png" tvg-rec="0",France 24 Francais HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31319/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7855" tvg-logo="http://epg.one/img/7855.png" tvg-rec="0",Heimatkanal DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31322/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8060" tvg-logo="http://epg.one/img/8060.png" tvg-rec="0",HGTV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31323/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5663" tvg-logo="http://epg.one/img/5663.png" tvg-rec="0",HR HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31324/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8062" tvg-logo="http://epg.one/img/8062.png" tvg-rec="0",HSE HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31325/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8063" tvg-logo="http://epg.one/img/8063.png" tvg-rec="0",Inplus HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31326/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7201" tvg-logo="http://epg.one/img/7201.png" tvg-rec="0",Jukebox HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31327/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8067" tvg-logo="http://epg.one/img/8067.png" tvg-rec="0",Kabel Eins Classics HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31330/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8068" tvg-logo="http://epg.one/img/8068.png" tvg-rec="0",Kabel Eins Doku HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31331/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5659" tvg-logo="http://epg.one/img/5659.png" tvg-rec="0",KiKA HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31332/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8070" tvg-logo="http://epg.one/img/8070.png" tvg-rec="0",KinoweltTV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31333/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8076" tvg-logo="http://epg.one/img/8076.png" tvg-rec="0",Marco Polo TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31339/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8077" tvg-logo="http://epg.one/img/8077.png" tvg-rec="0",MDR Fernsehen HD (Sachsen) DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31340/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8078" tvg-logo="http://epg.one/img/8078.png" tvg-rec="0",More Than Sports TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31341/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8080" tvg-logo="http://epg.one/img/8080.png" tvg-rec="0",MS Sport HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31343/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8081" tvg-logo="http://epg.one/img/8081.png" tvg-rec="0",MTV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31344/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4484" tvg-logo="http://epg.one/img/4484.png" tvg-rec="0",N-TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31345/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8083" tvg-logo="http://epg.one/img/8083.png" tvg-rec="0",N24 Doku HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31346/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4475" tvg-logo="http://epg.one/img/4475.png" tvg-rec="0",National Geographic Wild FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31348/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5659" tvg-logo="http://epg.one/img/5659.png" tvg-rec="0",KiKA DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31350/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8088" tvg-logo="http://epg.one/img/8088.png" tvg-rec="0",Nick/Comedy Central+1 DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31351/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3114" tvg-logo="http://epg.one/img/3114.png" tvg-rec="0",Nitro HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31352/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8090" tvg-logo="http://epg.one/img/8090.png" tvg-rec="0",One HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31353/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8091" tvg-logo="http://epg.one/img/8091.png" tvg-rec="0",One Music Television HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31354/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8092" tvg-logo="http://epg.one/img/8092.png" tvg-rec="0",OUTtv HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31355/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8094" tvg-logo="http://epg.one/img/8094.png" tvg-rec="0",Phoenix HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31357/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3070" tvg-logo="http://epg.one/img/3070.png" tvg-rec="0",ProSieben FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31359/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8097" tvg-logo="http://epg.one/img/8097.png" tvg-rec="0",ProSieben Fun HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31360/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3071" tvg-logo="http://epg.one/img/3071.png" tvg-rec="0",ProSieben Maxx DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31361/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8099" tvg-logo="http://epg.one/img/8099.png" tvg-rec="0",QVC HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31362/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8100" tvg-logo="http://epg.one/img/8100.png" tvg-rec="0",Radio Bremen TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31363/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8101" tvg-logo="http://epg.one/img/8101.png" tvg-rec="0",rbb Fernsehen HD (Berlin) DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31364/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8103" tvg-logo="http://epg.one/img/8103.png" tvg-rec="0",RiC HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31366/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4462" tvg-logo="http://epg.one/img/4462.png" tvg-rec="0",Romance TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31367/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3113" tvg-logo="http://epg.one/img/3113.png" tvg-rec="0",RTL FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31368/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4461" tvg-logo="http://epg.one/img/4461.png" tvg-rec="0",RTL Passion DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31369/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7857" tvg-logo="http://epg.one/img/7857.png" tvg-rec="0",RTL Passion FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31370/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8159" tvg-logo="http://epg.one/img/8159.png" tvg-rec="0",Tagesschau24 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31371/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8119" tvg-logo="http://epg.one/img/8119.png" tvg-rec="0",Sat.1 Gold HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31378/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8120" tvg-logo="http://epg.one/img/8120.png" tvg-rec="0",Schlager Deluxe HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31379/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2995" tvg-logo="http://epg.one/img/2995.png" tvg-rec="0",Sat.1 DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31380/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7858" tvg-logo="http://epg.one/img/7858.png" tvg-rec="0",Sat.1 Emotions HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31381/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8119" tvg-logo="http://epg.one/img/8119.png" tvg-rec="0",Sat.1 Gold DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31382/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8120" tvg-logo="http://epg.one/img/8120.png" tvg-rec="0",Schlager Deluxe DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31383/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8121" tvg-logo="http://epg.one/img/8121.png" tvg-rec="0",Schlagerparadies.TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31384/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8124" tvg-logo="http://epg.one/img/8124.png" tvg-rec="0",Shop LC HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31387/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5655" tvg-logo="http://epg.one/img/5655.png" tvg-rec="0",SIXX FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31388/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8126" tvg-logo="http://epg.one/img/8126.png" tvg-rec="0",Sonnenklar.TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31389/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2874" tvg-logo="http://epg.one/img/2874.png" tvg-rec="0",Spiegel Geschichte HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31392/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8139" tvg-logo="http://epg.one/img/8139.png" tvg-rec="0",MyTeam TV 18 HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31402/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="11456" tvg-logo="http://epg.one/img/11456.png" tvg-rec="0",Sportdigital Fussball DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31411/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8151" tvg-logo="http://epg.one/img/8151.png" tvg-rec="0",SR Fernsehen HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31414/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8152" tvg-logo="http://epg.one/img/8152.png" tvg-rec="0",Stingray Classica HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31415/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8153" tvg-logo="http://epg.one/img/8153.png" tvg-rec="0",Stingray DJAZZ HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31416/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8154" tvg-logo="http://epg.one/img/8154.png" tvg-rec="0",Stingray iConcerts HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31417/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8156" tvg-logo="http://epg.one/img/8156.png" tvg-rec="0",SWR Fernsehen BW HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31419/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8157" tvg-logo="http://epg.one/img/8157.png" tvg-rec="0",SWR Fernsehen RP HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31420/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7863" tvg-logo="http://epg.one/img/7863.png" tvg-rec="0",History DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31424/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8163" tvg-logo="http://epg.one/img/8163.png" tvg-rec="0",Toggo Plus HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31426/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8164" tvg-logo="http://epg.one/img/8164.png" tvg-rec="0",TravelXP HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31427/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8165" tvg-logo="http://epg.one/img/8165.png" tvg-rec="0",TV5 Monde Europe HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31428/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3124" tvg-logo="http://epg.one/img/3124.png" tvg-rec="0",Universal TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31429/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8167" tvg-logo="http://epg.one/img/8167.png" tvg-rec="0",Volksmusik.TV HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31430/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="2996" tvg-logo="http://epg.one/img/2996.png" tvg-rec="0",VOX DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31431/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8169" tvg-logo="http://epg.one/img/8169.png" tvg-rec="0",VOXup DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31432/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8170" tvg-logo="http://epg.one/img/8170.png" tvg-rec="0",Warner TV Comedy HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31433/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3120" tvg-logo="http://epg.one/img/3120.png" tvg-rec="0",Warner TV Film FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31434/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="5658" tvg-logo="http://epg.one/img/5658.png" tvg-rec="0",WDR HD (Köln) DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31436/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="4483" tvg-logo="http://epg.one/img/4483.png" tvg-rec="0",Welt FHD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31438/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8176" tvg-logo="http://epg.one/img/8176.png" tvg-rec="0",Welt der Wunder HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31439/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="7860" tvg-logo="http://epg.one/img/7860.png" tvg-rec="0",Wetter.com DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31440/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="3072" tvg-logo="http://epg.one/img/3072.png" tvg-rec="0",ZDF DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31441/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="6174" tvg-logo="http://epg.one/img/6174.png" tvg-rec="0",ZDFinfo DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31442/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8180" tvg-logo="http://epg.one/img/8180.png" tvg-rec="0",ZDFneo HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31443/index.m3u8
+#EXTINF:0 group-title="Germany" tvg-id="8181" tvg-logo="http://epg.one/img/8181.png" tvg-rec="0",Zwei Music Television HD DE
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/31444/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
