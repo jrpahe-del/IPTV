@@ -3948,10 +3948,10 @@ https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a44
 #============EUROPEA=================#
 
 
-#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 1 NL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr.m3u8
-#EXTINF:-1 tvg-logo="http://epg.one/img/5883.png" group-title="Europea",EuroSport 2 NL
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosportr2.m3u8
+#EXTINF:-1 group-title="Europea" tvg-logo="http://epg.one/img/2052.png" tvg-rec="0",Eurosport 1 UHD
+http://stream.mcquack.net/176/index.m3u8
+#EXTINF:-1 group-title="Europea" tvg-logo="http://epg.one/img/4313.png" tvg-rec="0",Eurosport 2 UHD
+http://stream.mcquack.net/192/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Europea",1Tv FHD
 https://amtvusdvr.tulix.tv/am2abr/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://epg.one/img/2560.png" group-title="Europea",1Tv HD
