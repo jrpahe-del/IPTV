@@ -374,7 +374,7 @@ https://hgmtv.com:19360/asthatv/asthatv.m3u8
 
 #EXTINF:-1 tvg-id="Astha" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/allegro.png" group-title="LOCAL TV",Allegro
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/master.m3u8
+https://vodcdn.bamboo-cloud.com/livehls/68c525e1063044539b09c253/index-f3-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="Atobuo tv" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/atambua5.png" group-title="LOCAL TV",Atambua tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -891,11 +891,15 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=li
 
 #<=============INDO Sports =================================================================================================>
 
+
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="Indo Sports",TVRI Sports
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRIsports.m3u8
 
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foxsp.png" group-title="Indo Sports",Fox Racing
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Picture.png" group-title="Indo Sports",UFC 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ufc.m3u8
 
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://www-thefightcity-com.translate.goog/wp-content/uploads/2019/10/HBO-logo-image-1.jpg?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs",HBO Boxing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -910,7 +914,7 @@ https://aegis-cloudfront-1.tubi.video/c2ac89da-5c69-439e-b85d-d87de0548b54/5.m3u
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
 
-#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnD0uhXuKlq2Tb6Y_JYZaz18WBfJwPCNj056yIQI5qvg&s",Tennis Channel
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tennis.png",Tennis Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1068,9 +1072,6 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nba5.png", NBA TV
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
-
-#EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Picture.png" group-title="Indo Sports",UFC 
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ufc.m3u8
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
