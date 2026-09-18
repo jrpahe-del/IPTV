@@ -3413,14 +3413,12 @@ http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
 https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/SATV_2D_logo_with_slogan.png/revision/latest?cb=20260528063118",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg/revision/latest?cb=20200722093955",Shemaroo Bollywood
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",Shemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Action Bollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Mohona TV
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/df/Mohona_TV_logo_with_slogan.png/revision/latest/scale-to-width-down/200?cb=20260528045720",Mohona TV
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5b6c884571069910870ca73b/949a33f7-6bd1-452c-9624-0313c807bf2a/Digital+Media+YouTube+Avatar.png",DM TV
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.scdn.co/image/ab67616d0000b2732ea4376a019c47f4a81655b0",Motu Patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg?utm_source=as.wikipedia.org&utm_campaign=index&utm_content=original",Gopal Bhar
