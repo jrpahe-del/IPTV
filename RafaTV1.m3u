@@ -1694,7 +1694,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/galaxy.m3u8
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
 #EXTINF:-1 group-title="Premium Movies" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebioskop.png",Zee Bioskop (V+)
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
+https://cdnbal1.indihometv.com/atm/DASH/zbioskop/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
@@ -1900,7 +1900,7 @@ https://a61aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bkuv
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3e429eb91a1791d55df2a554dc58dda7:2f688f94ef580a61eada6932598137e4
-#EXTINF:-1 group-title="Premium Movies" tvg-logo="https://i0.wp.com/www.seogroupbuy.io/wp-content/uploads/2023/05/primevideo-group-buy.png?w=1200&ssl=1",Amazon Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amazonmovies.png" group-title="Premium Movies",Amazon Movies
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1955,8 +1955,14 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/in
 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ef57f7f3e8cf0efe4f3d5772a7cbb35:0ac6d617095fbe0ca7f4c9ae72fa5f51
-https://a190aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/ampfzrmpam/out/v1/e08f3866c80040f2bc494cb48ebc7bce/cenc.mpd
+#KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
+https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cartoonito.png",Cartoonito 
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=955574ee2b674f0fbbad818fb384c233:51d2893619bdd062fb4c0cdaafefbf27
+https://atemeshield1-voe.sysln.id/live/eds/CartoonitoHD/mediampd/CartoonitoHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2021,10 +2027,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/7518da9041c4414d86f173daa719152e/in
 #EXTINF:-1 tvg-id="BiznetKids.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/biznetkids.png" group-title="Kids",Biznet Kids
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cartoonito.png",Cartoonito 
-#https://cdnbal1.indihometv.com/atm/DASH/boomerang/manifest.mpd
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cartooneto.m3u8
 
 #EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/funplanet5.png",Max Kids
 https://cdnbal1.indihometv.com/atm/DASH/indikids/manifest.mpd
@@ -2438,7 +2440,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/6f059cfe2653405aab54a7887f92ac39/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 #EXTINF:-1 group-title="KOREA" tvg-id="ONE" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/one.png",ONE (V+)
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/one.m3u8
 
 #EXTINF:-1 tvg-id="K-Plus" tvg-url="mmm" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png",K-Plus
 https://cdnbal1.indihometv.com/atm/DASH/kplus/manifest.mpd
@@ -3288,7 +3291,7 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebioskop.png",Zee Bioskop (V+)
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebolly.png",zee bollywood
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
 
@@ -3312,19 +3315,80 @@ https://cdn-6.pishow.tv/live/13/master.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
+#https://cdn-6.pishow.tv/live/13/master.m3u8
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony kids
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
 https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
 https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
 https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/960px-Logo_of_Ananda_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.jdmagicbox.com/v2/comp/hyderabad/i2/040pxx40.xx40.230719123055.r9i2/catalogue/rtv-network-jubilee-hills-hyderabad-media-services-d3v8t9olws-250.jpg",RTV (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2019/01/1920X1080-Logo-live.jpg",Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Star_Jalsha_logo_%282006%29.png/revision/latest?cb=20210610093740",Star Jalsha HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/BTV_Chattogram_Logo_Alternative.svg/revision/latest/scale-to-width-down/250?cb=20240910125743",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Bijoy_TV_2011_Logo.svg/revision/latest/scale-to-width-down/300?cb=20260427150311",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushe ETV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://profilepicframe.com/wp-content/uploads/2022/07/1657272549-IMG20220706172330-758x364.jpg",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b5/NTV_logo.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original",NTV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Global_TV_%28TVG%29.svg/3840px-Global_TV_%28TVG%29.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/8/89/PTV_Tentative.svg/revision/latest/scale-to-width-down/250?cb=20210731075001",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/SATV_2D_logo_with_slogan.png/revision/latest?cb=20260528063118",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Bdcf46991a900868.jpg/revision/latest?cb=20200722093955",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Action Bollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Mohona TV
+https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.squarespace-cdn.com/content/v1/5b6c884571069910870ca73b/949a33f7-6bd1-452c-9624-0313c807bf2a/Digital+Media+YouTube+Avatar.png",DM TV
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.scdn.co/image/ab67616d0000b2732ea4376a019c47f4a81655b0",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg?utm_source=as.wikipedia.org&utm_campaign=index&utm_content=original",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https",Mohona
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="INDIA TV",Zee News 
