@@ -1803,19 +1803,24 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
 #EXTINF:-1 tvg-id="HBO.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbo.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="Premium Movies" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbohits.png",HBO Hits
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbohits.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbofamily.png",HBO Family
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbofamily.m3u8
 
 #EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbosig.png",HBO Signature
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbosig.m3u8
 
 #EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="Premium Movies" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax
-https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+#https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cinemax.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
