@@ -2185,7 +2185,7 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
-#EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celestial.png" group-title="KOREA",Celestial Movies (V+)
+#EXTINF:-1 tvg-id="Celestial Movies Indonesia" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/celestial.png" group-title="KOREA",Celestial Movies 
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
