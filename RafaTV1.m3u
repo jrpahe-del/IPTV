@@ -3961,6 +3961,64 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports2.m3u8
 #EXTINF:0 group-title="Sports HD" tvg-id="2944" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Ssports.png" tvg-rec="3",S-Sport 3 HD TR
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Ssports3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9274" tvg-logo="http://epg.one/img/9274.png" tvg-rec="0",Arena Sport 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport1.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="4564" tvg-logo="http://epg.one/img/4564.png" tvg-rec="0",Arena Sport 2 FHD HR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9275" tvg-logo="http://epg.one/img/9275.png" tvg-rec="0",Arena Sport 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9277" tvg-logo="http://epg.one/img/9277.png" tvg-rec="0",Arena Sport 4 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9278" tvg-logo="http://epg.one/img/9278.png" tvg-rec="0",Arena Sport 5 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport5.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9279" tvg-logo="http://epg.one/img/9279.png" tvg-rec="0",Arena Sport 6 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport6.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9280" tvg-logo="http://epg.one/img/9280.png" tvg-rec="0",Arena Sport 7 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport7.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9281" tvg-logo="http://epg.one/img/9281.png" tvg-rec="0",Arena Sport 8 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport8.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9282" tvg-logo="http://epg.one/img/9282.png" tvg-rec="0",Arena Sport 9 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport9.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9283" tvg-logo="http://epg.one/img/9283.png" tvg-rec="0",Arena Sport 10 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasport10.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9271" tvg-logo="http://epg.one/img/9271.png" tvg-rec="0",Arena Premium 1 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium1.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9272" tvg-logo="http://epg.one/img/9272.png" tvg-rec="0",Arena Premium 2 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9273" tvg-logo="http://epg.one/img/9273.png" tvg-rec="0",Arena Premium 3 HD RS
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/arenasportpremium3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9269" tvg-logo="http://epg.one/img/9269.png" tvg-rec="0",Arena Esport HD RS
+http://88b9da48.kazmazpaz.ru/iptv/BQETB7GS453AKA/31597/index.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="9270" tvg-logo="http://epg.one/img/9270.png" tvg-rec="0",Arena Fight HD RS
+http://88b9da48.kazmazpaz.ru/iptv/BQETB7GS453AKA/31598/index.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3880" tvg-logo="http://epg.one/img2/3880.png" tvg-rec="0",beIN Sports Max 1 FHD TR
+http://88b9da48.kazmazpaz.ru/iptv/Q9HCQVD66DX86T/19062/index.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="2618" tvg-logo="http://epg.one/img2/2618.png" tvg-rec="0",beIN Sports Haber HD TR
+http://88b9da48.kazmazpaz.ru/iptv/33RWU7D7E7Z2VG/2499/index.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar1.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar3.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3049" tvg-logo="http://epg.one/img/3049.png" tvg-rec="0",beIN Sports 4 HD QA
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beinar4.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3050" tvg-logo="http://epg.one/img/3050.png" tvg-rec="0",beIN Sports 5 HD QA
+https://raw.githubusercontent.Europa/jrpahe-del/M3U8/refs/heads/main/beinar5.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3051" tvg-logo="http://epg.one/img/3051.png" tvg-rec="0",beIN Sports 6 HD QA
+http://88b9da48.kazmazpaz.ru/iptv/BQETB7GS453AKA/6127/index.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3052" tvg-logo="http://epg.one/img/3052.png" tvg-rec="0",beIN Sports 7 HD QA
+http://88b9da48.kazmazpaz.ru/iptv/BQETB7GS453AKA/6128/index.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3047" tvg-logo="http://epg.one/img/3047.png" tvg-rec="0",beIN Sports 1 HD TR 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr1.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3874" tvg-logo="http://epg.one/img/3874.png" tvg-rec="3",beIN Sports 2 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr2.m3u8
+#EXTINF:0 group-title="Sports HD" tvg-id="3048" tvg-logo="http://epg.one/img/3048.png" tvg-rec="0",beIN Sports 3 HD TR
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/beInfr3.m3u8
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Sports HD",BeiN Extra
+https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-640,q:75/https://dj7fdt04hl8tv.cloudfront.net/acm/media/product/bein/bein_sports-app-logo-v2.png" group-title="Sports HD",BeiN Extra 2 
+https://aegis-cloudfront-1.tubi.video/651ee7d3-e75b-4748-be86-422d43ff24b6/playlist.m3u8
 
 
 #=============Vidio Movies==================#
