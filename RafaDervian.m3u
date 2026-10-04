@@ -649,13 +649,40 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvrispt.png" group-title="Indo Sports",TVRI Sports
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/TVRIsports.m3u8
 
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png",Moto GP
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
+
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png",Formula 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
+
+#EXTINF:-1 group-title="Indo Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/redbull.png", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/foxsp.png" group-title="Indo Sports",Fox Racing
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/foxsp1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Picture.png" group-title="Indo Sports",UFC 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ufc.m3u8
 
-#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://www-thefightcity-com.translate.goog/wp-content/uploads/2019/10/HBO-logo-image-1.jpg?_x_tr_sl=en&_x_tr_tl=id&_x_tr_hl=id&_x_tr_pto=imgs",HBO Boxing
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fight.png",Fight Sports
+#https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fight.m3u8
+
+#EXTINF:-1 tvg-id="hbo boxing" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hboboxing.png" group-title="Indo Sports",HBO Boxing
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
@@ -673,11 +700,15 @@ http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/3b7qwiq
 #KODIPROP:inputstream.adaptive.license_key=3dcfbec0e7146928baa55210bf2cb62f:bc85f74f815d9be5ae1dd6defaa05135
 http://live-pv-ta.amazon.fastly-edge.com/sin-nitro/live/clients/dash/enc/uiffe4jhf0/out/v1/3534efafca8c4815adbb4d2e9a1fe003/cenc.mpd
 
-
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/daznring.png",DAZN Ringside
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
+
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/daznfast2.png", DAZN Fast
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
+https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
 #EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tennis.png",Tennis Channel
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -692,7 +723,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/getv1.m3u8
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="TVRISport.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mutv.png" group-title="Indo Sports",MUTV
-https://get.perfecttv.net/mutv.mpd
+#https://get.perfecttv.net/mutv.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e8888ac964d430cbfef9c922ee6714b:9b1dbd9f59a39a9ebaf1fb8e665a3ef3
@@ -821,14 +852,6 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fight.png",Fight Sports
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/fight.m3u8
-
 #EXTINF:-1 tvg-id="Motorvision" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorv.png" group-title="Indo Sports", MotorVision+
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3u8
@@ -836,7 +859,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/MotorVision.m3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
-#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nba5.png", NBA TV
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nba.png", NBA TV
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
 #EXTINF:-1 group-title="Indo Sports"  tvg-logo="https://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png",FOX Sports 1
@@ -1708,6 +1731,13 @@ https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 
 #========== KIDS ==================================================================================================>
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mentaritv.png" group-title="Kids",Mentari TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=20
+#https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
