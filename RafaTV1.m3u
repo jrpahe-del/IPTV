@@ -2356,27 +2356,27 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs-english1732222797.logowik.com.webp" group-title="KOREA",EBS EN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ebshd.png" group-title="KOREA",EBS EN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/6/69/EBS_KIDS_2000.svg/revision/latest/scale-to-width-down/300?cb=20210510075025" group-title="KOREA",EBS KIDS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/EBS%C3%BC.svg/revision/latest/scale-to-width-down/250?cb=20241113004403" group-title="KOREA",EBS KIDS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs1-20181732222723.logowik.com.webp" group-title="KOREA",EBS 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ebshd.png" group-title="KOREA",EBS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonairios.ebs.co.kr/groun;avetablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs2-20181732222751.logowik.com.webp" group-title="KOREA",EBS 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ebshd.png" group-title="KOREA",EBS 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs1-20181732222723.logowik.com.webp" group-title="KOREA",EBS+1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ebshd.png" group-title="KOREA",EBS+1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/plus1familypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/ebs2-20181732222751.logowik.com.webp" group-title="KOREA",EBS+2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ebshd.png" group-title="KOREA",EBS+2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://ebsonair.ebs.co.kr/plus2familypc/familypc1m/playlist.m3u8
 
@@ -2760,6 +2760,244 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
+#============INDIA=================#
+
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeechinema.png" group-title="INDIA TV",Zee Chinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebolly.png",Zee Bollywood
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebangla.png",Zee Bangla
+https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dantv.png",&TV HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="INDIA TV",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzWsaXTGzqeKQ54Dqfr4j5BjWjDvCsR8OywDAa60azLP7ct4doDl6MI8&s=10" group-title="INDIA TV",Hare Krsna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
+
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
+#https://cdn-6.pishow.tv/live/13/master.m3u8
+https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports
+https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 5
+https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
+http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony 8 HD
+https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
+https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
+https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
+https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
+https://ddash74r36xqp.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
+https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
+https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV (720p)
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/960px-Logo_of_Ananda_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",Ananda TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.jdmagicbox.com/v2/comp/hyderabad/i2/040pxx40.xx40.230719123055.r9i2/catalogue/rtv-network-jubilee-hills-hyderabad-media-services-d3v8t9olws-250.jpg",RTV (720p)
+http://tvsen5.aynascope.net/RtvHD/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2019/01/1920X1080-Logo-live.jpg",Maasranga TV (720p)
+http://tvsen5.aynascope.net/maasrangatv/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nexus TV (576p)
+https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushey TV (480p)
+https://ekusheyserver.com/etvlivesn.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Star_Jalsha_logo_%282006%29.png/revision/latest?cb=20210610093740",Star Jalsha HD
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
+https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/BTV_Chattogram_Logo_Alternative.svg/revision/latest/scale-to-width-down/250?cb=20240910125743",BTV Chattogram
+https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Bijoy_TV_2011_Logo.svg/revision/latest/scale-to-width-down/300?cb=20260427150311",Bijoy TV
+https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushe ETV
+https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://profilepicframe.com/wp-content/uploads/2022/07/1657272549-IMG20220706172330-758x364.jpg",Ekhon TV
+https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604",N TV
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Global_TV_%28TVG%29.svg/3840px-Global_TV_%28TVG%29.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Global TV
+https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pardesi1.png",Pardesi TV
+http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045",Bhojpuri Cinema
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/SATV_2D_logo_with_slogan.png/revision/latest?cb=20260528063118",SA TV
+https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",Shemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Action Bollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/df/Mohona_TV_logo_with_slogan.png/revision/latest/scale-to-width-down/200?cb=20260528045720",Mohona TV
+https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.scdn.co/image/ab67616d0000b2732ea4376a019c47f4a81655b0",Motu Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg?utm_source=as.wikipedia.org&utm_campaign=index&utm_content=original",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https",Mohona
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="INDIA TV",Zee News 
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/boJiw31wL-Q7F24kbNug_a7Jr433SUKG32Qg6Saq9b48bCDj5Zlj2wo9cRx3oZ0vCr3L7A_rgw=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA TV",DD News 
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310" group-title="INDIA TV",News Nation
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg/revision/latest?cb=20240319131335" group-title="INDIA TV",Tv 9 Bharat 
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741",Zee 24 Ghanta
+https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch782_425_305"group-title="INDIA TV",Zee TV HD
+http://103.229.254.25:7001/play/a0cs/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Zee_anmol.png"group-title="INDIA TV",Zee Anmol
+#http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
+#EXTINF:-1 tvg-logo="https://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png"group-title="INDIA TV",Zee Anmol TV
+http://103.175.73.12:8080/live/256/256_0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MIzc3I1.png" group-title="INDIA TV",Zee Action
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/1a1840b83f10d74f2daf5e98bef521a5d1a8fff64bfe1871b5ffe1361a0164d7.jpg"group-title="INDIA TV",9X Jhakaas
+https://cdn-3.pishow.tv/live/6/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest?cb=20240319200053"group-title="INDIA TV",B4U Kadak
+https://cdn-2.pishow.tv/live/227/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="INDIA TV",Shemaroo Josh (720p)
+https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo Marathi Bana (720p)
+https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo TV (720p)
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d135190d32e93639ca0fc238019a6940.png" group-title="INDIA TV",Shemaroo Umang (720p)
+https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo Film music (720p)
+https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
+https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
+#EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Chakde (720p)
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Music (720p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" group-title="INDIA TV",PTC News (576p)
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi Gold (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Green_TV_Logo_test.png/revision/latest/scale-to-width-down/320?cb=20231229150250" group-title="INDIA TV",Green TV
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" group-title="INDIA TV",Amar Bangla
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AIdro_kI4JClRCHEh9PH1YHLAm7kULM1u9UUStnre_vqyPnRFgM/default.jpg" group-title="INDIA TV",] 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/56/ENTV_Bangla_Movies_HD_logo_%282020%29.png/revision/latest?cb=20210429041753" group-title="INDIA TV",Bangla Movies 
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood 
+http://103.175.73.12:8080/live/52/52_0.m3u8
+#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="INDIA TV",Goldmines (576p)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://i.ytimg.com/vi/DGY7EirQ8P4/maxresdefault.jpg" group-title="INDIA TV",Goldmines 2 (576p)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
+https://cdn-4.pishow.tv/live/25/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png"group-title="INDIA TV",URDU TV
+https://cdn-4.pishow.tv/live/8/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/%26TV_orange_white.png/revision/latest/scale-to-width-down/250?cb=20250127160159" group-title="INDIA TV",&TV HD (1080p)
+http://103.229.254.25:7001/play/a034/index.m3u8
+#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD India (1080p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
+#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="INDIA TV",Sony Sports Ten 2 HD (1080p)
+http://103.229.254.25:7001/play/a02t/index.m3u8
+#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="INDIA TV",Sony KAL Hindi (1080p)
+https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="INDIA TV",NDTV India (480p) [Not 24/7]
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+#EXTINF:-1 tvg-id="News18Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png" group-title="INDIA TV",News18 Bangla (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="News18India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" group-title="INDIA TV",News18 India (1080p)
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="INDIA TV",Awaaz India TV (720p) [Not 24/7]
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
+#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" group-title="INDIA TV",India Daily Live (1080p)
+https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
+#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="INDIA TV",Awaaz India TV (720p) [Not 24/7]
+https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8#EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="INDIA TV",Awakening TV (576p)
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo TV
+https://cdn-3.pishow.tv/live/230/master.m3u8
+#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/55fb00a28ead0e79178b5e34/1565806454665/55fb00a28ead0e79178b5e34.jpg?tx=w_350"group-title="INDIA TV",PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Punjabi Gold
+https://cdn-7.pishow.tv/live/450/master.m3u8
+#EXTINF:-1 tvg-logo="https://new.rangtv.in/upload/manoranjan-grand-logo-.webp"group-title="INDIA TV",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Manoranjan.jpg"group-title="INDIA TV",Manoranjan TV
+https://cdn-1.pishow.tv/live/1013/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"group-title="INDIA TV",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"group-title="INDIA TV",Goldmines 2
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw"group-title="INDIA TV",Manoranjan Prime
+https://cdn-4.pishow.tv/live/1474/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Music
+https://cdn-3.pishow.tv/live/1501/master.m3u8
+#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/133758-ptc.JPG"group-title="INDIA TV",PTC News
+https://cdn-4.pishow.tv/live/1502/master.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png"group-title="INDIA TV",Kairali WE
+https://cdn-3.pishow.tv/live/1530/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/491-4910873_ptc-punjabi-hd-png-download.png"group-title="INDIA TV",PTC Punjabi
+https://cdn-2.pishow.tv/live/1604/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTOFFGQN9SW28iPqQHPomJqiYdIferQjP3ZSPi28CmBFwfNDErnZWcPQ&s=10"group-title="INDIA TV",9X Tashan
+https://cdn-2.pishow.tv/live/1613/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
+https://cdn-7.pishow.tv/live/453/master.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
+https://cdn-4.pishow.tv/live/25/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Mahaa_News_new.jpeg/revision/latest?cb=20191226172851"group-title="INDIA TV",MAHAA NEWS
+https://cdn-1.pishow.tv/live/401/master.m3u8
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/dbb980847ae214a5105907f35ed65e48.png"group-title="INDIA TV",ABN TV
+https://cdn-1.pishow.tv/live/407/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="INDIA TV",DD BHARATI TV
+https://cdn-1.pishow.tv/live/10/master.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA TV",B4U Movies 
+https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
+
+
 #============   THAILAND.=============== #
 
 
@@ -3002,7 +3240,7 @@ http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.k4media.com/media/logos/fresh-news-english.png", Fresh News
+#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/31-400_import.png", Fresh News
 http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/7x0ff7NSN3eGi7RP_m0tQ2G9wAXjf7e9fJ-SjPRXpuQZWtx-SgZyk1onz7YIQUyEjTQ8FUFU=s900-c-k-c0x00ffffff-no-rj", PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
@@ -3012,252 +3250,6 @@ http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playl
 http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIotsyjv-kelm6Xxt8koAxa2RBzWGhXKjup_GVcne5XEpKe8fyjF9SfZi&s=10", My TV
 http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
-
-
-#============INDIA=================#
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df81f15150f74c799fdde64ef49dfb75:05794a012ae74d77953f2b9fae6804c7
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeechinema.png" group-title="INDIA TV",Zee Chinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebolly.png",Zee Bollywood
-#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
-
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebangla.png",Zee Bangla
-https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b896000.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dantv.png",&TV HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de8045e9f0fb4d03845dcc4a8bd7712a:6807bd09bda34ada83152908192af6d6
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="INDIA TV",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzWsaXTGzqeKQ54Dqfr4j5BjWjDvCsR8OywDAa60azLP7ct4doDl6MI8&s=10" group-title="INDIA TV",Hare Krsna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
-
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
-#https://cdn-6.pishow.tv/live/13/master.m3u8
-https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports
-https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 5
-https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony 8 HD
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
-https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
-https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
-https://ddash74r36xqp.cloudfront.net/master.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
-https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV (720p)
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/960px-Logo_of_Ananda_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",Ananda TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/live-orgin/anandatv.stream/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
-https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.jdmagicbox.com/v2/comp/hyderabad/i2/040pxx40.xx40.230719123055.r9i2/catalogue/rtv-network-jubilee-hills-hyderabad-media-services-d3v8t9olws-250.jpg",RTV (720p)
-http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2019/01/1920X1080-Logo-live.jpg",Maasranga TV (720p)
-http://tvsen5.aynascope.net/maasrangatv/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nexus TV (576p)
-https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushey TV (480p)
-https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Star_Jalsha_logo_%282006%29.png/revision/latest?cb=20210610093740",Star Jalsha HD
-http://premiumtvs.space/live/YqXTywueEV/damp2purchase/198.ts
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/BoishakhiTVLogo2005.png/revision/latest?cb=20240326181010",Boishakhi TV
-https://tvsen6.aynaott.com/1d3uG9VCgrR9DRtWZM57/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/aa/BTV_Chattogram_Logo_Alternative.svg/revision/latest/scale-to-width-down/250?cb=20240910125743",BTV Chattogram
-https://tvsen6.aynaott.com/TjGR1GcxKetHNVcMVxbq/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cb/Bijoy_TV_2011_Logo.svg/revision/latest/scale-to-width-down/300?cb=20260427150311",Bijoy TV
-https://stream.ottplus.live/live/bijoy_tv_abr/live/bijoy_tv_720/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushe ETV
-https://tvsen6.aynaott.com/y4mEVZNAbeNWTbd6Z2Pw/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://profilepicframe.com/wp-content/uploads/2022/07/1657272549-IMG20220706172330-758x364.jpg",Ekhon TV
-https://tvsen6.aynaott.com/fbgZV3X17hwWcyfZ4pdb/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/0/08/NTV_logo_2003.png/revision/latest?cb=20210903091604",N TV
-https://tvsen5.aynaott.com/xV4jEKf3D9zc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Global_TV_%28TVG%29.svg/3840px-Global_TV_%28TVG%29.svg.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=thumbnail",Global TV
-https://tvsen6.aynaott.com/y0q9eFAuquAtvTxRzUHq/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pardesi1.png",Pardesi TV
-http://stream.pardesitv.online/pardesi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/Bhojpuri_Cinema.png/revision/latest?cb=20240319172045",Bhojpuri Cinema
-https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e5/SATV_2D_logo_with_slogan.png/revision/latest?cb=20260528063118",SA TV
-https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/2f66f13b85531977f2990c18ca414e83.png",Shemaroo Bollywood
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/8/8a/Bollywood_Film_%282018-.n.v.%29.png/revision/latest?cb=20190622082100",Action Bollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/df/Mohona_TV_logo_with_slogan.png/revision/latest/scale-to-width-down/200?cb=20260528045720",Mohona TV
-https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.scdn.co/image/ab67616d0000b2732ea4376a019c47f4a81655b0",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg?utm_source=as.wikipedia.org&utm_campaign=index&utm_content=original",Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https",Mohona
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0023VWYC.png?lock=720x540" group-title="INDIA TV",Zee News 
-https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/boJiw31wL-Q7F24kbNug_a7Jr433SUKG32Qg6Saq9b48bCDj5Zlj2wo9cRx3oZ0vCr3L7A_rgw=s900-c-k-c0x00ffffff-no-rj" group-title="INDIA TV",DD News 
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/26/News_Nation.jpg/revision/latest?cb=20240314173310" group-title="INDIA TV",News Nation
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6cd2f649739a45ca9de1daf81cc7d0f2/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg/revision/latest?cb=20240319131335" group-title="INDIA TV",Tv 9 Bharat 
-https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgtpe/live_360p/chunks.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5d/Zee_24_ghanta.png/revision/latest?cb=20210509174741",Zee 24 Ghanta
-https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
-#EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch782_425_305"group-title="INDIA TV",Zee TV HD
-http://103.229.254.25:7001/play/a0cs/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Zee_anmol.png"group-title="INDIA TV",Zee Anmol
-#http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
-#EXTINF:-1 tvg-logo="https://thekolkatamail.com/wp-content/uploads/2021/04/09zeeanmolcinemazeeanmolci.png"group-title="INDIA TV",Zee Anmol TV
-http://103.175.73.12:8080/live/256/256_0.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MIzc3I1.png" group-title="INDIA TV",Zee Action
-http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/1a1840b83f10d74f2daf5e98bef521a5d1a8fff64bfe1871b5ffe1361a0164d7.jpg"group-title="INDIA TV",9X Jhakaas
-https://cdn-3.pishow.tv/live/6/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest?cb=20240319200053"group-title="INDIA TV",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
-#EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="INDIA TV",Shemaroo Josh (720p)
-https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo Marathi Bana (720p)
-https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo TV (720p)
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d135190d32e93639ca0fc238019a6940.png" group-title="INDIA TV",Shemaroo Umang (720p)
-https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo Film music (720p)
-https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
-https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Chakde (720p)
-https://cdn-1.pishow.tv/live/449/master.m3u8
-#EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Music (720p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" group-title="INDIA TV",PTC News (576p)
-https://cdn-4.pishow.tv/live/1502/master.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
-#EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi Gold (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/6e14bac6d0384e129521a4d005188bfb/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/e/e2/Green_TV_Logo_test.png/revision/latest/scale-to-width-down/320?cb=20231229150250" group-title="INDIA TV",Green TV
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/71Et8Ve0gGL.png" group-title="INDIA TV",Amar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.playboard.app/p/AIdro_kI4JClRCHEh9PH1YHLAm7kULM1u9UUStnre_vqyPnRFgM/default.jpg" group-title="INDIA TV",] 10 Bangla
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/5/56/ENTV_Bangla_Movies_HD_logo_%282020%29.png/revision/latest?cb=20210429041753" group-title="INDIA TV",Bangla Movies 
-https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood 
-http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="INDIA TV",Goldmines (576p)
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://i.ytimg.com/vi/DGY7EirQ8P4/maxresdefault.jpg" group-title="INDIA TV",Goldmines 2 (576p)
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood (576p)
-https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",Goldmines Movies (576p)
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
-https://cdn-4.pishow.tv/live/25/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png"group-title="INDIA TV",URDU TV
-https://cdn-4.pishow.tv/live/8/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/%26TV_orange_white.png/revision/latest/scale-to-width-down/250?cb=20250127160159" group-title="INDIA TV",&TV HD (1080p)
-http://103.229.254.25:7001/play/a034/index.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD India (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="INDIA TV",Sony Sports Ten 2 HD (1080p)
-http://103.229.254.25:7001/play/a02t/index.m3u8
-#EXTINF:-1 tvg-id="SonyKALHindi.us@SD" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="INDIA TV",Sony KAL Hindi (1080p)
-https://wurlsonypicturestv.global.transmit.live/hls/68deeb1c0238cda82df543dd/v1/spt_sonykal_1/lg_us/latest/main/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NDTV_INDIA/images/LOGO_HD/image.png" group-title="INDIA TV",NDTV India (480p) [Not 24/7]
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="News18Bangla.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_BANGLA/images/LOGO_HD/image.png" group-title="INDIA TV",News18 Bangla (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News18India.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_NEWS18_INDIA/images/LOGO_HD/image.png" group-title="INDIA TV",News18 India (1080p)
-https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="INDIA TV",Awaaz India TV (720p) [Not 24/7]
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
-#EXTINF:-1 tvg-id="IndiaDailyLive.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_Daily_24x7.png" group-title="INDIA TV",India Daily Live (1080p)
-https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
-#EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="INDIA TV",Awaaz India TV (720p) [Not 24/7]
-https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8#EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="INDIA TV",Awakening TV (576p)
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/55fb00a28ead0e79178b5e34/1565806454665/55fb00a28ead0e79178b5e34.jpg?tx=w_350"group-title="INDIA TV",PTC Chakde
-https://cdn-1.pishow.tv/live/449/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Punjabi Gold
-https://cdn-7.pishow.tv/live/450/master.m3u8
-#EXTINF:-1 tvg-logo="https://new.rangtv.in/upload/manoranjan-grand-logo-.webp"group-title="INDIA TV",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Manoranjan.jpg"group-title="INDIA TV",Manoranjan TV
-https://cdn-1.pishow.tv/live/1013/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"group-title="INDIA TV",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"group-title="INDIA TV",Goldmines 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2025/03/546-s.webp"group-title="INDIA TV",Goldmines Movies
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://stmify.com/wp-content/uploads/2024/08/36-s.webp"group-title="INDIA TV",Khushboo Bangla
-https://cdn-4.pishow.tv/live/1473/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw"group-title="INDIA TV",Manoranjan Prime
-https://cdn-4.pishow.tv/live/1474/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Music
-https://cdn-3.pishow.tv/live/1501/master.m3u8
-#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/133758-ptc.JPG"group-title="INDIA TV",PTC News
-https://cdn-4.pishow.tv/live/1502/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png"group-title="INDIA TV",Kairali WE
-https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/491-4910873_ptc-punjabi-hd-png-download.png"group-title="INDIA TV",PTC Punjabi
-https://cdn-2.pishow.tv/live/1604/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTOFFGQN9SW28iPqQHPomJqiYdIferQjP3ZSPi28CmBFwfNDErnZWcPQ&s=10"group-title="INDIA TV",9X Tashan
-https://cdn-2.pishow.tv/live/1613/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
-https://cdn-7.pishow.tv/live/453/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
-https://cdn-4.pishow.tv/live/25/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Mahaa_News_new.jpeg/revision/latest?cb=20191226172851"group-title="INDIA TV",MAHAA NEWS
-https://cdn-1.pishow.tv/live/401/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/dbb980847ae214a5105907f35ed65e48.png"group-title="INDIA TV",ABN TV
-https://cdn-1.pishow.tv/live/407/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="INDIA TV",DD BHARATI TV
-https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA TV",B4U Movies 
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 
 
 #==========MYANMAR===================#
