@@ -187,13 +187,21 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=true
 
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/btv.png" group-title="Indonesia", BTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8?app_type=web&userid=lite&chname=BTV
+
 #EXTINF:-1 tvg-id="Indosiana" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiana5.png" group-title="Indonesia",Indosiana TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
 https://tvstreamcast.com/indonesiana.m3u8
 
 #EXTINF:-1 tvg-id="Sindo News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sindonews5.png" group-title="Indonesia",SindoNews
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://cdnbal1.indihometv.com/atm/DASH/mncnews/index_720p.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=5
+https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-id="SINPO" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo5.png" group-title="Indonesia" ,SIN PO TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -249,10 +257,38 @@ https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayasd-1.dens.tv/h/h216/stream.m3u8?app_type=web&userid=lite&chname=ElshintaTV
 
-#EXTINF:-1 tvg-id="Jak TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jaktv.png" group-title="Indonesia",JakTV
+#EXTINF:-1 tvg-id="Jak TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Knowledge.png" group-title="Indonesia",KnowlEdge
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h218/index.m3u8?app_type=web&userid=lite&chname=Jak_tv
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bandungtv.png" group-title="Indonesia",Bandung TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=27
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hanacaraka.png" group-title="Indonesia",Hanacaraka TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=89
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jaktv.png" group-title="Indonesia",JakTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=25
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/fea2c4b90ae2472d891389eb8b95571c/index.mpd
+
+#EXTINF:-1 tvg-id="TransTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/jtv.png" group-title="Indonesia",JTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=24
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/77641c37b4834a9db823ec5137774973/index.mpd
 
 #EXTINF:-1 tvg-id="Rodja" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rodja.png" group-title="Indonesia", RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
