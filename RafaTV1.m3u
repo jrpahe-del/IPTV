@@ -2793,8 +2793,15 @@ https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
 https://fujitv4.mov3.co/hls/fujitv.m3u8
 
 
-#============INDIA=================#
+#============INDIA TV=================#
 
+
+#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebioskop.png",Zee Bioskop
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=47
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -2807,7 +2814,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=398ef14ec7014ad8ae75414a7efd2a0f:99a6225691aa669f0f22677b4536705e
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebolly.png",Zee Bollywood
+#EXTINF:-1 group-title="INDIA TV" tvg-id="Zee Bioskop" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebolly.png",zee bollywood
 #https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeebolly.m3u8
 
@@ -2816,7 +2823,7 @@ https://d1rc86nwwc9fag.cloudfront.net/260723/smil:zeebangla.smil/chunklist_b8960
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=67d18634ccb04875875c60fb8d9caaba:99a66471c09e4b8a8dc39a0de6803f75
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dantv.png",&TV HD
+#EXTINF:-1 tvg-id="&TV HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/dantv.png" group-title="INDIA TV",&TV HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -2825,7 +2832,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andtvhd/default/index.mpd
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Andpictureshd/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="INDIA TV",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ddsports.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzWsaXTGzqeKQ54Dqfr4j5BjWjDvCsR8OywDAa60azLP7ct4doDl6MI8&s=10" group-title="INDIA TV",Hare Krsna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -2844,13 +2851,13 @@ https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 5
 https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
-http://tvsen5.aynascope.net/cXPB2LKkErN9/index.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsports.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony 8 HD
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
-https://da86m1sqpm3o0.cloudfront.net/28072023/smil:asianetmovies1.smil/playlist.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/asianet.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianetmid.png",Asianet Middle HD
 https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amirta.png",Amrita TV HD
@@ -2858,7 +2865,7 @@ https://ddash74r36xqp.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/24news.png",24 News HD
 https://mumt07.tangotv.in/zHjX9OFlTWENTYFOURNEWS/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anandtv.png",Anand TV HD
-https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/anandtv.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://nanc-toronto.ca/nanc/images/DeshiTV-bng.png",Deshi TV (720p)
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/960px-Logo_of_Ananda_TV.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail",Ananda TV
@@ -2920,6 +2927,110 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/pub-iotv9hinjzgt
 https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 #EXTINF:-1 tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch782_425_305"group-title="INDIA TV",Zee TV HD
 http://103.229.254.25:7001/play/a0cs/index.m3u8
+
+#EXTINF:0 group-title="INDIA TV" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sports 1 IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/2508/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="2891" tvg-logo="http://epg.one/img/2891.png" tvg-rec="3",Star Sports 2 IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/2507/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3385" tvg-logo="http://epg.one/img/3385.png" tvg-rec="0",Aaj Tak IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6567/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3387" tvg-logo="http://epg.one/img/3387.png" tvg-rec="0",B4U Movies IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6569/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3389" tvg-logo="http://epg.one/img/3389.png" tvg-rec="0",Sony SAB IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6571/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="88031" tvg-logo="http://epg.one/img/88031.png" tvg-rec="0",Swamiji TV IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6574/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3394" tvg-logo="http://epg.one/img/3394.png" tvg-rec="0",Zee TV HD IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6576/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3398" tvg-logo="http://epg.one/img/3398.png" tvg-rec="0",Times Now IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6580/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3399" tvg-logo="http://epg.one/img/3399.png" tvg-rec="0",Aastha TV IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6581/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3400" tvg-logo="http://epg.one/img/3400.png" tvg-rec="0",MTV India IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6582/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3401" tvg-logo="http://epg.one/img/3401.png" tvg-rec="0",Food Food IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6583/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3407" tvg-logo="http://epg.one/img/3407.png" tvg-rec="0",Zing IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6589/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3409" tvg-logo="http://epg.one/img/3409.png" tvg-rec="0",Zee News IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6591/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3410" tvg-logo="http://epg.one/img/3410.png" tvg-rec="0",Colors Cineplex IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6592/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3415" tvg-logo="http://epg.one/img/3415.png" tvg-rec="0",Zee Anmol IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6597/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3417" tvg-logo="http://epg.one/img/3417.png" tvg-rec="0",Zee Business IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6599/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3421" tvg-logo="http://epg.one/img/3421.png" tvg-rec="0",Sadhna Plus News IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6603/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3424" tvg-logo="http://epg.one/img/3424.png" tvg-rec="0",Sadhna TV IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6606/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3396" tvg-logo="http://epg.one/img/3396.png" tvg-rec="0",NDTV 24x7 IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6620/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3439" tvg-logo="http://epg.one/img/3439.png" tvg-rec="0",Shubhsandesh IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6623/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3441" tvg-logo="http://epg.one/img/3441.png" tvg-rec="0",Sony Max 2 IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6625/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3442" tvg-logo="http://epg.one/img/3442.png" tvg-rec="0",Sony Pal IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6626/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3449" tvg-logo="http://epg.one/img/3449.png" tvg-rec="0",Channel I IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6633/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3452" tvg-logo="http://epg.one/img/3452.png" tvg-rec="0",Zee Bangla IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6636/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3453" tvg-logo="http://epg.one/img/3453.png" tvg-rec="0",Zee Bangla Cinema IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6637/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3455" tvg-logo="http://epg.one/img/3455.png" tvg-rec="0",ZEE News 18 IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6639/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3457" tvg-logo="http://epg.one/img/3457.png" tvg-rec="0",Sony AATH IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6641/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3458" tvg-logo="http://epg.one/img/3458.png" tvg-rec="0",Zee Bihar Jharkhand IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6642/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3459" tvg-logo="http://epg.one/img/3459.png" tvg-rec="0",TV9 Gujarati IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6643/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="88032" tvg-logo="http://epg.one/img/88032.png" tvg-rec="0",News7 Tamil IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6648/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3466" tvg-logo="http://epg.one/img/3466.png" tvg-rec="0",Pitaara IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6650/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3484" tvg-logo="http://epg.one/img/3484.png" tvg-rec="0",PTC Punjabi IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6670/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3486" tvg-logo="http://epg.one/img/3486.png" tvg-rec="0",9X Tashan IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6672/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3487" tvg-logo="http://epg.one/img/3487.png" tvg-rec="0",PTC Chak De IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6673/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3499" tvg-logo="http://epg.one/img/3499.png" tvg-rec="0",Fateh TV IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6685/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3506" tvg-logo="http://epg.one/img/3506.png" tvg-rec="0",SUN TV IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6692/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3511" tvg-logo="http://epg.one/img/3511.png" tvg-rec="0",Jaya Max IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6698/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3515" tvg-logo="http://epg.one/img/3515.png" tvg-rec="0",Raj Musix IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6702/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3523" tvg-logo="http://epg.one/img/3523.png" tvg-rec="0",Gemini Movies IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6710/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3527" tvg-logo="http://epg.one/img/3527.png" tvg-rec="0",SVBC IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6714/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3533" tvg-logo="http://epg.one/img/3533.png" tvg-rec="0",ARY News IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6720/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3534" tvg-logo="http://epg.one/img/3534.png" tvg-rec="0",Express News IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6721/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3535" tvg-logo="http://epg.one/img/3535.png" tvg-rec="0",GEO News IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6722/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3540" tvg-logo="http://epg.one/img/3540.png" tvg-rec="0",Express Entertainment IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6727/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3543" tvg-logo="http://epg.one/img/3543.png" tvg-rec="0",HUM TV IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6730/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="3544" tvg-logo="http://epg.one/img/3544.png" tvg-rec="0",HUM Sitaray IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/6731/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="11815" tvg-logo="http://epg.one/img/11815.png" tvg-rec="0",Eurosport HD IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/32031/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="11900" tvg-logo="http://epg.one/img/11900.png" tvg-rec="0",Colors Tamil HD IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/32297/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="11901" tvg-logo="http://epg.one/img/11901.png" tvg-rec="0",Zee Talkie HD IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/32298/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="11902" tvg-logo="http://epg.one/img/11902.png" tvg-rec="0",&Pictures HD IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/32299/index.m3u8
+#EXTINF:0 group-title="INDIA TV" tvg-id="11903" tvg-logo="http://epg.one/img/11903.png" tvg-rec="0",Colors Infinity HD IN
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PV75VQNMKV69RQ/32300/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Zee_anmol.png"group-title="INDIA TV",Zee Anmol
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeeanmol1/default/zeeanmol1.m3u8
@@ -2967,6 +3078,10 @@ http://103.175.73.12:8080/live/52/52_0.m3u8
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 #EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://i.ytimg.com/vi/DGY7EirQ8P4/maxresdefault.jpg" group-title="INDIA TV",Goldmines 2 (576p)
 https://cdn-2.pishow.tv/live/1460/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood (576p)
+https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
+#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",Goldmines Movies (576p)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 #EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
 https://cdn-4.pishow.tv/live/25/master.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png"group-title="INDIA TV",URDU TV
@@ -3017,18 +3132,6 @@ https://cdn-3.pishow.tv/live/1530/master.m3u8
 https://cdn-2.pishow.tv/live/1604/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTOFFGQN9SW28iPqQHPomJqiYdIferQjP3ZSPi28CmBFwfNDErnZWcPQ&s=10"group-title="INDIA TV",9X Tashan
 https://cdn-2.pishow.tv/live/1613/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
-https://cdn-7.pishow.tv/live/453/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
-https://cdn-4.pishow.tv/live/25/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Mahaa_News_new.jpeg/revision/latest?cb=20191226172851"group-title="INDIA TV",MAHAA NEWS
-https://cdn-1.pishow.tv/live/401/master.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/dbb980847ae214a5105907f35ed65e48.png"group-title="INDIA TV",ABN TV
-https://cdn-1.pishow.tv/live/407/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4tfUIEo.png" group-title="INDIA TV",DD BHARATI TV
-https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png/revision/latest?cb=20150308151545" group-title="INDIA TV",B4U Movies 
-https://cdnb4u.wiseplayout.com/B4U_Movies/HD1080/HD1080.m3u8
 
 
 #============   THAILAND.=============== #
