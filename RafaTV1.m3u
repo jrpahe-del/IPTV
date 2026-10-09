@@ -189,7 +189,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/btv.png" group-title="Indonesia", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
-https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8?app_type=web&userid=lite&chname=BTV
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
 #EXTINF:-1 tvg-id="Indosiana" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiana5.png" group-title="Indonesia",Indosiana TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -1989,7 +1989,7 @@ https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/9xm.png" group-title="Music",9XM
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/9xm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mtvru.png" group-title="Music",India Music
+#EXTINF:-1 tvg-id="" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mtvru.png" group-title="Music",MTV Rusia
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mtvru.m3u8
 #EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpop.png" group-title="Music",NEW K-POP (1080p)
 https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_165
