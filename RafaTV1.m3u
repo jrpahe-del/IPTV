@@ -2270,11 +2270,8 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/one.m3u8
 
-#EXTINF:-1 tvg-id="K-Plus" tvg-url="mmm" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png",K+
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
-https://cdnjktcyber05.transvision.co.id/riutx01-036eef823712f3523b3b725952d97201/dash/a3BsdXNjaGFubmVs/manifest.mpd?signature=Zjc0NjIwZGFmYThiMzk3ODZkOThhYzM3Zjc3MDI2OTg=&time=77777777777&device_id=xvfT1Unjt6MxKn7jiWIyvhNBDk0OyvwykMopXDXvVOdAgG1noA
+#EXTINF:-1 tvg-id="K-Plus" group-title="KOREA" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png",K+
+http://tv.cloudcdn.me:80/live.ts?channelId=133091&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4dbd7f200e1f43c1a5a7b0bb4d753527:7fa839050222d118f97ba1f770f7d188
