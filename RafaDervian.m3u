@@ -55,8 +55,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309de8480ad56de129575eb15b3c537fdcec0fac6b00cdd45f967c7883f8dc3038795809975a3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea14cc556424f5cdfae5e76ec59a3ed2d98f1a1523f4d9dd4f37e/93/1280x720_3329040/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/takesi.png" group-title="Actions",Takeshi's Castle
 https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0128b5f756acf1e1c488509fd76b0a61/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758735344999_X_Games_TV_260x147_White.png" group-title="Actions",X Games TV
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/X-Games.m3u8
+#EXTINF:-1 tvg-id="Xtrem Sports" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/extremsports.png",Xtrem Sports
+https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
 #EXTINF:-1 tvg-name="American Gladiators" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cf7c191b9f2a4207cf119fb095e965e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749753112642_AmericanGladiators_HUDLogo_Centered_260x147.png" group-title="Actions",American Gladiators
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/gladiator.m3u8
 
@@ -196,7 +196,7 @@ https://tvstreamcast.com/indonesiana.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=5&type=drm&token=apistech
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-id="SINPO" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo5.png" group-title="Indonesia" ,SIN PO TV
+#EXTINF:-1 tvg-id="SINPO" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/shinpo5.png" group-title="Indonesia" ,SinPo TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
@@ -1789,7 +1789,7 @@ https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
 #EXTINF:-1 tvg-id="Animax" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/animax.png" group-title="Kids",Animax
 #https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/animax.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:07:07:43
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/engstudy.png" group-title="Kids" , English Study
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
@@ -2138,9 +2138,33 @@ https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playl
 #<================== Malaysia ============================================================================>
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="Malaysia", TVS Sarawak HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://stream2.smg.my/live/tvsplus.m3u8
+#EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV 1
+http://tv.cloudcdn.me:80/live.ts?channelId=93773&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV 2
+http://tv.cloudcdn.me:80/live.ts?channelId=93774&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV 3
+http://tv.cloudcdn.me:80/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="Malaysia",TV 6
+http://tv.cloudcdn.me:80/live.ts?channelId=93775&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
+http://tv.cloudcdn.me:80/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="Malaysia", TVS Sarawak
+http://tv.cloudcdn.me:80/live.ts?channelId=132173&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan.png" group-title="Malaysia",Sukan RTM
+http://tv.cloudcdn.me:80/live.ts?channelId=107253&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia",NTV7
+http://tv.cloudcdn.me:80/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kplus.png" group-title="Malaysia",K Pluss
+http://tv.cloudcdn.me:80/live.ts?channelId=133091&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/brtm.png" group-title="Malaysia",Berita RTM
+http://tv.cloudcdn.me:80/live.ts?channelId=133036&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",TV8
+http://tv.cloudcdn.me:80/live.ts?channelId=132145&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BERNAMA-NEWS-2007.png/revision/latest?cb=20231228090110" group-title="Malaysia",Bernama TV
+http://tv.cloudcdn.me:80/live.ts?channelId=132169&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kplus.png" group-title="Malaysia",K
 
 #EXTINF:-1 tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png" group-title="Malaysia",Selangor TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
