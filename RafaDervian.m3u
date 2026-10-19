@@ -2138,8 +2138,6 @@ http://tv.cloudcdn.me:80/live?channelId=132173&uid=10223&deviceMac=00:1A:79:07:0
 http://tv.cloudcdn.me:80/live?channelId=107253&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia",NTV7
 http://tv.cloudcdn.me:80/live?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpluss.png" group-title="Malaysia",K Pluss
-http://tv.cloudcdn.me:80/live?channelId=133091&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
 http://tv.cloudcdn.me:80/live?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/Astro_Aura_2020.png/revision/latest?cb=20221031072603&path-prefix=vi" group-title="Malaysia",Astro Aura
