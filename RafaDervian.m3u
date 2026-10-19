@@ -2112,9 +2112,20 @@ https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playl
 
 
 #EXTINF:-1 tvg-logo="https://tv1.rtm.gov.my/assets/img/logo3.png" group-title="Malaysia",TV 1
-http://tv.cloudcdn.me:80/live?channelId=93773&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd?id=1
+
 #EXTINF:-1 tvg-logo="https://tv2.rtm.gov.my/assets/img/TV2.png" group-title="Malaysia",TV 2
-http://tv.cloudcdn.me:80/live?channelId=93774&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my/
+#EXTVLCOPT:http-user-agent=RTMKlik/3.0.54 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/okey.png" group-title="Malaysia",TV Okey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://aqfadtv.xyz/clearkey/dash-ck/linear/711/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
+
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV 3
 http://tv.cloudcdn.me:80/live?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="Malaysia",TV 6
@@ -2136,7 +2147,7 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:0
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20240923154743" group-title="Malaysia",Astro Ceria
 http://tv.cloudcdn.me:80/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/brtm.png" group-title="Malaysia",Berita RTM
-http://tv.cloudcdn.me:80/live?channelId=133036&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",TV8
 http://tv.cloudcdn.me:80/live?channelId=132145&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BERNAMA-NEWS-2007.png/revision/latest?cb=20231228090110" group-title="Malaysia",Bernama TV
