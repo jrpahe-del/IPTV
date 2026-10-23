@@ -1,10 +1,11 @@
 #EXTM3U
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png", 01:30 WIB MOTOGP+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cignalplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
-https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -306,33 +307,53 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV 3
-http://tv.cloudcdn.me:80/live?channelId=93776&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=93776&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="Malaysia",TV 6
-http://tv.cloudcdn.me:80/live?channelId=93775&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=93775&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
-http://tv.cloudcdn.me:80/live?channelId=93777&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="Malaysia", TVS Sarawak
-http://tv.cloudcdn.me:80/live?channelId=132173&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=132173&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan.png" group-title="Malaysia",Sukan RTM
-http://tv.cloudcdn.me:80/live?channelId=107253&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
-#EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/93_144.png" group-title="Malaysia",NTV7
-http://tv.cloudcdn.me:80/live?channelId=93771&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=107253&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DidikTV%407.png/revision/latest?cb=20210324030840" group-title="Malaysia",DIDIK NTV7
+http://tv.cloudcdn.me:80/live?channelId=93771&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
-http://tv.cloudcdn.me:80/live?channelId=93734&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/Astro_Aura_2020.png/revision/latest?cb=20221031072603&path-prefix=vi" group-title="Malaysia",Astro Aura
-http://tv.cloudcdn.me:80/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me:80/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20240923154743" group-title="Malaysia",Astro Ceria
-http://tv.cloudcdn.me:80/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me:80/live.ts?channelId=93762&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/Astro_Ria_Plus_%283D%29.png/revision/latest?cb=20260403170024" group-title="Malaysia",Astro Ria
+http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/brtm.png" group-title="Malaysia",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",TV8
-http://tv.cloudcdn.me:80/live?channelId=132145&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
+http://tv.cloudcdn.me:80/live?channelId=132145&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BERNAMA-NEWS-2007.png/revision/latest?cb=20231228090110" group-title="Malaysia",Bernama TV
-http://tv.cloudcdn.me:80/live?channelId=132169&uid=10223&deviceMac=00:1A:79:07:07:43&extension=m3u8
-
+http://tv.cloudcdn.me:80/live?channelId=132169&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2026/04/RTM-World-Logo.png" group-title="Malaysia",Rtm World
+http://tv.cloudcdn.me:80/live.ts?channelId=93790&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/Astro_Tutor_TV_logo.png/revision/latest?cb=20230515101105&path-prefix=vi" group-title="Malaysia",Astro Tutor
+http://tv.cloudcdn.me:80/live.ts?channelId=132153&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Astro_Rania_%28Nov_2024%29.png/revision/latest?cb=20241121174652" group-title="Malaysia",Astro Rania
+http://tv.cloudcdn.me:80/live.ts?channelId=132151&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/7/7c/Astro_Oasis_HD_Black.png/revision/latest/scale-to-width-down/732?cb=20240225150814&path-prefix=vi" group-title="Malaysia",Astro Oasis
+http://tv.cloudcdn.me:80/live.ts?channelId=93735&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Astro_AOD.png/revision/latest/scale-to-width-down/250?cb=20240923152721" group-title="Malaysia",Astro Aod
+http://tv.cloudcdn.me:80/live.ts?channelId=132147&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Astro_AEC_HD_logo.png/revision/latest/smart/width/386/height/259?cb=20240923125133" group-title="Malaysia",Astro Aec
+http://tv.cloudcdn.me:80/live.ts?channelId=132479&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotv.png" group-title="Malaysia",SpoTV (my)
+http://tv.cloudcdn.me:80/live.ts?channelId=133045&uid=10223&deviceMac=00:1A:79:99:EC:D3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotv2.png" group-title="Malaysia",SpoTV 2 (my)
+http://tv.cloudcdn.me:80/live.ts?channelId=133046&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://mediaselangor.com.my/wp-content/uploads/2024/09/SELANGOR-TV-last.png" group-title="Malaysia",Selangor TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://dedm91s0p00ib.cloudfront.net/smil:selangor/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Sooka_Jom_Ngaji.png/1280px-Sooka_Jom_Ngaji.png?utm_source=ms.wikipedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Malaysia",Jom Ngaji
+http://tv.cloudcdn.me:80/live.ts?channelId=133127&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
