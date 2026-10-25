@@ -309,7 +309,7 @@ http://tv.cloudcdn.me:80/live?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC
 http://tv.cloudcdn.me:80/live?channelId=132173&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan.png" group-title="Malaysia",Sukan RTM
 http://tv.cloudcdn.me:80/live?channelId=107253&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/DidikTV%407.png/revision/latest?cb=20210324030840" group-title="Malaysia",DIDIK NTV7
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804" group-title="Malaysia",DIDIK NTV7
 http://tv.cloudcdn.me:80/live?channelId=93771&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
 http://tv.cloudcdn.me:80/live?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
@@ -325,7 +325,7 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?
 http://tv.cloudcdn.me:80/live?channelId=132145&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BERNAMA-NEWS-2007.png/revision/latest?cb=20231228090110" group-title="Malaysia",Bernama TV
 http://tv.cloudcdn.me:80/live?channelId=132169&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
-#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2026/04/RTM-World-Logo.png" group-title="Malaysia",Rtm World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtmworld.png" group-title="Malaysia",RTM World
 http://tv.cloudcdn.me:80/live.ts?channelId=93790&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/Astro_Tutor_TV_logo.png/revision/latest?cb=20230515101105&path-prefix=vi" group-title="Malaysia",Astro Tutor
 http://tv.cloudcdn.me:80/live.ts?channelId=132153&uid=10223&deviceMac=00:1A:79:99:EC:D3
