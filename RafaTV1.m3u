@@ -2239,15 +2239,10 @@ https://amg00731-gannettcoinc-usatodaynews-plex-r45dz.amagi.tv/ts-us-e2-n1/playl
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvn.png" group-title="KOREA",TVN 
-http://tv.cloudcdn.me:80/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:07:07:43
+http://tv.cloudcdn.me:80/live.ts?channelId=132171&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=17fb563c784848f09d8a1ea88a2fa989:1d0bd94eab5d5f56a950b784d9345439
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvnmovies.png" group-title="KOREA",TVN Movies
-#https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
-http://202.150.161.212:5000/live/channel30/playlist.m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132172&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
 #EXTINF:-1 group-title="KOREA" tvg-id="ONE" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/one.png",ONE 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/one.m3u8
