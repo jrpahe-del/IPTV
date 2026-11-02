@@ -2731,7 +2731,7 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ddsports.m3u8
 https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
 #https://cdn-6.pishow.tv/live/13/master.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
