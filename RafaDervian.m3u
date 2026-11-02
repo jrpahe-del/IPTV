@@ -2592,12 +2592,6 @@ https://stream.sun0769.com/dgrtv1/mp4tv1_1500/index.m3u8?channel=1&t=1729661201&
 #EXTINF:-1 tvg-id="New TV" group-title="China" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTW7Xt-t91u2S-iFNLsm377RBS9Y3PGutV18g&s",NTD
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://ntd02.akamaized.net/HD-NY/index.m3u8
-#EXTINF:-1 tvg-id="New TV Comprehensive" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv.png",New TV Comprehensive
-https://cdnbal1.indihometv.com/atm/DASH/newtvcomprehensive/manifest.mpd
-#EXTINF:-1 tvg-id="New TV Finance" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv2.png",New TV Finance
-https://cdnbal1.indihometv.com/atm/DASH/newtvfinance/manifest.mpd
-#EXTINF:-1 tvg-id="New TV Variety" tvg-url="mmm" group-title="China" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/newtv3.png",New TV Variety
-https://cdnbal1.indihometv.com/atm/DASH/newtvvariety/manifest.mpd
 
 
 #===============JAPAN========================#
