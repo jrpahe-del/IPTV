@@ -1879,6 +1879,9 @@ https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/yayaw.png" group-title="Kids",FLY YAYA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/yaya.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/naruto.png" group-title="Kids",Naruto Anime
+https://palatinmedia-naruto-rakuten.amagi.tv/720p-cc/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tomjery.png" group-title="Kids", Tom And Jerry HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tomjery.m3u8
 
