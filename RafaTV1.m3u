@@ -301,19 +301,19 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/manifest.mpd?id=2
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=1
 
 #EXTINF:-1 tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-256,q:85/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png" group-title="Malaysia",TV 3
-http://tv.cloudcdn.me:80/live?channelId=93776&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93776&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv6.png" group-title="Malaysia",TV 6
-http://tv.cloudcdn.me:80/live?channelId=93775&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93775&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 group-title="Malaysia" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/LogoTV9_2006.png/revision/latest?cb=20180922122502",9 TV
-http://tv.cloudcdn.me:80/live?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93777&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/ba/TVS_logo_(2024).svg/revision/latest/scale-to-width-down/250?cb=20240614044004" group-title="Malaysia", TVS Sarawak
-http://tv.cloudcdn.me:80/live?channelId=132173&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132173&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sukan.png" group-title="Malaysia",Sukan RTM
-http://tv.cloudcdn.me:80/live?channelId=107253&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=107253&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ca/DidikTV_KPM_%282021%29.svg/revision/latest/scale-to-width-down/250?cb=20210529054804" group-title="Malaysia",DIDIK NTV7
-http://tv.cloudcdn.me:80/live?channelId=93771&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93771&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/Astro_Prima.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",Astro Prima
-http://tv.cloudcdn.me:80/live?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=93734&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f2/Astro_Aura_2020.png/revision/latest?cb=20221031072603&path-prefix=vi" group-title="Malaysia",Astro Aura
 http://tv.cloudcdn.me:80/live.ts?channelId=132149&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20240923154743" group-title="Malaysia",Astro Ceria
@@ -323,9 +323,9 @@ http://tv.cloudcdn.me:80/live.ts?channelId=132152&uid=10223&deviceMac=00:1A:79:9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/brtm.png" group-title="Malaysia",Berita RTM
 https://d25tgymtnqzu8s.cloudfront.net/smil:berita/chunklist_b2596000_slENG.m3u8?id=5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/Logo_8TV_Malaysia.png?utm_source=id.wikipedia.org&utm_campaign=index&utm_content=original" group-title="Malaysia",TV8
-http://tv.cloudcdn.me:80/live?channelId=132145&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132145&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/BERNAMA-NEWS-2007.png/revision/latest?cb=20231228090110" group-title="Malaysia",Bernama TV
-http://tv.cloudcdn.me:80/live?channelId=132169&uid=10223&deviceMac=00:1A:79:99:EC:D3&extension=m3u8
+http://tv.cloudcdn.me:80/live.ts?channelId=132169&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtmworld.png" group-title="Malaysia",RTM World
 http://tv.cloudcdn.me:80/live.ts?channelId=93790&uid=10223&deviceMac=00:1A:79:99:EC:D3
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fe/Astro_Tutor_TV_logo.png/revision/latest?cb=20230515101105&path-prefix=vi" group-title="Malaysia",Astro Tutor
