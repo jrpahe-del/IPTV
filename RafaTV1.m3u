@@ -177,9 +177,6 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 
-#EXTINF:-1 tvg-id="Tribun News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tribunews.png" group-title="Indonesia", Tribun News
-https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8
-
 #EXTINF:-1 tvg-id="B Satu" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/berita15.png" group-title="Indonesia",Berita Satu
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -274,6 +271,8 @@ http://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
 
+#EXTINF:-1 tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv9.png" group-title="Indonesia",TV9
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tv9.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="Indonesia",TVRI Nasional 
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tvri.png" group-title="Indonesia",TVRI Jakarta
