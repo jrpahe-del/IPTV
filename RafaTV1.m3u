@@ -445,6 +445,16 @@ https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-
 #===============INDO TV LOKAL =============#
 
 
+#EXTINF:-1 tvg-id="Bali TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/balitv.png" group-title="LOCAL TV",Bali TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/balitv/index.m3u8
+
+#EXTINF:-1 tvg-id="Hanacaraka" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hanacaraka.png" group-title="LOCAL TV",HanacarakaTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/hanacaraka/index.m3u8
+
 #EXTINF:-1 tvg-id="Astha" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Astha.png" group-title="LOCAL TV",Astha tv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 https://hgmtv.com:19360/asthatv/asthatv.m3u8
