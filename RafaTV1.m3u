@@ -2727,13 +2727,6 @@ https://fujitv4.mov3.co/hls/fujitv.m3u8
 #============INDIA TV=================#
 
 
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeebioskop.png",Zee Bioskop
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://vision.mikrofast.web.id/license?id=47&type=drm&token=apistech
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/81cb1af2ea4d4842a94f1c83957b4cd2/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zeechinema.png" group-title="INDIA TV",Zee Chinema
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeecinema.m3u8
 
@@ -2748,30 +2741,27 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dantv.m3u8
 
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/danpic.png" group-title="INDIA TV",&PICTURES HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/danpic.m3u8
-
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/eurosport.png" group-title="INDIA TV",Euro Sports
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/eurosports.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/willsport.png" group-title="INDIA TV",Willow Cricket 
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/willsports.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/4/4a/DD_Sports_HD.png/revision/latest?cb=20230626092844&path-prefix=vi"group-title="INDIA TV",DD Sports
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/ddsports.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCzWsaXTGzqeKQ54Dqfr4j5BjWjDvCsR8OywDAa60azLP7ct4doDl6MI8&s=10" group-title="INDIA TV",Hare Krsna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-https://hktv.harekrsnatv.com/HKTV/HKWebApp/manifest.mpd
-
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tracesports.png" group-title="INDIA TV",Trace Sports
 https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
 #https://cdn-6.pishow.tv/live/13/master.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports
-https://stream.ottplus.live/live/ten_2_hd_abr/live/ten_2_hd_720/chunks.m3u8
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 5
-https://stream.ottplus.live/live/ten_5_hd_abr/live/ten_5_hd_720/chunks.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport2.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsports.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony 8 HD
-https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsport2.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony Kids HD
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonykids.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bigtv.png",Big TV HD
 https://d2gvyg6lvauoko.cloudfront.net/230226/bigtvmalyalam/chunks.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asianet.png",Asianet Movies HD
