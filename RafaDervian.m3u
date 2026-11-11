@@ -2726,13 +2726,13 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/asports.png" group-title="INDIA TV",A Sports
 #https://cdn-6.pishow.tv/live/13/master.m3u8
 https://tvsen6.aynaott.com/zv68oqPDu7MZZwmHhRxt/index.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 5
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonysports.png" group-title="INDIA TV",Sony Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonysport2.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsports.m3u8
-#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 5
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starsports.png" group-title="INDIA TV",Star Sports 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/starsport2.m3u8
 #EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sonykids.png" group-title="INDIA TV",Sony Kids HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sonykids.m3u8
