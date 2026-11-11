@@ -123,9 +123,10 @@ https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="Indonesia",RTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=http://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lite&chname=RTV
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-origin=https://www.vidio.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://nextgenz.my.id/event/pidio/play.mpd?id=1561&type=dash
 
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mentaritv.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
