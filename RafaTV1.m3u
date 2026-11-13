@@ -8,6 +8,12 @@
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fsblsport.png", FSBL Sports
+https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
@@ -24,9 +30,6 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motogp.m3u8
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png",F1 Formula 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/f1.m3u8
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png",F1 Formula 2
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/f12.m3u8
-
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",MotoCross 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros1.m3u8
 #EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",MotoCross 2
