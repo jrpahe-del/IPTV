@@ -836,12 +836,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
 
-#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png",Formula 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
-
+#EXTINF:-1 group-title="Indo Sports" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/golfnet.png",Golf Network
+https://amg26268-amg26268c12-freelivesports-emea-9477.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg26268-sportsstudio-golfnetworkchannel-freelivesportsemea/cb543d1a7f6c628784c83d6ecef049a8f97e16d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1cd56c03c3de7ea8334a7a131d8aeaf72285cd0d78d2db7e3428b77a1751fb1015d1204d538ba0584c8064e17b034aec5c235234dcec44ac7704c49d58da792096a88c356a785c5fcc0e0eb7a93c99c5d17f75f25cbb811e78ff9874ddfa3698885ae2dbcb5980429876e10ce1cbaece9b1b92e39a73d809e6260651263dc8d522d39b09e68eca5b17ca2511063c40efaf97b16f0cd5660d0eacaf92ef30b1439fdc6ba0327ec96df228a53e8e79a500a3932cf1f8c19328250aabca42134393eaae93814561e953d1fbbcf15b2fcdc72c2f10eb3c9a4e063792f4c711c4f31d99b8268fd738486d20f09d7d2705e5e6a892c7d2e576b99d3a51d18e5fca68/155/1280x720_2500000/index.m3u8?channel_name=Golf%20Network&content_genre=Golf%2CSport&ic=IAB17%2CIAB17-15&rating=PG&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
 #EXTINF:-1 group-title="Indo Sports" tvg-id="Redbull.Dummy.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/redbull.png", Red Bull
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
