@@ -2782,8 +2782,6 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://images.jdmagicbox.com/v2/comp/hyderabad/i2/040pxx40.xx40.230719123055.r9i2/catalogue/rtv-network-jubilee-hills-hyderabad-media-services-d3v8t9olws-250.jpg",RTV (720p)
 http://tvsen5.aynascope.net/RtvHD/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://maasranga.tv/wp-content/uploads/2019/01/1920X1080-Logo-live.jpg",Maasranga TV (720p)
-http://tvsen5.aynascope.net/maasrangatv/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",Nexus TV (576p)
 https://tvsen6.aynaott.com/Epm7WrFa/index.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4e/Ekushey_Television_logo_2024.png/revision/latest?cb=20240826024055",Ekushey TV (480p)
@@ -2816,10 +2814,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywoo
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/d/df/Mohona_TV_logo_with_slogan.png/revision/latest/scale-to-width-down/200?cb=20260528045720",Mohona TV
 https://stream.ottplus.live/live/mohona_tv_abr/index.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://i.scdn.co/image/ab67616d0000b2732ea4376a019c47f4a81655b0",Motu Patlu
-https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="INDIA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/as/6/67/Gopal_Bhar_animated_TV_series_title_card.jpeg?utm_source=as.wikipedia.org&utm_campaign=index&utm_content=original",Gopal Bhar
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="INDIA TV" tvg-logo="https",Mohona
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/52/DD_Odia_Logo.jpg/revision/latest?cb=20240320092429" group-title="INDIA TV",Odia TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
@@ -2837,107 +2831,107 @@ https://d2dsoyvkr33m05.cloudfront.net/index_1.m3u8
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zeetv.m3u8
 
 #EXTINF:0 group-title="INDIA TV" tvg-id="2892" tvg-logo="http://epg.one/img/2892.png" tvg-rec="3",Star Sports 1 IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/2508/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/2508/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="2891" tvg-logo="http://epg.one/img/2891.png" tvg-rec="3",Star Sports 2 IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/2507/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/2507/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3385" tvg-logo="http://epg.one/img/3385.png" tvg-rec="0",Aaj Tak IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6567/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6567/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3387" tvg-logo="http://epg.one/img/3387.png" tvg-rec="0",B4U Movies IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6569/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6569/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3389" tvg-logo="http://epg.one/img/3389.png" tvg-rec="0",Sony SAB IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6571/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6571/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="88031" tvg-logo="http://epg.one/img/88031.png" tvg-rec="0",Swamiji TV IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6574/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6574/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3394" tvg-logo="http://epg.one/img/3394.png" tvg-rec="0",Zee TV HD IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6576/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6576/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3398" tvg-logo="http://epg.one/img/3398.png" tvg-rec="0",Times Now IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6580/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6580/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3399" tvg-logo="http://epg.one/img/3399.png" tvg-rec="0",Aastha TV IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6581/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6581/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3400" tvg-logo="http://epg.one/img/3400.png" tvg-rec="0",MTV India IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6582/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6582/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3401" tvg-logo="http://epg.one/img/3401.png" tvg-rec="0",Food Food IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6583/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6583/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3407" tvg-logo="http://epg.one/img/3407.png" tvg-rec="0",Zing IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6589/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6589/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3409" tvg-logo="http://epg.one/img/3409.png" tvg-rec="0",Zee News IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6591/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6591/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3410" tvg-logo="http://epg.one/img/3410.png" tvg-rec="0",Colors Cineplex IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6592/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6592/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3415" tvg-logo="http://epg.one/img/3415.png" tvg-rec="0",Zee Anmol IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6597/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6597/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3417" tvg-logo="http://epg.one/img/3417.png" tvg-rec="0",Zee Business IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6599/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6599/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3421" tvg-logo="http://epg.one/img/3421.png" tvg-rec="0",Sadhna Plus News IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6603/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6603/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3424" tvg-logo="http://epg.one/img/3424.png" tvg-rec="0",Sadhna TV IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6606/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6606/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3396" tvg-logo="http://epg.one/img/3396.png" tvg-rec="0",NDTV 24x7 IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6620/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6620/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3439" tvg-logo="http://epg.one/img/3439.png" tvg-rec="0",Shubhsandesh IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6623/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6623/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3441" tvg-logo="http://epg.one/img/3441.png" tvg-rec="0",Sony Max 2 IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6625/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6625/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3442" tvg-logo="http://epg.one/img/3442.png" tvg-rec="0",Sony Pal IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6626/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6626/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3449" tvg-logo="http://epg.one/img/3449.png" tvg-rec="0",Channel I IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6633/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6633/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3452" tvg-logo="http://epg.one/img/3452.png" tvg-rec="0",Zee Bangla IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6636/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6636/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3453" tvg-logo="http://epg.one/img/3453.png" tvg-rec="0",Zee Bangla Cinema IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6637/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6637/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3455" tvg-logo="http://epg.one/img/3455.png" tvg-rec="0",ZEE News 18 IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6639/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6639/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3457" tvg-logo="http://epg.one/img/3457.png" tvg-rec="0",Sony AATH IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6641/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6641/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3458" tvg-logo="http://epg.one/img/3458.png" tvg-rec="0",Zee Bihar Jharkhand IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6642/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6642/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3459" tvg-logo="http://epg.one/img/3459.png" tvg-rec="0",TV9 Gujarati IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6643/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6643/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="88032" tvg-logo="http://epg.one/img/88032.png" tvg-rec="0",News7 Tamil IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6648/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6648/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3466" tvg-logo="http://epg.one/img/3466.png" tvg-rec="0",Pitaara IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6650/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6650/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3484" tvg-logo="http://epg.one/img/3484.png" tvg-rec="0",PTC Punjabi IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6670/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6670/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3486" tvg-logo="http://epg.one/img/3486.png" tvg-rec="0",9X Tashan IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6672/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6672/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3487" tvg-logo="http://epg.one/img/3487.png" tvg-rec="0",PTC Chak De IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6673/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6673/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3499" tvg-logo="http://epg.one/img/3499.png" tvg-rec="0",Fateh TV IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6685/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6685/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3506" tvg-logo="http://epg.one/img/3506.png" tvg-rec="0",SUN TV IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6692/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6692/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3511" tvg-logo="http://epg.one/img/3511.png" tvg-rec="0",Jaya Max IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6698/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6698/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3515" tvg-logo="http://epg.one/img/3515.png" tvg-rec="0",Raj Musix IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6702/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6702/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3523" tvg-logo="http://epg.one/img/3523.png" tvg-rec="0",Gemini Movies IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6710/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6710/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3527" tvg-logo="http://epg.one/img/3527.png" tvg-rec="0",SVBC IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6714/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6714/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3533" tvg-logo="http://epg.one/img/3533.png" tvg-rec="0",ARY News IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6720/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6720/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3534" tvg-logo="http://epg.one/img/3534.png" tvg-rec="0",Express News IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6721/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6721/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3535" tvg-logo="http://epg.one/img/3535.png" tvg-rec="0",GEO News IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6722/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6722/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3540" tvg-logo="http://epg.one/img/3540.png" tvg-rec="0",Express Entertainment IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6727/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6727/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3543" tvg-logo="http://epg.one/img/3543.png" tvg-rec="0",HUM TV IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6730/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6730/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="3544" tvg-logo="http://epg.one/img/3544.png" tvg-rec="0",HUM Sitaray IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/6731/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/6731/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="11815" tvg-logo="http://epg.one/img/11815.png" tvg-rec="0",Eurosport HD IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/32031/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32031/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="11900" tvg-logo="http://epg.one/img/11900.png" tvg-rec="0",Colors Tamil HD IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/32297/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32297/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="11901" tvg-logo="http://epg.one/img/11901.png" tvg-rec="0",Zee Talkie HD IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/32298/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32298/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="11902" tvg-logo="http://epg.one/img/11902.png" tvg-rec="0",&Pictures HD IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/32299/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32299/index.m3u8
 #EXTINF:0 group-title="INDIA TV" tvg-id="11903" tvg-logo="http://epg.one/img/11903.png" tvg-rec="0",Colors Infinity HD IN
-http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/32300/index.m3u8
+http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32300/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Zee_anmol.png"group-title="INDIA TV",Zee Anmol
 #http://tv.cloudcdn.me/live.ts?channelId=208&uid=1868&deviceMac=00:1A:79:94:98:FE
@@ -2946,28 +2940,18 @@ http://88b9da48.kazmazpaz.ru/iptv/YN2H92MFHBQ5HH/32300/index.m3u8
 http://103.175.73.12:8080/live/256/256_0.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MIzc3I1.png" group-title="INDIA TV",Zee Action
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1 tvg-logo="https://img-cdn.publive.online/fit-in/1200x675/afaqs/media/post_attachments/1a1840b83f10d74f2daf5e98bef521a5d1a8fff64bfe1871b5ffe1361a0164d7.jpg"group-title="INDIA TV",9X Jhakaas
-https://cdn-3.pishow.tv/live/6/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/51/B4U_Kadak_Hai_Boss.jpg/revision/latest?cb=20240319200053"group-title="INDIA TV",B4U Kadak
-https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooJosh.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00297P3E.png?lock=720x540" group-title="INDIA TV",Shemaroo Josh (720p)
 https://airtelapp.shemaroo.com/shemarooChumbakTV/smil:shemarooChumbakTVadp.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ShemarooMarathiBana.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_MARATHIBANA/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo Marathi Bana (720p)
 https://airtelapp.shemaroo.com/marathibana/smil:marathibanaadp.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SHEMAROO_TV/images/LOGO_HD/image.png" group-title="INDIA TV",Shemaroo TV (720p)
-https://cdn-3.pishow.tv/live/230/master.m3u8
 #EXTINF:-1 tvg-id="ShemarooUmang.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/d135190d32e93639ca0fc238019a6940.png" group-title="INDIA TV",Shemaroo Umang (720p)
 https://mumt04.tangotv.in/SHEMAROOUMANG/index.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo Film music (720p)
 https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/Angel_tv_in.png/revision/latest/scale-to-width-down/200?cb=20191225175505"group-title="INDIA TV",Angel TV
 https://janya-digimix.akamaized.net/vglive-sk-394914/india/ngrp:angelindia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Chakde (720p)
-https://cdn-1.pishow.tv/live/449/master.m3u8
 #EXTINF:-1 tvg-id="PTCMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Music (720p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
-#EXTINF:-1 tvg-id="PTCNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_NEWS/images/LOGO_HD/image.png" group-title="INDIA TV",PTC News (576p)
-https://cdn-4.pishow.tv/live/1502/master.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 #EXTINF:-1 tvg-id="PTCPunjabiGold.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png" group-title="INDIA TV",PTC Punjabi Gold (1080p)
@@ -2982,18 +2966,8 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood 
 http://103.175.73.12:8080/live/52/52_0.m3u8
-#EXTINF:-1 tvg-id="Goldmines.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_GOLDMINES/images/LOGO_HD/image.png" group-title="INDIA TV",Goldmines (576p)
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-id="Goldmines2.in@SD" tvg-logo="https://i.ytimg.com/vi/DGY7EirQ8P4/maxresdefault.jpg" group-title="INDIA TV",Goldmines 2 (576p)
-https://cdn-2.pishow.tv/live/1460/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630" group-title="INDIA TV",Goldmines Bollywood (576p)
 https://mumt03.tangotv.in/GOLDMINESBOLLYWOOD/index.m3u8
-#EXTINF:-1 tvg-id="GoldminesMovies.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142881_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",Goldmines Movies (576p)
-https://cdn-2.pishow.tv/live/1461/master.m3u8
-#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/s142777_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD Assam
-https://cdn-4.pishow.tv/live/25/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DD_URDU/images/LOGO_HD/image.png"group-title="INDIA TV",URDU TV
-https://cdn-4.pishow.tv/live/8/master.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/%26TV_orange_white.png/revision/latest/scale-to-width-down/250?cb=20250127160159" group-title="INDIA TV",&TV HD (1080p)
 http://103.229.254.25:7001/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158251_ld_h15_aa.png?lock=720x540" group-title="INDIA TV",DD India (1080p)
@@ -3014,32 +2988,6 @@ https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:-1 tvg-id="AwaazIndiaTV.in@SD" tvg-logo="https://i.imgur.com/eKQs51V.png" group-title="INDIA TV",Awaaz India TV (720p) [Not 24/7]
 https://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8#EXTINF:-1 tvg-id="AwakeningTV.in@SD" tvg-logo="https://i.imgur.com/p26iWOi.png" group-title="INDIA TV",Awakening TV (576p)
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/jsKvz1IusNT_zgpu_zCZ5qNkN7W0e17MPfHWcExm8Vfh1RVtXIuzErBt-EY1dginycem"group-title="INDIA TV",Shemaroo TV
-https://cdn-3.pishow.tv/live/230/master.m3u8
-#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/55fb00a28ead0e79178b5e34/1565806454665/55fb00a28ead0e79178b5e34.jpg?tx=w_350"group-title="INDIA TV",PTC Chakde
-https://cdn-1.pishow.tv/live/449/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_PUNJABI_GOLD/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Punjabi Gold
-https://cdn-7.pishow.tv/live/450/master.m3u8
-#EXTINF:-1 tvg-logo="https://new.rangtv.in/upload/manoranjan-grand-logo-.webp"group-title="INDIA TV",Manoranjan Grand
-https://cdn-1.pishow.tv/live/1011/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.medianews4u.com/wp-content/uploads/2022/02/Manoranjan.jpg"group-title="INDIA TV",Manoranjan TV
-https://cdn-1.pishow.tv/live/1013/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"group-title="INDIA TV",Goldmines
-https://cdn-2.pishow.tv/live/1459/master.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/jhmovie/images/7/7b/Goldmines_logo.png/revision/latest?cb=20240404141630"group-title="INDIA TV",Goldmines 2
-https://cdn-2.pishow.tv/live/1460/master.m3u8
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEh2ojUt5Cv1rorb_pgnwxIbTm13tKGQzABQ6YBuggStYHOE7D-C3C9yxMFnpPZi1XocZrKFpzX_Q9YKhbkBUFlOuLbxdaCdHjBlGWlTaV7y5So6QkIGT3DhHJ-U49oWV5SNkvK3kmZjbfoqpqqfajYeJFYoUjm3GduVAcViFmgBoG5foIgghk0yNKHA=w400-h226-rw"group-title="INDIA TV",Manoranjan Prime
-https://cdn-4.pishow.tv/live/1474/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_MUSIC/images/LOGO_HD/image.png"group-title="INDIA TV",PTC Music
-https://cdn-3.pishow.tv/live/1501/master.m3u8
-#EXTINF:-1 tvg-logo="https://exchange4media.gumlet.io/news-photo/133758-ptc.JPG"group-title="INDIA TV",PTC News
-https://cdn-4.pishow.tv/live/1502/master.m3u8
-#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_KAIRALI_WE/images/LOGO_HD/image.png"group-title="INDIA TV",Kairali WE
-https://cdn-3.pishow.tv/live/1530/master.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/491-4910873_ptc-punjabi-hd-png-download.png"group-title="INDIA TV",PTC Punjabi
-https://cdn-2.pishow.tv/live/1604/master.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTOFFGQN9SW28iPqQHPomJqiYdIferQjP3ZSPi28CmBFwfNDErnZWcPQ&s=10"group-title="INDIA TV",9X Tashan
-https://cdn-2.pishow.tv/live/1613/master.m3u8
 
 
 #============   THAILAND.=============== #
@@ -3341,7 +3289,7 @@ https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="MYANMAR",Lane Xang(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://the-teatv.com/wp-content/uploads/2025/11/Footer-Logo-1024x410.webp" group-title="MYANMAR", Tea TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://vhx.imgix.net/teafactorytvllc/assets/cac815fc-2b32-4e57-81e1-98bf9a5a8681.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="MYANMAR", Tea TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5yVg0d5TBxsi8AaJsnRfAyTANAFk9wIvSoEGMiWzk0Z7O5anXsIJInk&s=10" group-title="MYANMAR", ISTV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
