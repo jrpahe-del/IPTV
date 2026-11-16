@@ -93,7 +93,7 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.visionplus.id/images/repository/068/569068-LOGO-m.png" group-title="Indonesia",Indosiar HD
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiar.png" group-title="Indonesia",Indosiar HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -3101,7 +3101,7 @@ https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
 https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/nattv.png" group-title="THAILAND",NAT TV (1080p)
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PoliceTV.png" group-title="THAILAND",Police TV (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PoliceTV.png" group-title="THAILAND", Bangkok TV)
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ramach.png" group-title="THAILAND",Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
@@ -3119,7 +3119,7 @@ https://tv-live.tpchannel.org/live/tv.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/topnews.png" group-title="THAILAND",Top News (720p)
 https://live.topnews.co.th/hls/topnews_a_720.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/10muslim.png" group-title="THAILAND",TV Muslim Thailand
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ทีวีมุสลิม.png" group-title="THAILAND", Thai Muslim TV
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/whitechannel.png" group-title="THAILAND",White Channel (1080p)
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
@@ -3165,49 +3165,47 @@ http://49.0.64.96:8007/Cartoonumi
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/siamnews.png" group-title="THAILAND", Siam News TV
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/TNA_MCOT_2014_(3).png/revision/latest?cb=20161005064721", Thai News 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/thainews.png" group-title="THAILAND", Thai News 
 https://live.thaitvstream.com/play/thainews/index.m3u8
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Science_Channel_2016.png", World Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/scince.png" group-title="THAILAND", World Science
 http://49.0.64.96:8007/WSCI
-#EXTINF:-1 tvg-id="Fuck.th" group-title="THAILAND" tvg-logo="https://png.pngtree.com/png-clipart/20250130/original/pngtree-greeting-of-world-animal-day-4-october-png-image_6834101.png", World Animal
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/WorldAnimal.png" group-title="THAILAND", World Animal
 http://49.0.64.96:8007/Animal
-#EXTINF:-1 tvg-id="Moo.th" group-title="THAILAND" tvg-logo="https://cdn.prod.website-files.com/60f6d8f1589a31b90be447f5/6257d6329511103888d8c5c3_Logo-oficial-RB.png", Hi Sport
-http://49.0.64.96:8007/HiSports
-#EXTINF:-1 tvg-id="TN.us" group-title="THAILAND" tvg-logo="https://hotwave.net/wp-content/uploads/2024/10/NEW-LOGO-e1729002788723.png", Hot Wave 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hotwave.png" group-title="THAILAND", Hot Wave 
 https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8
-#EXTINF:-1 tvg-id="TN.us" group-title="THAILAND" tvg-logo="https://images.squarespace-cdn.com/content/v1/6111d32a681aa003444ed7e1/04e8f3d0-a185-4cee-a606-6749f3729f42/GW+Final+Logos_Green+Greenwave.png", Green Wave 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/greenwave.png" group-title="THAILAND", Green Wave 
 https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8
-#EXTINF:-1 tvg-id="TN.us" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/94_EFM_logo_2009.png/revision/latest?cb=20260617070402", EFM 94
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/efm94.png" group-title="THAILAND", EFM 94
 https://atimevideo.smartclick.co.th/live/efmlive.sdp/chunklist_w696502376.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA1W0wmMBfvQCr9IFnadP_yYf2MuALJXP54W5is2O2VC20wRTB", ลูกทุ่งเน็ตเวิร์ค
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ลูกทุ่งเน็ตเวิร์ค.png" group-title="THAILAND", ลูกทุ่งเน็ตเวิร์ค
 http://vip.login.in.th:1935/looktungnetwork1/looktungnetwork1/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://play-lh.googleusercontent.com/40IJXQ121WQDg5VxA3nkceyXJtEfDFIxdsWSABuISpfqz4mkjNK66KlrcTX7s9nc65ymnO7W5ScVKnWy3lkKHQ", ลูกทุ่งทีวี
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ลูกทุ่งทีวี.png" group-title="THAILAND", ลูกทุ่งทีวี
 https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://thaichaiyo.tv/wp-content/uploads/2022/11/cropped-Logo-TCY.png", ไทยไชโย
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ไทยไชโย.png" group-title="THAILAND", ไทยไชโย
 https://live-iptv.thaichaiyo.tv/tcy/live-manifest.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://image.makewebeasy.net/makeweb/m_720x480/JhSURmF49/BaanBaanTV/baanbaan_TV_Final.png?v=202405291424", บ้านบ้านทีวี
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/banban.png" group-title="THAILAND", บ้านบ้านทีวี
 https://vdo.plathong.net/live8794/live8794/chunklist_.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlyF6czCrrSgRAfex2J5CcFU56Uo9ZmCJE-zgDdSGb57gqE0js4NWOVJA&s=10", Nat tv 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/tiga.png" group-title="THAILAND", Nat tv 
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo-tvcable-aplicaciones1.png", Cable 37 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/tvcable.png" group-title="THAILAND", Cable 37 
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://i.imgur.com/FvEp1S2.png", 13 Siam Thai 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/13siam.png" group-title="THAILAND", 13 Siam Thai 
 https://live.x2.co.th/live/13livetv-th.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://img.pikbest.com/png-images/20240505/spirited-mothers-day-holiday-wishes-222024-png-images-png_10550635.png!f305cw", สุวรรณภูมิ 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/suwannab.png" group-title="THAILAND",Suwannabhumi Channel 
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/TV-Glad_logo.png", Cool Channel 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/CoolChannel .png" group-title="THAILAND", Cool Channel 
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/TDTVHN2022.png/revision/latest/scale-to-width-down/280?cb=20260705020630&path-prefix=es", TTD1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/TTD1.png" group-title="THAILAND", TTD1
 https://psiiptv-b.sky-cdn.com/ttd01-playlist/index.m3u8
-#EXTINF:-1 tvg-id="WhiteChannel.th" group-title="THAILAND" tvg-logo="https://i0.wp.com/whitechannel.tv/wp-content/uploads/2021/06/Logo-White-2.png?ssl=1", White Channel
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/whitechannel.png" group-title="THAILAND", White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0H-I_-nzoubIm59m7BbJJCEy9ovxw2rdNQZtKZ0z8IUm5vB0HQbarwDU&s=10", Yateem TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/YateemTV.png" group-title="THAILAND", Yateem TV
 https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMuslimThailand.th" group-title="THAILAND" tvg-logo="https://images.squarespace-cdn.com/content/v1/609019f9b5dc1613ef036e80/1620064776027-X8X4JJIZBPTWS5BQO65F/Jose+Logo+White-01.png?format=1500w", ทีวีมุสลิม
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ทีวีมุสลิม.png" group-title="THAILAND", Thai Muslim
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
-#EXTINF:-1 tvg-id="Cable.th" group-title="THAILAND" tvg-logo="https://play-lh.googleusercontent.com/L_tmkKg8Ur7Hb0YWQJa8AKoOohdmkcNhSQIjuUaSE3MI1hh6jjaR8n1Zk7ymFZLGllGwCxJxLikMr-sBPB41vQ", ทีวีรัฐสภา
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PoliceTV.png" group-title="THAILAND", Bangkok TV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
-#EXTINF:-1 tvg-id="Policetv.th" group-title="THAILAND" tvg-logo="https://nantouristpolice.com/wp-content/uploads/2025/10/cropped-%E0%B9%82%E0%B8%A5%E0%B9%82%E0%B8%81%E0%B9%89%E0%B8%95%E0%B8%B3%E0%B8%A3%E0%B8%A7%E0%B8%88%E0%B8%97%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B8%B5%E0%B9%88%E0%B8%A2%E0%B8%A7-1.png", Police TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/policetv.png" group-title="THAILAND", Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 
 
@@ -3243,63 +3241,63 @@ http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playl
 #==========MYANMAR===================#
 
 
-#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/77/Channel_7_myanmar.png/revision/latest?cb=20191211065313", Channel 7
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/chanal7.png" group-title="MYANMAR", Channel 7
 https://pplive.comquas.com:5443/LiveApp/streams/CLcBFN71NkF61709008601656.m3u8
-#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://www.mahar.app/_next/image?url=%2Fimage%2Fbanner.png&w=384&q=75",Mahar TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mahartv.png" group-title="MYANMAR",Mahar TV
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
-#EXTINF:-1 group-title="MYANMAR" tvg-logo="https://fortlune.com/storage/2024/09/FORT-FIN-2-scaled.jpg", FORTUNE TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/fortonemyr.png" group-title="MYANMAR", FORTUNE TV
 http://103.215.194.93:8282/hls/fortunetv/vmix.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dU2w3eCjd-u5ifnlcaoPiQFdbiSKwIWVP6fH9z9aDmVkV22p3syf02ZYrKfKNm8bqiU" group-title="MYANMAR", 膼峄搉g Nai 1(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myrgtv.png" group-title="MYANMAR", 膼峄搉g Nai 1 gtv
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dU2w3eCjd-u5ifnlcaoPiQFdbiSKwIWVP6fH9z9aDmVkV22p3syf02ZYrKfKNm8bqiU" group-title="MYANMAR", 膼峄搉g Nai 2(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myrgtv.png" group-title="MYANMAR", 膼峄搉g Nai 2 gtv
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi" group-title="MYANMAR", ATV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/myratv1.png" group-title="MYANMAR", ATV1
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdd89GgRKBL7vv_M5jwzQdrXIiXn5vBnT80h2NECH1ku42P5BXwSTiWzlR&s=10" group-title="MYANMAR", Hmong Star TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongstar.png" group-title="MYANMAR", Hmong Star TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/hmongstartv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdd89GgRKBL7vv_M5jwzQdrXIiXn5vBnT80h2NECH1ku42P5BXwSTiWzlR&s=10" group-title="MYANMAR",Houng Fa
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongstar.png" group-title="MYANMAR",Houng Fa
 https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SdB3Vyr.jpeg" group-title="MYANMAR", Oh Muang Lao TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/OhMuang.png" group-title="MYANMAR", Oh Muang Lao TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/Lao_TV.png/revision/latest/scale-to-width-down/944?cb=20250107102037&path-prefix=vi" group-title="MYANMAR", Lao SV TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR", Lao SV TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/9/9f/LSTV_logo_2017.png/revision/latest?cb=20240928094001&path-prefix=vi" group-title="MYANMAR", LS TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/LSTV.png" group-title="MYANMAR", LS TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WpXNm2Mcj0Qcl9-nZTSHh_pNo1D32QNbLLclC_daGw&s" group-title="MYANMAR", Vati Lao(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/VatiLao.png" group-title="MYANMAR", Vati Lao(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/I6xd7AcPVIolhNDR6ckAa4nOFLndJOKdlygP26EGAN-ee_X4X5wk-l25r2hM489gLlrMNvhUJw=s900-c-k-c0x00ffffff-no-rj" group-title="MYANMAR", Brian TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/briantv.png" group-title="MYANMAR", Brian TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/Lao_TV.png/revision/latest?cb=20250107102037&path-prefix=vi" group-title="MYANMAR", LAO Net TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR", LAO Net TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gbaike-image.cdn.bcebos.com/962bd40735fae6cd7b89079d3ee2182442a7d833a1b4/962bd40735fae6cd7b89079d3ee2182442a7d833a1b4_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="MYANMAR", Ning TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/NingTV.png" group-title="MYANMAR", Ning TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699928690f0ab5e237298361/6725b2136_PSX_20260220_232051.png" group-title="MYANMAR", Hmong TV Network(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongtv.png" group-title="MYANMAR", Hmong TV Network(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://thaitvus.com/wp-content/uploads/2022/08/cropped-IMG_2774-1.png" group-title="MYANMAR",Lao-Thai US TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR",Lao-Thai US TV
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://gbaike-image.cdn.bcebos.com/962bd40735fae6cd7b89079d3ee2182442a7d833a1b4/962bd40735fae6cd7b89079d3ee2182442a7d833a1b4_url?x-bce-process=image/format,f_auto/resize,m_lfit,w_400,limit_1" group-title="MYANMAR", Ning TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/NingTV.png" group-title="MYANMAR", Ning TV
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/XTiG24rXfTdBOdFWxQPr4WYm4DDfINi1CD47S26xUxqnilK9hF2Bkl92rneK3FrgQg=w526-h296-rw" group-title="MYANMAR",Air TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/AIRTV.png" group-title="MYANMAR",Air TV
 https://livefta.malimarcdn.com/ftaedge00/airtv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/Lao_TV.png/revision/latest/scale-to-width-down/944?cb=20250107102037&path-prefix=vi" group-title="MYANMAR",Lao SV TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR",Lao SV TV
 https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yE7nZ6w.png" group-title="MYANMAR",Lane Xang(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/LaneXiang.png" group-title="MYANMAR",Lane Xang(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/khaomwungmai.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://vhx.imgix.net/teafactorytvllc/assets/cac815fc-2b32-4e57-81e1-98bf9a5a8681.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280" group-title="MYANMAR", Tea TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/teatv.png" group-title="MYANMAR", Tea TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz5yVg0d5TBxsi8AaJsnRfAyTANAFk9wIvSoEGMiWzk0Z7O5anXsIJInk&s=10" group-title="MYANMAR", ISTV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ESCTV.png" group-title="MYANMAR", ISTV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SdB3Vyr.jpeg" group-title="MYANMAR", Oh Muang Lao TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/OhMuang.png" group-title="MYANMAR", Oh Muang Lao TV
 https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/Lao_TV.png/revision/latest?cb=20250107102037&path-prefix=vi" group-title="MYANMAR", Lao-Thai TV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Laotv.png" group-title="MYANMAR", Lao-Thai TV(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://smchia.com/wp-content/uploads/2016/07/SMCHIA-LOGO.png" group-title="MYANMAR",Supreme Master TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Supreme.png" group-title="MYANMAR",Supreme Master TV
 https://lbs-us1.suprememastertv.com/720p.m3u8
-#EXTINF:-1 tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/699928690f0ab5e237298361/6725b2136_PSX_20260220_232051.png" group-title="MYANMAR", Hmong TV Network (720p)(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/hmongtv.png" group-title="MYANMAR", Hmong TV Network (720p)(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://teatvx.com/wp-content/uploads/2026/06/TeaTv-APK.webp" group-title="MYANMAR", Tea TV 2(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/teatv.png" group-title="MYANMAR", Tea TV 2(မြန်မာ)
 https://livefta.malimarcdn.com/ftaedge00/teatv2.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/3/38/HBTV_logo_tr%E1%BB%B1c_ti%E1%BA%BFp_2021-2025.png/revision/latest/scale-to-width-down/1200?cb=20240714001000&path-prefix=vi" group-title="MYANMAR", HBTV(မြန်မာ)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/HBTV.png" group-title="MYANMAR", HBTV(မြန်မာ)
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
 
 
@@ -4880,9 +4878,9 @@ http://stream.mcquack.net/306/index.m3u8
 http://stream.mcquack.net/323/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/8152.png" tvg-rec="0",Stingray Classica HD DE
 http://stream.mcquack.net/312/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-id="2560" tvg-logo="http://epg.one/img/2560.png" tvg-rec="3",1TV GE
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/m1music.png" tvg-rec="3",M1 HD UA
 http://stream.mcquack.net/218/index.m3u8
-#EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/3287.png" tvg-rec="3",2TV LT
+#EXTINF:-1 group-title="TEST-1" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/m2music.png" tvg-rec="3",M2 HD UA
 http://stream.mcquack.net/330/index.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2022.png" tvg-rec="7",Bridge Deluxe HD
 http://stream.mcquack.net/92/index.m3u8
@@ -4926,7 +4924,7 @@ http://stream.mcquack.net/291/index.m3u8
 http://stream.mcquack.net/84/index.m3u8
 #EXTINF:0 group-title="TEST-1" tvg-id="994" tvg-logo="http://epg.one/img/994.png" tvg-rec="3",Русский бестселлер orig
 http://stream.mcquack.net/63/index.m3u8
-#EXTINF:-1 group-title="TEST-1". tvg-logo="http://epg.one/img/2491.png" tvg-rec="7",Fashion TV HD
+#EXTINF:-1 group-title="TEST-1". tvg-logo="http://epg.one/img/2491.png" tvg-rec="7",Fashion TV 
 https://stream8.cinerama.uz/1053/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="TEST-1" tvg-logo="http://epg.one/img/2491.png" tvg-rec="7",Fashion TV HD
 http://stream.mcquack.net/287/index.m3u8
