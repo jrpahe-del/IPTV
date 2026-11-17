@@ -1824,128 +1824,128 @@ https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 #========== KIDS ==================================================================================================>
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/yayaw.png" group-title="Kids",FLY YAYA
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/yayaw.png" group-title="Kids",FLY YAYA
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/yaya.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/naruto.png" group-title="Kids",Naruto Anime
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/naruto.png" group-title="Kids",Naruto Anime
 https://palatinmedia-naruto-rakuten.amagi.tv/720p-cc/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tomjery.png" group-title="Kids", Tom And Jerry HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/tomjery.png" group-title="Kids", Tom And Jerry HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tomjery.m3u8
 
-#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Kids", Cartoon Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tomjery.png" group-title="Kids", Tom And Jerry
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/tomjery.png" group-title="Kids", Tom And Jerry
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tomjery2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/anggry.png" group-title="Kids", Anggry Birds HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/anggry.png" group-title="Kids", Anggry Birds HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/anggry.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/masha.png" group-title="Kids", Masha And the Bear
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/masha.png" group-title="Kids", Masha And the Bear
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/masha.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spongs.png" group-title="Kids", Sponge Bob HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/spongs.png" group-title="Kids", Sponge Bob HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/sponge.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bosbaby.png" group-title="Kids", Boss Baby HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/bosbaby.png" group-title="Kids", Boss Baby HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/bosbaby.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/oddbods.png" group-title="Kids", Odd Bods
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/oddbods.png" group-title="Kids", Odd Bods
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/oggi.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/litlepony.png" group-title="Kids", Little Pony HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/litlepony.png" group-title="Kids", Little Pony HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/litlepony.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/babytv.png" group-title="Kids", Baby Kids HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/babytv.png" group-title="Kids", Baby Kids HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/babytv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/babyclouds.png" group-title="Kids", Baby Cloud HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/babyclouds.png" group-title="Kids", Baby Cloud HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/babycloud.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cocomelon.png" group-title="Kids", Coco Melon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/cocomelon.png" group-title="Kids", Coco Melon
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cocomelon.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nick.png" group-title="Kids", Nickelodeon
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/nick.png" group-title="Kids", Nickelodeon
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/nickelo.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/nickjr.png" group-title="Kids", Nick JR 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/nickjr.png" group-title="Kids", Nick JR 
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/nickejr.m3u8
 
-#EXTINF:-1 tvg-id="Kids TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kidstv.png" group-title="Kids",Kids TV
+#EXTINF:-1 tvg-id="Kids TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/kidstv.png" group-title="Kids",Kids TV
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/kidstv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/pocoyo.png" group-title="Kids",24/7 Pocoyo Kids 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/pocoyo.png" group-title="Kids",24/7 Pocoyo Kids 
 https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/animax.png" group-title="Kids",Animax
-http://tv.cloudcdn.me:80/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:07:07:43
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/animax.png" group-title="Kids",Animax
+http://tv.cloudcdn.me:80/live.ts?channelId=93752&uid=10223&deviceMac=00:1A:79:99:EC:D3
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/engstudy.png" group-title="Kids" , English Study
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/engstudy.png" group-title="Kids" , English Study
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://flv.intechmedia.net/live/ch83.m3u8
 
-#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/disney.png" group-title="Kids",Disney Channel
+#EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/disney.png" group-title="Kids",Disney Channel
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/disney.m3u8
 
-#EXTINF:-1 tvg-id="VTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/vtv.png" group-title="Kids",VTV
+#EXTINF:-1 tvg-id="VTV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/vtv.png" group-title="Kids",VTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-id="ZooMoo" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/zoomoo.png" group-title="Kids",ZooMoo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zoomoo.png" group-title="Kids",ZooMoo
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zoomoo.m3u8
 
-#EXTINF:-1 tvg-id="Moonbug" tvg-url="mmm" group-title="Kids" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/moonbug.png" group-title="Kids",Moonbug
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/moonbug.m3u8
 
-#EXTINF:-1 tvg-id="DreamWorks" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/drwk.png" group-title="Kids",Dreamworks HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Dreamworks.png" group-title="Kids",Dreamworks HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/dreamwork.m3u8
 
-#EXTINF:-1 tvg-id="My Kidz" tvg-url="mm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/babyshark.png" group-title="Kids",Baby Shark HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/babyshark.png" group-title="Kids",Baby Shark HD
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Cartoons
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Cartoons
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=aec51cf82ef14226a097a4ff91b7b32e:652bcaec397fb789fa5138fd3461333c
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/399aa25b71e84ab19a7d3261703c4a29/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b70a4c3a102b47ec832d11da8a024161:8bd84110abda56e41511c16feaa2de69
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/8c6fa500258e44289312adb342b0f7ad/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Kids All Aussie
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Kids All Aussie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5adc6dfdcbcf42638a64858190992fab:c036a7b9963ac34d89bbebe3ed071cc0
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8da66660000f4c05921b166bb4cee65e/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Big Kids All Aussie
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Big Kids All Aussie
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c13253f2ed45318e5b6e5d799c5956:38ddb989dfb05091db949ce404de52e5
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/94adcb14be98408cbda4b7b404e94fb4/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Kids Play School
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Kids Play School
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=593adcf2ed594c2ba2aeee9539b43f5c:b47e01622b87a37374dae5fb3645e4a8
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f14c4f18e88697/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Kids Play Music
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Kids Play Music
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/abckid.png",ABC Big Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Big Kids
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/happykids.png",Happy Kids
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/happykids.png",Happy Kids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="Fun Planet" tvg-url="mmm" group-title="Kids" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/adntv.png",ADN TV+ (720p)
+#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/adntv.png",ADN TV+ (720p)
 https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
 
 
