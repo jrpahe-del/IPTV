@@ -3041,7 +3041,7 @@ https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ATV1myr.png" group-title="THAILAND",ATV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ATV1myr.png" group-title="THAILAND",ATV1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ATV1myr.png" group-title="THAILAND",ATV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/FreshNews.png" group-title="THAILAND", Fresh News
