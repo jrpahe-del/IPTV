@@ -97,7 +97,7 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=205&type=dash
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/rcti.png" group-title="Indonesia",RCTI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
@@ -109,7 +109,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=204&type=dash
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/mnctv.png" group-title="Indonesia",MNC TV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -121,7 +121,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=drm
-https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=782&type=dash
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/gtv.png" group-title="Indonesia",GTV
 #EXTVLCOPT:http-user-agent=android-R+
@@ -188,7 +188,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/btv.png" group-title="Indonesia", BTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=http://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=6165&type=dash
 
 #EXTINF:-1 tvg-id="Indosiana" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/indosiana.png" group-title="Indonesia",Indosiana TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -203,7 +203,7 @@ https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=19046&type=dash
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -259,13 +259,13 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-origin=https://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=5415&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=5415&type=dash
 
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/jtv.png" group-title="Indonesia",JTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-origin=https://www.vidio.com
-http://nextgenz.my.id/event/pidio/play.mpd?id=9713&type=dash
+https://bintangstreaming.my.id/000/vip.php/.mpd?id=9713&type=dash
 
 #EXTINF:-1 tvg-id="Rodja" tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/rodja.png" group-title="Indonesia", RodjaTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
