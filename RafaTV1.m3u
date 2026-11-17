@@ -3030,6 +3030,22 @@ https://cdn-2.pishow.tv/live/1613/master.m3u8
 #============   THAILAND.=============== #
 
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/TVKmyr.png" group-title="THAILAND", TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/TVKmyr.png" group-title="THAILAND",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/SEATVmyr.png" group-title="THAILAND", SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/KhmerTV.png" group-title="THAILAND",KhmerTV
+https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ATV1myr.png" group-title="THAILAND",ATV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ATV1myr.png" group-title="THAILAND",ATV1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/FreshNews.png" group-title="THAILAND", Fresh News
+http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/nnu.png" group-title="THAILAND",NNU
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -3244,35 +3260,6 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8?vhost=tv-live.tpchannel.org
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/policetv.png" group-title="THAILAND", Police TV
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
-
-
-#============CAMBODJA====================#
-
-
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/TV_Kampuchea.jpg/revision/latest?cb=20170317174601", TVK
-https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://vayofm.com/content_img/108527/s1_17.jpg",TVK 2
-https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://lh3.googleusercontent.com/66cd_eUigIyRuf4rY1NgFSzXhq_lb6YJTZKnVeZ7StsaHyVZL3nFsA2A2naUvxPlTT0xnTojPyC62iwoCfsKRhhuloWJ91xEylUILA=rw", SEATV
-https://seatv.netlinkbroadcaster.com/hls/test.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://i.imgur.com/EWkyqrw.png",KhmerTV
-https://livefta.malimarcdn.com/ftaedge00/khmertv2020.stream/playlist.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/67/ATV1.png/revision/latest/scale-to-width-down/250?cb=20260331060334&path-prefix=vi",ATV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/31-400_import.png", Fresh News
-http://streaming.freshnewsasia.com:1935/live/myStream/playlist.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://yt3.googleusercontent.com/7x0ff7NSN3eGi7RP_m0tQ2G9wAXjf7e9fJ-SjPRXpuQZWtx-SgZyk1onz7YIQUyEjTQ8FUFU=s900-c-k-c0x00ffffff-no-rj", PNN
-https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://cambodia.mom-gmr.org/uploads/tx_lfrogmom/media/19-400_import.jpg",CNC
-http://live.happywatch99.com/livehd12/ade9370aadadedbee81fa5e0f228bd37.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png/revision/latest/scale-to-width-down/200?cb=20191210055058", CTV8 HD
-http://live.happywatch99.com/livehd17/60b8e758d3dac2865fa0cd868d0f7ec4.sdp/playlist.m3u8
-#EXTINF:-1 group-title="CAMBODIA TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcIotsyjv-kelm6Xxt8koAxa2RBzWGhXKjup_GVcne5XEpKe8fyjF9SfZi&s=10", My TV
-http://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/playlist.m3u8
 
 
 #==========MYANMAR===================#
