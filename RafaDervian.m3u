@@ -97,23 +97,25 @@ https://live.cnbcindonesia.com/transtv/smil:transtv.smil/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash
+https://vidsemar.pages.dev/terraluna3/205.mpd
 
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rcti.png" group-title="Indonesia",RCTI
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/rcti/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 tvg-id="SCTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sctv.png" group-title="Indonesia",SCTV HD
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-origin=https://www.vidio.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://nextgenz.my.id/event/pidio/play.mpd?id=204&type=dash
+https://vidsemar.pages.dev/terraluna3/204.mpd
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mnctv.png" group-title="Indonesia",MNC TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=mnctv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/antv.png" group-title="Indonesia",ANTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -121,9 +123,10 @@ https://proxy-v.rctiplus.id/live/web/mnctv/index.m3u8
 https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
 
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/gtv.png" group-title="Indonesia",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/gtv/index.m3u8
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#https://beetv.my.id/xstreamx/rctiplus.m3u8?ch=gtv
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/rtv.png" group-title="Indonesia",RTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -133,7 +136,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=lit
 #EXTINF:-1 tvg-id="Mentari TV" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mentaritv.png" group-title="Indonesia",Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-origin=http://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=8237&type=dash
+https://vidsemar.pages.dev/terraluna3/8237.mpd
 
 #EXTINF:-1 tvg-name="Moji tv" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/moji.png" group-title="Indonesia",MOJI TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
@@ -180,11 +183,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=true
 
-#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/btv.png" group-title="Indonesia", BTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=http://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=6165&type=dash
-
 #EXTINF:-1 tvg-id="Sindo News" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/sindonews5.png" group-title="Indonesia",SindoNews
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -194,7 +192,7 @@ https://proxy-v.rctiplus.id/live/web/sindonews/index.m3u8
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
 #EXTVLCOPT:http-referrer=http://www.vidio.com/
 #EXTVLCOPT:http-origin=http://www.vidio.com
-https://nextgenz.my.id/event/pidio/play.mpd?id=19046&type=dash
+https://vidsemar.pages.dev/terraluna3/19046.mpd
 
 #EXTINF:-1 tvg-id="Indosiana" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indosiana5.png" group-title="Indonesia",Indosiana TV
 #EXTVLCOPT:http-user-agent=DRM Player/2.5.6 (Linux; Android 14; 24040RN64Y) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Mobile Safari/537.36 ExoPlayerLib/1.10.0-alpha01
@@ -258,6 +256,8 @@ http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 https://op-flashcon-digdayahd-1.dens.tv/h/h233/index.m3u8?app_type=web&userid=lite&chname=RodjaTV
+#EXTINF:-1 tvg-id="alwafa" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/logo/refs/heads/main/alwafa.png" group-title="Indonesia",Al Wafa Tarim (720p)
+https://ammedia.siar.us/ammedia/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="TV9" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tv9.png" group-title="Indonesia",TV9
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tv9.m3u8
@@ -4140,37 +4140,37 @@ http://88b9da48.kazmazpaz.ru/iptv/SVAYUTY5LNAF4S/32044/index.m3u8
 #EXTINF:0 group-title="Canada" tvg-id="3641" tvg-logo="http://epg.one/img/5089.png",BBC Earth CA
 http://88b9da48.kazmazpaz.ru/iptv/LNE7CK973BXBGD/32077/index.m3u8
 
-#EXTINF:-1 tvg-id="BBCPersian.uk@SD" tvg-logo="https://s3.dana.ir/dana/uploads/04/08/1392/21347.jpg" group-title="IRAN 🇮🇷",BBC Persian (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/BBCPersian.png" group-title="IRAN 🇮🇷",BBC Persian (720p)
 https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/4kurd.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/Persiana4Kurd.png" group-title="IRAN 🇮🇷",Persiana 4Kurd HD
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-hd.png" group-title="IRAN 🇮🇷",Parnian TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/ParnianTV.png" group-title="IRAN 🇮🇷",Parnian TV
 https://euhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-one.png" group-title="IRAN 🇮🇷",Persiana One
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaOne.png" group-title="IRAN 🇮🇷",Persiana One
 https://onehls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-two.png" group-title="IRAN 🇮🇷",Persiana Two
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaTwo.png" group-title="IRAN 🇮🇷",Persiana Two
 https://twohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/sm/persiana-comedy.jpg" group-title="IRAN 🇮🇷",Persiana Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaComedy.png" group-title="IRAN 🇮🇷",Persiana Comedy
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-family.jpg" group-title="IRAN 🇮🇷",Persiana Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaFamily.png" group-title="IRAN 🇮🇷",Persiana Family
 https://familyhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-iranian.jpg" group-title="IRAN 🇮🇷",Persiana Iranian
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaIranian.png" group-title="IRAN 🇮🇷",Persiana Iranian
 https://irhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-science.png" group-title="IRAN 🇮🇷",Persiana Science
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaScience.png" group-title="IRAN 🇮🇷",Persiana Science
 https://scihls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-latino.png" group-title="IRAN 🇮🇷",Persiana Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaLatino.png" group-title="IRAN 🇮🇷",Persiana Latino
 https://latinohls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-junior.jpg" group-title="IRAN 🇮🇷",Persiana Junior
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaJunior.png" group-title="IRAN 🇮🇷",Persiana Junior
 https://junhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-korea.png" group-title="IRAN 🇮🇷",Persiana Korea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaKorea.png" group-title="IRAN 🇮🇷",Persiana Korea
 https://korhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-music.jpg" group-title="IRAN 🇮🇷",Persiana Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaMusic.png" group-title="IRAN 🇮🇷",Persiana Music
 https://musichls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image63665874675.jpg" group-title="IRAN 🇮🇷",Persiana Sonnati
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaSonnati.png" group-title="IRAN 🇮🇷",Persiana Sonnati
 https://sonhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://tvroom.app/api/logo/pna-rap.png" group-title="IRAN 🇮🇷",Persiana Rap
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaRap.png" group-title="IRAN 🇮🇷",Persiana Rap
 https://raphls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://www.diycraftsguide.com/uploads/tv_image/persiana-nostalgia.jpg" group-title="IRAN 🇮🇷",Persiana Nostalgia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/PersianaNostalgia.png" group-title="IRAN 🇮🇷",Persiana Nostalgia
 https://noshls.persiana.live/hls/stream.m3u8
 
 #EXTINF:0 group-title="TEST-1" tvg-id="79" tvg-logo="http://epg.one/img/79.png" tvg-rec="7",СТС
