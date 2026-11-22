@@ -1178,7 +1178,6 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgn
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
 
-
 #EXTINF:-1 group-title="Indo Sports" tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champions.png",UCL Champions 1
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion1.m3u8
@@ -1203,20 +1202,29 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
-https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
+#https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 #EXTINF:-1 tvg-id="Outdoor Channel" tvg-url="hmmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/outdoor.png" group-title="Documentary",Outdoor Channel
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="Documentary",History HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7cac3fa25f08e1fd611ddff9e7d79ed:cf9502209ce348e0a442a1f4b338a2ae
-https://tvcdn.tv.telia.lt/live/eds/History_HD_H/DASH_5_CPIX_NPVR/History_HD_H.mpd
+#https://tvcdn.tv.telia.lt/live/eds/History_HD_H/DASH_5_CPIX_NPVR/History_HD_H.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/history/index.m3u8
 
 #EXTINF:-1 tvg-url="mmm" tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/discovery.png" group-title="Documentary",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1227,12 +1235,18 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
-https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+#https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
 
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/globaltr.png" group-title="Documentary",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
-https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
+#https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
 
 #EXTINF:-1 group-title="Documentary" tvg-id="id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/crimeinv.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1241,7 +1255,10 @@ https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lit
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
+#https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
 
 #EXTINF:-1 tvg-id="CGTN DOK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cgtndoc.png" group-title="Documentary",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -1576,7 +1593,8 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indiscovery.png" group-title="Documentary",Discovery Investigation
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2085/index.m3u8
 
 
 #================= Premium Movies ============================================================================================>
