@@ -1207,29 +1207,20 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champion5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84bb2e1d9e7d6eecf3983ad25612f171:effff701c5df21107721deb4a4e3dae0
-#https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+https://a82aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/jepxe7swiw/out/v1/83d03bb3d80d428789975e8adfae61d1/cenc.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
 #EXTINF:-1 tvg-id="Outdoor Channel" tvg-url="hmmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/outdoor.png" group-title="Documentary",Outdoor Channel
-#https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/history.png" group-title="Documentary",History HD 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e7cac3fa25f08e1fd611ddff9e7d79ed:cf9502209ce348e0a442a1f4b338a2ae
-#https://tvcdn.tv.telia.lt/live/eds/History_HD_H/DASH_5_CPIX_NPVR/History_HD_H.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+https://tvcdn.tv.telia.lt/live/eds/History_HD_H/DASH_5_CPIX_NPVR/History_HD_H.mpd
 
 #EXTINF:-1 tvg-url="mmm" tvg-id="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/discovery.png" group-title="Documentary",Discovery Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1240,18 +1231,12 @@ https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/dsc.smil/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cec4c3c055a7f7e496cbe3abe06ae7c3:6b96bdc30b53ae19d40b4e17c66e5afd
-#https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
+https://a156aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/utcsjvt6qk/out/v1/8ee87ae683ec4b458720621cb2244937/cenc.mpd?encoding=segmentBase
 
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/globaltr.png" group-title="Documentary",Global Trekker
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
-#https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/s/s39/index.m3u8?app_type=web&userid=lite&chname=TBN
 
 #EXTINF:-1 group-title="Documentary" tvg-id="id" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/crimeinv.png",Crime Investigation
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
@@ -1260,10 +1245,7 @@ https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
-#https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
+https://dash2.antik.sk/stream/hisi_crime_and_invest/playlist_cbcs.mpd
 
 #EXTINF:-1 tvg-id="CGTN DOK" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/cgtndoc.png" group-title="Documentary",CGTN Documentary
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
@@ -1598,8 +1580,7 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/w91wojgmz7/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2828ea6f6a984505b0454da0c03f68b9:5d3b7195086544c2807aa8c1544e7379
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/indiscovery.png" group-title="Documentary",Discovery Investigation
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2085/index.m3u8
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Investigationdiscovery2/default/manifest.mpd
 
 
 #================= Premium Movies ============================================================================================>
@@ -1834,6 +1815,16 @@ https://run-ruthr.otteravision.com/run/ruthr/ruthr_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/upinipin.png" group-title="Kids",Upin & Ipin
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/yaya.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/logo/refs/heads/main/mentaritv.png" group-title="Kids",Mentari TV
+#EXTVLCOPT:http-user-agent=VidioPlayer/7.27.12
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://vidsemar.pages.dev/terraluna3/8237.mpd
+
+#EXTINF:-1 tvg-id="VTV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/vtv.png" group-title="Kids",VTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://flv.intechmedia.net/live/ch107.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/naruto.png" group-title="Kids",Naruto Anime
 https://palatinmedia-naruto-rakuten.amagi.tv/720p-cc/index.m3u8
 
@@ -1846,8 +1837,8 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tomjery.m3u8
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/tomjery.png" group-title="Kids", Tom And Jerry
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/tomjery2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/boomerang.png" group-title="Kids",Boomerang Kids
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/boomerang.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/anggry.png" group-title="Kids", Anggry Birds HD
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/anggry.m3u8
@@ -1898,10 +1889,6 @@ https://vodcdn.bamboo-cloud.com/livehls/68d0876e06304461862415b2/master.m3u8
 #EXTINF:-1 tvg-id="disneychannel" tvg-name="__" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/disney.png" group-title="Kids",Disney Channel
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/disney.m3u8
 
-#EXTINF:-1 tvg-id="VTV" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/vtv.png" group-title="Kids",VTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://flv.intechmedia.net/live/ch107.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/zoomoo.png" group-title="Kids",ZooMoo
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/zoomoo.m3u8
 
@@ -1944,11 +1931,6 @@ https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/8ca49b4e0bec4bbb84f
 #KODIPROP:inputstream.adaptive.license_key=ceeaf88efed649d898646d151439b6bd:e35e2727d4d8618247c1b2f223ed9cfa
 https://abc-iview-mediapackagestreams-1.akamaized.net/out/v1/72481e65a40b49b59af9f49e29e7b352/index.mpd
 
-#EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/abckid.png",ABC Big Kids
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ab4a24725b1c47e7ae3c0f17ab020905:214f5979b5a30a0b3cda03085006a77f
-https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/f160f706ecde4707ac4003d17d5a17a8/index.mpd
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/happykids.png",Happy Kids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
@@ -1959,78 +1941,76 @@ https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #===================== Music ===================================================================================>
 
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
-#EXTINF:-1 tvg-id="Music TV" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/musictv.png" group-title="Music",Musik TV
-#https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mic.png",MIC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MICtv.png" group-title="Music",MIC
 https://mic.siar.us/mic/live/mic.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/bahana.png",Bahana Radio Music
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Bahana.png" group-title="Music",Bahana Radio Music
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retroroc Kau 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/VevoRetroroc.png" group-title="Music",Vevo Retroroc Kau 
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/56xlZcT--xM/maxresdefault.jpg" group-title="Music",Vevo Retro Rock
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/VevoRetroroc.png" group-title="Music",Vevo Retro Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/m2o.png" group-title="Music",M2o
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/M2o.png" group-title="Music",M2o
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/m2o.m3u8
-#EXTINF:0 group-title="Music" tvg-id="5597" tvg-logo="http://epg.one/img/5597.png",Trace UK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/TraceUK.png" group-title="Music",Trace UK
 https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/9xm.png" group-title="Music",9XM
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/9xm.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="m2o" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mtvru.png" group-title="Music",MTV Rusia
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/mtvru.m3u8
-#EXTINF:-1 tvg-id="NEWKPOP.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/kpop.png" group-title="Music",NEW K-POP (1080p)
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_165
-#EXTINF:-1 tvg-id="V2BEATTV.uk@SD" tvg-logo="https://www.vibee.tv/wp-content/uploads/2023/08/bitmap.png" group-title="Music",Vibee TV (720p)
-https://abr.de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 tvg-id="TraceUrban.fr@SD" tvg-logo="https://i.imgur.com/DLIbUMx.png" group-title="Music",Trace Urban (Australia)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/TraceUK.png" group-title="Music",Trace Urban (Australia)
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="AghaniAghaniTV.lb@SD" tvg-logo="https://i.imgur.com/o6HSfNg.png" group-title="Music",Aghani Aghani TV (1080p)
-https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
-#EXTINF:-1 tvg-id="Totalmusic.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_main.png" group-title="Music",Totalmusic (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic80s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_80s.png" group-title="Music",Totalmusic 80s (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Totalmusic2000s.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_00s.png" group-title="Music",Totalmusic 2000s (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="TotalmusicConcerts.uk@HD" tvg-logo="https://static.elektamedia.com/ch/tmc_concerts.png" group-title="Music",Totalmusic Concerts (720p)
-https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
-#EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-logo="https://i.imgur.com/dQJQv1X.png" group-title="Music",Kronehit (1080p)
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-#EXTINF:-1 tvg-id="LIVExLIVE.us@SD" tvg-logo="https://i.imgur.com/KFzEoed.png" group-title="Music",LiveXLive (1080p)
-https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-id="LoveTV.mk@SD" tvg-logo="https://i.imgur.com/B8iaejQ.png" group-title="Music",Love TV (1080p) [Not 24/7]
-https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-#EXTINF:-1 tvg-id="MTVSpankinNew.us@US" tvg-logo="https://i.imgur.com/thbvJd1.png" group-title="Music",MTV Spankin' New (1080p)
-https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
-#EXTINF:-1 tvg-id="Number1Ask.tr@SD" tvg-logo="https://i.imgur.com/slwbux7.png" group-title="Music",Number 1 Ask (720p)
-https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
-#EXTINF:-1 tvg-id="RJTV.us@SD" tvg-logo="https://i.imgur.com/a1zuW2C.png" group-title="Music",Radio Javan TV (1080p)
-https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RockTV.mk@SD" tvg-logo="https://i.imgur.com/Y9miDQo.png" group-title="Music",Rock TV (1080p) [Not 24/7]
-https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
-#EXTINF:-1 tvg-id="RTL1025Best.it@SD" tvg-logo="https://i.imgur.com/9PNlbaq.png" group-title="Music",RTL 102.5 Best (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/9XM.png" group-title="Music",9XM
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/9xm.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/YoMTV.png" group-title="Music",Yo! MTV
+https://jmp2.uk/plu-654102ed770cf1000866c307.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/NEWKPOP.png" group-title="Music",NEW K-POP (1080p)
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=newkpop&channel_id=newid_165
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLBest.png" group-title="Music",RTL 102.5 Best (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="RTL1025BroSis.it@SD" tvg-logo="https://i.imgur.com/EWbK4XZ.png" group-title="Music",RTL 102.5 Bro&Sis (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLBroSis.png" group-title="Music",RTL 102.5 Bro&Sis (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="RTL1025Caliente.it@SD" tvg-logo="https://i.imgur.com/P0zsi6I.png" group-title="Music",RTL 102.5 Caliente (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLCaliente.png" group-title="Music",RTL 102.5 Caliente (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="RTL1025Disco.it@SD" tvg-logo="https://i.imgur.com/JA1OPrz.png" group-title="Music",RTL 102.5 Disco (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLDisco.png" group-title="Music",RTL 102.5 Disco (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="RTL1025Napule.it@SD" tvg-logo="https://i.imgur.com/HFPw1YW.png" group-title="Music",RTL 102.5 Napulè (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLNapulè.png" group-title="Music",RTL 102.5 Napulè (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="RTL1025Traffic.it@SD" tvg-logo="https://i.imgur.com/EBftMcB.png" group-title="Music",RTL 102.5 Traffic (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLTraffic.png" group-title="Music",RTL 102.5 Traffic (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="RTL1025TV.it@SD" tvg-logo="https://i.imgur.com/75qUdR7.png" group-title="Music",RTL 102.5 TV (576)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RTLTV.png" group-title="Music",RTL 102.5 TV (576)
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/chunklist_b1792000.m3u8
-#EXTINF:-1 tvg-id="SpektraTV.es@SD" tvg-logo="https://i.imgur.com/0zCt8e4.png" group-title="Music",SpektraTV (720p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic.png" group-title="Music",Totalmusic (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic80s.png" group-title="Music",Totalmusic 80s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_80s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Totalmusic2000s.png" group-title="Music",Totalmusic 2000s (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_00s/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Concerts.png" group-title="Music",Totalmusic Concerts (720p)
+https://cdn.global.elektamedia.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/VibeeTV.png" group-title="Music",Vibee TV (720p)
+https://abr.de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Aghani.png" group-title="Music", Aghani TV (1080p)
+https://cdn.streamlane.tv/hls/aghanitv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Kronehit.png" group-title="Music",Kronehit (1080p)
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/LiveXLive.png" group-title="Music",LiveXLive (1080p)
+https://livestream.liveone.com/lc1/p1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/LiveXLivem.png" group-title="Music",LiveXLive (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MTVRusia.png" group-title="Music",MTV Spankin' New (1080p)
+https://jmp2.uk/plu-5d14fdb8ca91eedee1633117.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Number1Ask.png" group-title="Music",Number 1 Ask (720p)
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e18f9cea15_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RadioJavan.png" group-title="Music",Radio Javan TV (1080p)
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/RockTV.png" group-title="Music",Rock TV (1080p) [Not 24/7]
+https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/SpektraTV.png" group-title="Music",SpektraTV (720p)
 https://cloudvideo.servers10.com:8081/8026/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-logo="https://vantagetv.ee/vantage_music.png" group-title="Music",Vantage Music UK (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Vantage.png" group-title="Music",Vantage Music UK (1080p)
 https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
-#EXTINF:-1 tvg-id="XITEHits.nl@UK" tvg-logo="https://i.imgur.com/N51Rp7E.png" group-title="Music",XITE Hits UK (1080p)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/XITEHits.png" group-title="Music",XITE Hits UK (1080p)
 https://amg01243-xitenetworksint-hitsuk-samsunguk-mvovq.amagi.tv/ts-eu-w1-n2/playlist/amg01243-xitenetworksint-hitsuk-samsunguk/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136d8b84a0ad764b72f4844ee506f1b63dcbb58b07f04908217d87d2a82ffdf333c795a58cd3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79244c556420d65d0af5e1e3bb7894b1f93dc9574bb0d26e68b02/113/1280x720_3329040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/360TuneBox.png" group-title="Music",360TuneBox (1080p)
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/AdriaMusic.png" group-title="Music",Adria Music Television
+https://adriaapp.b-cdn.net/1080p/index.m3u8
 
 
 #<================= News =========================================================================================================================>
