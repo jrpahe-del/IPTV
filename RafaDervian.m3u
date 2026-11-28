@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/beinsp.png",Bein Sport
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/beinsp.png",Bein Sport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -10,80 +10,78 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0ad4080cdff8c60b1233b22087f0b340:285f129c5eca01dd08a5d5a14ad801c8
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fsblsport.png", FSBL Sports
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/fsblsport.png", FSBL Sports
 https://otte.live.fly.ww.aiv-cdn.net/fra-nitro/live/clients/dash/enc/ssdefyhkkr/out/v1/cf01290cb7f64525bdf861580a016ca8/cenc.mpd
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e03f302ec4dabcccca82cc9f76731ec9:53ea1027d2bf2893a552cf15bc0366de
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png",Moto GP
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Motogp.png",Moto GP
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/out/v1/8197c8e055c94a868623653ac55c10bf/cenc.mpd
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motogp.png",Moto GP+
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Motogp.png",Moto GP+
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motogp.m3u8
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=505616380de706936e493fdd1c25d0b6:5b313f49c63c682236eab3357400e216
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png",Formula 1
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/f1.png",Formula 1
 https://a184aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/5fjow0mrvw/out/v1/f870533ee24b4f3bb98d2afe4b1e1bac/cenc.mpd
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/f1.png",F1 Formula 1
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/f1.png",F1 Formula 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/f1.m3u8
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",MotoCross 1
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/motorcros.png",MotoCross 1
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros1.m3u8
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/motorcros.png",MotoCross 2
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/motorcros.png",MotoCross 2
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/motorcros2.m3u8
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion3.png",UCL Champions3
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/champion3.png",UCL Champions3
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk1.m3u8
-#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/champion3.png",UCL Champions4
+#EXTINF:-1 group-title="VIP SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/champion3.png",UCL Champions4
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/champiuk3.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ninjawarior.png",Ninja Warrior
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master_3.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/ninjakidz.png",Ninja Kids
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/mrbean.png", Mr Bean Live Actions
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309dbb185d8464b42e065eb15b3c537fdcec0fac6b5bc0860a967b2bdeadd46068285b5ccc5b3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea147ce56420452dfae5e22b05558accfc3379a3c0f785cf60355/28/1280x720_3329040/index.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Womens.png",Women's Sports Network
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network720.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Biggest.png",The Biggest Loser
+https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/720p-cc/index.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/redbull.png", Red Bull
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Wipeout.png",Wipeout Xtra
+https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309de8480ad56de129575eb15b3c537fdcec0fac6b00cdd45f967c7883f8dc3038795809975a3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea14cc556424f5cdfae5e76ec59a3ed2d98f1a1523f4d9dd4f37e/93/1280x720_3329040/index.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/takesi.png",Takeshi's Castle
+https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/extremsports.png",Xtrem Sports
+https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
+#EXTINF:-1 group-title="Actions" tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Americang.png",American Gladiators
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/gladiator.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HuntFish.png" group-title="Fishing",Hunt Fish TV
+https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136dae84f0a833fed7d484bbf5d361b63dcbb58b07e51ccd1178f2e28dff9d5353f7a530d9a3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee6964776d7d71258da7b034c2643415f5604f576b48f3f845135/52/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/PursuitUP.png" group-title="Fishing",Pursuit UP (1080p)
+https://d1p1siomv3cm7b.cloudfront.net/playlist_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/fishingtv.png" group-title="Fishing",Italian Fishing TV (1080p)
+https://fms.premio.link/fishingtv/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/SportsFishing.png" group-title="Fishing",Sports Fishing
+https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136dfbf4c5f806ae22c484bbf5d6f1b63dcbb58b07e50c08617897d7f8da4da356c2b0f56973f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79242c056425c2a85ae5e7b827e54d7cb08872a82d0b1d94deec4/176/1280x720_2500000/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Bassmaster.png" group-title="Fishing",Bassmaster
+https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Bassmaster.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Wired2Fish.png" group-title="Fishing",Wired2Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/TheWickedTuna.png" group-title="Fishing",The Wicked Tuna Channel (1080p)
+https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c41368aef190d816ee72d484bbf5d6c1b63dcbb58b07f5bc181178e7920daf9df34312f0c5ccd3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79245c65642512b85ae5e8165b5244f87a1bf1225b657a880d97f/100/1280x720_3329040/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/WFN.png" group-title="Fishing",WFN
+https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=wfn&channel_id=newid_rt041&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=e49776b9-7d404385-4fc01964-6f28bd4a&live_type=retransmission
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Justfishing.png" group-title="Fishing",Just fishing
+https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/PlutoTVFishing.png" group-title="Fishing",Pluto TV Fishing
+https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 
 
 #=========Indonesia Channels ==================================================>#
 
-
-#EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ninjawarior.png",Ninja Warrior
-https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master_3.m3u8
-#EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/ninjakidz.png",Ninja Kids
-https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
-#EXTINF:-1 tvg-id="Americanninja.us" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/mrbean.png", Mr Bean Live Actions
-https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309dbb185d8464b42e065eb15b3c537fdcec0fac6b5bc0860a967b2bdeadd46068285b5ccc5b3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea147ce56420452dfae5e22b05558accfc3379a3c0f785cf60355/28/1280x720_3329040/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/11f70f2cc59750f4ad9a019d72ad17b1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1705940612752_WSNLogo_HUDCenter.png" group-title="Actions",Women's Sports Network
-https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network720.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/-ZIKP2u6RaYLoA==/d15c6bd1-7006-4386-beff-047dfe28d2d2/CHgQeDoFMS4xLjlAAQ==" group-title="Actions",The Biggest Loser
-https://aegis-cloudfront-1.tubi.video/5e65c946-0563-42f1-ae32-0d260c85fc63/720p-cc/index.m3u8
-#EXTINF:-1 group-title="Actions" tvg-id="Redbull.Dummy.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/redbull.png", Red Bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/zpmicKsrwms87A==/991109c5-dce1-4eac-a23f-1d4713c52cbf/CHgQeDoFMS4xLjlAAQ==" group-title="Actions",Wipeout Xtra
-https://amg00627-banijaygroup-wipeoutxtraau-samsungau-ashbl.amagi.tv/ts-eu-w1-n2/playlist/amg00627-banijaygroup-wipeoutxtraau-samsungau/cb543d1a7f6c628784c83d6ecef049a8f97316d00b768d6e70a84a966bc10f41f9e5af86a540ff0d578f6e80354832080977ca1dd56c03c3de7ea8334a7a131d8aeaf72285cd0d6cd2d97e3428b07b1e51fb1015d0224a309de8480ad56de129575eb15b3c537fdcec0fac6b00cdd45f967c7883f8dc3038795809975a3fdf9a6e81cfcb6d5fe86e91dba879af5a31b6de04908f03b99ed5459e539e0aa84ad8dafb9bb61b92f7cf37eb08eb3049097626d9d22dc39d0d84f4cc3d00dc533d4f1251a996a3af6f72d414120ca8aa85ef35a85abce44fe64139bf1297468042e83afe73eb8b2a93a2b5c630250aabca421b57f2b195a0a2601f9535af93d18a245ec8b4785548cb64d4276b0898f2c5118ea14cc556424f5cdfae5e76ec59a3ed2d98f1a1523f4d9dd4f37e/93/1280x720_3329040/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/takesi.png" group-title="Actions",Takeshi's Castle
-https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-#EXTINF:-1 tvg-id="Xtrem Sports" group-title="Actions" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/extremsports.png",Xtrem Sports
-https://streams2.sofast.tv/ptnr-yupptv/title-XTREM-SPORTS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e0b81a5c-6ab5-48cd-aaa9-f82de4ab5bf9/manifest.m3u8
-#EXTINF:-1 tvg-name="American Gladiators" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/cf7c191b9f2a4207cf119fb095e965e7/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1749753112642_AmericanGladiators_HUDLogo_Centered_260x147.png" group-title="Actions",American Gladiators
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/gladiator.m3u8
-
-#EXTINF:-1 tvg-name="Hunt Fish TV" tvg-logo="https://media.unreel.me/prod/sportsplus/logo/3b03051b-d5ae-4e42-b41d-b2d338db5a91" group-title="Fishing",Hunt Fish TV
-https://amg00585-sportstribal-amg00585c3-sportstribal-emea-2177.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00585-sportstribaltvfast-huntfishtv-sportstribalemea/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136dae84f0a833fed7d484bbf5d361b63dcbb58b07e51ccd1178f2e28dff9d5353f7a530d9a3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee6964776d7d71258da7b034c2643415f5604f576b48f3f845135/52/1280x720_2500000/index.m3u8
-#EXTINF:-1 tvg-id="PursuitUP.us@SD" tvg-logo="https://i.imgur.com/5Vzwqts.png" group-title="Fishing",Pursuit UP (1080p)
-https://d1p1siomv3cm7b.cloudfront.net/playlist_1280x720.m3u8
-#EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/fishingtv.png" group-title="Fishing",Italian Fishing TV (1080p)
-https://fms.premio.link/fishingtv/tracks-v4a1/mono.m3u8
-#EXTINF:-1 tvg-id="FLS_672a69a5873afb52c5fc1497" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/spotrsfish.png" group-title="Fishing",Sports Fishing
-https://amg00585-amg00585c12-sportstribal-emea-5521.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg00585-sportstribaltvfast-sportsfishing-sportstribalemea/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c4136dfbf4c5f806ae22c484bbf5d6f1b63dcbb58b07e50c08617897d7f8da4da356c2b0f56973f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79242c056425c2a85ae5e7b827e54d7cb08872a82d0b1d94deec4/176/1280x720_2500000/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/Bassmaster.png" group-title="Fishing",Bassmaster
-https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/Bassmaster.m3u8
-#EXTINF:-1 tvg-id="Wired2FishTV.us" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wiredfish.png" group-title="Fishing",Wired2Fish
-https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/tunachannel.png" group-title="Fishing",The Wicked Tuna Channel (1080p)
-https://amg00353-lionsgatestudio-wickedtuna-samsungau-26lq4.amagi.tv/ts-eu-w1-n2/playlist/amg00353-lionsgatestudio-wickedtuna-samsungau/cb573d1e786c6c8d84c33c78d1f64582ae7233dd11698f2a6db4558975d10725dce2b48be65b8a634cee418a235534054d66cf12ce7e05c7da7aca2f32787e64e8ddeb278d867769b3a9112829b27a1e54e00e15d73c41368aef190d816ee72d484bbf5d6c1b63dcbb58b07f5bc181178e7920daf9df34312f0c5ccd3f67df907c93d5d14775da5ccb052d72e05b14bbc41b92cb1ea581ca5b8e5bfa2faf51d599e0eed800f3d8c521f60ee674580c793dcbd429c7996f988cce5079be64214a1a1ad393c2df006ed516130cadb19bef32b661a3e342a06e33a90f914bf652db3fd045cd857dafa3a2ad267236aadd211175f4d08ad3ae191bee32ca9abe8a512ddb9a397745c061dd621b309ff3ce1ee79245c65642512b85ae5e8165b5244f87a1bf1225b657a880d97f/100/1280x720_3329040/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/wfn.png" group-title="Fishing",WFN
-https://ads.its-newid.net/api/manifest.m3u8?tp=lg_channels&channel_name=wfn&channel_id=newid_rt041&apikey=48230e6b-1cea0097-15975f93-39af1962&auth=e49776b9-7d404385-4fc01964-6f28bd4a&live_type=retransmission
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/justfish.png" group-title="Fishing",Just fishing
-https://jmp2.uk/plu-61b33085897b9d000702b72e.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/plutofish.png" group-title="Fishing",Pluto TV Fishing
-https://jmp2.uk/plu-619e1874e0d3a7000729a036.m3u8
 
 #EXTINF:-1 tvg-id="Trans7" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/trans7.png" group-title="Indonesia",Trans7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -1663,48 +1661,48 @@ https://dsgtq5sngxkde.cloudfront.net/buddystars/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/uniques/index.m3u8
 
-#EXTINF:-1 tvg-id="Lifetime.id" tvg-url="mmm" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lifetime.png" group-title="HITS MOVIES",Lifetime (Alternative)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/lifetime.png" group-title="HITS MOVIES",Lifetime (Alternative)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://dsgtq5sngxkde.cloudfront.net/lifetime/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/63c6e6919e9ed0aa7a6fc1a3cffd5243.png" group-title="HITS MOVIES",Movies Now HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MoviesNowHD.png" group-title="HITS MOVIES",Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5c/MN%2B_HD.jpg/revision/latest?cb=20171207190712" group-title="HITS MOVIES",MN+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MNplus.png" group-title="HITS MOVIES",MN+
 https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-logo="https://the-media-ant.mo.cloudinary.net/medias/5b920ae354ac4729e07880ab/1565810632183/e0612c9989dba69138bb8026d23dbec1.jpg?tx=w_350" group-title="HITS MOVIES",MNX HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/MNXHD.png" group-title="HITS MOVIES",MNX HD
 https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/romedy.png",Romedy Now
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Romedy.png" group-title="HITS MOVIES",Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hbo.png" group-title="HITS MOVIES",HBO
 #https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbo.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Hits.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbohits.png",HBO Hits
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HBOHits.png" group-title="HITS MOVIES",HBO Hits
 #https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbohits.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbofamily.png",HBO Family
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HBOFamily.png" group-title="HITS MOVIES",HBO Family
 #https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbofamily.m3u8
 
-#EXTINF:-1 tvg-id="HBO.Signature.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbosig.png",HBO Signature
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HBOSignature.png" group-title="HITS MOVIES",HBO Signature
 #https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/hbosig.m3u8
 
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Cinemax.png" group-title="HITS MOVIES",Cinemax
 #https://cdnbal1.indihometv.com/atm/DASH/cinemax/manifest.mpd
 https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cinemax.m3u8
 
@@ -1712,76 +1710,76 @@ https://raw.githubusercontent.com/jrpahe-del/M3U8/refs/heads/main/cinemax.m3u8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3fafc24484004893326a8354fe889767:01a4a713abdc5803f4816831ee27906f
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hbo.png" group-title="HITS MOVIES",HBO 1
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/xrs2ntety1/out/v1/31355dd2ffc64c9dae72ac6fc37dde5a/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e8c6a262b77b153530a6caaf2e07944a:81071cf5808c0387adab93d8ff9b1f09
-#EXTINF:-1 tvg-id="HBO.HD.id" group-title="HITS MOVIES" group-logo="" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbo.png",HBO 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/hbo.png" group-title="HITS MOVIES",HBO 2
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/zilmviiwo5/out/v1/fe78320a319045d99299fb05208d90af/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
-#EXTINF:-1 group-title="HITS MOVIES" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-comedy.png",HBO Comedy
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HBOComedy.png" group-title="HITS MOVIES",HBO Comedy
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=440df5a5f7730c64f005eec9b12a9b52:dcad08b714e246f92cb9748f9e2e7e1e
-#EXTINF:-1 tvg-logo="https://www.multivu.com/players/English/7307451-hbo-latino-programacion-original-de-alta-calidad-totalmente-nueva-otono-2014/gallery//image/fd052c4c-d1e1-4ac4-bf6d-7c1d4c29f3ac.png" group-title="HITS MOVIES",HBO Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HBOLatino.png" group-title="HITS MOVIES",HBO Latino
 https://a201aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/pybcooahnm/out/v1/d5a5fd1cd9074da3b20ebdf8ebfaecb6/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
-#EXTINF:-1 tvg-id="HBOZone" group-title="HITS MOVIES" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2022/03/hbo-zone.png",HBO Zone
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/HBOZone.png" group-title="HITS MOVIES",HBO Zone
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",StarMAX East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/StarMAX.png" group-title="HITS MOVIES",StarMAX East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=136a75130b82cdf89cb5f05d739b663f:0ef360ff75bb11b7f0982a86b86d39ae
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",Action MAX HD East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/StarMAX.png" group-title="HITS MOVIES",Action MAX HD East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/995zvakyej/out/v1/3fa049c0afea4a83bb5f508f1859f160/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=046c374a3db594dfb32cba86d2e4f72f:04c00a6ed0fc4ce37841210a42eeeb35
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",More MAX HD East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/StarMAX.png" group-title="HITS MOVIES",More MAX HD East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/bw5g1vx3k9/out/v1/6913f190498b44c8a705e91728401769/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=81a74ef0cf71e28d5d9bc55d5fd7921a:884e89f90a9f5cbaaa5c2a451e1d8f86
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/starmax.png" group-title="HITS MOVIES",5Star MAX East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/StarMAX.png" group-title="HITS MOVIES",5Star MAX East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/yfo5p7nmtt/out/v1/fdce98358ffb47c9b6314feb9cfeda3f/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bf813dc4a32e0e9bcbce4446a65f4b12:eb9973b1a30c76812aa7ca8864b6a3c1
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax HD West
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Cinemax.png" group-title="HITS MOVIES",Cinemax HD West
 https://a181aivottlinear-a.akamaihd.net/OTTB/iad-nitro/live/clients/dash/enc/zewdvsfpre/out/v1/d65e537877cc4112b8fd88c6210f39da/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3a5fc143bea61aa94eee0479933d5e72:8a365e8c3e2b8efdbcaab16d07c3b929
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax HD East
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Cinemax.png" group-title="HITS MOVIES",Cinemax HD East
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/rckhgp0mdp/out/v1/3952b81ea31d45b38372b128371301d2/cenc.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e9d47d7a5b1875534d1acb2d154d3a30:5ffb5cb49e64eba2309d18b781a8825d
-#EXTINF:-1 tvg-id="Cinemax.HD.id" group-title="HITS MOVIES" tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/hbocinemax.png",Cinemax Latino
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Cinemax.png" group-title="HITS MOVIES",Cinemax Latino
 https://a61aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bkuvpo3icw/out/v1/04fe99d2ed564ee18f3d504528ef131c/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1790,16 +1788,20 @@ https://a61aivottlinear-a.akamaihd.net/OTTB/pdx-nitro/live/clients/dash/enc/bkuv
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/oynu8tcxfa/out/v1/ab567b96658c4d84ae1fc6c67110987c/cenc.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
-#EXTINF:-1 tvg-logo="https://imageservice.disco.peacocktv.com/logo/skychb_6666006923928981117_darknow/AGG_SOURCE/600/208?proposition=NBCUOTT&territory=US" group-title="HITS MOVIES" tvg-id="DE4000002I3" tvg-name="Moviesphere", Moviesphere by Lionsgate
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Moviesphere.png" group-title="HITS MOVIES", Moviesphere by Lionsgate
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="99991621" tvg-name="Universal Movies" tvg-logo="https://static.wikia.nocookie.net/20th-century-studios-fanmade/images/a/ae/135-1358497_universal-logo-universal-pictures-logo-png.png/revision/latest/scale-to-width-down/1457?cb=20220109042451" group-title="HITS MOVIES", Universal Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/UniversalMovies.png" group-title="HITS MOVIES", Universal Movies
 https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo__rottentomatoesrttv_ssai_cro&ads._fw_is_lat=&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=&ads._fw_vcid2=512116:&ads._fw_app_bundle=&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=&ads._fw_content_rating=&ads._fw_deviceMake=&ads._fw_device_model=&ads._fw_deviceType=3-Connected_TV&ads.appVersion=&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/sonymovies.png" group-title="HITS MOVIES",Sony Movies
 https://a-cdn.klowdtv.com/live1/smc_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/amc.png" group-title="HITS MOVIES",US | AMC Fast
 https://amc-amcespanol-1-us.plex.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/PlutoTVReaction.png" group-title="HITS MOVIES",Pluto TV Reaction
+https://jmp2.uk/plu-617b37b361e0fd0008cfd8c5.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/endahe/Logo/refs/heads/main/Xena.png" group-title="HITS MOVIES",Xena
+https://jmp2.uk/rok-302d8d86738c0ab83d0ca3a5e2df3492.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",La | Runtime Accion
 https://run-rt-ac.otteravision.com/run/rt_ac/rt_ac_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="HITS MOVIES",LA | Runtime Peliculas
